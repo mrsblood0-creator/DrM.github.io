@@ -38,10 +38,14 @@ body {
 }
 
 /* Logo */
+.logo img {
+  height: 50px;          /* adjust logo height */
+  width: auto;           /* keep proportions */
+  vertical-align: middle;
+}
+
 .logo a {
-  font-size: 1.6rem;
-  font-weight: bold;
-  color: #ffffff;
+  display: inline-block;
   text-decoration: none;
 }
 
@@ -157,6 +161,7 @@ h2 {
   transform: translateX(5px);
 }
 
+
 /* =======================
    DEFINITIONS & BONES LIST
    ======================= */
@@ -184,4 +189,35 @@ footer {
   padding: 15px;
   font-size: 0.9rem;
   color: #555;
+}
+.course-list li a {
+  color: #023e8a;             /* your preferred color */
+  text-decoration: none;      /* no underline */
+  font-weight: 500;
+}
+
+/* Keep same color after visiting */
+.course-list li a:visited {
+  color: #023e8a;             /* same color as normal */
+  text-decoration: none;
+}
+
+/* Hover style (optional: darker blue or same) */
+.course-list li a:hover {
+  color: #023e8a;             /* or a darker shade if you want */
+  text-decoration: none;
+}
+
+/* Active (while clicking) */
+.course-list li a:active {
+  color: #023e8a;
+  text-decoration: none;
+}
+/* FORCE course list links to stay same color and no underline */
+.course-list li a,
+.course-list li a:visited,
+.course-list li a:hover,
+.course-list li a:active {
+  color: #023e8a !important;       /* or #0077b6 to match header */
+  text-decoration: none !important;
 }
