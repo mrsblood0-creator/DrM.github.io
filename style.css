@@ -41,7 +41,7 @@ body {
 .logo img {
   height: 50px;          /* adjust logo height */
   width: auto;           /* keep proportions */
-  vertical-align: middle;
+  
 }
 
 .logo a {
