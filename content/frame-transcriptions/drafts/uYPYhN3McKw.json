@@ -1,0 +1,49 @@
+﻿{
+    "lectureId":  "uYPYhN3McKw",
+    "status":  "unreviewed-ocr",
+    "source":  "Windows OCR of low-resolution YouTube preview frames",
+    "frames":  [
+                   {
+                       "src":  "video-frames/uYPYhN3McKw-0.jpg",
+                       "seconds":  0,
+                       "text":  "Aspirin",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/uYPYhN3McKw-4.jpg",
+                       "seconds":  20,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/uYPYhN3McKw-33.jpg",
+                       "seconds":  165,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/uYPYhN3McKw-43.jpg",
+                       "seconds":  215,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/uYPYhN3McKw-61.jpg",
+                       "seconds":  305,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/uYPYhN3McKw-67.jpg",
+                       "seconds":  335,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/uYPYhN3McKw-99.jpg",
+                       "seconds":  495,
+                       "text":  "",
+                       "reviewed":  false
+                   }
+               ]
+}

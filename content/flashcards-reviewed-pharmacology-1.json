@@ -1,0 +1,702 @@
+[
+  {
+    "id": "reviewed-pharm1-fc-rifaximin-1",
+    "lectureId": "cNyNVRXtPcA",
+    "front": "What is the direct bacterial target of rifaximin?",
+    "back": "DNA-dependent RNA polymerase",
+    "explanation": "Blocking bacterial transcription reduces RNA synthesis and downstream protein production."
+  },
+  {
+    "id": "reviewed-pharm1-fc-rifaximin-2",
+    "lectureId": "cNyNVRXtPcA",
+    "front": "Why is oral rifaximin unsuitable as sole therapy for bloodstream infection?",
+    "back": "Low systemic absorption after oral administration",
+    "explanation": "Intestinal activity does not imply adequate blood concentrations for invasive infection."
+  },
+  {
+    "id": "reviewed-pharm1-fc-rifaximin-3",
+    "lectureId": "cNyNVRXtPcA",
+    "front": "How does rifaximin help reduce recurrence of hepatic encephalopathy?",
+    "back": "Reduction of intestinal bacterial contributions to nitrogenous toxin production",
+    "explanation": "Gut bacterial activity contributes to the nitrogen burden relevant to encephalopathy."
+  },
+  {
+    "id": "reviewed-pharm1-fc-rifaximin-4",
+    "lectureId": "cNyNVRXtPcA",
+    "front": "Which diarrhea findings make rifaximin an unsuitable routine choice?",
+    "back": "The new findings suggest invasive disease outside its established travelers-diarrhea role",
+    "explanation": "Fever or bloody stool raises concern for invasive pathogens and requires reassessment."
+  },
+  {
+    "id": "reviewed-pharm1-fc-rifaximin-5",
+    "lectureId": "cNyNVRXtPcA",
+    "front": "Which interaction can increase systemic exposure to rifaximin with cyclosporine?",
+    "back": "Inhibition of transport processes including P-glycoprotein",
+    "explanation": "Cyclosporine can substantially increase exposure through transporter inhibition."
+  },
+  {
+    "id": "reviewed-pharm1-fc-rifaximin-6",
+    "lectureId": "cNyNVRXtPcA",
+    "front": "Why does severe hepatic impairment still matter when prescribing rifaximin?",
+    "back": "Systemic exposure can rise substantially in severe hepatic impairment",
+    "explanation": "Poor absorption under usual conditions does not mean exposure is unaffected by severe disease."
+  },
+  {
+    "id": "reviewed-pharm1-fc-rifaximin-7",
+    "lectureId": "cNyNVRXtPcA",
+    "front": "What monitoring is appropriate when rifaximin is started with warfarin?",
+    "back": "Monitor INR and adjust warfarin according to the measured response",
+    "explanation": "Changes in anticoagulant response have been reported; the direction should not be assumed."
+  },
+  {
+    "id": "reviewed-pharm1-fc-rifaximin-8",
+    "lectureId": "cNyNVRXtPcA",
+    "front": "Which antibiotic-associated infection remains possible after rifaximin?",
+    "back": "Clostridioides difficile infection",
+    "explanation": "Local antibiotic exposure can still alter the intestinal microbial environment."
+  },
+  {
+    "id": "reviewed-pharm1-fc-rifaximin-9",
+    "lectureId": "cNyNVRXtPcA",
+    "front": "Why is a prior serious rifamycin allergy relevant to rifaximin?",
+    "back": "Rifaximin belongs to the rifamycin class",
+    "explanation": "Known hypersensitivity to rifamycins is a contraindication, despite the oral drug’s low absorption."
+  },
+  {
+    "id": "reviewed-pharm1-fc-rifaximin-10",
+    "lectureId": "cNyNVRXtPcA",
+    "front": "What distinguishes rifaximin from an opioid antimotility drug in IBS with diarrhea?",
+    "back": "Rifaximin acts as an intestinal antibacterial agent.",
+    "explanation": "It inhibits bacterial transcription rather than primarily slowing transit through opioid-receptor activation."
+  },
+  {
+    "id": "reviewed-pharm1-fc-lactulose-1",
+    "lectureId": "CXq0c75lkPw",
+    "front": "How does lactulose-induced colonic acidification reduce ammonia absorption?",
+    "back": "Conversion of NH3 to NH4+",
+    "explanation": "The charged ammonium form crosses membranes less readily than uncharged ammonia."
+  },
+  {
+    "id": "reviewed-pharm1-fc-lactulose-2",
+    "lectureId": "CXq0c75lkPw",
+    "front": "Why does orally administered lactulose reach the colon largely unchanged?",
+    "back": "Limited digestion by human small-intestinal enzymes",
+    "explanation": "Colonic bacterial metabolism produces the acids responsible for much of its local effect."
+  },
+  {
+    "id": "reviewed-pharm1-fc-lactulose-3",
+    "lectureId": "CXq0c75lkPw",
+    "front": "What accounts for the osmotic laxative action of lactulose?",
+    "back": "Retention of water by poorly absorbed solutes in the intestinal lumen",
+    "explanation": "Lactulose and its metabolites increase the luminal osmotic load."
+  },
+  {
+    "id": "reviewed-pharm1-fc-lactulose-4",
+    "lectureId": "CXq0c75lkPw",
+    "front": "Why can excessive lactulose worsen dehydration and electrolyte balance?",
+    "back": "Excessive gastrointestinal water and potassium losses",
+    "explanation": "The regimen needs reassessment; more catharsis is not necessarily better encephalopathy control."
+  },
+  {
+    "id": "reviewed-pharm1-fc-lactulose-5",
+    "lectureId": "CXq0c75lkPw",
+    "front": "Why can lactulose cause gas and bloating?",
+    "back": "Bacterial fermentation of the disaccharide",
+    "explanation": "Colonic fermentation generates gas as well as organic acids."
+  },
+  {
+    "id": "reviewed-pharm1-fc-lactulose-6",
+    "lectureId": "CXq0c75lkPw",
+    "front": "What guides routine lactulose titration after overt encephalopathy improves?",
+    "back": "Clinical status and an appropriate soft-stool pattern",
+    "explanation": "Treat the patient and precipitating factors rather than escalating solely to normalize ammonia."
+  },
+  {
+    "id": "reviewed-pharm1-fc-lactulose-7",
+    "lectureId": "CXq0c75lkPw",
+    "front": "Why must precipitating factors still be sought during lactulose therapy?",
+    "back": "Evaluate and treat gastrointestinal bleeding",
+    "explanation": "Blood in the gut and hemodynamic consequences can precipitate encephalopathy; symptomatic therapy alone is insufficient."
+  },
+  {
+    "id": "reviewed-pharm1-fc-lactulose-8",
+    "lectureId": "CXq0c75lkPw",
+    "front": "Why can lactulose be administered rectally for selected encephalopathy patients?",
+    "back": "Its major therapeutic actions occur within the colon",
+    "explanation": "Colonic delivery can support local acidification and catharsis without relying on oral swallowing."
+  },
+  {
+    "id": "reviewed-pharm1-fc-lactulose-9",
+    "lectureId": "CXq0c75lkPw",
+    "front": "Why should the sugar content of lactulose solution be checked in diabetes?",
+    "back": "The preparation may contain absorbable accompanying sugars",
+    "explanation": "Poor lactulose absorption does not imply that every component of the solution is unabsorbable."
+  },
+  {
+    "id": "reviewed-pharm1-fc-lactulose-10",
+    "lectureId": "CXq0c75lkPw",
+    "front": "What formulation-related contraindication appears in lactulose labeling?",
+    "back": "The product may be unsuitable when a low-galactose diet is required",
+    "explanation": "The residual sugar content must be assessed against the patient’s metabolic restriction."
+  },
+  {
+    "id": "reviewed-pharm1-fc-ondansetron-1",
+    "lectureId": "Wnxr4dQ7-LU",
+    "front": "Which serotonin receptor does ondansetron block?",
+    "back": "5-HT3 serotonin receptor",
+    "explanation": "Ondansetron blocks serotonin signaling at ligand-gated 5-HT3 channels in peripheral and central emetic pathways."
+  },
+  {
+    "id": "reviewed-pharm1-fc-ondansetron-2",
+    "lectureId": "Wnxr4dQ7-LU",
+    "front": "Which electrolyte deficiencies amplify ondansetron-associated torsades risk?",
+    "back": "Hypokalemia and hypomagnesemia",
+    "explanation": "Electrolyte depletion and QT-prolonging drugs compound delayed ventricular repolarization and torsades risk."
+  },
+  {
+    "id": "reviewed-pharm1-fc-ondansetron-3",
+    "lectureId": "Wnxr4dQ7-LU",
+    "front": "Which Parkinson medication is contraindicated with ondansetron?",
+    "back": "Apomorphine",
+    "explanation": "Ondansetron and apomorphine are contraindicated together because severe hypotension and unconsciousness have been reported."
+  },
+  {
+    "id": "reviewed-pharm1-fc-ondansetron-4",
+    "lectureId": "Wnxr4dQ7-LU",
+    "front": "Does ondansetron's antiemetic effect establish normal bowel motility?",
+    "back": "No; it may mask nausea while ileus or distention persists.",
+    "explanation": "Symptom suppression does not restore motility or establish bowel patency; ongoing distention requires evaluation."
+  },
+  {
+    "id": "reviewed-pharm1-fc-ondansetron-5",
+    "lectureId": "Wnxr4dQ7-LU",
+    "front": "What is the labeled maximum total daily ondansetron dose in severe hepatic impairment?",
+    "back": "8 mg per day",
+    "explanation": "Severe hepatic dysfunction reduces ondansetron clearance; labeled total daily dosing is limited to 8 mg."
+  },
+  {
+    "id": "reviewed-pharm1-fc-ondansetron-6",
+    "lectureId": "Wnxr4dQ7-LU",
+    "front": "Which bowel adverse effect is commonly associated with ondansetron?",
+    "back": "Constipation",
+    "explanation": "Constipation is a recognized ondansetron adverse effect; new alarm symptoms would require separate assessment."
+  },
+  {
+    "id": "reviewed-pharm1-fc-ondansetron-7",
+    "lectureId": "Wnxr4dQ7-LU",
+    "front": "What distinguishes the 5-HT3 receptor structurally from most serotonin receptors?",
+    "back": "It is a ligand-gated cation channel.",
+    "explanation": "The 5-HT3 receptor is an ionotropic serotonin receptor, unlike most other serotonin receptor subtypes."
+  },
+  {
+    "id": "reviewed-pharm1-fc-ondansetron-8",
+    "lectureId": "Wnxr4dQ7-LU",
+    "front": "Which gut cells release serotonin that can trigger acute chemotherapy-induced emesis?",
+    "back": "Enterochromaffin cells",
+    "explanation": "Serotonin released in the intestine can activate vagal afferents and trigger emetic signaling through 5-HT3 receptors."
+  },
+  {
+    "id": "reviewed-pharm1-fc-ondansetron-9",
+    "lectureId": "Wnxr4dQ7-LU",
+    "front": "Should normal electrolytes remove the ondansetron warning in congenital long QT syndrome?",
+    "back": "No; the label advises avoiding ondansetron.",
+    "explanation": "The ondansetron label advises avoidance in congenital long QT syndrome, even without current electrolyte depletion."
+  },
+  {
+    "id": "reviewed-pharm1-fc-ondansetron-10",
+    "lectureId": "Wnxr4dQ7-LU",
+    "front": "Which immediate symptom combination after ondansetron suggests anaphylaxis?",
+    "back": "Urticaria plus respiratory compromise and/or hypotension",
+    "explanation": "The sudden skin, respiratory and circulatory findings are consistent with anaphylaxis and require urgent treatment."
+  },
+  {
+    "id": "reviewed-pharm1-fc-metoclopramide-1",
+    "lectureId": "bAt1Uc_SES0",
+    "front": "What is the useful gastrointestinal action of metoclopramide in diabetic gastroparesis?",
+    "back": "It promotes upper GI motility and gastric emptying.",
+    "explanation": "Metoclopramide enhances coordinated upper GI motility through cholinergic pathways; dopamine antagonism and 5-HT4 activity contribute."
+  },
+  {
+    "id": "reviewed-pharm1-fc-metoclopramide-2",
+    "lectureId": "bAt1Uc_SES0",
+    "front": "Which early metoclopramide reaction can cause torticollis or an oculogyric crisis?",
+    "back": "Acute dystonia",
+    "explanation": "Acute dopamine blockade can cause sustained abnormal muscle contractions, often early in treatment in younger patients."
+  },
+  {
+    "id": "reviewed-pharm1-fc-metoclopramide-3",
+    "lectureId": "bAt1Uc_SES0",
+    "front": "What exposure characteristics increase metoclopramide-associated tardive dyskinesia risk?",
+    "back": "Longer treatment duration and higher cumulative dose",
+    "explanation": "Tardive dyskinesia risk rises with duration and cumulative dose; treatment should be reassessed and stopped if signs develop."
+  },
+  {
+    "id": "reviewed-pharm1-fc-metoclopramide-4",
+    "lectureId": "bAt1Uc_SES0",
+    "front": "Why is metoclopramide contraindicated in mechanical GI obstruction?",
+    "back": "Its stimulation of motility may be dangerous.",
+    "explanation": "Prokinetic stimulation can be dangerous with obstruction, perforation or GI hemorrhage."
+  },
+  {
+    "id": "reviewed-pharm1-fc-metoclopramide-5",
+    "lectureId": "bAt1Uc_SES0",
+    "front": "Why should metoclopramide generally be avoided in Parkinson disease?",
+    "back": "Central D2 blockade can worsen parkinsonian symptoms.",
+    "explanation": "Central dopamine blockade can worsen parkinsonism and oppose dopaminergic treatment."
+  },
+  {
+    "id": "reviewed-pharm1-fc-metoclopramide-6",
+    "lectureId": "bAt1Uc_SES0",
+    "front": "How can metoclopramide cause galactorrhea?",
+    "back": "D2 blockade removes tonic inhibition of prolactin release.",
+    "explanation": "Dopamine normally restrains lactotroph prolactin release; D2 blockade can cause hyperprolactinemia."
+  },
+  {
+    "id": "reviewed-pharm1-fc-metoclopramide-7",
+    "lectureId": "bAt1Uc_SES0",
+    "front": "Which adrenal tumor is a contraindication to metoclopramide?",
+    "back": "Pheochromocytoma",
+    "explanation": "Metoclopramide is contraindicated in pheochromocytoma because it can trigger a catecholamine-related hypertensive crisis."
+  },
+  {
+    "id": "reviewed-pharm1-fc-metoclopramide-8",
+    "lectureId": "bAt1Uc_SES0",
+    "front": "How does renal impairment affect metoclopramide prescribing?",
+    "back": "Dose reduction is generally required to limit accumulation.",
+    "explanation": "Metoclopramide exposure increases with renal impairment; the label recommends dose reduction according to indication and renal function."
+  },
+  {
+    "id": "reviewed-pharm1-fc-metoclopramide-9",
+    "lectureId": "bAt1Uc_SES0",
+    "front": "What subjective symptom helps identify metoclopramide-associated akathisia?",
+    "back": "An uncomfortable inner urge to move or inability to remain still",
+    "explanation": "Akathisia is motor restlessness with subjective inner distress and can follow dopamine receptor blockade."
+  },
+  {
+    "id": "reviewed-pharm1-fc-metoclopramide-10",
+    "lectureId": "bAt1Uc_SES0",
+    "front": "Which severe syndrome can occur with metoclopramide plus other dopamine-blocking drugs?",
+    "back": "Neuroleptic malignant syndrome",
+    "explanation": "Multiple dopamine-blocking drugs can increase risk of neuroleptic malignant syndrome, a medical emergency with rigidity and systemic toxicity."
+  },
+  {
+    "id": "reviewed-pharm1-fc-misoprostol-1",
+    "lectureId": "rZ8U60NLNbs",
+    "front": "Which prostaglandin does misoprostol mimic?",
+    "back": "Prostaglandin E1",
+    "explanation": "Misoprostol is a synthetic prostaglandin E1 analog with antisecretory and mucosal protective actions."
+  },
+  {
+    "id": "reviewed-pharm1-fc-misoprostol-2",
+    "lectureId": "rZ8U60NLNbs",
+    "front": "Which two mucosal secretions are supported by misoprostol?",
+    "back": "Mucus and bicarbonate",
+    "explanation": "Prostaglandin signaling supports mucus and bicarbonate defenses while misoprostol also reduces acid secretion."
+  },
+  {
+    "id": "reviewed-pharm1-fc-misoprostol-3",
+    "lectureId": "rZ8U60NLNbs",
+    "front": "Why is misoprostol contraindicated for NSAID-ulcer prevention during pregnancy?",
+    "back": "Its uterotonic effects can cause pregnancy loss and other serious pregnancy complications.",
+    "explanation": "Misoprostol must not be used for NSAID-ulcer prevention during pregnancy because of uterotonic and pregnancy-related risks."
+  },
+  {
+    "id": "reviewed-pharm1-fc-misoprostol-4",
+    "lectureId": "rZ8U60NLNbs",
+    "front": "What common adverse effect often limits misoprostol adherence?",
+    "back": "Diarrhea, often with abdominal cramping",
+    "explanation": "Diarrhea and abdominal discomfort are common dose-related limitations of misoprostol."
+  },
+  {
+    "id": "reviewed-pharm1-fc-misoprostol-5",
+    "lectureId": "rZ8U60NLNbs",
+    "front": "Which antacid ingredient can worsen misoprostol-related diarrhea?",
+    "back": "Magnesium",
+    "explanation": "Magnesium-containing antacids can cause diarrhea and should be avoided with misoprostol when possible."
+  },
+  {
+    "id": "reviewed-pharm1-fc-misoprostol-6",
+    "lectureId": "rZ8U60NLNbs",
+    "front": "What is the active metabolite of misoprostol?",
+    "back": "Misoprostol acid",
+    "explanation": "Misoprostol is rapidly de-esterified to active misoprostol acid."
+  },
+  {
+    "id": "reviewed-pharm1-fc-misoprostol-7",
+    "lectureId": "rZ8U60NLNbs",
+    "front": "What is misoprostol's labeled gastrointestinal preventive indication?",
+    "back": "Reducing NSAID-induced gastric ulcer risk in high-risk patients",
+    "explanation": "The labeled indication is reduction of NSAID-induced gastric ulcer risk in high-risk patients; symptoms and ulcers are not interchangeable outcomes."
+  },
+  {
+    "id": "reviewed-pharm1-fc-misoprostol-8",
+    "lectureId": "rZ8U60NLNbs",
+    "front": "Which history increases concern for misoprostol-associated uterine rupture?",
+    "back": "Prior uterine surgery, including cesarean delivery",
+    "explanation": "Misoprostol-associated uterine rupture risk increases with prior uterine surgery and advancing gestation; obstetric use requires context-specific protocols."
+  },
+  {
+    "id": "reviewed-pharm1-fc-misoprostol-9",
+    "lectureId": "rZ8U60NLNbs",
+    "front": "Why can misoprostol protect gastric mucosa during continued NSAID exposure?",
+    "back": "It supplies prostaglandin-like activity downstream of inhibited synthesis.",
+    "explanation": "A receptor-active analog can supply prostaglandin-like effects despite inhibited endogenous synthesis."
+  },
+  {
+    "id": "reviewed-pharm1-fc-misoprostol-10",
+    "lectureId": "rZ8U60NLNbs",
+    "front": "Does obstetric use make misoprostol acceptable for routine ulcer prophylaxis during pregnancy?",
+    "back": "No; the intended indication and pregnancy risks must be distinguished.",
+    "explanation": "Indication, gestational context and supervision matter; intentional obstetric use does not make NSAID-ulcer prophylaxis safe in pregnancy."
+  },
+  {
+    "id": "reviewed-pharm1-fc-sucralfate-1",
+    "lectureId": "cZA8FWRxv4g",
+    "front": "What is sucralfate's principal antiulcer mechanism?",
+    "back": "A locally adherent protective barrier over the ulcer",
+    "explanation": "Sucralfate forms a local protective barrier at the ulcer site, limiting exposure to luminal injurious factors."
+  },
+  {
+    "id": "reviewed-pharm1-fc-sucralfate-2",
+    "lectureId": "cZA8FWRxv4g",
+    "front": "Which element can accumulate from sucralfate in severe renal impairment?",
+    "back": "Aluminum",
+    "explanation": "Renal impairment reduces elimination of absorbed aluminum; sucralfate plus aluminum antacids increases the burden."
+  },
+  {
+    "id": "reviewed-pharm1-fc-sucralfate-3",
+    "lectureId": "cZA8FWRxv4g",
+    "front": "How does sucralfate reduce absorption of some concurrently administered drugs?",
+    "back": "It binds them within the gastrointestinal tract.",
+    "explanation": "Sucralfate can bind other drugs in the gut and reduce bioavailability; drug-specific separation instructions are important."
+  },
+  {
+    "id": "reviewed-pharm1-fc-sucralfate-4",
+    "lectureId": "cZA8FWRxv4g",
+    "front": "What is the most common adverse effect of sucralfate?",
+    "back": "Constipation",
+    "explanation": "Constipation is the most commonly reported sucralfate adverse effect."
+  },
+  {
+    "id": "reviewed-pharm1-fc-sucralfate-5",
+    "lectureId": "cZA8FWRxv4g",
+    "front": "Does sucralfate require substantial systemic absorption for its antiulcer action?",
+    "back": "No; its action is mainly local.",
+    "explanation": "Sucralfate acts mainly at the mucosal surface and is only minimally absorbed."
+  },
+  {
+    "id": "reviewed-pharm1-fc-sucralfate-6",
+    "lectureId": "cZA8FWRxv4g",
+    "front": "Why can TSH rise when levothyroxine is taken with sucralfate?",
+    "back": "Reduced levothyroxine absorption from gastrointestinal binding",
+    "explanation": "Sucralfate can impair levothyroxine absorption; separation and reassessment are preferable to ignoring the interaction."
+  },
+  {
+    "id": "reviewed-pharm1-fc-sucralfate-7",
+    "lectureId": "cZA8FWRxv4g",
+    "front": "Which luminal factors does sucralfate help shield ulcer tissue from?",
+    "back": "Acid and pepsin, with additional binding of bile salts",
+    "explanation": "An adherent barrier limits contact between ulcer tissue and injurious luminal contents, including pepsin."
+  },
+  {
+    "id": "reviewed-pharm1-fc-sucralfate-8",
+    "lectureId": "cZA8FWRxv4g",
+    "front": "How is sucralfate generally administered relative to food?",
+    "back": "On an empty stomach, with attention to separation from interacting medicines",
+    "explanation": "Sucralfate is taken on an empty stomach; reviewing and separating interacting medicines helps preserve their absorption."
+  },
+  {
+    "id": "reviewed-pharm1-fc-sucralfate-9",
+    "lectureId": "cZA8FWRxv4g",
+    "front": "Which clinical setting warrants concern for sucralfate-associated bezoar formation?",
+    "back": "Impaired gastric emptying, especially with enteral feeding",
+    "explanation": "Bezoars have been reported with sucralfate, especially where gastric emptying is impaired or enteral feeding is used."
+  },
+  {
+    "id": "reviewed-pharm1-fc-sucralfate-10",
+    "lectureId": "cZA8FWRxv4g",
+    "front": "Can sucralfate alone eradicate H. pylori?",
+    "back": "No; ulcer protection and bacterial eradication are different treatment goals.",
+    "explanation": "Sucralfate may promote healing but is not an eradication regimen; infection-directed treatment and appropriate confirmation remain separate."
+  },
+  {
+    "id": "reviewed-pharm1-fc-ppi-1",
+    "lectureId": "Hu5-Bv_eVJU",
+    "front": "What is the molecular target of proton pump inhibitors?",
+    "back": "Gastric parietal-cell H+/K+-ATPase",
+    "explanation": "PPIs inhibit the gastric proton pump, downstream of histamine, acetylcholine and gastrin signaling."
+  },
+  {
+    "id": "reviewed-pharm1-fc-ppi-2",
+    "lectureId": "Hu5-Bv_eVJU",
+    "front": "Why does PPI action last longer than its plasma half-life?",
+    "back": "Pump inhibition persists until functional proton pumps are restored.",
+    "explanation": "Acid secretion recovers as functional pumps become available, rather than tracking only plasma drug concentration."
+  },
+  {
+    "id": "reviewed-pharm1-fc-ppi-3",
+    "lectureId": "Hu5-Bv_eVJU",
+    "front": "Why are many delayed-release PPIs taken before meals?",
+    "back": "To align drug exposure with meal-stimulated proton pump activity",
+    "explanation": "Many PPIs work best when taken before meals so active drug encounters stimulated pumps; formulation-specific instructions still apply."
+  },
+  {
+    "id": "reviewed-pharm1-fc-ppi-4",
+    "lectureId": "Hu5-Bv_eVJU",
+    "front": "Why can omeprazole reduce clopidogrel's antiplatelet activity?",
+    "back": "CYP2C19 inhibition reduces formation of clopidogrel's active metabolite.",
+    "explanation": "Omeprazole inhibits CYP2C19, which participates in activation of clopidogrel; labeling advises avoiding this combination."
+  },
+  {
+    "id": "reviewed-pharm1-fc-ppi-5",
+    "lectureId": "Hu5-Bv_eVJU",
+    "front": "How can long-term PPI use contribute to vitamin B12 deficiency?",
+    "back": "Reduced gastric acidity impairs release of food-bound B12.",
+    "explanation": "Hypochlorhydria can impair release of B12 from food; other causes of deficiency still require evaluation."
+  },
+  {
+    "id": "reviewed-pharm1-fc-ppi-6",
+    "lectureId": "Hu5-Bv_eVJU",
+    "front": "Which electrolyte abnormality can occur with prolonged PPI therapy?",
+    "back": "Hypomagnesemia",
+    "explanation": "Rare but significant hypomagnesemia is reported during prolonged PPI therapy and may require reassessing treatment."
+  },
+  {
+    "id": "reviewed-pharm1-fc-ppi-7",
+    "lectureId": "Hu5-Bv_eVJU",
+    "front": "Which inflammatory kidney injury is a recognized PPI adverse reaction?",
+    "back": "Acute tubulointerstitial nephritis",
+    "explanation": "Acute tubulointerstitial nephritis is a recognized PPI-associated adverse reaction and requires prompt drug review."
+  },
+  {
+    "id": "reviewed-pharm1-fc-ppi-8",
+    "lectureId": "Hu5-Bv_eVJU",
+    "front": "Why can PPIs increase serum gastrin?",
+    "back": "Acid suppression reduces negative feedback on gastrin release.",
+    "explanation": "Acid suppression can raise gastrin through feedback; interpretation depends on gastric acidity, medications and clinical context."
+  },
+  {
+    "id": "reviewed-pharm1-fc-ppi-9",
+    "lectureId": "Hu5-Bv_eVJU",
+    "front": "Why should enteric-coated omeprazole granules not be crushed?",
+    "back": "Their coating protects the acid-labile drug before intestinal absorption.",
+    "explanation": "Enteric protection limits degradation of acid-labile omeprazole in the stomach; administration instructions should preserve the granules."
+  },
+  {
+    "id": "reviewed-pharm1-fc-ppi-10",
+    "lectureId": "Hu5-Bv_eVJU",
+    "front": "Which neuroendocrine marker can be elevated by PPI treatment?",
+    "back": "Chromogranin A",
+    "explanation": "PPI-associated hypergastrinemia can elevate chromogranin A; labeling recommends a temporary interruption before testing when clinically appropriate."
+  },
+  {
+    "id": "reviewed-pharm1-fc-h2blockers-1",
+    "lectureId": "7VjKp18wQOo",
+    "front": "Which receptor mediates famotidine's acid-suppressing action?",
+    "back": "Histamine H2 receptor",
+    "explanation": "H2 antagonism reduces histamine-stimulated parietal-cell acid secretion."
+  },
+  {
+    "id": "reviewed-pharm1-fc-h2blockers-2",
+    "lectureId": "7VjKp18wQOo",
+    "front": "Which second messenger rises after gastric H2 receptor activation?",
+    "back": "Cyclic AMP",
+    "explanation": "H2 receptors signal through Gs and cAMP; blockade reduces this acid-stimulatory signal."
+  },
+  {
+    "id": "reviewed-pharm1-fc-h2blockers-3",
+    "lectureId": "7VjKp18wQOo",
+    "front": "Why is famotidine dosage adjusted in moderate or severe renal impairment?",
+    "back": "Reduced renal clearance increases drug exposure.",
+    "explanation": "Famotidine is substantially renally eliminated; reduced kidney function raises exposure and adverse-effect risk."
+  },
+  {
+    "id": "reviewed-pharm1-fc-h2blockers-4",
+    "lectureId": "7VjKp18wQOo",
+    "front": "Which patients are particularly vulnerable to famotidine-associated confusion?",
+    "back": "Older adults and patients with renal impairment",
+    "explanation": "Older patients and those with renal impairment are more susceptible to famotidine-related CNS effects; dose review is appropriate."
+  },
+  {
+    "id": "reviewed-pharm1-fc-h2blockers-5",
+    "lectureId": "7VjKp18wQOo",
+    "front": "How can cimetidine increase warfarin's effect?",
+    "back": "Inhibition of hepatic metabolism can raise warfarin exposure and INR.",
+    "explanation": "Cimetidine can inhibit hepatic drug metabolism and increase warfarin exposure; anticoagulation monitoring is needed."
+  },
+  {
+    "id": "reviewed-pharm1-fc-h2blockers-6",
+    "lectureId": "7VjKp18wQOo",
+    "front": "Which H2 blocker is classically associated with antiandrogenic effects and gynecomastia?",
+    "back": "Cimetidine",
+    "explanation": "Cimetidine has antiandrogenic effects and is associated with gynecomastia, especially with longer or higher-dose exposure."
+  },
+  {
+    "id": "reviewed-pharm1-fc-h2blockers-7",
+    "lectureId": "7VjKp18wQOo",
+    "front": "Why is famotidine often preferred over cimetidine in polypharmacy?",
+    "back": "It avoids much of cimetidine's broad hepatic enzyme-inhibition burden.",
+    "explanation": "Cimetidine has a substantial metabolic interaction profile; choosing famotidine may reduce that specific risk, while other interactions still need review."
+  },
+  {
+    "id": "reviewed-pharm1-fc-h2blockers-8",
+    "lectureId": "7VjKp18wQOo",
+    "front": "How can H2 blockers reduce exposure to acid-dependent oral medicines?",
+    "back": "They raise gastric pH, impairing dissolution or absorption.",
+    "explanation": "Acid suppression can reduce absorption of selected pH-dependent medicines; the specific combination requires review."
+  },
+  {
+    "id": "reviewed-pharm1-fc-h2blockers-9",
+    "lectureId": "7VjKp18wQOo",
+    "front": "Does improvement with an H2 blocker rule out gastric malignancy?",
+    "back": "No; alarm features still need evaluation.",
+    "explanation": "The famotidine label cautions that symptom relief does not rule out gastric malignancy; alarm features still require evaluation."
+  },
+  {
+    "id": "reviewed-pharm1-fc-h2blockers-10",
+    "lectureId": "7VjKp18wQOo",
+    "front": "How does H2 antagonism differ from PPI action at the target?",
+    "back": "H2 blockers reversibly antagonize a receptor; PPIs inhibit the proton pump persistently.",
+    "explanation": "H2 blockade is reversible; PPIs have a longer-lasting pump-directed inhibitory mechanism."
+  },
+  {
+    "id": "reviewed-pharm1-fc-antacids-1",
+    "lectureId": "2F9awf5M5Ls",
+    "front": "How do conventional antacids raise gastric pH?",
+    "back": "They neutralize acid already present in the stomach.",
+    "explanation": "This explains their rapid symptom relief without directly shutting down acid secretion."
+  },
+  {
+    "id": "reviewed-pharm1-fc-antacids-2",
+    "lectureId": "2F9awf5M5Ls",
+    "front": "Which common antacid cation tends to cause diarrhea?",
+    "back": "Magnesium.",
+    "explanation": "Poorly absorbed magnesium salts retain water in the bowel."
+  },
+  {
+    "id": "reviewed-pharm1-fc-antacids-3",
+    "lectureId": "2F9awf5M5Ls",
+    "front": "Which common antacid ingredient tends to cause constipation?",
+    "back": "Aluminum hydroxide.",
+    "explanation": "Its constipating effect is one reason it is paired with magnesium in some preparations."
+  },
+  {
+    "id": "reviewed-pharm1-fc-antacids-4",
+    "lectureId": "2F9awf5M5Ls",
+    "front": "Why can magnesium antacids be hazardous in advanced kidney disease?",
+    "back": "Absorbed magnesium can accumulate because renal elimination is impaired.",
+    "explanation": "Marked hypermagnesemia can depress reflexes and cardiovascular function."
+  },
+  {
+    "id": "reviewed-pharm1-fc-antacids-5",
+    "lectureId": "2F9awf5M5Ls",
+    "front": "How can prolonged aluminum antacid use cause hypophosphatemia?",
+    "back": "Aluminum binds phosphate in the gut and reduces its absorption.",
+    "explanation": "Severe or prolonged phosphate depletion can impair bone mineralization."
+  },
+  {
+    "id": "reviewed-pharm1-fc-antacids-6",
+    "lectureId": "2F9awf5M5Ls",
+    "front": "What triad suggests calcium-alkali syndrome after excessive calcium carbonate use?",
+    "back": "Hypercalcemia, metabolic alkalosis and kidney injury.",
+    "explanation": "Review both antacid and supplement intake because their calcium loads add together."
+  },
+  {
+    "id": "reviewed-pharm1-fc-antacids-7",
+    "lectureId": "2F9awf5M5Ls",
+    "front": "Why should sodium bicarbonate antacids be used cautiously in heart failure?",
+    "back": "Their sodium load can worsen fluid retention.",
+    "explanation": "Over-the-counter preparations still contribute to total sodium intake."
+  },
+  {
+    "id": "reviewed-pharm1-fc-antacids-8",
+    "lectureId": "2F9awf5M5Ls",
+    "front": "Why can sodium bicarbonate cause belching?",
+    "back": "Its reaction with gastric acid releases carbon dioxide.",
+    "explanation": "This is a chemical effect of neutralization rather than an allergic reaction."
+  },
+  {
+    "id": "reviewed-pharm1-fc-antacids-9",
+    "lectureId": "2F9awf5M5Ls",
+    "front": "Why should magnesium or aluminum antacids be separated from oral ciprofloxacin?",
+    "back": "Their cations can bind ciprofloxacin and reduce absorption.",
+    "explanation": "Follow the antibiotic-specific timing instructions rather than using a universal spacing rule."
+  },
+  {
+    "id": "reviewed-pharm1-fc-antacids-10",
+    "lectureId": "2F9awf5M5Ls",
+    "front": "Does relief with an antacid establish that recurrent symptoms are harmless reflux?",
+    "back": "No. Symptom relief does not identify the underlying cause.",
+    "explanation": "Persistent symptoms or alarm features such as progressive dysphagia need assessment."
+  },
+  {
+    "id": "reviewed-pharm1-fc-mucoactive-1",
+    "lectureId": "30mf-G9kNSc",
+    "front": "Which mucus bonds are disrupted by N-acetylcysteine?",
+    "back": "Disulfide bonds in mucus proteins.",
+    "explanation": "Its sulfhydryl group helps reduce the cross-linking that contributes to mucus viscosity."
+  },
+  {
+    "id": "reviewed-pharm1-fc-mucoactive-2",
+    "lectureId": "30mf-G9kNSc",
+    "front": "What important respiratory reaction can follow inhaled acetylcysteine?",
+    "back": "Bronchospasm.",
+    "explanation": "Monitor susceptible patients; progressive bronchospasm requires stopping the drug and appropriate treatment."
+  },
+  {
+    "id": "reviewed-pharm1-fc-mucoactive-3",
+    "lectureId": "30mf-G9kNSc",
+    "front": "Why may suction be needed after acetylcysteine in a patient with a weak cough?",
+    "back": "Liquefied secretions still need to be physically cleared.",
+    "explanation": "Mucolysis can increase the volume of mobile secretions without restoring cough strength."
+  },
+  {
+    "id": "reviewed-pharm1-fc-mucoactive-4",
+    "lectureId": "30mf-G9kNSc",
+    "front": "How does acetylcysteine help protect the liver after acetaminophen overdose?",
+    "back": "It supports glutathione-mediated detoxification of NAPQI.",
+    "explanation": "This antidotal role is distinct from its mucus-disulfide action in the airways."
+  },
+  {
+    "id": "reviewed-pharm1-fc-mucoactive-5",
+    "lectureId": "30mf-G9kNSc",
+    "front": "Can an acetylcysteine solution labeled for inhalation or oral use automatically be injected?",
+    "back": "No; use a formulation specifically intended for intravenous administration.",
+    "explanation": "Matching active ingredient or concentration does not establish route interchangeability."
+  },
+  {
+    "id": "reviewed-pharm1-fc-mucoactive-6",
+    "lectureId": "30mf-G9kNSc",
+    "front": "What is guaifenesin intended to make easier?",
+    "back": "Coughing up mucus.",
+    "explanation": "As an expectorant, it helps loosen bronchial secretions rather than directly suppressing cough."
+  },
+  {
+    "id": "reviewed-pharm1-fc-mucoactive-7",
+    "lectureId": "30mf-G9kNSc",
+    "front": "Should extended-release guaifenesin tablets be crushed?",
+    "back": "No; swallow them whole or ask about an appropriate alternative formulation.",
+    "explanation": "Crushing can disrupt the intended release characteristics."
+  },
+  {
+    "id": "reviewed-pharm1-fc-mucoactive-8",
+    "lectureId": "30mf-G9kNSc",
+    "front": "Does guaifenesin treat the underlying cause of a respiratory illness?",
+    "back": "No; its role is symptomatic mucus relief.",
+    "explanation": "Persistent cough or new concerning symptoms require reassessment despite easier expectoration."
+  },
+  {
+    "id": "reviewed-pharm1-fc-mucoactive-9",
+    "lectureId": "30mf-G9kNSc",
+    "front": "Which active gastrointestinal condition contraindicates carbocisteine?",
+    "back": "Active peptic ulceration.",
+    "explanation": "Review ulcer and bleeding history before selecting this oral mucolytic."
+  },
+  {
+    "id": "reviewed-pharm1-fc-mucoactive-10",
+    "lectureId": "30mf-G9kNSc",
+    "front": "Is carbocisteine a rescue bronchodilator?",
+    "back": "No; it is a mucolytic that modifies abnormal mucus properties.",
+    "explanation": "Its role concerns mucus clearance, not immediate reversal of bronchospasm."
+  }
+]

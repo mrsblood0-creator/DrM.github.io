@@ -1,0 +1,670 @@
+[
+  {
+    "id": "bHg14k22JqQ",
+    "title": "What Statins Do to The Body ?",
+    "category": "Pharmacology",
+    "noteStatus": "Source presentation",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Statin pharmacology"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "HMG-CoA reductase is the enzyme inhibited by statins."
+      },
+      {
+        "type": "li",
+        "text": "LDL receptor expression increases in the liver, enhancing LDL clearance."
+      },
+      {
+        "type": "li",
+        "text": "Muscle symptoms are a recognized adverse effect; severe rhabdomyolysis is uncommon."
+      },
+      {
+        "type": "li",
+        "text": "Cardiovascular risk reduction is the clinical purpose of statin therapy in appropriate patients."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": [
+      {
+        "title": "MedlinePlus — medicine reference index",
+        "url": "https://medlineplus.gov/druginformation.html"
+      }
+    ]
+  },
+  {
+    "id": "p5UXQ3RS2Uc",
+    "title": "4 IMPORTANT Acetaminophen Side Effects",
+    "category": "Pharmacology",
+    "noteStatus": "Source presentation",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Classification of analgesics"
+      },
+      {
+        "type": "li",
+        "text": "Opioid analgesics"
+      },
+      {
+        "type": "li",
+        "text": "Analgesics antipyretics drugs: e.g. acetaminophen, dipyrone and nefopam"
+      },
+      {
+        "type": "li",
+        "text": "Non analgesic drugs that work as analgesics for some conditions: e.g. carbamazepine (antiepileptic drug) used for trigeminal neuralgia, duloxetine (antidepressant) used for diabetic neuropathy"
+      },
+      {
+        "type": "li",
+        "text": "Scientific name is acetaminophen, trade names are paracetamol, Tylenol, Panadol …"
+      },
+      {
+        "type": "li",
+        "text": "Non opioid analgesic antipyretic that is used to treat fever and mild to moderate pain, it is the most commonly used medication for pain and fever in US, Europe"
+      },
+      {
+        "type": "li",
+        "text": "It was synthesized in 1878 by the American chemist Northrop Morse"
+      },
+      {
+        "type": "h2",
+        "text": "Pharmacokinetics"
+      },
+      {
+        "type": "li",
+        "text": "Acetaminophen available oral, IV and rectal"
+      },
+      {
+        "type": "li",
+        "text": "Absorption of oral formula is rapid but the drug is extensively metabolized by first pass effect and bioavailability is dose dependent (50% at 500mg and 90% at 1000mg)"
+      },
+      {
+        "type": "li",
+        "text": "Metabolized by the liver via conjugation, a portion of the acetaminophen dose given will be hydroxylated to form N acetyl p benzoquinoneimine (NAPQI), which will react with sulfhydryl groups and cause liver damage"
+      },
+      {
+        "type": "li",
+        "text": "At normal doses of acetaminophen NAPQI will react with sulfhydryl group in glutathione (produced by liver) forming non toxic substance"
+      },
+      {
+        "type": "li",
+        "text": "At high doses, glutathione stores will be depleted, and NAPQI cause liver injury"
+      },
+      {
+        "type": "li",
+        "text": "Excretion is mainly renal"
+      },
+      {
+        "type": "h2",
+        "text": "Mechanism of action"
+      },
+      {
+        "type": "li",
+        "text": "It inhibit prostaglandin synthesis in the brain which lead to the analgesic antipyretic effects of acetaminophen"
+      },
+      {
+        "type": "li",
+        "text": "It doesn’t inhibit prostaglandin synthesis in peripheral tissues because of peripheral inactivation, that is why it has weak anti inflammatory activity"
+      },
+      {
+        "type": "li",
+        "text": "Acetaminophen doesn’t affect PLT function unlike aspirin"
+      },
+      {
+        "type": "li",
+        "text": "It has little to no effects on CVS, GIT, respiratory or PLT function"
+      },
+      {
+        "type": "h2",
+        "text": "Therapeutic uses"
+      },
+      {
+        "type": "li",
+        "text": "It is used as analgesic (for mild to moderate pain like headache, myalgia, mild MSK pain… ) and antipyretic"
+      },
+      {
+        "type": "li",
+        "text": "Paracetamol in arthritis pain is not effective and if it is given, it has to be combined with ibuprofen"
+      },
+      {
+        "type": "li",
+        "text": "It is useful in patients who can’t take NSAIDs because of gastric problems or they doesn’t need the extra anti inflammatory effects that comes with the NSAIDs"
+      },
+      {
+        "type": "li",
+        "text": "It is very safe in pregnancy (much better than aspirin)"
+      },
+      {
+        "type": "li",
+        "text": "It is used as analgesic/antipyretic in children with viral infections or chickenpox (due to risk of Reye syndrome with aspirin)"
+      },
+      {
+        "type": "li",
+        "text": "Paracetamol is inferior to NSAIDs in pain relief but it is safer and better tolerated by patients"
+      },
+      {
+        "type": "li",
+        "text": "Acetaminophen is well tolerated by most people"
+      },
+      {
+        "type": "li",
+        "text": "It may lead to allergic reactions (e.g. skin rash and fever)"
+      },
+      {
+        "type": "li",
+        "text": "Liver damage: In toxic doses of acetaminophen (about 15 g in adults, 4 g in children), there is hepatotoxicity (centrilobular necrosis) and it is sometimes associated with renal tubular necrosis"
+      },
+      {
+        "type": "li",
+        "text": "Acetaminophen overdose is the most common cause of acute liver failure"
+      },
+      {
+        "type": "li",
+        "text": "acetaminophen is metabolized by the liver via conjugation, a portion of the acetaminophen dose given will be hydroxylated to form N acetyl p benzoquinoneimine (NAPQI), which will react with sulfhydryl groups and cause liver damage"
+      },
+      {
+        "type": "li",
+        "text": "At normal doses of acetaminophen NAPQI will react with sulfhydryl group in glutathione (produced by liver) forming non toxic substance"
+      },
+      {
+        "type": "li",
+        "text": "At high doses, glutathione stores will be depleted, and NAPQI cause liver injury"
+      },
+      {
+        "type": "li",
+        "text": "Early symptoms of hepatic damage include nausea, vomiting, diarrhea and abdominal pain, late symptoms include jaundice, edema… (liver failure)"
+      },
+      {
+        "type": "li",
+        "text": "Patients with hepatic disease are at higher risk of hepatic damage from acetaminophen"
+      },
+      {
+        "type": "li",
+        "text": "acetaminophen also lead to renal damage, hemolytic anemia, methemoglobinemia but those are rare"
+      },
+      {
+        "type": "h2",
+        "text": "Treatment of acetaminophen overdose"
+      },
+      {
+        "type": "li",
+        "text": "Sulfhydryl donors (N acetyl cysteine) to restore hepatic glutathione. It is most effective if started within 8 hours of the drug administration"
+      },
+      {
+        "type": "li",
+        "text": "Hemodialysis: better within first 12 hours after ingestion"
+      },
+      {
+        "type": "h2",
+        "text": "Acetaminophen Dosing"
+      },
+      {
+        "type": "li",
+        "text": "Dose of 325-500 mg four times daily, for children it is 10-15 mg/kg"
+      },
+      {
+        "type": "li",
+        "text": "Dosing in adults should not exceed 4g/d"
+      },
+      {
+        "type": "li",
+        "text": "Acetaminophen dose of 4g associated with LFTs abnormalities, so don’t exceed that dose"
+      }
+    ],
+    "references": [
+      {
+        "title": "MedlinePlus — medicine reference index",
+        "url": "https://medlineplus.gov/druginformation.html"
+      }
+    ]
+  },
+  {
+    "id": "MH_uA2e34PY",
+    "title": "5 Contraindications of AMLODIPINE with Explanation !",
+    "category": "Pharmacology",
+    "noteStatus": "Source presentation",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Amlodipine"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "Dihydropyridine calcium-channel blockade relaxes vascular smooth muscle."
+      },
+      {
+        "type": "li",
+        "text": "Peripheral edema is a common adverse effect related to changes in microvascular pressure."
+      },
+      {
+        "type": "li",
+        "text": "Hypotension can occur, especially in susceptible patients."
+      },
+      {
+        "type": "li",
+        "text": "Contraindications should be distinguished from cautions; use the current product label rather than assuming every caution is an absolute prohibition."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": [
+      {
+        "title": "DailyMed — amlodipine prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e01efe66-2f31-4261-92ca-0b41f27104da&version=16"
+      },
+      {
+        "title": "DailyMed — amlodipine prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/getFile.cfm?setid=cdb68210-952e-e8da-e053-2a95a90aec7e&type=pdf"
+      }
+    ]
+  },
+  {
+    "id": "NzkVcA6xfEY",
+    "title": "4 Most SERIOUS Amlodipine Side Effects",
+    "category": "Pharmacology",
+    "noteStatus": "Source presentation",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Amlodipine"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "Dihydropyridine calcium-channel blockade relaxes vascular smooth muscle."
+      },
+      {
+        "type": "li",
+        "text": "Peripheral edema is a common adverse effect related to changes in microvascular pressure."
+      },
+      {
+        "type": "li",
+        "text": "Hypotension can occur, especially in susceptible patients."
+      },
+      {
+        "type": "li",
+        "text": "Contraindications should be distinguished from cautions; use the current product label rather than assuming every caution is an absolute prohibition."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": [
+      {
+        "title": "DailyMed — amlodipine prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e01efe66-2f31-4261-92ca-0b41f27104da&version=16"
+      }
+    ]
+  },
+  {
+    "id": "-ekVYKeK_OY",
+    "title": "4 Most Common Amlodipine Side Effects",
+    "category": "Pharmacology",
+    "noteStatus": "Source presentation",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Amlodipine"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "Dihydropyridine calcium-channel blockade relaxes vascular smooth muscle."
+      },
+      {
+        "type": "li",
+        "text": "Peripheral edema is a common adverse effect related to changes in microvascular pressure."
+      },
+      {
+        "type": "li",
+        "text": "Hypotension can occur, especially in susceptible patients."
+      },
+      {
+        "type": "li",
+        "text": "Contraindications should be distinguished from cautions; use the current product label rather than assuming every caution is an absolute prohibition."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": [
+      {
+        "title": "DailyMed — amlodipine prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e01efe66-2f31-4261-92ca-0b41f27104da&version=16"
+      }
+    ]
+  },
+  {
+    "id": "An7F4fR0514",
+    "title": "Gabapentin Pharmacology: Mechanism of Action, Therapeutic Uses and Adverse Effects",
+    "category": "Pharmacology",
+    "noteStatus": "Video frames + study guide",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Gabapentin"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "Alpha-2-delta subunit binding at voltage-gated calcium channels contributes to gabapentin activity."
+      },
+      {
+        "type": "li",
+        "text": "Neuropathic pain and adjunctive seizure therapy are established uses."
+      },
+      {
+        "type": "li",
+        "text": "Somnolence and dizziness are common adverse effects."
+      },
+      {
+        "type": "li",
+        "text": "Renal elimination makes kidney function relevant to dosing."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": [
+      {
+        "title": "MedlinePlus — medicine reference index",
+        "url": "https://medlineplus.gov/druginformation.html"
+      },
+      {
+        "title": "FDA — gabapentinoid breathing risk",
+        "url": "https://www.fda.gov/safety/medical-product-safety-information/neurontin-gralise-horizant-gabapentin-and-lyrica-lyrica-cr-pregabalin-drug-safety-communication"
+      }
+    ]
+  },
+  {
+    "id": "vcWNw51yG8k",
+    "title": "Levetiracetam Pharmacology: Mechanism of Action, Therapeutic Uses and Adverse Effects",
+    "category": "Pharmacology",
+    "noteStatus": "Video frames + study guide",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Levetiracetam"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "SV2A is the synaptic vesicle protein targeted by levetiracetam."
+      },
+      {
+        "type": "li",
+        "text": "Focal seizures are among its treatment indications."
+      },
+      {
+        "type": "li",
+        "text": "Behavioral changes such as irritability may occur."
+      },
+      {
+        "type": "li",
+        "text": "Renal clearance is important when selecting a dose."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": [
+      {
+        "title": "MedlinePlus — medicine reference index",
+        "url": "https://medlineplus.gov/druginformation.html"
+      }
+    ]
+  },
+  {
+    "id": "n1bTY2_BOsI",
+    "title": "Topiramate Pharmacology: Mechanism of Action, Therapeutic Uses and Adverse Effects",
+    "category": "Pharmacology",
+    "noteStatus": "Video frames + study guide",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Topiramate"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "Multiple mechanisms include effects on sodium channels, GABA signaling, and glutamate signaling."
+      },
+      {
+        "type": "li",
+        "text": "Cognitive slowing is a notable adverse effect."
+      },
+      {
+        "type": "li",
+        "text": "Kidney stones and metabolic acidosis can occur."
+      },
+      {
+        "type": "li",
+        "text": "Pregnancy risk requires careful counselling and current prescribing guidance."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": [
+      {
+        "title": "MedlinePlus — medicine reference index",
+        "url": "https://medlineplus.gov/druginformation.html"
+      },
+      {
+        "title": "DailyMed — topiramate",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ae63e0e2-ceb1-4cc7-88fa-92cfa4516960"
+      }
+    ]
+  },
+  {
+    "id": "dM8s0FL7Tlc",
+    "title": "Lamotrigine Pharmacology: Mechanism of Action, Therapeutic Uses and Adverse Effects",
+    "category": "Pharmacology",
+    "noteStatus": "Video frames + study guide",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Lamotrigine"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "Voltage-gated sodium channels are a major target of lamotrigine."
+      },
+      {
+        "type": "li",
+        "text": "Slow titration helps reduce the risk of serious rash."
+      },
+      {
+        "type": "li",
+        "text": "Stevens-Johnson syndrome is an uncommon but serious adverse reaction."
+      },
+      {
+        "type": "li",
+        "text": "Valproate can increase lamotrigine exposure through inhibition of metabolism."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": [
+      {
+        "title": "MedlinePlus — medicine reference index",
+        "url": "https://medlineplus.gov/druginformation.html"
+      }
+    ]
+  },
+  {
+    "id": "I6MQfP131AQ",
+    "title": "Ethosuximide Pharmacology: Mechanism of Action, Therapeutic Uses and Adverse Effects",
+    "category": "Pharmacology",
+    "noteStatus": "Video frames + study guide",
+    "notes": [
+      {
+        "type": "p",
+        "text": "Ethosuximide is an antiepileptic drug primarily used in the management of absence seizures. It is considered the drug of choice for childhood absence epilepsy due to its efficacy and favorable safety profile. Ethosuximide was first introduced in the 1950s and remains a cornerstone in the treatment of specific seizure types. References: Goodman & Gilman's The Pharmacological Basis of Therapeutics, 14th Edition; FDA label; Epilepsy Foundation."
+      },
+      {
+        "type": "h2",
+        "text": "Mechanism of Action"
+      },
+      {
+        "type": "li",
+        "text": "Ethosuximide acts by selectively inhibiting T-type calcium channels in thalamic neurons."
+      },
+      {
+        "type": "li",
+        "text": "By blocking these channels, ethosuximide reduces the abnormal rhythmic burst firing in the thalamus that is characteristic of absence seizures."
+      },
+      {
+        "type": "li",
+        "text": "This action suppresses the generation of the 3 Hz spike-and-wave discharges seen on EEG in absence epilepsy."
+      },
+      {
+        "type": "li",
+        "text": "Ethosuximide does not significantly affect sodium channels or GABAergic neurotransmission."
+      },
+      {
+        "type": "p",
+        "text": "References: Goodman & Gilman’s; Katzung Basic & Clinical Pharmacology, 15th Edition; Epilepsy Foundation."
+      },
+      {
+        "type": "h2",
+        "text": "Therapeutic Uses"
+      },
+      {
+        "type": "li",
+        "text": "Ethosuximide is indicated for the treatment of absence (petit mal) seizures."
+      },
+      {
+        "type": "li",
+        "text": "It is considered first-line therapy for childhood absence epilepsy."
+      },
+      {
+        "type": "li",
+        "text": "Ethosuximide is not effective for other seizure types such as tonic-clonic or partial seizures."
+      },
+      {
+        "type": "li",
+        "text": "In some cases, it may be used in combination with other antiepileptic drugs if mixed seizure types are present."
+      },
+      {
+        "type": "p",
+        "text": "References: FDA label; NICE guidelines; Epilepsy Foundation."
+      },
+      {
+        "type": "li",
+        "text": "Gastrointestinal upset (nausea, vomiting, abdominal pain)"
+      },
+      {
+        "type": "li",
+        "text": "Fatigue, drowsiness"
+      },
+      {
+        "type": "li",
+        "text": "Blood dyscrasias (leukopenia, agranulocytosis, aplastic anemia)"
+      },
+      {
+        "type": "li",
+        "text": "Severe skin reactions (Stevens-Johnson syndrome, erythema multiforme)"
+      },
+      {
+        "type": "li",
+        "text": "Systemic lupus erythematosus–like syndrome"
+      },
+      {
+        "type": "li",
+        "text": "Allergic reactions"
+      },
+      {
+        "type": "li",
+        "text": "Psychiatric effects (irritability, aggression, psychosis, sleep disturbances)"
+      },
+      {
+        "type": "p",
+        "text": "References: Goodman & Gilman’s; FDA label; MedlinePlus."
+      },
+      {
+        "type": "p",
+        "text": "Ethosuximide is a well-established antiepileptic drug with a specific mechanism targeting T-type calcium channels. It is highly effective for absence seizures and generally well tolerated, but clinicians should monitor for rare but serious adverse effects. Its use should be guided by clinical guidelines and individualized patient assessment."
+      }
+    ],
+    "references": [
+      {
+        "title": "MedlinePlus — medicine reference index",
+        "url": "https://medlineplus.gov/druginformation.html"
+      }
+    ]
+  }
+]

@@ -1,0 +1,907 @@
+[
+  {
+    "id": "reviewed-r5-leukotrienes-1",
+    "lectureId": "YkoLh829-Ro",
+    "category": "Pharmacology",
+    "title": "Receptor blockade",
+    "prompt": "A 16-year-old with asthma is prescribed montelukast as part of an individualized treatment plan. The clinician explains that it acts on an inflammatory mediator pathway rather than directly stimulating beta receptors. Which mechanism best describes this drug?",
+    "answer": "Cysteinyl leukotriene receptor antagonism",
+    "options": [
+      "Direct beta-2 receptor stimulation",
+      "Muscarinic receptor blockade",
+      "Phosphodiesterase inhibition",
+      "Cysteinyl leukotriene receptor antagonism",
+      "Inhibition of 5-lipoxygenase"
+    ],
+    "explanation": "Montelukast blocks CysLT1-mediated leukotriene effects.",
+    "distractorExplanations": {
+      "Cysteinyl leukotriene receptor antagonism": "Montelukast blocks CysLT1-mediated leukotriene effects.",
+      "Inhibition of 5-lipoxygenase": "This is the mechanism of zileuton.",
+      "Direct beta-2 receptor stimulation": "This describes beta agonist bronchodilators.",
+      "Muscarinic receptor blockade": "This describes drugs such as ipratropium.",
+      "Phosphodiesterase inhibition": "This is associated with methylxanthines."
+    },
+    "references": [
+      {
+        "title": "FDA — montelukast safety communication",
+        "url": "https://www.fda.gov/drugs/drug-safety-communications/fda-requires-boxed-warning-about-serious-mental-health-side-effects-asthma-and-allergy-drug"
+      },
+      {
+        "title": "DailyMed — zileuton",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fd382540-b390-4e86-a94a-988ea89c93a8"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=YkoLh829-Ro"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-r5-leukotrienes-2",
+    "lectureId": "YkoLh829-Ro",
+    "category": "Pharmacology",
+    "title": "Synthesis inhibition",
+    "prompt": "A researcher compares two asthma medicines. One blocks leukotriene receptors, whereas the other inhibits the enzyme responsible for initiating leukotriene synthesis from arachidonic acid. Which drug belongs to the second group rather than the receptor-antagonist group?",
+    "answer": "Zileuton",
+    "options": [
+      "Ipratropium",
+      "Albuterol",
+      "Zileuton",
+      "Montelukast",
+      "Zafirlukast"
+    ],
+    "explanation": "Zileuton inhibits 5-lipoxygenase and reduces leukotriene synthesis.",
+    "distractorExplanations": {
+      "Zileuton": "Zileuton inhibits 5-lipoxygenase and reduces leukotriene synthesis.",
+      "Montelukast": "Montelukast is a leukotriene receptor antagonist.",
+      "Zafirlukast": "Zafirlukast also blocks leukotriene receptors.",
+      "Ipratropium": "It blocks muscarinic receptors.",
+      "Albuterol": "It stimulates beta-2 receptors."
+    },
+    "references": [
+      {
+        "title": "FDA — montelukast safety communication",
+        "url": "https://www.fda.gov/drugs/drug-safety-communications/fda-requires-boxed-warning-about-serious-mental-health-side-effects-asthma-and-allergy-drug"
+      },
+      {
+        "title": "DailyMed — zileuton",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fd382540-b390-4e86-a94a-988ea89c93a8"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=YkoLh829-Ro"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-r5-leukotrienes-3",
+    "lectureId": "YkoLh829-Ro",
+    "category": "Pharmacology",
+    "title": "New behavioral symptoms",
+    "prompt": "A 14-year-old taking montelukast develops disturbing nightmares and new behavioral changes. The symptoms began after treatment was started. The family asks whether they should wait until the next routine visit. Which recommendation best reflects the drug’s boxed warning?",
+    "answer": "Stop montelukast and contact the treating clinician promptly",
+    "options": [
+      "Replace all inhalers with montelukast alone",
+      "Stop montelukast and contact the treating clinician promptly",
+      "Double the dose to treat the nightmares",
+      "Ignore the symptoms because asthma drugs cannot affect behavior",
+      "Continue unchanged until suicidal thoughts develop"
+    ],
+    "explanation": "New neuropsychiatric symptoms require prompt action and reassessment of montelukast treatment.",
+    "distractorExplanations": {
+      "Stop montelukast and contact the treating clinician promptly": "New neuropsychiatric symptoms require prompt action and reassessment of montelukast treatment.",
+      "Double the dose to treat the nightmares": "Increasing exposure is not a treatment for this adverse effect.",
+      "Ignore the symptoms because asthma drugs cannot affect behavior": "Serious neuropsychiatric events have been reported.",
+      "Continue unchanged until suicidal thoughts develop": "Waiting for severe deterioration is inappropriate.",
+      "Replace all inhalers with montelukast alone": "This does not address the adverse reaction and may impair asthma control."
+    },
+    "references": [
+      {
+        "title": "FDA — montelukast safety communication",
+        "url": "https://www.fda.gov/drugs/drug-safety-communications/fda-requires-boxed-warning-about-serious-mental-health-side-effects-asthma-and-allergy-drug"
+      },
+      {
+        "title": "DailyMed — zileuton",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fd382540-b390-4e86-a94a-988ea89c93a8"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=YkoLh829-Ro"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-r5-leukotrienes-4",
+    "lectureId": "YkoLh829-Ro",
+    "category": "Pharmacology",
+    "title": "Monitoring a synthesis inhibitor",
+    "prompt": "A 38-year-old patient is being considered for zileuton. Baseline tests show active liver disease with substantially elevated aminotransferases. Which organ-specific toxicity is most relevant when deciding whether this medication is appropriate?",
+    "answer": "Hepatotoxicity",
+    "options": [
+      "Hepatotoxicity",
+      "Retinal pigment deposition",
+      "Irreversible ototoxicity",
+      "Hemorrhagic cystitis",
+      "Gingival hyperplasia"
+    ],
+    "explanation": "Zileuton can cause liver injury and requires attention to baseline and follow-up liver tests.",
+    "distractorExplanations": {
+      "Hepatotoxicity": "Zileuton can cause liver injury and requires attention to baseline and follow-up liver tests.",
+      "Retinal pigment deposition": "This is not the characteristic monitoring issue for zileuton.",
+      "Irreversible ototoxicity": "This is more characteristic of drugs such as aminoglycosides.",
+      "Hemorrhagic cystitis": "This is associated with certain chemotherapy agents rather than zileuton.",
+      "Gingival hyperplasia": "This is classically associated with phenytoin."
+    },
+    "references": [
+      {
+        "title": "FDA — montelukast safety communication",
+        "url": "https://www.fda.gov/drugs/drug-safety-communications/fda-requires-boxed-warning-about-serious-mental-health-side-effects-asthma-and-allergy-drug"
+      },
+      {
+        "title": "DailyMed — zileuton",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fd382540-b390-4e86-a94a-988ea89c93a8"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=YkoLh829-Ro"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-r5-leukotrienes-5",
+    "lectureId": "YkoLh829-Ro",
+    "category": "Pharmacology",
+    "title": "Not an acute reliever",
+    "prompt": "A patient taking montelukast develops rapidly worsening wheeze and chest tightness. He considers taking an extra tablet instead of following his prescribed acute-relief plan. Which explanation best describes why that substitution is inappropriate?",
+    "answer": "Montelukast is not a rescue treatment for an acute asthma attack",
+    "options": [
+      "It is the fastest inhaled bronchodilator",
+      "It directly dissolves mucus plugs within seconds",
+      "It reverses every severe attack without other treatment",
+      "It is an opioid antidote",
+      "Montelukast is not a rescue treatment for an acute asthma attack"
+    ],
+    "explanation": "Its controller role does not replace prompt acute bronchodilator treatment and assessment when indicated.",
+    "distractorExplanations": {
+      "Montelukast is not a rescue treatment for an acute asthma attack": "Its controller role does not replace prompt acute bronchodilator treatment and assessment when indicated.",
+      "It is the fastest inhaled bronchodilator": "Montelukast is an oral leukotriene antagonist, not an inhaled rescue bronchodilator.",
+      "It directly dissolves mucus plugs within seconds": "This is not its mechanism.",
+      "It reverses every severe attack without other treatment": "No such guarantee exists.",
+      "It is an opioid antidote": "This describes naloxone, not montelukast."
+    },
+    "references": [
+      {
+        "title": "FDA — montelukast safety communication",
+        "url": "https://www.fda.gov/drugs/drug-safety-communications/fda-requires-boxed-warning-about-serious-mental-health-side-effects-asthma-and-allergy-drug"
+      },
+      {
+        "title": "DailyMed — zileuton",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fd382540-b390-4e86-a94a-988ea89c93a8"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=YkoLh829-Ro"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-r5-ics-1",
+    "lectureId": "P0NWBHUUVmU",
+    "category": "Pharmacology",
+    "title": "Local candidiasis",
+    "prompt": "A 29-year-old woman develops white oral plaques and a sore mouth several weeks after starting an inhaled corticosteroid. She has not been rinsing after use. Which advice can reduce local steroid deposition and the risk of recurrence?",
+    "answer": "Rinse the mouth and spit after inhalation",
+    "options": [
+      "Stop cleaning the inhaler mouthpiece",
+      "Take routine systemic antibiotics after every inhalation",
+      "Inhale through the nose with every oral inhaler",
+      "Rinse the mouth and spit after inhalation",
+      "Swallow an extra inhaled dose after each treatment"
+    ],
+    "explanation": "Rinsing removes residual medication from the oropharynx and helps reduce candidiasis risk.",
+    "distractorExplanations": {
+      "Rinse the mouth and spit after inhalation": "Rinsing removes residual medication from the oropharynx and helps reduce candidiasis risk.",
+      "Swallow an extra inhaled dose after each treatment": "Extra exposure does not prevent candidiasis.",
+      "Stop cleaning the inhaler mouthpiece": "Poor device hygiene does not reduce local risk.",
+      "Take routine systemic antibiotics after every inhalation": "Antibiotics are not routine prevention for oral Candida.",
+      "Inhale through the nose with every oral inhaler": "The device should be used by its intended route and technique."
+    },
+    "references": [
+      {
+        "title": "DailyMed — inhaled budesonide",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dd74e446-7c1b-4f02-9c73-ba716572ee77"
+      },
+      {
+        "title": "GINA 2026 strategy report",
+        "url": "https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=P0NWBHUUVmU"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-r5-ics-2",
+    "lectureId": "P0NWBHUUVmU",
+    "category": "Pharmacology",
+    "title": "Inflammation rather than immediate relaxation",
+    "prompt": "A patient says her corticosteroid inhaler must be ineffective because it does not produce the same immediate sensation as a bronchodilator. Which explanation best describes the main purpose of the corticosteroid component of her asthma regimen?",
+    "answer": "Suppression of airway inflammation and reduction of exacerbation risk",
+    "options": [
+      "Immediate neutralization of all inhaled allergens",
+      "Replacement of oxygen in the alveoli",
+      "Suppression of airway inflammation and reduction of exacerbation risk",
+      "Direct beta-2 receptor stimulation within seconds",
+      "Competitive M3 receptor antagonism"
+    ],
+    "explanation": "ICS-containing treatment addresses the inflammatory component of asthma.",
+    "distractorExplanations": {
+      "Suppression of airway inflammation and reduction of exacerbation risk": "ICS-containing treatment addresses the inflammatory component of asthma.",
+      "Direct beta-2 receptor stimulation within seconds": "This is the role of a beta agonist.",
+      "Competitive M3 receptor antagonism": "This is the action of antimuscarinic bronchodilators.",
+      "Immediate neutralization of all inhaled allergens": "ICS does not physically neutralize allergens.",
+      "Replacement of oxygen in the alveoli": "ICS is not supplemental oxygen."
+    },
+    "references": [
+      {
+        "title": "DailyMed — inhaled budesonide",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dd74e446-7c1b-4f02-9c73-ba716572ee77"
+      },
+      {
+        "title": "GINA 2026 strategy report",
+        "url": "https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=P0NWBHUUVmU"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-r5-ics-3",
+    "lectureId": "P0NWBHUUVmU",
+    "category": "Pharmacology",
+    "title": "Local voice change",
+    "prompt": "A singer with asthma develops hoarseness after starting regular inhaled corticosteroid therapy. There is no fever, stridor or new neck mass. Which adverse effect should be considered while reviewing her inhaler technique and treatment needs?",
+    "answer": "ICS-associated dysphonia",
+    "options": [
+      "Acute cholinergic poisoning",
+      "ICS-associated dysphonia",
+      "Aminoglycoside-associated vestibular injury",
+      "Beta-blocker withdrawal",
+      "Opioid-induced chest wall rigidity"
+    ],
+    "explanation": "Local steroid effects can cause hoarseness; technique and dosing should be reviewed.",
+    "distractorExplanations": {
+      "ICS-associated dysphonia": "Local steroid effects can cause hoarseness; technique and dosing should be reviewed.",
+      "Aminoglycoside-associated vestibular injury": "No aminoglycoside exposure or vestibular symptoms are described.",
+      "Beta-blocker withdrawal": "The medication and symptom pattern do not support this.",
+      "Opioid-induced chest wall rigidity": "That is not a typical local inhaled-steroid effect.",
+      "Acute cholinergic poisoning": "The expected secretory syndrome is absent."
+    },
+    "references": [
+      {
+        "title": "DailyMed — inhaled budesonide",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dd74e446-7c1b-4f02-9c73-ba716572ee77"
+      },
+      {
+        "title": "GINA 2026 strategy report",
+        "url": "https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=P0NWBHUUVmU"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-r5-ics-4",
+    "lectureId": "P0NWBHUUVmU",
+    "category": "Pharmacology",
+    "title": "Systemic exposure at high doses",
+    "prompt": "A patient has used high-dose inhaled corticosteroids for a prolonged period and also receives a strong inhibitor of the steroid’s metabolism. The clinician reviews signs of systemic steroid excess and adrenal suppression. Which statement is most accurate?",
+    "answer": "Inhaled delivery reduces but does not eliminate systemic adverse effects",
+    "options": [
+      "Inhaled delivery reduces but does not eliminate systemic adverse effects",
+      "Inhaled drugs can never enter systemic circulation",
+      "Adrenal suppression is impossible with every inhaled dose",
+      "Only bronchodilators can produce systemic effects",
+      "A strong metabolic inhibitor must lower steroid exposure"
+    ],
+    "explanation": "Systemic exposure can become clinically important with high doses and relevant interactions.",
+    "distractorExplanations": {
+      "Inhaled delivery reduces but does not eliminate systemic adverse effects": "Systemic exposure can become clinically important with high doses and relevant interactions.",
+      "Inhaled drugs can never enter systemic circulation": "Pulmonary and swallowed portions can contribute to exposure.",
+      "Adrenal suppression is impossible with every inhaled dose": "High-dose and interaction-related risks exist.",
+      "Only bronchodilators can produce systemic effects": "Corticosteroids can also have systemic effects.",
+      "A strong metabolic inhibitor must lower steroid exposure": "Inhibition can increase exposure to a susceptible substrate."
+    },
+    "references": [
+      {
+        "title": "DailyMed — inhaled budesonide",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dd74e446-7c1b-4f02-9c73-ba716572ee77"
+      },
+      {
+        "title": "GINA 2026 strategy report",
+        "url": "https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=P0NWBHUUVmU"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-r5-ics-5",
+    "lectureId": "P0NWBHUUVmU",
+    "category": "Pharmacology",
+    "title": "Technique before escalation",
+    "prompt": "A patient reports persistent asthma symptoms despite being prescribed an ICS-containing inhaler. At review, he actuates the metered-dose device after finishing inhalation, so little medicine reaches the lungs. What should be addressed before assuming pharmacologic treatment failure?",
+    "answer": "Correct inhaler technique and assess adherence",
+    "options": [
+      "Immediately label all corticosteroids ineffective",
+      "Replace the controller with chronic oral antibiotics",
+      "Take every dose twice without changing technique",
+      "Stop all controller treatment permanently",
+      "Correct inhaler technique and assess adherence"
+    ],
+    "explanation": "Poor delivery can explain apparent lack of efficacy and should be corrected before unnecessary escalation.",
+    "distractorExplanations": {
+      "Correct inhaler technique and assess adherence": "Poor delivery can explain apparent lack of efficacy and should be corrected before unnecessary escalation.",
+      "Immediately label all corticosteroids ineffective": "The medication may not be reaching its target.",
+      "Replace the controller with chronic oral antibiotics": "Antibiotics do not correct inhaler technique or routine asthma inflammation.",
+      "Take every dose twice without changing technique": "More poorly delivered doses do not resolve the cause.",
+      "Stop all controller treatment permanently": "The problem calls for technique correction, not abandonment of control."
+    },
+    "references": [
+      {
+        "title": "DailyMed — inhaled budesonide",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dd74e446-7c1b-4f02-9c73-ba716572ee77"
+      },
+      {
+        "title": "GINA 2026 strategy report",
+        "url": "https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=P0NWBHUUVmU"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-r5-theophylline-1",
+    "lectureId": "4tMkbauozAc",
+    "category": "Pharmacology",
+    "title": "A narrow therapeutic margin",
+    "prompt": "A patient taking theophylline develops vomiting, tremor and palpitations after an interacting medicine is started. The clinician urgently checks the serum theophylline concentration. Which property makes concentration monitoring particularly useful for this drug?",
+    "answer": "A narrow therapeutic index with variable clearance",
+    "options": [
+      "No hepatic metabolism",
+      "A guaranteed fixed clearance in every patient",
+      "An inability to measure serum concentrations",
+      "A narrow therapeutic index with variable clearance",
+      "A complete absence of dose-related adverse effects"
+    ],
+    "explanation": "Relatively small exposure changes can produce toxicity, and clearance varies with illness and interactions.",
+    "distractorExplanations": {
+      "A narrow therapeutic index with variable clearance": "Relatively small exposure changes can produce toxicity, and clearance varies with illness and interactions.",
+      "A complete absence of dose-related adverse effects": "Theophylline toxicity is concentration related.",
+      "No hepatic metabolism": "Theophylline is substantially metabolized.",
+      "A guaranteed fixed clearance in every patient": "Clearance varies considerably.",
+      "An inability to measure serum concentrations": "Serum theophylline measurements are clinically available."
+    },
+    "references": [
+      {
+        "title": "DailyMed — theophylline",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=aa80b9f4-8a5d-3e14-e053-2a95a90a8aab"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=4tMkbauozAc"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-r5-theophylline-2",
+    "lectureId": "4tMkbauozAc",
+    "category": "Pharmacology",
+    "title": "Smoking cessation",
+    "prompt": "A man taking a stable theophylline dose stops smoking during hospitalization. No dose adjustment is made. Several days later he develops nausea and tachycardia with an elevated drug concentration. Which change best explains the increased exposure?",
+    "answer": "Reduced smoke-induced metabolic clearance",
+    "options": [
+      "Reduced intestinal absorption",
+      "Increased fecal elimination",
+      "Reduced smoke-induced metabolic clearance",
+      "Increased induction from nicotine withdrawal",
+      "Complete cessation of renal filtration"
+    ],
+    "explanation": "Stopping tobacco smoke exposure can reduce enzyme induction and lower theophylline clearance.",
+    "distractorExplanations": {
+      "Reduced smoke-induced metabolic clearance": "Stopping tobacco smoke exposure can reduce enzyme induction and lower theophylline clearance.",
+      "Increased induction from nicotine withdrawal": "The relevant induction comes from smoke exposure, not simply nicotine withdrawal.",
+      "Complete cessation of renal filtration": "No renal failure is specified and this is not the key smoking interaction.",
+      "Reduced intestinal absorption": "Reduced absorption would lower exposure.",
+      "Increased fecal elimination": "Greater elimination would not explain the rise."
+    },
+    "references": [
+      {
+        "title": "DailyMed — theophylline",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=aa80b9f4-8a5d-3e14-e053-2a95a90a8aab"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=4tMkbauozAc"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-r5-theophylline-3",
+    "lectureId": "4tMkbauozAc",
+    "category": "Pharmacology",
+    "title": "Severe toxicity",
+    "prompt": "A patient with a markedly elevated theophylline concentration has repeated vomiting and then a generalized seizure. Telemetry shows a rapid arrhythmia. Which pair of complications is characteristic of serious theophylline toxicity?",
+    "answer": "Seizures and cardiac arrhythmias",
+    "options": [
+      "Isolated constipation and bradycardia",
+      "Seizures and cardiac arrhythmias",
+      "Gingival hyperplasia and hirsutism",
+      "Ototoxicity and tendon rupture",
+      "Urinary retention and fixed pinpoint pupils"
+    ],
+    "explanation": "Both are potentially life-threatening manifestations of methylxanthine toxicity.",
+    "distractorExplanations": {
+      "Seizures and cardiac arrhythmias": "Both are potentially life-threatening manifestations of methylxanthine toxicity.",
+      "Gingival hyperplasia and hirsutism": "These suggest chronic phenytoin effects.",
+      "Ototoxicity and tendon rupture": "This is not a characteristic theophylline toxicity pair.",
+      "Urinary retention and fixed pinpoint pupils": "This does not match the usual stimulant toxicity pattern.",
+      "Isolated constipation and bradycardia": "Severe theophylline toxicity commonly produces excitation and tachyarrhythmias."
+    },
+    "references": [
+      {
+        "title": "DailyMed — theophylline",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=aa80b9f4-8a5d-3e14-e053-2a95a90a8aab"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=4tMkbauozAc"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-r5-theophylline-4",
+    "lectureId": "4tMkbauozAc",
+    "category": "Pharmacology",
+    "title": "Clearance during illness",
+    "prompt": "A patient taking theophylline develops prolonged high fever and worsening heart failure. His dose is unchanged, but the clinician reassesses the regimen and drug level. Which pharmacokinetic concern motivates this review during the acute illness?",
+    "answer": "Theophylline clearance may decrease",
+    "options": [
+      "Theophylline clearance may decrease",
+      "Clearance must double in every febrile illness",
+      "The drug becomes completely unabsorbed",
+      "Protein binding is the only possible determinant of exposure",
+      "The medication becomes a prodrug that requires infection"
+    ],
+    "explanation": "Fever and heart failure can reduce clearance and increase toxicity risk.",
+    "distractorExplanations": {
+      "Theophylline clearance may decrease": "Fever and heart failure can reduce clearance and increase toxicity risk.",
+      "Clearance must double in every febrile illness": "Theophylline clearance may instead decrease.",
+      "The drug becomes completely unabsorbed": "This is not the expected effect.",
+      "Protein binding is the only possible determinant of exposure": "Metabolic clearance is clinically important.",
+      "The medication becomes a prodrug that requires infection": "Theophylline does not require infection for activation."
+    },
+    "references": [
+      {
+        "title": "DailyMed — theophylline",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=aa80b9f4-8a5d-3e14-e053-2a95a90a8aab"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=4tMkbauozAc"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-r5-theophylline-5",
+    "lectureId": "4tMkbauozAc",
+    "category": "Pharmacology",
+    "title": "Methylxanthine pharmacology",
+    "prompt": "A researcher studies theophylline’s bronchodilator actions in airway smooth muscle. One mechanism involves reducing cyclic nucleotide breakdown rather than stimulating an adrenergic receptor directly. Which enzyme activity is inhibited in this proposed mechanism?",
+    "answer": "Phosphodiesterase",
+    "options": [
+      "Acetylcholinesterase",
+      "Cyclooxygenase-1 exclusively",
+      "5-lipoxygenase",
+      "Angiotensin-converting enzyme",
+      "Phosphodiesterase"
+    ],
+    "explanation": "Phosphodiesterase inhibition can increase intracellular cyclic nucleotides; theophylline also has other actions.",
+    "distractorExplanations": {
+      "Phosphodiesterase": "Phosphodiesterase inhibition can increase intracellular cyclic nucleotides; theophylline also has other actions.",
+      "Acetylcholinesterase": "Its inhibition would increase cholinergic signaling.",
+      "Cyclooxygenase-1 exclusively": "That is not the cyclic nucleotide breakdown enzyme.",
+      "5-lipoxygenase": "This is the target of zileuton.",
+      "Angiotensin-converting enzyme": "ACE does not directly degrade cyclic nucleotides."
+    },
+    "references": [
+      {
+        "title": "DailyMed — theophylline",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=aa80b9f4-8a5d-3e14-e053-2a95a90a8aab"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=4tMkbauozAc"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-r5-ipratropium-1",
+    "lectureId": "YoZt94lBYcM",
+    "category": "Pharmacology",
+    "title": "Blocking vagal bronchoconstriction",
+    "prompt": "A patient receives inhaled ipratropium in addition to a beta agonist. The two drugs act through different receptor pathways. Which action most directly explains ipratropium’s ability to reduce cholinergic contraction of airway smooth muscle?",
+    "answer": "Muscarinic receptor antagonism",
+    "options": [
+      "Leukotriene synthesis inhibition",
+      "Glucocorticoid receptor activation",
+      "Direct activation of acetylcholine receptors",
+      "Muscarinic receptor antagonism",
+      "Beta-2 receptor agonism"
+    ],
+    "explanation": "Ipratropium blocks muscarinic effects of acetylcholine, including M3-mediated bronchoconstriction.",
+    "distractorExplanations": {
+      "Muscarinic receptor antagonism": "Ipratropium blocks muscarinic effects of acetylcholine, including M3-mediated bronchoconstriction.",
+      "Beta-2 receptor agonism": "This is the complementary beta agonist pathway.",
+      "Leukotriene synthesis inhibition": "This describes zileuton.",
+      "Glucocorticoid receptor activation": "This describes corticosteroids.",
+      "Direct activation of acetylcholine receptors": "Activation would favor rather than block cholinergic bronchoconstriction."
+    },
+    "references": [
+      {
+        "title": "DailyMed — Atrovent HFA",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ae462cd6-615b-4f0d-ae6e-59007e7acab0"
+      },
+      {
+        "title": "GINA 2026 strategy report",
+        "url": "https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=YoZt94lBYcM"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-r5-ipratropium-2",
+    "lectureId": "YoZt94lBYcM",
+    "category": "Pharmacology",
+    "title": "Nebulized medicine reaching the eyes",
+    "prompt": "A 71-year-old patient with known narrow anterior chamber angles uses nebulized ipratropium through a poorly fitting mask. He develops eye pain, blurred vision and halos. Which drug-related complication requires urgent assessment?",
+    "answer": "Acute angle-closure glaucoma",
+    "options": [
+      "Central retinal artery occlusion",
+      "Dry eye alone",
+      "Acute angle-closure glaucoma",
+      "Retinal detachment",
+      "Cataract progression"
+    ],
+    "explanation": "Ocular antimuscarinic exposure can precipitate angle closure in susceptible patients.",
+    "distractorExplanations": {
+      "Acute angle-closure glaucoma": "Ocular antimuscarinic exposure can precipitate angle closure in susceptible patients.",
+      "Retinal detachment": "Flashes, floaters and a curtain-like field defect are more typical; the painful halos after antimuscarinic exposure favor angle closure.",
+      "Cataract progression": "Cataracts generally cause gradual painless visual change rather than acute painful halos.",
+      "Central retinal artery occlusion": "This typically causes sudden painless vision loss, unlike the painful exposure-associated syndrome.",
+      "Dry eye alone": "Mild surface irritation does not adequately explain the acute painful visual disturbance in a predisposed eye."
+    },
+    "references": [
+      {
+        "title": "DailyMed — Atrovent HFA",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ae462cd6-615b-4f0d-ae6e-59007e7acab0"
+      },
+      {
+        "title": "GINA 2026 strategy report",
+        "url": "https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=YoZt94lBYcM"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-r5-ipratropium-3",
+    "lectureId": "YoZt94lBYcM",
+    "category": "Pharmacology",
+    "title": "Urinary symptoms",
+    "prompt": "An older man with bladder outlet obstruction begins an inhaled antimuscarinic bronchodilator. He subsequently has increasing difficulty passing urine. Which recognized adverse effect should be considered when reviewing his ipratropium treatment and other medicines?",
+    "answer": "Urinary retention",
+    "options": [
+      "Direct stimulation of bladder contraction",
+      "Urinary retention",
+      "Osmotic diuresis",
+      "Nephrogenic diabetes insipidus",
+      "Acute uric acid overproduction"
+    ],
+    "explanation": "Antimuscarinic effects can worsen urinary retention, especially with outflow obstruction.",
+    "distractorExplanations": {
+      "Urinary retention": "Antimuscarinic effects can worsen urinary retention, especially with outflow obstruction.",
+      "Osmotic diuresis": "This would increase urine output rather than obstruct voiding.",
+      "Nephrogenic diabetes insipidus": "This causes high-volume dilute urine.",
+      "Acute uric acid overproduction": "This does not explain the antimuscarinic association.",
+      "Direct stimulation of bladder contraction": "Muscarinic blockade inhibits rather than stimulates detrusor contraction."
+    },
+    "references": [
+      {
+        "title": "DailyMed — Atrovent HFA",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ae462cd6-615b-4f0d-ae6e-59007e7acab0"
+      },
+      {
+        "title": "GINA 2026 strategy report",
+        "url": "https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=YoZt94lBYcM"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-r5-ipratropium-4",
+    "lectureId": "YoZt94lBYcM",
+    "category": "Pharmacology",
+    "title": "Dry mouth",
+    "prompt": "A patient using ipratropium reports a dry mouth after inhalations but has no swelling, rash or respiratory deterioration. Which pharmacologic action most directly explains this common local anticholinergic effect of the medication?",
+    "answer": "Reduced muscarinic stimulation of salivary secretion",
+    "options": [
+      "Reduced muscarinic stimulation of salivary secretion",
+      "Increased parasympathetic salivary signaling",
+      "Direct activation of salivary beta-2 receptors",
+      "Histamine release causing anaphylaxis in every user",
+      "Inhibition of all renal water reabsorption"
+    ],
+    "explanation": "Muscarinic blockade reduces glandular secretion.",
+    "distractorExplanations": {
+      "Reduced muscarinic stimulation of salivary secretion": "Muscarinic blockade reduces glandular secretion.",
+      "Increased parasympathetic salivary signaling": "This would increase secretion.",
+      "Direct activation of salivary beta-2 receptors": "This is not ipratropium’s action.",
+      "Histamine release causing anaphylaxis in every user": "Dry mouth alone does not establish anaphylaxis.",
+      "Inhibition of all renal water reabsorption": "That would not directly explain the local antimuscarinic effect."
+    },
+    "references": [
+      {
+        "title": "DailyMed — Atrovent HFA",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ae462cd6-615b-4f0d-ae6e-59007e7acab0"
+      },
+      {
+        "title": "GINA 2026 strategy report",
+        "url": "https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=YoZt94lBYcM"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-r5-ipratropium-5",
+    "lectureId": "YoZt94lBYcM",
+    "category": "Pharmacology",
+    "title": "An adjunct in severe exacerbation",
+    "prompt": "A patient with a severe asthma exacerbation receives repeated inhaled short-acting beta agonist treatment and systemic corticosteroids. Ipratropium is added during initial emergency care. Which description best captures its role in this setting?",
+    "answer": "An additional bronchodilator acting through muscarinic blockade",
+    "options": [
+      "A substitute for all systemic corticosteroid treatment",
+      "An antimicrobial treatment for all asthma attacks",
+      "A leukotriene receptor antagonist taken orally",
+      "A replacement for respiratory support when needed",
+      "An additional bronchodilator acting through muscarinic blockade"
+    ],
+    "explanation": "Ipratropium can add bronchodilation in severe acute asthma; it does not replace anti-inflammatory treatment.",
+    "distractorExplanations": {
+      "An additional bronchodilator acting through muscarinic blockade": "Ipratropium can add bronchodilation in severe acute asthma; it does not replace anti-inflammatory treatment.",
+      "A substitute for all systemic corticosteroid treatment": "It does not replace the indicated anti-inflammatory therapy.",
+      "An antimicrobial treatment for all asthma attacks": "It is not an antibiotic.",
+      "A leukotriene receptor antagonist taken orally": "It is an inhaled antimuscarinic.",
+      "A replacement for respiratory support when needed": "Medication does not replace necessary support in respiratory failure."
+    },
+    "references": [
+      {
+        "title": "DailyMed — Atrovent HFA",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ae462cd6-615b-4f0d-ae6e-59007e7acab0"
+      },
+      {
+        "title": "GINA 2026 strategy report",
+        "url": "https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=YoZt94lBYcM"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-r5-beta2-1",
+    "lectureId": "v0redm4vFVA",
+    "category": "Pharmacology",
+    "title": "Intracellular signaling",
+    "prompt": "A patient’s bronchospasm improves rapidly after inhaled albuterol. In airway smooth muscle, the activated beta-2 receptor couples to a G protein that increases a second messenger. Which signaling change best explains this bronchodilator effect?",
+    "answer": "Increased adenylyl cyclase activity and cAMP",
+    "options": [
+      "Direct inhibition of all glucocorticoid receptors",
+      "Activation of M3 receptors by acetylcholine",
+      "Covalent inhibition of cyclooxygenase",
+      "Increased adenylyl cyclase activity and cAMP",
+      "Inhibition of adenylyl cyclase through Gi"
+    ],
+    "explanation": "Beta-2 receptors signal through Gs to increase cAMP and promote smooth-muscle relaxation.",
+    "distractorExplanations": {
+      "Increased adenylyl cyclase activity and cAMP": "Beta-2 receptors signal through Gs to increase cAMP and promote smooth-muscle relaxation.",
+      "Inhibition of adenylyl cyclase through Gi": "This is not the characteristic beta-2 pathway.",
+      "Direct inhibition of all glucocorticoid receptors": "This does not explain bronchodilation.",
+      "Activation of M3 receptors by acetylcholine": "This favors bronchoconstriction.",
+      "Covalent inhibition of cyclooxygenase": "This is an aspirin mechanism, not albuterol signaling."
+    },
+    "references": [
+      {
+        "title": "DailyMed — albuterol",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=99782bc8-56d9-41f8-935e-0d0de27f0c34"
+      },
+      {
+        "title": "GINA 2026 strategy report",
+        "url": "https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=v0redm4vFVA"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-r5-beta2-2",
+    "lectureId": "v0redm4vFVA",
+    "category": "Pharmacology",
+    "title": "Potassium shift",
+    "prompt": "During repeated high-dose beta-2 agonist treatment for bronchospasm, a patient’s serum potassium falls. There has been no vomiting, diarrhea or change in renal function. Which mechanism most directly explains the rapid potassium decrease?",
+    "answer": "Shift of potassium into cells",
+    "options": [
+      "Movement of potassium out of skeletal muscle",
+      "Complete cessation of aldosterone secretion",
+      "Shift of potassium into cells",
+      "Immediate total-body potassium destruction",
+      "Selective inhibition of intestinal potassium absorption alone"
+    ],
+    "explanation": "Beta-2 stimulation promotes intracellular potassium uptake and can cause hypokalemia.",
+    "distractorExplanations": {
+      "Shift of potassium into cells": "Beta-2 stimulation promotes intracellular potassium uptake and can cause hypokalemia.",
+      "Immediate total-body potassium destruction": "Potassium is redistributed, not destroyed.",
+      "Selective inhibition of intestinal potassium absorption alone": "This would not explain the rapid shift during inhaled treatment.",
+      "Movement of potassium out of skeletal muscle": "That would raise serum potassium.",
+      "Complete cessation of aldosterone secretion": "This would not produce the expected acute hypokalemia pattern."
+    },
+    "references": [
+      {
+        "title": "DailyMed — albuterol",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=99782bc8-56d9-41f8-935e-0d0de27f0c34"
+      },
+      {
+        "title": "GINA 2026 strategy report",
+        "url": "https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=v0redm4vFVA"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-r5-beta2-3",
+    "lectureId": "v0redm4vFVA",
+    "category": "Pharmacology",
+    "title": "Tremor after rescue treatment",
+    "prompt": "A 21-year-old with asthma notices fine hand tremor and palpitations after several albuterol doses. Airflow improves and there is no rash or facial swelling. Which explanation best fits these symptoms in the context of beta-agonist therapy?",
+    "answer": "Systemic adrenergic adverse effects",
+    "options": [
+      "Immediate adrenal insufficiency",
+      "Systemic adrenergic adverse effects",
+      "A diagnostic sign of bacterial pneumonia",
+      "Proof of irreversible airway obstruction",
+      "Antimuscarinic blockade as albuterol’s primary mechanism"
+    ],
+    "explanation": "Tremor and tachycardia or palpitations can occur with beta agonists.",
+    "distractorExplanations": {
+      "Systemic adrenergic adverse effects": "Tremor and tachycardia or palpitations can occur with beta agonists.",
+      "A diagnostic sign of bacterial pneumonia": "These effects do not establish an infection.",
+      "Proof of irreversible airway obstruction": "The improved airflow argues against that conclusion.",
+      "Antimuscarinic blockade as albuterol’s primary mechanism": "Albuterol is a beta-2 agonist.",
+      "Immediate adrenal insufficiency": "This is not the typical adverse-effect pattern."
+    },
+    "references": [
+      {
+        "title": "DailyMed — albuterol",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=99782bc8-56d9-41f8-935e-0d0de27f0c34"
+      },
+      {
+        "title": "GINA 2026 strategy report",
+        "url": "https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=v0redm4vFVA"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-r5-beta2-4",
+    "lectureId": "v0redm4vFVA",
+    "category": "Pharmacology",
+    "title": "LABA monotherapy",
+    "prompt": "An adult with asthma requests a long-acting beta agonist inhaler alone because it controls symptoms for many hours. Which prescribing principle is most important when considering a LABA for asthma treatment?",
+    "answer": "Use it with an inhaled corticosteroid-containing regimen",
+    "options": [
+      "Use it with an inhaled corticosteroid-containing regimen",
+      "LABA alone is preferred because inflammation never matters",
+      "A LABA replaces every need for corticosteroids",
+      "All LABAs are antibiotics",
+      "LABAs permanently cure asthma after one dose"
+    ],
+    "explanation": "LABA monotherapy is not appropriate in asthma; anti-inflammatory treatment is required.",
+    "distractorExplanations": {
+      "Use it with an inhaled corticosteroid-containing regimen": "LABA monotherapy is not appropriate in asthma; anti-inflammatory treatment is required.",
+      "LABA alone is preferred because inflammation never matters": "Asthma includes airway inflammation.",
+      "A LABA replaces every need for corticosteroids": "Bronchodilation does not replace anti-inflammatory control.",
+      "All LABAs are antibiotics": "They are bronchodilators.",
+      "LABAs permanently cure asthma after one dose": "They provide pharmacologic control, not a permanent cure."
+    },
+    "references": [
+      {
+        "title": "DailyMed — albuterol",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=99782bc8-56d9-41f8-935e-0d0de27f0c34"
+      },
+      {
+        "title": "GINA 2026 strategy report",
+        "url": "https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=v0redm4vFVA"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-r5-beta2-5",
+    "lectureId": "v0redm4vFVA",
+    "category": "Pharmacology",
+    "title": "Increasing reliever use",
+    "prompt": "A patient previously needed occasional albuterol but now uses it many times each day and wakes at night with wheeze. He requests only a larger supply. What is the most appropriate interpretation of this change?",
+    "answer": "Worsening control requiring prompt reassessment of asthma management",
+    "options": [
+      "Proof that the controller dose should always be stopped",
+      "Evidence that no further assessment is needed",
+      "A guarantee that the disease is becoming milder",
+      "An indication to replace all therapy with an oral antihistamine",
+      "Worsening control requiring prompt reassessment of asthma management"
+    ],
+    "explanation": "Increasing reliever need is a warning sign, not merely a reason to continue unlimited SABA use.",
+    "distractorExplanations": {
+      "Worsening control requiring prompt reassessment of asthma management": "Increasing reliever need is a warning sign, not merely a reason to continue unlimited SABA use.",
+      "Proof that the controller dose should always be stopped": "Stopping anti-inflammatory control may worsen risk.",
+      "Evidence that no further assessment is needed": "Frequent symptoms require evaluation.",
+      "A guarantee that the disease is becoming milder": "More symptoms indicate the opposite.",
+      "An indication to replace all therapy with an oral antihistamine": "Antihistamines do not substitute for asthma control."
+    },
+    "references": [
+      {
+        "title": "DailyMed — albuterol",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=99782bc8-56d9-41f8-935e-0d0de27f0c34"
+      },
+      {
+        "title": "GINA 2026 strategy report",
+        "url": "https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=v0redm4vFVA"
+      }
+    ]
+  }
+]

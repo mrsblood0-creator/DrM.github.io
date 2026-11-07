@@ -1,0 +1,564 @@
+[
+  {
+    "id": "pharm-vignette-01",
+    "lectureId": "cNyNVRXtPcA",
+    "prompt": "A 58-year-old man with cirrhosis has recurrent episodes of overt hepatic encephalopathy despite an established bowel regimen. A minimally absorbed oral antibiotic is added to reduce intestinal microbial contributions to his nitrogen burden. Which bacterial target is directly inhibited by this drug?",
+    "options": [
+      "DNA-dependent RNA polymerase",
+      "The 30S aminoacyl-tRNA binding site",
+      "Dihydrofolate reductase",
+      "DNA gyrase",
+      "Penicillin-binding transpeptidases"
+    ],
+    "answer": "DNA-dependent RNA polymerase",
+    "explanation": "Rifaximin acts mainly within the gut and inhibits bacterial RNA polymerase. Transcription falls, with downstream reduction in protein synthesis.",
+    "distractorExplanations": {
+      "DNA-dependent RNA polymerase": "Rifaximin acts mainly within the gut and inhibits bacterial RNA polymerase. Transcription falls, with downstream reduction in protein synthesis.",
+      "The 30S aminoacyl-tRNA binding site": "Tetracyclines block aminoacyl-tRNA access to the 30S subunit.",
+      "Dihydrofolate reductase": "Trimethoprim inhibits bacterial dihydrofolate reductase.",
+      "DNA gyrase": "Fluoroquinolones inhibit DNA gyrase and topoisomerase IV.",
+      "Penicillin-binding transpeptidases": "Beta-lactams target penicillin-binding proteins involved in cell-wall cross-linking."
+    },
+    "references": [
+      {
+        "title": "DailyMed — XIFAXAN",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=f73acb74-e930-4414-81e9-d2a01db36e30"
+      }
+    ],
+    "provenance": "Original educational vignette; not copied from an examination."
+  },
+  {
+    "id": "pharm-vignette-02",
+    "lectureId": "bAt1Uc_SES0",
+    "prompt": "A 69-year-old woman with diabetic gastroparesis has used a prokinetic drug continuously for many months. Her family notices repetitive lip smacking and involuntary tongue movements. The prescriber suspects a cumulative-exposure adverse effect that may persist after discontinuation. Which mechanism links the drug to this finding?",
+    "options": [
+      "Peripheral histamine H2 receptor antagonism",
+      "Gastric proton-pump inhibition",
+      "Intestinal osmotic water retention",
+      "Central orexin receptor antagonism",
+      "Central dopamine D2 receptor antagonism"
+    ],
+    "answer": "Central dopamine D2 receptor antagonism",
+    "explanation": "Metoclopramide blocks D2 receptors and can cause tardive dyskinesia. Duration and cumulative exposure increase risk; new involuntary movements require prompt assessment.",
+    "distractorExplanations": {
+      "Central dopamine D2 receptor antagonism": "Metoclopramide blocks D2 receptors and can cause tardive dyskinesia. Duration and cumulative exposure increase risk; new involuntary movements require prompt assessment.",
+      "Peripheral histamine H2 receptor antagonism": "H2 blockers suppress gastric acid and do not explain this characteristic movement disorder.",
+      "Gastric proton-pump inhibition": "PPIs inhibit acid secretion without the same dopamine-pathway effect.",
+      "Intestinal osmotic water retention": "Osmotic laxatives alter stool water rather than dopamine signaling.",
+      "Central orexin receptor antagonism": "Orexin antagonists reduce wakefulness; they are not prokinetic D2 blockers."
+    },
+    "references": [
+      {
+        "title": "DailyMed — metoclopramide",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=797aad80-0597-42f8-99d5-39de180c3b5a&type=display"
+      }
+    ],
+    "provenance": "Original educational vignette; not copied from an examination."
+  },
+  {
+    "id": "pharm-vignette-03",
+    "lectureId": "MH_uA2e34PY",
+    "prompt": "A 55-year-old man is being considered for amlodipine. A student lists severe hepatic impairment as an absolute contraindication because of a lecture slide. The supervising physician reviews the US prescribing information. Which finding is specifically listed as a contraindication, rather than a warning or a reason for cautious titration?",
+    "options": [
+      "Stable exertional angina",
+      "Uncomplicated essential hypertension",
+      "Older age alone",
+      "Known hypersensitivity to amlodipine",
+      "Severe hepatic impairment alone"
+    ],
+    "answer": "Known hypersensitivity to amlodipine",
+    "explanation": "The reviewed US label lists known sensitivity to amlodipine as the contraindication. Hepatic impairment affects titration and exposure but is not presented as the same category.",
+    "distractorExplanations": {
+      "Known hypersensitivity to amlodipine": "The reviewed US label lists known sensitivity to amlodipine as the contraindication. Hepatic impairment affects titration and exposure but is not presented as the same category.",
+      "Severe hepatic impairment alone": "Severe hepatic impairment warrants slow titration and caution in the reviewed label.",
+      "Stable exertional angina": "Chronic stable angina is an indication, not a blanket contraindication.",
+      "Uncomplicated essential hypertension": "Hypertension is an indication.",
+      "Older age alone": "Older age can influence prescribing but is not itself the listed contraindication."
+    },
+    "references": [
+      {
+        "title": "DailyMed — amlodipine prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/getFile.cfm?setid=cdb68210-952e-e8da-e053-2a95a90aec7e&type=pdf"
+      }
+    ],
+    "provenance": "Original educational vignette; not copied from an examination."
+  },
+  {
+    "id": "pharm-vignette-04",
+    "lectureId": "Hu5-Bv_eVJU",
+    "prompt": "A 72-year-old woman has taken an acid-suppressing medicine daily for several years. She develops macrocytosis and reduced vibration sense, and testing shows low vitamin B12. Which mechanism best explains how long-term proton pump inhibition can contribute?",
+    "options": [
+      "Renal loss of intrinsic factor",
+      "Chelation of vitamin B12 by calcium channels",
+      "Hypochlorhydria impairs absorption of food-bound vitamin B12",
+      "Direct destruction of ileal intrinsic-factor receptors",
+      "Inhibition of bone-marrow DNA polymerase"
+    ],
+    "answer": "Hypochlorhydria impairs absorption of food-bound vitamin B12",
+    "explanation": "Long-term acid suppression can impair B12 absorption through hypo- or achlorhydria. Reduced release of B12 from food is the relevant concept; loss of intrinsic-factor secretion should not be assumed.",
+    "distractorExplanations": {
+      "Hypochlorhydria impairs absorption of food-bound vitamin B12": "Long-term acid suppression can impair B12 absorption through hypo- or achlorhydria. Reduced release of B12 from food is the relevant concept; loss of intrinsic-factor secretion should not be assumed.",
+      "Direct destruction of ileal intrinsic-factor receptors": "The drug does not directly destroy ileal receptors.",
+      "Inhibition of bone-marrow DNA polymerase": "This is not the recognized mechanism of PPI-associated B12 deficiency.",
+      "Renal loss of intrinsic factor": "Intrinsic factor is not lost through a characteristic PPI-induced renal mechanism.",
+      "Chelation of vitamin B12 by calcium channels": "This combines unrelated mechanisms; PPIs do not chelate B12 through calcium channels."
+    },
+    "references": [
+      {
+        "title": "DailyMed — omeprazole",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=df1a4294-3893-4a11-b4d5-f3536678087e&version=3"
+      }
+    ],
+    "provenance": "Original educational vignette; not copied from an examination."
+  },
+  {
+    "id": "pharm-vignette-05",
+    "lectureId": "22PhrOPHkR4",
+    "prompt": "A 43-year-old man with treatment-resistant schizophrenia develops progressive abdominal distension, vomiting and several days without a bowel movement after his clozapine dose is increased. He has no previous abdominal surgery. Imaging shows diffuse bowel dilatation without a focal transition point. Which process most directly explains these findings?",
+    "options": [
+      "Drug-induced suppression of intestinal motility",
+      "Mechanical obstruction from postoperative adhesions",
+      "Increased intestinal chloride and water secretion",
+      "Excessive cholinergic stimulation of intestinal smooth muscle",
+      "Acute inflammatory destruction of colonic mucosa"
+    ],
+    "answer": "Drug-induced suppression of intestinal motility",
+    "explanation": "Clozapine-associated gastrointestinal hypomotility can progress to ileus and other dangerous bowel complications. The diffuse dilatation and absence of a transition point support impaired propulsion.",
+    "distractorExplanations": {
+      "Drug-induced suppression of intestinal motility": "Clozapine-associated gastrointestinal hypomotility can progress to ileus and other dangerous bowel complications. The diffuse dilatation and absence of a transition point support impaired propulsion.",
+      "Mechanical obstruction from postoperative adhesions": "There is no operative history, and the imaging does not show a focal transition point expected in mechanical obstruction.",
+      "Increased intestinal chloride and water secretion": "This mechanism causes secretory diarrhea rather than constipation with impaired transit.",
+      "Excessive cholinergic stimulation of intestinal smooth muscle": "Increased cholinergic activity generally increases motility; the clinical pattern suggests suppression of motility.",
+      "Acute inflammatory destruction of colonic mucosa": "Inflammatory colitis more often produces diarrhea and inflammatory findings; the timing and imaging instead favor drug-associated hypomotility."
+    },
+    "references": [
+      {
+        "title": "DailyMed — clozapine gastrointestinal hypomotility warning",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=61fe53d5-ed5c-4e45-9189-709d08d386cb&type=display"
+      }
+    ],
+    "provenance": "Original educational vignette; not copied from an examination.",
+    "title": "Abdominal distension during clozapine treatment"
+  },
+  {
+    "id": "pharm-vignette-06",
+    "lectureId": "An7F4fR0514",
+    "prompt": "A 76-year-old woman with COPD takes an opioid for severe pain. Gabapentin is added for neuropathic pain. Several days later she is difficult to awaken and has slow, shallow breathing. Which interaction best explains the concern?",
+    "options": [
+      "Additive CNS and respiratory depression",
+      "Competitive blockade of opioid receptors",
+      "Accelerated pulmonary clearance of carbon dioxide",
+      "Reversal of opioid tolerance without sedation",
+      "Inhibition of bacterial RNA polymerase"
+    ],
+    "answer": "Additive CNS and respiratory depression",
+    "explanation": "Gabapentinoids can increase respiratory risk when combined with opioids, especially in older patients and those with impaired lung function.",
+    "distractorExplanations": {
+      "Additive CNS and respiratory depression": "Gabapentinoids can increase respiratory risk when combined with opioids, especially in older patients and those with impaired lung function.",
+      "Competitive blockade of opioid receptors": "Gabapentin is not an opioid antagonist such as naloxone.",
+      "Accelerated pulmonary clearance of carbon dioxide": "The presentation reflects hypoventilation, not improved carbon dioxide clearance.",
+      "Reversal of opioid tolerance without sedation": "This does not explain the additive depressant effects.",
+      "Inhibition of bacterial RNA polymerase": "That is an antimicrobial mechanism unrelated to these medicines."
+    },
+    "references": [
+      {
+        "title": "FDA — gabapentinoid breathing risk",
+        "url": "https://www.fda.gov/safety/medical-product-safety-information/neurontin-gralise-horizant-gabapentin-and-lyrica-lyrica-cr-pregabalin-drug-safety-communication"
+      }
+    ],
+    "provenance": "Original educational vignette; not copied from an examination."
+  },
+  {
+    "id": "pharm-vignette-07",
+    "lectureId": "cOUIUnntEc8",
+    "prompt": "A patient with epilepsy develops nystagmus and gait ataxia after a modest increase in a long-standing phenytoin regimen. The plasma concentration has risen much more than expected, without a new interacting drug. Which pharmacokinetic feature best explains this?",
+    "options": [
+      "Complete absence of plasma-protein binding",
+      "A switch to exclusive pulmonary elimination",
+      "Irreversible inhibition of bacterial ribosomes",
+      "A constant increase in clearance as concentration rises",
+      "Saturation of hepatic metabolism"
+    ],
+    "answer": "Saturation of hepatic metabolism",
+    "explanation": "Phenytoin metabolism is capacity limited. Near saturation, a modest increase in exposure can cause a disproportionate concentration rise and neurologic toxicity.",
+    "distractorExplanations": {
+      "Saturation of hepatic metabolism": "Phenytoin metabolism is capacity limited. Near saturation, a modest increase in exposure can cause a disproportionate concentration rise and neurologic toxicity.",
+      "Complete absence of plasma-protein binding": "Phenytoin is substantially protein bound; lack of binding is not the explanation.",
+      "A switch to exclusive pulmonary elimination": "Phenytoin is not primarily eliminated through the lungs.",
+      "Irreversible inhibition of bacterial ribosomes": "This is not an antiseizure pharmacokinetic mechanism.",
+      "A constant increase in clearance as concentration rises": "Saturation limits effective clearance rather than causing it to rise proportionately."
+    },
+    "references": [
+      {
+        "title": "DailyMed — phenytoin sodium",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/getFile.cfm?setid=df0bf42b-ce9a-42c3-8c24-46f1ea3bd214"
+      }
+    ],
+    "provenance": "Original educational vignette; not copied from an examination."
+  },
+  {
+    "id": "pharm-vignette-08",
+    "lectureId": "n1bTY2_BOsI",
+    "prompt": "A 31-year-old woman receiving topiramate for migraine prevention develops flank pain and a renal stone. Her bicarbonate is low, with a normal anion gap. Which additional drug action best connects these findings?",
+    "options": [
+      "Histamine H1 receptor blockade",
+      "Dopamine D2 receptor stimulation",
+      "Gastric H+/K+-ATPase inhibition",
+      "Carbonic anhydrase inhibition",
+      "Mineralocorticoid receptor activation"
+    ],
+    "answer": "Carbonic anhydrase inhibition",
+    "explanation": "Topiramate inhibits carbonic anhydrase, contributing to bicarbonate loss and an environment that favors stones. This is distinct from its other neuronal actions.",
+    "distractorExplanations": {
+      "Carbonic anhydrase inhibition": "Topiramate inhibits carbonic anhydrase, contributing to bicarbonate loss and an environment that favors stones. This is distinct from its other neuronal actions.",
+      "Mineralocorticoid receptor activation": "Mineralocorticoid activation is not the relevant topiramate action.",
+      "Histamine H1 receptor blockade": "H1 blockade can cause sedation but does not explain this pattern.",
+      "Dopamine D2 receptor stimulation": "D2 stimulation is not the mechanism connecting acidosis and stones.",
+      "Gastric H+/K+-ATPase inhibition": "Gastric acid suppression does not explain topiramate's renal carbonic-anhydrase effects."
+    },
+    "references": [
+      {
+        "title": "DailyMed — topiramate",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ae63e0e2-ceb1-4cc7-88fa-92cfa4516960"
+      }
+    ],
+    "provenance": "Original educational vignette; not copied from an examination."
+  },
+  {
+    "id": "pharm-vignette-09",
+    "lectureId": "8y8xLTZdAzU",
+    "prompt": "A 68-year-old man with heart failure and reduced kidney function takes an ACE inhibitor. Spironolactone is added. At follow-up he has muscle weakness and a potassium concentration of 6.2 mmol/L. Which mechanism most directly contributes to this complication?",
+    "options": [
+      "Direct potassium chelation in the intestine",
+      "Increased renal clearance of potassium",
+      "Reduced aldosterone-mediated distal potassium secretion",
+      "Increased NKCC2 activity in the thick ascending limb",
+      "Increased potassium secretion from ENaC activation"
+    ],
+    "answer": "Reduced aldosterone-mediated distal potassium secretion",
+    "explanation": "Mineralocorticoid receptor blockade reduces distal potassium secretion. Kidney impairment and concurrent renin-angiotensin-system therapy increase hyperkalemia risk.",
+    "distractorExplanations": {
+      "Reduced aldosterone-mediated distal potassium secretion": "Mineralocorticoid receptor blockade reduces distal potassium secretion. Kidney impairment and concurrent renin-angiotensin-system therapy increase hyperkalemia risk.",
+      "Increased NKCC2 activity in the thick ascending limb": "Spironolactone does not cause this by activating NKCC2.",
+      "Increased potassium secretion from ENaC activation": "Activation of distal sodium entry would tend to favor potassium secretion, the opposite direction.",
+      "Direct potassium chelation in the intestine": "Intestinal chelation would reduce potassium availability rather than explain retention.",
+      "Increased renal clearance of potassium": "Increased clearance would oppose hyperkalemia."
+    },
+    "references": [
+      {
+        "title": "DailyMed — spironolactone",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=31aeab13-8f71-49f1-b101-8b0abb21b0dc"
+      }
+    ],
+    "provenance": "Original educational vignette; not copied from an examination."
+  },
+  {
+    "id": "pharm-vignette-10",
+    "lectureId": "_gen54iRCWI",
+    "prompt": "A 49-year-old woman taking sertraline is treated with linezolid for a resistant Gram-positive infection. She develops agitation, diaphoresis, hyperreflexia, and inducible clonus. Which property of linezolid makes this interaction plausible?",
+    "options": [
+      "Blockade of thalamic T-type calcium currents",
+      "Monoamine oxidase inhibition",
+      "Direct GABA-A receptor activation",
+      "Selective beta1 receptor blockade",
+      "Inhibition of vitamin K recycling"
+    ],
+    "answer": "Monoamine oxidase inhibition",
+    "explanation": "Linezolid has monoamine oxidase-inhibiting activity and can interact with serotonergic medicines. Clonus and hyperreflexia support serotonin toxicity in this setting.",
+    "distractorExplanations": {
+      "Monoamine oxidase inhibition": "Linezolid has monoamine oxidase-inhibiting activity and can interact with serotonergic medicines. Clonus and hyperreflexia support serotonin toxicity in this setting.",
+      "Direct GABA-A receptor activation": "GABA-A enhancement would more typically cause sedation rather than this serotonergic pattern.",
+      "Selective beta1 receptor blockade": "Beta1 blockade does not explain the interaction.",
+      "Inhibition of vitamin K recycling": "Vitamin K recycling is targeted by warfarin.",
+      "Blockade of thalamic T-type calcium currents": "T-type calcium-current inhibition is associated with ethosuximide, not linezolid."
+    },
+    "references": [
+      {
+        "title": "DailyMed — linezolid",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3e0d868d-f419-47e8-a3bc-41ececac468b"
+      }
+    ],
+    "provenance": "Original educational vignette; not copied from an examination."
+  },
+  {
+    "id": "pharm-vignette-11",
+    "lectureId": "fCd7uzoqjlM",
+    "prompt": "A 46-year-old woman has taken a benzodiazepine regularly for months. She stops it abruptly after deciding that dependence means the medicine is no longer helping. Two days later she develops marked tremor, insomnia, autonomic symptoms, and a generalized seizure. Which concept best explains the presentation?",
+    "options": [
+      "Physical dependence with acute withdrawal",
+      "An immediate IgE-mediated allergy",
+      "Irreversible dopamine receptor destruction",
+      "Selective serotonin reuptake inhibition",
+      "Absence of any physiological adaptation"
+    ],
+    "answer": "Physical dependence with acute withdrawal",
+    "explanation": "Regular benzodiazepine exposure can produce physical dependence. Abrupt withdrawal may cause severe symptoms including seizures, so discontinuation generally requires individualized tapering.",
+    "distractorExplanations": {
+      "Physical dependence with acute withdrawal": "Regular benzodiazepine exposure can produce physical dependence. Abrupt withdrawal may cause severe symptoms including seizures, so discontinuation generally requires individualized tapering.",
+      "An immediate IgE-mediated allergy": "An allergy would not characteristically emerge after stopping the drug with this withdrawal pattern.",
+      "Irreversible dopamine receptor destruction": "Benzodiazepines primarily modulate GABA-A signaling, not dopamine receptor destruction.",
+      "Selective serotonin reuptake inhibition": "The withdrawn drug is not an SSRI.",
+      "Absence of any physiological adaptation": "The presentation is evidence of adaptation, not its absence."
+    },
+    "references": [
+      {
+        "title": "FDA — benzodiazepine boxed-warning update",
+        "url": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-requiring-boxed-warning-updated-improve-safe-use-benzodiazepine-drug-class"
+      }
+    ],
+    "provenance": "Original educational vignette; not copied from an examination."
+  },
+  {
+    "id": "pharm-vignette-12",
+    "lectureId": "WPPaustj2-w",
+    "prompt": "A 38-year-old man taking metamizole for pain develops fever, painful oral ulcers, and a sore throat. He has previously taken the medicine without problems. A blood count shows a profound reduction in neutrophils. Which statement best interprets his prior uneventful exposure?",
+    "options": [
+      "It proves the current illness cannot be drug related",
+      "It establishes that the reaction must be dose-dependent",
+      "It makes a blood count unnecessary",
+      "It proves that the fever is only the original pain condition",
+      "It does not exclude metamizole-associated agranulocytosis now"
+    ],
+    "answer": "It does not exclude metamizole-associated agranulocytosis now",
+    "explanation": "Metamizole-associated agranulocytosis can occur after previously uneventful use and is not simply dose dependent. Infection symptoms warrant urgent evaluation.",
+    "distractorExplanations": {
+      "It does not exclude metamizole-associated agranulocytosis now": "Metamizole-associated agranulocytosis can occur after previously uneventful use and is not simply dose dependent. Infection symptoms warrant urgent evaluation.",
+      "It proves the current illness cannot be drug related": "Prior tolerance does not rule out this serious adverse reaction.",
+      "It establishes that the reaction must be dose-dependent": "EMA describes this risk as not dose dependent.",
+      "It makes a blood count unnecessary": "The symptoms warrant prompt blood-count assessment rather than reassurance.",
+      "It proves that the fever is only the original pain condition": "Fever with mucosal symptoms and neutropenia requires assessment for a serious drug-related complication."
+    },
+    "references": [
+      {
+        "title": "EMA — metamizole agranulocytosis",
+        "url": "https://www.ema.europa.eu/en/news/ema-recommends-measures-minimise-serious-outcomes-known-side-effect-painkiller-metamizole"
+      }
+    ],
+    "provenance": "Original educational vignette; not copied from an examination."
+  },
+  {
+    "id": "pharm-vignette-13",
+    "lectureId": "Hdnw0PJaTK8",
+    "prompt": "A 64-year-old patient has a complicated infection with several active antibiotic options. A trainee proposes tigecycline solely because of its broad spectrum. Which safety finding argues for reserving it for situations in which suitable alternatives are unavailable?",
+    "options": [
+      "Complete absence of gastrointestinal adverse effects",
+      "A requirement for bacterial beta-lactamase activation",
+      "A predictable benefit in every bloodstream infection",
+      "An increased all-cause mortality signal in comparative trials",
+      "Universal resistance among all Gram-positive organisms"
+    ],
+    "answer": "An increased all-cause mortality signal in comparative trials",
+    "explanation": "Tigecycline carries a boxed warning concerning increased all-cause mortality in trials compared with alternatives. Broad spectrum alone does not establish it as the preferred treatment.",
+    "distractorExplanations": {
+      "An increased all-cause mortality signal in comparative trials": "Tigecycline carries a boxed warning concerning increased all-cause mortality in trials compared with alternatives. Broad spectrum alone does not establish it as the preferred treatment.",
+      "Universal resistance among all Gram-positive organisms": "Tigecycline has activity against selected Gram-positive organisms.",
+      "Complete absence of gastrointestinal adverse effects": "Nausea and vomiting are common concerns, not absent.",
+      "A requirement for bacterial beta-lactamase activation": "Tigecycline is a ribosomal inhibitor and does not require beta-lactamase activation.",
+      "A predictable benefit in every bloodstream infection": "Distribution and clinical evidence matter; it is not a universal bacteremia treatment."
+    },
+    "references": [
+      {
+        "title": "DailyMed — tigecycline",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=50605463-2dc2-4b27-bc51-4d87bb9a8539"
+      }
+    ],
+    "provenance": "Original educational vignette; not copied from an examination."
+  },
+  {
+    "id": "pharm-vignette-14",
+    "lectureId": "fQ5OQIDBqgI",
+    "prompt": "A 61-year-old woman taking sertraline begins frequent ibuprofen use for osteoarthritis. She develops easy bruising and dark stools. Platelet count is normal. Which interaction is most relevant to the medication review?",
+    "options": [
+      "Sertraline reliably reverses NSAID gastric injury",
+      "A normal platelet count excludes medication-associated bleeding",
+      "Sertraline can impair platelet-related hemostasis and add to NSAID bleeding risk",
+      "Sertraline directly increases platelet production",
+      "Ibuprofen prevents all SSRI-related bleeding"
+    ],
+    "answer": "Sertraline can impair platelet-related hemostasis and add to NSAID bleeding risk",
+    "explanation": "SSRIs can increase bleeding risk, and concurrent NSAIDs add gastrointestinal and hemostatic risk. Normal platelet number does not establish normal platelet function.",
+    "distractorExplanations": {
+      "Sertraline can impair platelet-related hemostasis and add to NSAID bleeding risk": "SSRIs can increase bleeding risk, and concurrent NSAIDs add gastrointestinal and hemostatic risk. Normal platelet number does not establish normal platelet function.",
+      "Sertraline directly increases platelet production": "Increased platelet production does not explain the bleeding presentation.",
+      "Ibuprofen prevents all SSRI-related bleeding": "NSAIDs can increase, not prevent, bleeding risk.",
+      "Sertraline reliably reverses NSAID gastric injury": "Sertraline is not a gastroprotective treatment.",
+      "A normal platelet count excludes medication-associated bleeding": "Platelet function can be impaired despite a normal count."
+    },
+    "references": [
+      {
+        "title": "DailyMed — sertraline",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cbc2bd3b-03fc-47b9-91d1-8989ec90c7e6"
+      }
+    ],
+    "provenance": "Original educational vignette; not copied from an examination."
+  },
+  {
+    "id": "pharm-vignette-15",
+    "lectureId": "WMV-SJtw68s",
+    "prompt": "A 35-year-old man with a seizure disorder takes an SSRI for depression. Tramadol is added for pain, and he subsequently has a generalized seizure without a new structural lesion or metabolic abnormality. Which statement best describes the drug-related concern?",
+    "options": [
+      "Tramadol acts exclusively outside the CNS",
+      "Tramadol can increase seizure risk even within recommended exposure, with additional risk from interacting medicines",
+      "Tramadol is a reliable anticonvulsant because it is an opioid",
+      "An SSRI eliminates tramadol's seizure risk",
+      "Only a massive overdose can cause tramadol-associated seizures"
+    ],
+    "answer": "Tramadol can increase seizure risk even within recommended exposure, with additional risk from interacting medicines",
+    "explanation": "Tramadol has a recognized seizure risk, including at recommended exposure. Seizure history and medicines that lower the seizure threshold increase concern.",
+    "distractorExplanations": {
+      "Tramadol can increase seizure risk even within recommended exposure, with additional risk from interacting medicines": "Tramadol has a recognized seizure risk, including at recommended exposure. Seizure history and medicines that lower the seizure threshold increase concern.",
+      "Tramadol is a reliable anticonvulsant because it is an opioid": "Tramadol is not an anticonvulsant.",
+      "An SSRI eliminates tramadol's seizure risk": "SSRIs can increase the concern rather than remove it.",
+      "Only a massive overdose can cause tramadol-associated seizures": "Seizures have been reported within the recommended range.",
+      "Tramadol acts exclusively outside the CNS": "Its analgesic and toxic effects include central actions."
+    },
+    "references": [
+      {
+        "title": "DailyMed — tramadol",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6b0b95b2-ae4c-42e8-9f2e-bcdaffda62e2"
+      }
+    ],
+    "provenance": "Original educational vignette; not copied from an examination."
+  },
+  {
+    "id": "pharm-vignette-16",
+    "lectureId": "UPR6LqAWHWA",
+    "prompt": "A patient starting methadone for pain reports that analgesia has diminished, but later becomes progressively sedated with a falling respiratory rate. Which pharmacologic feature makes judging safety only by the duration of pain relief unreliable?",
+    "options": [
+      "Respiratory depression can peak later and persist longer than analgesia",
+      "Methadone cannot accumulate during repeated use",
+      "Methadone is an opioid receptor antagonist",
+      "Analgesic tolerance guarantees respiratory safety",
+      "Methadone is cleared entirely before analgesia ends"
+    ],
+    "answer": "Respiratory depression can peak later and persist longer than analgesia",
+    "explanation": "Methadone's respiratory depressant effect can be delayed and prolonged relative to analgesia, particularly during initiation or changes in exposure.",
+    "distractorExplanations": {
+      "Respiratory depression can peak later and persist longer than analgesia": "Methadone's respiratory depressant effect can be delayed and prolonged relative to analgesia, particularly during initiation or changes in exposure.",
+      "Methadone cannot accumulate during repeated use": "Variable and prolonged elimination can permit accumulation.",
+      "Methadone is an opioid receptor antagonist": "Methadone is an opioid agonist, not an antagonist.",
+      "Analgesic tolerance guarantees respiratory safety": "Tolerance is not uniform across effects and does not guarantee safety.",
+      "Methadone is cleared entirely before analgesia ends": "Clinical analgesia does not directly define complete elimination."
+    },
+    "references": [
+      {
+        "title": "DailyMed — methadone",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=540edd43-165d-4257-b989-3bccc8f54afb"
+      }
+    ],
+    "provenance": "Original educational vignette; not copied from an examination."
+  },
+  {
+    "id": "pharm-vignette-17",
+    "lectureId": "jpecDir_fgM",
+    "prompt": "A patient is brought to the emergency department after taking an excessive dose of a long-acting opioid. Intravenous naloxone rapidly improves consciousness and ventilation. During monitored observation, without further drug exposure, the respiratory rate falls again. Which pharmacologic relationship best explains this recurrence?",
+    "options": [
+      "The opioid effect persists after the antagonist effect wanes",
+      "The antagonist persists after the opioid has been eliminated",
+      "The antagonist forms an irreversible receptor complex",
+      "The antagonist is converted into an active opioid agonist",
+      "The antagonist rapidly increases opioid-receptor expression"
+    ],
+    "answer": "The opioid effect persists after the antagonist effect wanes",
+    "explanation": "Naloxone can act for less time than the opioid; respiratory depression can return, requiring ongoing monitoring and further treatment.",
+    "distractorExplanations": {
+      "The opioid effect persists after the antagonist effect wanes": "Naloxone can act for less time than the opioid; respiratory depression can return, requiring ongoing monitoring and further treatment.",
+      "The antagonist persists after the opioid has been eliminated": "Persistent antagonism after opioid clearance would not explain renewed opioid-induced respiratory depression.",
+      "The antagonist forms an irreversible receptor complex": "Naloxone antagonism is competitive; irreversible receptor blockade would not explain this transient reversal.",
+      "The antagonist is converted into an active opioid agonist": "Naloxone has no clinically relevant opioid agonist action producing this recurrence.",
+      "The antagonist rapidly increases opioid-receptor expression": "Rapid receptor upregulation is not the explanation for recurrent toxicity as naloxone wears off."
+    },
+    "references": [
+      {
+        "title": "DailyMed — naloxone",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=21d20dff-6efe-481e-a5a0-9c80ded73ca9"
+      }
+    ],
+    "provenance": "Original educational vignette; not copied from an examination.",
+    "title": "Recurrent hypoventilation after opioid reversal"
+  },
+  {
+    "id": "pharm-vignette-18",
+    "lectureId": "n4ltqJIxIQk",
+    "prompt": "A 27-year-old woman with dysuria is initially prescribed nitrofurantoin. She then develops fever, rigors, and flank tenderness. Urine culture shows a susceptible organism. Why is continuing the same drug without reassessing the syndrome inappropriate?",
+    "options": [
+      "Nitrofurantoin reaches high systemic concentrations in all patients",
+      "Nitrofurantoin is active only against viruses",
+      "Flank tenderness proves that infection has resolved",
+      "Nitrofurantoin lacks the tissue distribution needed for pyelonephritis",
+      "Susceptibility testing proves every infection site will respond"
+    ],
+    "answer": "Nitrofurantoin lacks the tissue distribution needed for pyelonephritis",
+    "explanation": "Nitrofurantoin is used for selected lower urinary tract infection and is not indicated for pyelonephritis. Organism susceptibility cannot compensate for inadequate distribution at the infected site.",
+    "distractorExplanations": {
+      "Nitrofurantoin lacks the tissue distribution needed for pyelonephritis": "Nitrofurantoin is used for selected lower urinary tract infection and is not indicated for pyelonephritis. Organism susceptibility cannot compensate for inadequate distribution at the infected site.",
+      "Susceptibility testing proves every infection site will respond": "In-vitro susceptibility is only one requirement for clinical success.",
+      "Nitrofurantoin reaches high systemic concentrations in all patients": "Its limited broader tissue distribution is the problem.",
+      "Nitrofurantoin is active only against viruses": "It is an antibacterial, not an antiviral.",
+      "Flank tenderness proves that infection has resolved": "Fever and flank tenderness suggest upper-tract involvement, not resolution."
+    },
+    "references": [
+      {
+        "title": "DailyMed — nitrofurantoin",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=87210c87-b7db-0f65-e053-2a91aa0a4393"
+      }
+    ],
+    "provenance": "Original educational vignette; not copied from an examination."
+  },
+  {
+    "id": "pharm-vignette-19",
+    "lectureId": "zCQD-v2pz_M",
+    "prompt": "Several days after starting warfarin, a patient develops painful skin lesions that become necrotic. Examination and biopsy suggest small-vessel thrombosis rather than simple bruising. Which adverse reaction is most consistent with the timing and findings?",
+    "options": [
+      "Direct thrombolysis of the skin microcirculation",
+      "A reaction that requires decades of exposure",
+      "Warfarin-associated tissue necrosis",
+      "A harmless expected INR response",
+      "Immediate heparin neutralization by protamine"
+    ],
+    "answer": "Warfarin-associated tissue necrosis",
+    "explanation": "Warfarin can rarely cause skin and tissue necrosis associated with local thrombosis, usually early after initiation. This is distinct from ordinary bleeding and requires urgent assessment.",
+    "distractorExplanations": {
+      "Warfarin-associated tissue necrosis": "Warfarin can rarely cause skin and tissue necrosis associated with local thrombosis, usually early after initiation. This is distinct from ordinary bleeding and requires urgent assessment.",
+      "A harmless expected INR response": "Necrotic painful lesions are not a benign laboratory response.",
+      "Immediate heparin neutralization by protamine": "Protamine and heparin are not the exposure described.",
+      "Direct thrombolysis of the skin microcirculation": "Warfarin is not a fibrinolytic drug.",
+      "A reaction that requires decades of exposure": "The reaction can appear within days, not only after prolonged exposure."
+    },
+    "references": [
+      {
+        "title": "DailyMed — warfarin",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=558b7a0d-5490-4c1b-802e-3ab3f1efe760"
+      }
+    ],
+    "provenance": "Original educational vignette; not copied from an examination."
+  },
+  {
+    "id": "pharm-vignette-20",
+    "lectureId": "cOUIUnntEc8",
+    "prompt": "A 70-year-old man with low serum albumin takes phenytoin. He develops nystagmus and unsteadiness despite a total phenytoin concentration within the laboratory's usual therapeutic range. Which measurement would best clarify whether active exposure is excessive?",
+    "options": [
+      "A bacterial minimum inhibitory concentration",
+      "Unbound phenytoin concentration",
+      "Urinary sodium concentration alone",
+      "Serum amylase alone",
+      "INR as a direct measure of phenytoin action"
+    ],
+    "answer": "Unbound phenytoin concentration",
+    "explanation": "Low albumin changes the relationship between total and free phenytoin. The unbound concentration can better reflect active exposure when binding is altered.",
+    "distractorExplanations": {
+      "Unbound phenytoin concentration": "Low albumin changes the relationship between total and free phenytoin. The unbound concentration can better reflect active exposure when binding is altered.",
+      "Urinary sodium concentration alone": "Urinary sodium does not quantify active phenytoin exposure.",
+      "Serum amylase alone": "Amylase does not assess phenytoin binding or concentration.",
+      "INR as a direct measure of phenytoin action": "INR monitors vitamin K-dependent coagulation, not phenytoin action.",
+      "A bacterial minimum inhibitory concentration": "MIC is an antimicrobial susceptibility measure, not an antiseizure drug level."
+    },
+    "references": [
+      {
+        "title": "DailyMed — phenytoin sodium",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/getFile.cfm?setid=df0bf42b-ce9a-42c3-8c24-46f1ea3bd214"
+      }
+    ],
+    "provenance": "Original educational vignette; not copied from an examination."
+  }
+]

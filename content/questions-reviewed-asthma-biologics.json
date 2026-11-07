@@ -1,0 +1,312 @@
+[
+  {
+    "id": "reviewed-biologics-QuWsAM-O6RU-1",
+    "lectureId": "QuWsAM-O6RU",
+    "category": "Pharmacology",
+    "title": "Targeting allergic inflammation",
+    "prompt": "A 22-year-old woman has allergic asthma that remains poorly controlled despite appropriate inhaled therapy. A specialist adds omalizumab after confirming eligibility. Which molecular interaction is most directly inhibited by this biologic?",
+    "options": [
+      "IL-5 binding to its receptor",
+      "Acetylcholine binding to muscarinic receptors",
+      "Leukotriene binding to the CysLT1 receptor",
+      "Cortisol binding to intracellular glucocorticoid receptors",
+      "Binding of free IgE to its high-affinity receptor"
+    ],
+    "answer": "Binding of free IgE to its high-affinity receptor",
+    "explanation": "Omalizumab binds free IgE, reducing its availability for receptor binding.",
+    "distractorExplanations": {
+      "Binding of free IgE to its high-affinity receptor": "Omalizumab binds free IgE, reducing its availability for receptor binding.",
+      "IL-5 binding to its receptor": "This is the pathway targeted by mepolizumab and reslizumab.",
+      "Acetylcholine binding to muscarinic receptors": "This is the mechanism of antimuscarinic bronchodilators.",
+      "Leukotriene binding to the CysLT1 receptor": "This describes montelukast and zafirlukast.",
+      "Cortisol binding to intracellular glucocorticoid receptors": "Omalizumab does not block glucocorticoid receptors."
+    },
+    "references": [
+      {
+        "title": "Xolair prescribing information",
+        "url": "https://www.gene.com/download/pdf/xolair_prescribing.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-biologics-QuWsAM-O6RU-2",
+    "lectureId": "QuWsAM-O6RU",
+    "category": "Pharmacology",
+    "title": "Acute symptoms during maintenance therapy",
+    "prompt": "A 31-year-old man receiving omalizumab for allergic asthma develops sudden wheezing and dyspnea after a viral respiratory infection. He asks whether an extra omalizumab injection will rapidly relieve the episode. Which explanation is most appropriate?",
+    "options": [
+      "An extra dose replaces the need to assess attack severity",
+      "Maintenance treatment rules out a severe exacerbation",
+      "The episode proves the patient has no allergic component to asthma",
+      "Omalizumab is maintenance therapy and does not provide rapid rescue bronchodilation",
+      "Omalizumab directly relaxes bronchial smooth muscle within minutes"
+    ],
+    "answer": "Omalizumab is maintenance therapy and does not provide rapid rescue bronchodilation",
+    "explanation": "The acute episode requires an appropriate reliever and severity assessment; an extra biologic dose is not rescue treatment.",
+    "distractorExplanations": {
+      "Omalizumab is maintenance therapy and does not provide rapid rescue bronchodilation": "The acute episode requires an appropriate reliever and severity assessment; an extra biologic dose is not rescue treatment.",
+      "Omalizumab directly relaxes bronchial smooth muscle within minutes": "It modifies IgE-mediated inflammation rather than acting as a rapid bronchodilator.",
+      "An extra dose replaces the need to assess attack severity": "Clinical severity still determines urgent treatment.",
+      "Maintenance treatment rules out a severe exacerbation": "Exacerbations can occur despite biologic therapy.",
+      "The episode proves the patient has no allergic component to asthma": "Breakthrough symptoms do not exclude allergic disease."
+    },
+    "references": [
+      {
+        "title": "Xolair prescribing information",
+        "url": "https://www.gene.com/download/pdf/xolair_prescribing.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-biologics-QuWsAM-O6RU-3",
+    "lectureId": "QuWsAM-O6RU",
+    "category": "Pharmacology",
+    "title": "A reaction after repeated dosing",
+    "prompt": "A 40-year-old woman develops generalized urticaria, throat tightness and hypotension shortly after an omalizumab injection. She previously tolerated several injections, and she has no new food exposure or other medication use that day. Which interpretation best fits this presentation?",
+    "options": [
+      "The findings are expected therapeutic effects",
+      "The reaction can be excluded if wheezing is absent",
+      "Anaphylaxis remains possible despite prior tolerated doses",
+      "Prior tolerance excludes a reaction to omalizumab",
+      "Isolated injection-site irritation explains the hypotension"
+    ],
+    "answer": "Anaphylaxis remains possible despite prior tolerated doses",
+    "explanation": "Previous tolerance does not exclude a later severe allergic reaction.",
+    "distractorExplanations": {
+      "Anaphylaxis remains possible despite prior tolerated doses": "Previous tolerance does not exclude a later severe allergic reaction.",
+      "Prior tolerance excludes a reaction to omalizumab": "Reactions can occur after more than one dose.",
+      "Isolated injection-site irritation explains the hypotension": "Local irritation does not explain airway and circulatory involvement.",
+      "The findings are expected therapeutic effects": "Airway symptoms and hypotension are not desired effects.",
+      "The reaction can be excluded if wheezing is absent": "Anaphylaxis need not include every possible respiratory sign."
+    },
+    "references": [
+      {
+        "title": "Xolair prescribing information",
+        "url": "https://www.gene.com/download/pdf/xolair_prescribing.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-biologics-QuWsAM-O6RU-4",
+    "lectureId": "QuWsAM-O6RU",
+    "category": "Pharmacology",
+    "title": "Choosing dosing inputs",
+    "prompt": "A specialist is initiating omalizumab for a patient who meets criteria for allergic asthma. Two otherwise similar eligible patients differ in pretreatment total IgE and body weight. Which information is used to select their asthma dosing-table regimen?",
+    "options": [
+      "Identical fixed dosing for every asthma patient",
+      "Pretreatment total IgE together with body weight",
+      "Body temperature and serum sodium",
+      "A total IgE level measured after treatment alone",
+      "The latest eosinophil count alone"
+    ],
+    "answer": "Pretreatment total IgE together with body weight",
+    "explanation": "The asthma dosing tables use these two inputs; dosing rules differ by indication.",
+    "distractorExplanations": {
+      "Pretreatment total IgE together with body weight": "The asthma dosing tables use these two inputs; dosing rules differ by indication.",
+      "Body temperature and serum sodium": "These are not the asthma dosing-table inputs.",
+      "A total IgE level measured after treatment alone": "Treatment alters measured total IgE, making it unsuitable as the sole starting-table input.",
+      "The latest eosinophil count alone": "Eosinophils may characterize disease but do not replace the omalizumab asthma dosing inputs.",
+      "Identical fixed dosing for every asthma patient": "Asthma dosing is selected using the relevant dosing table."
+    },
+    "references": [
+      {
+        "title": "Xolair prescribing information",
+        "url": "https://www.gene.com/download/pdf/xolair_prescribing.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-biologics-QuWsAM-O6RU-5",
+    "lectureId": "QuWsAM-O6RU",
+    "category": "Pharmacology",
+    "title": "Food-allergy counseling",
+    "prompt": "A child receiving omalizumab to reduce reactions from accidental food exposure has fewer reactions. The family asks whether the child may now intentionally eat the trigger food and discard prescribed emergency medication. Which counseling point is correct?",
+    "options": [
+      "Continue allergen avoidance and retain the emergency treatment plan",
+      "Intentional exposure is safe after the first tolerated injection",
+      "Omalizumab replaces emergency treatment during anaphylaxis",
+      "Avoidance is unnecessary whenever symptoms improve",
+      "Protection can be guaranteed by increasing the next dose after exposure"
+    ],
+    "answer": "Continue allergen avoidance and retain the emergency treatment plan",
+    "explanation": "Omalizumab reduces risk from accidental exposure; it does not make intentional exposure safe or treat acute anaphylaxis.",
+    "distractorExplanations": {
+      "Continue allergen avoidance and retain the emergency treatment plan": "Omalizumab reduces risk from accidental exposure; it does not make intentional exposure safe or treat acute anaphylaxis.",
+      "Intentional exposure is safe after the first tolerated injection": "Treatment does not establish tolerance to intentional ingestion.",
+      "Omalizumab replaces emergency treatment during anaphylaxis": "It is not emergency anaphylaxis treatment.",
+      "Avoidance is unnecessary whenever symptoms improve": "Improvement does not remove the need for avoidance.",
+      "Protection can be guaranteed by increasing the next dose after exposure": "There is no such guaranteed post-exposure rescue strategy."
+    },
+    "references": [
+      {
+        "title": "Xolair prescribing information",
+        "url": "https://www.gene.com/download/pdf/xolair_prescribing.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-biologics--tT6ZT-W-v4-1",
+    "lectureId": "-tT6ZT-W-v4",
+    "category": "Pharmacology",
+    "title": "Eosinophil signaling",
+    "prompt": "A 48-year-old woman has recurrent exacerbations of severe eosinophilic asthma despite optimized inhaled treatment. Her specialist selects mepolizumab. Which cytokine is directly bound by this medication to reduce eosinophil-related signaling?",
+    "options": [
+      "Interleukin-4 receptor alpha",
+      "Immunoglobulin E",
+      "Tumor necrosis factor alpha",
+      "Thymic stromal lymphopoietin",
+      "Interleukin-5"
+    ],
+    "answer": "Interleukin-5",
+    "explanation": "Mepolizumab binds IL-5 rather than the IL-5 receptor.",
+    "distractorExplanations": {
+      "Interleukin-5": "Mepolizumab binds IL-5 rather than the IL-5 receptor.",
+      "Interleukin-4 receptor alpha": "This is the target of dupilumab, not mepolizumab.",
+      "Immunoglobulin E": "This is the target of omalizumab.",
+      "Tumor necrosis factor alpha": "TNF inhibitors are a different biologic class.",
+      "Thymic stromal lymphopoietin": "This is the target of tezepelumab."
+    },
+    "references": [
+      {
+        "title": "DailyMed — Nucala prescribing information",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=fefb887c-e4ac-431e-8893-e9d1a5a63fea&type=display"
+      },
+      {
+        "title": "DailyMed — Cinqair prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=053b9158-2a5b-48b9-bf47-5fa78a35ec33"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-biologics--tT6ZT-W-v4-2",
+    "lectureId": "-tT6ZT-W-v4",
+    "category": "Pharmacology",
+    "title": "Different administration routes",
+    "prompt": "An adult with severe eosinophilic asthma discusses two anti-IL-5 options with a specialist. One option is mepolizumab and the other is reslizumab. Which pairing correctly describes their labeled administration routes?",
+    "options": [
+      "Both orally",
+      "Both by nebulization",
+      "Mepolizumab intramuscularly; reslizumab orally",
+      "Mepolizumab subcutaneously; reslizumab intravenously",
+      "Mepolizumab intravenously; reslizumab subcutaneously"
+    ],
+    "answer": "Mepolizumab subcutaneously; reslizumab intravenously",
+    "explanation": "These biologics have distinct routes and should not be treated as interchangeable formulations.",
+    "distractorExplanations": {
+      "Mepolizumab subcutaneously; reslizumab intravenously": "These biologics have distinct routes and should not be treated as interchangeable formulations.",
+      "Mepolizumab intravenously; reslizumab subcutaneously": "This reverses their labeled routes.",
+      "Both orally": "These monoclonal antibodies are not oral asthma therapies.",
+      "Both by nebulization": "Neither is a nebulized rescue medication.",
+      "Mepolizumab intramuscularly; reslizumab orally": "Neither route in this pairing is correct."
+    },
+    "references": [
+      {
+        "title": "DailyMed — Nucala prescribing information",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=fefb887c-e4ac-431e-8893-e9d1a5a63fea&type=display"
+      },
+      {
+        "title": "DailyMed — Cinqair prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=053b9158-2a5b-48b9-bf47-5fa78a35ec33"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-biologics--tT6ZT-W-v4-3",
+    "lectureId": "-tT6ZT-W-v4",
+    "category": "Pharmacology",
+    "title": "An infusion complication",
+    "prompt": "During a reslizumab infusion, a 55-year-old man develops flushing, wheezing, throat tightness and hypotension. The infusion had been started for maintenance treatment of eosinophilic asthma. Which action is most appropriate regarding the infusion?",
+    "options": [
+      "Treat this as an isolated local infusion-site reaction",
+      "Wait for a later eosinophil count before acting",
+      "Stop the infusion and initiate emergency management for anaphylaxis",
+      "Continue at the same rate because wheezing is part of asthma",
+      "Increase the infusion rate to complete treatment sooner"
+    ],
+    "answer": "Stop the infusion and initiate emergency management for anaphylaxis",
+    "explanation": "The multisystem reaction requires prompt treatment, not continued exposure.",
+    "distractorExplanations": {
+      "Stop the infusion and initiate emergency management for anaphylaxis": "The multisystem reaction requires prompt treatment, not continued exposure.",
+      "Continue at the same rate because wheezing is part of asthma": "The accompanying hypotension and throat symptoms indicate a systemic reaction.",
+      "Increase the infusion rate to complete treatment sooner": "This increases exposure during a suspected serious reaction.",
+      "Treat this as an isolated local infusion-site reaction": "The symptoms are systemic rather than local.",
+      "Wait for a later eosinophil count before acting": "Emergency treatment must not be delayed for a laboratory result."
+    },
+    "references": [
+      {
+        "title": "DailyMed — Nucala prescribing information",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=fefb887c-e4ac-431e-8893-e9d1a5a63fea&type=display"
+      },
+      {
+        "title": "DailyMed — Cinqair prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=053b9158-2a5b-48b9-bf47-5fa78a35ec33"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-biologics--tT6ZT-W-v4-4",
+    "lectureId": "-tT6ZT-W-v4",
+    "category": "Pharmacology",
+    "title": "Corticosteroid adjustment",
+    "prompt": "A 46-year-old woman with severe eosinophilic asthma improves after starting mepolizumab. She has taken systemic corticosteroids for months and wants to stop them immediately. Which plan best addresses medication withdrawal?",
+    "options": [
+      "Double the biologic dose to prevent steroid withdrawal",
+      "Reduce corticosteroids gradually under clinician supervision when appropriate",
+      "Stop all corticosteroids on the day of the next injection",
+      "Replace the corticosteroid with extra mepolizumab as needed",
+      "Assume normal adrenal function because asthma symptoms improved"
+    ],
+    "answer": "Reduce corticosteroids gradually under clinician supervision when appropriate",
+    "explanation": "Biologic improvement does not remove the risks of abrupt corticosteroid withdrawal.",
+    "distractorExplanations": {
+      "Reduce corticosteroids gradually under clinician supervision when appropriate": "Biologic improvement does not remove the risks of abrupt corticosteroid withdrawal.",
+      "Stop all corticosteroids on the day of the next injection": "Abrupt discontinuation may cause adrenal insufficiency or reveal previously suppressed disease.",
+      "Replace the corticosteroid with extra mepolizumab as needed": "Mepolizumab is not an as-needed steroid replacement.",
+      "Assume normal adrenal function because asthma symptoms improved": "Symptom improvement does not demonstrate recovery of the hypothalamic-pituitary-adrenal axis.",
+      "Double the biologic dose to prevent steroid withdrawal": "Dose escalation is not a substitute for an appropriate taper."
+    },
+    "references": [
+      {
+        "title": "DailyMed — Nucala prescribing information",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=fefb887c-e4ac-431e-8893-e9d1a5a63fea&type=display"
+      },
+      {
+        "title": "DailyMed — Cinqair prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=053b9158-2a5b-48b9-bf47-5fa78a35ec33"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-biologics--tT6ZT-W-v4-5",
+    "lectureId": "-tT6ZT-W-v4",
+    "category": "Pharmacology",
+    "title": "A parasite before treatment",
+    "prompt": "A 38-year-old man is being evaluated for mepolizumab because of severe eosinophilic asthma. His workup also identifies an active helminth infection. What is the most appropriate approach to this infection before starting the biologic?",
+    "options": [
+      "Treat the existing helminth infection before initiating mepolizumab",
+      "Start mepolizumab to eradicate the helminth directly",
+      "Ignore the infection because eosinophils are always harmful",
+      "Treat only after a first biologic dose causes symptoms",
+      "Use omalizumab as an antiparasitic substitute"
+    ],
+    "answer": "Treat the existing helminth infection before initiating mepolizumab",
+    "explanation": "Eosinophils participate in host responses to some parasites; the label advises treating pre-existing helminth infection.",
+    "distractorExplanations": {
+      "Treat the existing helminth infection before initiating mepolizumab": "Eosinophils participate in host responses to some parasites; the label advises treating pre-existing helminth infection.",
+      "Start mepolizumab to eradicate the helminth directly": "Mepolizumab is not an antiparasitic drug.",
+      "Ignore the infection because eosinophils are always harmful": "Eosinophils have host-defense roles as well as disease-related effects.",
+      "Treat only after a first biologic dose causes symptoms": "Known infection should be addressed before initiation.",
+      "Use omalizumab as an antiparasitic substitute": "Omalizumab is not a treatment for helminth infection."
+    },
+    "references": [
+      {
+        "title": "DailyMed — Nucala prescribing information",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=fefb887c-e4ac-431e-8893-e9d1a5a63fea&type=display"
+      },
+      {
+        "title": "DailyMed — Cinqair prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=053b9158-2a5b-48b9-bf47-5fa78a35ec33"
+      }
+    ]
+  }
+]

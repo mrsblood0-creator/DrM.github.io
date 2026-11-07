@@ -1,0 +1,992 @@
+[
+  {
+    "id": "reviewed-antibiotics-core-_gen54iRCWI-1",
+    "lectureId": "_gen54iRCWI",
+    "title": "Linezolid: 1",
+    "prompt": "An adult with a susceptible vancomycin-resistant enterococcal infection receives linezolid. Unlike beta-lactams, the selected agent acts on the bacterial ribosome early in translation. Which molecular process does this drug directly inhibit?",
+    "options": [
+      "50S initiation-complex formation",
+      "Penicillin-binding proteins",
+      "D-Ala-D-Ala termini",
+      "30S aminoacyl-tRNA attachment",
+      "DNA gyrase and topoisomerase IV"
+    ],
+    "answer": "50S initiation-complex formation",
+    "explanation": "Linezolid binds 23S RNA within the 50S subunit and prevents functional initiation-complex formation.",
+    "distractorExplanations": {
+      "50S initiation-complex formation": "Linezolid binds 23S RNA within the 50S subunit and prevents functional initiation-complex formation.",
+      "Penicillin-binding proteins": "Beta-lactams inhibit PBPs and peptidoglycan cross-linking. This does not best answer the specific question in this case.",
+      "D-Ala-D-Ala termini": "Vancomycin binds cell-wall precursor termini rather than PBPs. This does not best answer the specific question in this case.",
+      "30S aminoacyl-tRNA attachment": "Tetracyclines prevent aminoacyl-tRNA binding to the 30S subunit. This does not best answer the specific question in this case.",
+      "DNA gyrase and topoisomerase IV": "Fluoroquinolones inhibit bacterial DNA topoisomerases. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=_gen54iRCWI"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3e0d868d-f419-47e8-a3bc-41ececac468b"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-core-_gen54iRCWI-2",
+    "lectureId": "_gen54iRCWI",
+    "title": "Linezolid: 2",
+    "prompt": "A patient taking sertraline develops agitation, sweating, diarrhea and inducible ankle clonus shortly after linezolid is started. Temperature is elevated and reflexes are brisk. Which adverse drug interaction syndrome best fits these findings?",
+    "options": [
+      "QT prolongation",
+      "Clostridioides difficile colitis",
+      "Ototoxicity",
+      "Myelosuppression",
+      "Serotonin syndrome"
+    ],
+    "answer": "Serotonin syndrome",
+    "explanation": "Serotonergic interactions can produce agitation, autonomic instability, hyperreflexia and clonus.",
+    "distractorExplanations": {
+      "Serotonin syndrome": "Serotonergic interactions can produce agitation, autonomic instability, hyperreflexia and clonus.",
+      "QT prolongation": "Delayed repolarization increases torsades risk, especially with electrolyte disturbances or other QT-prolonging drugs. This does not best answer the specific question in this case.",
+      "Clostridioides difficile colitis": "Antibiotic-associated disruption of intestinal flora can permit toxin-producing C. difficile to cause colitis. This does not best answer the specific question in this case.",
+      "Ototoxicity": "Aminoglycosides can injure cochlear or vestibular structures, causing hearing loss, tinnitus or imbalance. This does not best answer the specific question in this case.",
+      "Myelosuppression": "Linezolid can suppress blood counts, including platelets; CBC monitoring is important. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=_gen54iRCWI"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3e0d868d-f419-47e8-a3bc-41ececac468b"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-core-_gen54iRCWI-3",
+    "lectureId": "_gen54iRCWI",
+    "title": "Linezolid: 3",
+    "prompt": "A patient receiving a prolonged course of linezolid develops easy bruising. Platelets have fallen substantially from baseline, without evidence of disseminated coagulation or bleeding elsewhere. Which recognized adverse effect best explains the laboratory change?",
+    "options": [
+      "Clostridioides difficile colitis",
+      "Ototoxicity",
+      "Serotonin syndrome",
+      "Myelosuppression",
+      "QT prolongation"
+    ],
+    "answer": "Myelosuppression",
+    "explanation": "Linezolid can suppress blood counts, including platelets; CBC monitoring is important.",
+    "distractorExplanations": {
+      "Myelosuppression": "Linezolid can suppress blood counts, including platelets; CBC monitoring is important.",
+      "QT prolongation": "Delayed repolarization increases torsades risk, especially with electrolyte disturbances or other QT-prolonging drugs. This does not best answer the specific question in this case.",
+      "Clostridioides difficile colitis": "Antibiotic-associated disruption of intestinal flora can permit toxin-producing C. difficile to cause colitis. This does not best answer the specific question in this case.",
+      "Ototoxicity": "Aminoglycosides can injure cochlear or vestibular structures, causing hearing loss, tinnitus or imbalance. This does not best answer the specific question in this case.",
+      "Serotonin syndrome": "Serotonergic interactions can produce agitation, autonomic instability, hyperreflexia and clonus. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=_gen54iRCWI"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3e0d868d-f419-47e8-a3bc-41ececac468b"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-core-_gen54iRCWI-4",
+    "lectureId": "_gen54iRCWI",
+    "title": "Linezolid: 4",
+    "prompt": "A clinically stable patient treated with intravenous linezolid can swallow and absorb medicines normally. The team considers an oral formulation while maintaining comparable systemic exposure. Which pharmacokinetic property makes this transition feasible when otherwise appropriate?",
+    "options": [
+      "Increased bacterial drug efflux",
+      "Alteration of the ribosomal binding site",
+      "High oral bioavailability",
+      "Poor systemic absorption after oral administration",
+      "Oxygen-dependent bacterial uptake"
+    ],
+    "answer": "High oral bioavailability",
+    "explanation": "Linezolid has high oral bioavailability, permitting an appropriate IV-to-oral switch in selected stable patients.",
+    "distractorExplanations": {
+      "High oral bioavailability": "Linezolid has high oral bioavailability, permitting an appropriate IV-to-oral switch in selected stable patients.",
+      "Poor systemic absorption after oral administration": "Oral vancomycin acts mainly in the bowel and does not provide dependable systemic therapy. This does not best answer the specific question in this case.",
+      "Oxygen-dependent bacterial uptake": "Aminoglycosides require active oxygen-dependent transport into susceptible bacteria. This does not best answer the specific question in this case.",
+      "Increased bacterial drug efflux": "Efflux can lower intracellular tetracycline concentrations and cause resistance. This does not best answer the specific question in this case.",
+      "Alteration of the ribosomal binding site": "Ribosomal methylation or other target changes can reduce binding of some protein-synthesis inhibitors. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=_gen54iRCWI"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3e0d868d-f419-47e8-a3bc-41ececac468b"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-core-_gen54iRCWI-5",
+    "lectureId": "_gen54iRCWI",
+    "title": "Linezolid: 5",
+    "prompt": "After an extended linezolid course, a patient reports progressive tingling and burning in both feet. Examination shows reduced distal sensation without a focal root pattern. Which recognized toxicity should be considered during medication reassessment?",
+    "options": [
+      "Serotonin syndrome",
+      "Peripheral neuropathy",
+      "QT prolongation",
+      "Clostridioides difficile colitis",
+      "Ototoxicity"
+    ],
+    "answer": "Peripheral neuropathy",
+    "explanation": "Prolonged exposure to some antimicrobials, including metronidazole and linezolid, can cause sensory neuropathy.",
+    "distractorExplanations": {
+      "Peripheral neuropathy": "Prolonged exposure to some antimicrobials, including metronidazole and linezolid, can cause sensory neuropathy.",
+      "QT prolongation": "Delayed repolarization increases torsades risk, especially with electrolyte disturbances or other QT-prolonging drugs. This does not best answer the specific question in this case.",
+      "Clostridioides difficile colitis": "Antibiotic-associated disruption of intestinal flora can permit toxin-producing C. difficile to cause colitis. This does not best answer the specific question in this case.",
+      "Ototoxicity": "Aminoglycosides can injure cochlear or vestibular structures, causing hearing loss, tinnitus or imbalance. This does not best answer the specific question in this case.",
+      "Serotonin syndrome": "Serotonergic interactions can produce agitation, autonomic instability, hyperreflexia and clonus. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=_gen54iRCWI"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3e0d868d-f419-47e8-a3bc-41ececac468b"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-core-ttJU_RcE06k-1",
+    "lectureId": "ttJU_RcE06k",
+    "title": "Fluoroquinolones: 1",
+    "prompt": "A patient with a susceptible bacterial infection receives ciprofloxacin. Laboratory study of the organism shows impaired DNA supercoiling and separation of replicated chromosomes rather than primary ribosomal inhibition. Which bacterial targets explain this effect?",
+    "options": [
+      "Penicillin-binding proteins",
+      "D-Ala-D-Ala termini",
+      "30S aminoacyl-tRNA attachment",
+      "50S initiation-complex formation",
+      "DNA gyrase and topoisomerase IV"
+    ],
+    "answer": "DNA gyrase and topoisomerase IV",
+    "explanation": "Fluoroquinolones inhibit bacterial DNA topoisomerases.",
+    "distractorExplanations": {
+      "DNA gyrase and topoisomerase IV": "Fluoroquinolones inhibit bacterial DNA topoisomerases.",
+      "Penicillin-binding proteins": "Beta-lactams inhibit PBPs and peptidoglycan cross-linking. This does not best answer the specific question in this case.",
+      "D-Ala-D-Ala termini": "Vancomycin binds cell-wall precursor termini rather than PBPs. This does not best answer the specific question in this case.",
+      "30S aminoacyl-tRNA attachment": "Tetracyclines prevent aminoacyl-tRNA binding to the 30S subunit. This does not best answer the specific question in this case.",
+      "50S initiation-complex formation": "Linezolid binds 23S RNA within the 50S subunit and prevents functional initiation-complex formation. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=ttJU_RcE06k"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.medlineplus.gov/druginfo/meds/a688016.html"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-core-ttJU_RcE06k-2",
+    "lectureId": "ttJU_RcE06k",
+    "title": "Fluoroquinolones: 2",
+    "prompt": "A 72-year-old taking systemic corticosteroids develops new Achilles pain while receiving ciprofloxacin. There was no major trauma, and the tendon is tender with walking. Which recognized medication complication should prompt immediate treatment reassessment?",
+    "options": [
+      "Clostridioides difficile colitis",
+      "Ototoxicity",
+      "Serotonin syndrome",
+      "Fluoroquinolone-associated tendinopathy",
+      "QT prolongation"
+    ],
+    "answer": "Fluoroquinolone-associated tendinopathy",
+    "explanation": "Fluoroquinolones can cause tendon injury or rupture, with increased risk in older patients and corticosteroid users.",
+    "distractorExplanations": {
+      "Fluoroquinolone-associated tendinopathy": "Fluoroquinolones can cause tendon injury or rupture, with increased risk in older patients and corticosteroid users.",
+      "QT prolongation": "Delayed repolarization increases torsades risk, especially with electrolyte disturbances or other QT-prolonging drugs. This does not best answer the specific question in this case.",
+      "Clostridioides difficile colitis": "Antibiotic-associated disruption of intestinal flora can permit toxin-producing C. difficile to cause colitis. This does not best answer the specific question in this case.",
+      "Ototoxicity": "Aminoglycosides can injure cochlear or vestibular structures, causing hearing loss, tinnitus or imbalance. This does not best answer the specific question in this case.",
+      "Serotonin syndrome": "Serotonergic interactions can produce agitation, autonomic instability, hyperreflexia and clonus. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=ttJU_RcE06k"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.medlineplus.gov/druginfo/meds/a688016.html"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-core-ttJU_RcE06k-3",
+    "lectureId": "ttJU_RcE06k",
+    "title": "Fluoroquinolones: 3",
+    "prompt": "A patient takes ciprofloxacin at the same time as an aluminum-magnesium antacid and an iron supplement. Despite adherence, oral antibiotic exposure is reduced. Which interaction most directly explains the reduced gastrointestinal absorption of the antibiotic?",
+    "options": [
+      "Reduced renal drug elimination",
+      "Sequential folate-pathway blockade",
+      "Intestinal chelation",
+      "Reduced CYP-mediated drug clearance",
+      "Monoamine oxidase inhibition"
+    ],
+    "answer": "Intestinal chelation",
+    "explanation": "Polyvalent cations can bind tetracyclines and fluoroquinolones and reduce absorption.",
+    "distractorExplanations": {
+      "Intestinal chelation": "Polyvalent cations can bind tetracyclines and fluoroquinolones and reduce absorption.",
+      "Reduced CYP-mediated drug clearance": "Clarithromycin can inhibit CYP3A4 and increase exposure to susceptible coadministered drugs. This does not best answer the specific question in this case.",
+      "Monoamine oxidase inhibition": "Linezolid has reversible MAO-inhibiting activity, explaining important serotonergic and adrenergic interactions. This does not best answer the specific question in this case.",
+      "Reduced renal drug elimination": "Renal dysfunction can increase exposure to drugs cleared predominantly by the kidneys. This does not best answer the specific question in this case.",
+      "Sequential folate-pathway blockade": "Sulfamethoxazole and trimethoprim block consecutive steps in microbial folate production. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=ttJU_RcE06k"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.medlineplus.gov/druginfo/meds/a688016.html"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-core-ttJU_RcE06k-4",
+    "lectureId": "ttJU_RcE06k",
+    "title": "Fluoroquinolones: 4",
+    "prompt": "A patient receiving a fluoroquinolone develops syncope. The ECG shows a prolonged corrected QT interval, and laboratory testing shows hypokalemia. Which recognized electrophysiologic adverse effect creates a risk of torsades in this setting?",
+    "options": [
+      "Myelosuppression",
+      "QT prolongation",
+      "Clostridioides difficile colitis",
+      "Ototoxicity",
+      "Serotonin syndrome"
+    ],
+    "answer": "QT prolongation",
+    "explanation": "Delayed repolarization increases torsades risk, especially with electrolyte disturbances or other QT-prolonging drugs.",
+    "distractorExplanations": {
+      "QT prolongation": "Delayed repolarization increases torsades risk, especially with electrolyte disturbances or other QT-prolonging drugs.",
+      "Clostridioides difficile colitis": "Antibiotic-associated disruption of intestinal flora can permit toxin-producing C. difficile to cause colitis. This does not best answer the specific question in this case.",
+      "Ototoxicity": "Aminoglycosides can injure cochlear or vestibular structures, causing hearing loss, tinnitus or imbalance. This does not best answer the specific question in this case.",
+      "Serotonin syndrome": "Serotonergic interactions can produce agitation, autonomic instability, hyperreflexia and clonus. This does not best answer the specific question in this case.",
+      "Myelosuppression": "Linezolid can suppress blood counts, including platelets; CBC monitoring is important. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=ttJU_RcE06k"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.medlineplus.gov/druginfo/meds/a688016.html"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-core-ttJU_RcE06k-5",
+    "lectureId": "ttJU_RcE06k",
+    "title": "Fluoroquinolones: 5",
+    "prompt": "A patient started on ciprofloxacin develops new burning paresthesias and sensory loss in the feet. The symptoms began during therapy and are progressing. Which response best addresses the possibility of a serious fluoroquinolone adverse reaction?",
+    "options": [
+      "Stop the suspected drug and assess the adverse reaction",
+      "Monitor the complete blood count",
+      "Monitor renal function and drug exposure",
+      "Separate dosing from polyvalent-cation products",
+      "Use culture and susceptibility results to refine treatment"
+    ],
+    "answer": "Stop the suspected drug and assess the adverse reaction",
+    "explanation": "Potentially serious new drug toxicity warrants prompt assessment and an alternative treatment plan.",
+    "distractorExplanations": {
+      "Stop the suspected drug and assess the adverse reaction": "Potentially serious new drug toxicity warrants prompt assessment and an alternative treatment plan.",
+      "Monitor the complete blood count": "Linezolid can cause cytopenias; serial CBC assessment helps detect marrow toxicity. This does not best answer the specific question in this case.",
+      "Monitor renal function and drug exposure": "Renally affected antimicrobial exposure requires kidney-function review and drug-specific dose adjustment or concentration monitoring when indicated. This does not best answer the specific question in this case.",
+      "Separate dosing from polyvalent-cation products": "Dose separation according to product guidance limits absorption-reducing chelation. This does not best answer the specific question in this case.",
+      "Use culture and susceptibility results to refine treatment": "Definitive antimicrobial choice should reflect the organism, susceptibility, infection site and patient factors. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=ttJU_RcE06k"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.medlineplus.gov/druginfo/meds/a688016.html"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-core-qiCVMhbSfKs-1",
+    "lectureId": "qiCVMhbSfKs",
+    "title": "Tetracyclines: 1",
+    "prompt": "A young adult with a susceptible intracellular bacterial infection receives doxycycline. The drug blocks delivery of charged transfer RNA to the ribosome rather than disrupting cell-wall cross-linking. Which target best describes this action?",
+    "options": [
+      "DNA gyrase and topoisomerase IV",
+      "50S initiation-complex formation",
+      "30S aminoacyl-tRNA attachment",
+      "Penicillin-binding proteins",
+      "D-Ala-D-Ala termini"
+    ],
+    "answer": "30S aminoacyl-tRNA attachment",
+    "explanation": "Tetracyclines prevent aminoacyl-tRNA binding to the 30S subunit.",
+    "distractorExplanations": {
+      "30S aminoacyl-tRNA attachment": "Tetracyclines prevent aminoacyl-tRNA binding to the 30S subunit.",
+      "Penicillin-binding proteins": "Beta-lactams inhibit PBPs and peptidoglycan cross-linking. This does not best answer the specific question in this case.",
+      "D-Ala-D-Ala termini": "Vancomycin binds cell-wall precursor termini rather than PBPs. This does not best answer the specific question in this case.",
+      "DNA gyrase and topoisomerase IV": "Fluoroquinolones inhibit bacterial DNA topoisomerases. This does not best answer the specific question in this case.",
+      "50S initiation-complex formation": "Linezolid binds 23S RNA within the 50S subunit and prevents functional initiation-complex formation. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=qiCVMhbSfKs"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.fda.gov/drugs/bioterrorism-and-drug-preparedness/questions-and-answers-consumers-doxycycline"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-core-qiCVMhbSfKs-2",
+    "lectureId": "qiCVMhbSfKs",
+    "title": "Tetracyclines: 2",
+    "prompt": "A patient taking doxycycline develops an exaggerated sunburn after a short outdoor exposure. The rash is confined mainly to exposed skin, without mucosal lesions or systemic illness. Which adverse effect best explains this distribution?",
+    "options": [
+      "Serotonin syndrome",
+      "Photosensitivity",
+      "QT prolongation",
+      "Clostridioides difficile colitis",
+      "Ototoxicity"
+    ],
+    "answer": "Photosensitivity",
+    "explanation": "Some tetracyclines increase susceptibility to sunlight-induced skin reactions.",
+    "distractorExplanations": {
+      "Photosensitivity": "Some tetracyclines increase susceptibility to sunlight-induced skin reactions.",
+      "QT prolongation": "Delayed repolarization increases torsades risk, especially with electrolyte disturbances or other QT-prolonging drugs. This does not best answer the specific question in this case.",
+      "Clostridioides difficile colitis": "Antibiotic-associated disruption of intestinal flora can permit toxin-producing C. difficile to cause colitis. This does not best answer the specific question in this case.",
+      "Ototoxicity": "Aminoglycosides can injure cochlear or vestibular structures, causing hearing loss, tinnitus or imbalance. This does not best answer the specific question in this case.",
+      "Serotonin syndrome": "Serotonergic interactions can produce agitation, autonomic instability, hyperreflexia and clonus. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=qiCVMhbSfKs"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.fda.gov/drugs/bioterrorism-and-drug-preparedness/questions-and-answers-consumers-doxycycline"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-core-qiCVMhbSfKs-3",
+    "lectureId": "qiCVMhbSfKs",
+    "title": "Tetracyclines: 3",
+    "prompt": "A patient swallows a doxycycline capsule with little water immediately before lying down. The next morning, swallowing produces sharp retrosternal pain. There is no exertional chest discomfort. Which medication complication best explains this presentation?",
+    "options": [
+      "Pill esophagitis",
+      "QT prolongation",
+      "Clostridioides difficile colitis",
+      "Ototoxicity",
+      "Serotonin syndrome"
+    ],
+    "answer": "Pill esophagitis",
+    "explanation": "A tablet retained in the esophagus can cause odynophagia; adequate water and remaining upright reduce risk.",
+    "distractorExplanations": {
+      "Pill esophagitis": "A tablet retained in the esophagus can cause odynophagia; adequate water and remaining upright reduce risk.",
+      "QT prolongation": "Delayed repolarization increases torsades risk, especially with electrolyte disturbances or other QT-prolonging drugs. This does not best answer the specific question in this case.",
+      "Clostridioides difficile colitis": "Antibiotic-associated disruption of intestinal flora can permit toxin-producing C. difficile to cause colitis. This does not best answer the specific question in this case.",
+      "Ototoxicity": "Aminoglycosides can injure cochlear or vestibular structures, causing hearing loss, tinnitus or imbalance. This does not best answer the specific question in this case.",
+      "Serotonin syndrome": "Serotonergic interactions can produce agitation, autonomic instability, hyperreflexia and clonus. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=qiCVMhbSfKs"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.fda.gov/drugs/bioterrorism-and-drug-preparedness/questions-and-answers-consumers-doxycycline"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-core-qiCVMhbSfKs-4",
+    "lectureId": "qiCVMhbSfKs",
+    "title": "Tetracyclines: 4",
+    "prompt": "A patient taking oral tetracycline also takes calcium and iron tablets at the same time each morning. The pharmacist recommends separating these products to preserve antimicrobial exposure. Which mechanism explains the interaction being prevented?",
+    "options": [
+      "Reduced CYP-mediated drug clearance",
+      "Monoamine oxidase inhibition",
+      "Reduced renal drug elimination",
+      "Sequential folate-pathway blockade",
+      "Intestinal chelation"
+    ],
+    "answer": "Intestinal chelation",
+    "explanation": "Polyvalent cations can bind tetracyclines and fluoroquinolones and reduce absorption.",
+    "distractorExplanations": {
+      "Intestinal chelation": "Polyvalent cations can bind tetracyclines and fluoroquinolones and reduce absorption.",
+      "Reduced CYP-mediated drug clearance": "Clarithromycin can inhibit CYP3A4 and increase exposure to susceptible coadministered drugs. This does not best answer the specific question in this case.",
+      "Monoamine oxidase inhibition": "Linezolid has reversible MAO-inhibiting activity, explaining important serotonergic and adrenergic interactions. This does not best answer the specific question in this case.",
+      "Reduced renal drug elimination": "Renal dysfunction can increase exposure to drugs cleared predominantly by the kidneys. This does not best answer the specific question in this case.",
+      "Sequential folate-pathway blockade": "Sulfamethoxazole and trimethoprim block consecutive steps in microbial folate production. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=qiCVMhbSfKs"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.fda.gov/drugs/bioterrorism-and-drug-preparedness/questions-and-answers-consumers-doxycycline"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-core-qiCVMhbSfKs-5",
+    "lectureId": "qiCVMhbSfKs",
+    "title": "Tetracyclines: 5",
+    "prompt": "A bacterial isolate was previously inhibited by tetracycline but now maintains a much lower intracellular antibiotic concentration. Testing shows an increased membrane transport process that exports the drug. Which resistance mechanism best explains the change?",
+    "options": [
+      "High oral bioavailability",
+      "Oxygen-dependent bacterial uptake",
+      "Alteration of the ribosomal binding site",
+      "Increased bacterial drug efflux",
+      "Poor systemic absorption after oral administration"
+    ],
+    "answer": "Increased bacterial drug efflux",
+    "explanation": "Efflux can lower intracellular tetracycline concentrations and cause resistance.",
+    "distractorExplanations": {
+      "Increased bacterial drug efflux": "Efflux can lower intracellular tetracycline concentrations and cause resistance.",
+      "Poor systemic absorption after oral administration": "Oral vancomycin acts mainly in the bowel and does not provide dependable systemic therapy. This does not best answer the specific question in this case.",
+      "High oral bioavailability": "Linezolid has high oral bioavailability, permitting an appropriate IV-to-oral switch in selected stable patients. This does not best answer the specific question in this case.",
+      "Oxygen-dependent bacterial uptake": "Aminoglycosides require active oxygen-dependent transport into susceptible bacteria. This does not best answer the specific question in this case.",
+      "Alteration of the ribosomal binding site": "Ribosomal methylation or other target changes can reduce binding of some protein-synthesis inhibitors. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=qiCVMhbSfKs"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.fda.gov/drugs/bioterrorism-and-drug-preparedness/questions-and-answers-consumers-doxycycline"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-core-GNZaCAsJDBo-1",
+    "lectureId": "GNZaCAsJDBo",
+    "title": "Aminoglycosides: 1",
+    "prompt": "A patient with a serious susceptible Gram-negative infection receives gentamicin. Bacterial studies demonstrate abnormal decoding of messenger RNA and production of faulty proteins. Which ribosomal mechanism is characteristic of the administered antimicrobial class?",
+    "options": [
+      "Penicillin-binding proteins",
+      "D-Ala-D-Ala termini",
+      "30S aminoacyl-tRNA attachment",
+      "DNA gyrase and topoisomerase IV",
+      "30S-associated mRNA misreading"
+    ],
+    "answer": "30S-associated mRNA misreading",
+    "explanation": "Aminoglycosides alter decoding and inhibit bacterial protein synthesis.",
+    "distractorExplanations": {
+      "30S-associated mRNA misreading": "Aminoglycosides alter decoding and inhibit bacterial protein synthesis.",
+      "Penicillin-binding proteins": "Beta-lactams inhibit PBPs and peptidoglycan cross-linking. This does not best answer the specific question in this case.",
+      "D-Ala-D-Ala termini": "Vancomycin binds cell-wall precursor termini rather than PBPs. This does not best answer the specific question in this case.",
+      "30S aminoacyl-tRNA attachment": "Tetracyclines prevent aminoacyl-tRNA binding to the 30S subunit. This does not best answer the specific question in this case.",
+      "DNA gyrase and topoisomerase IV": "Fluoroquinolones inhibit bacterial DNA topoisomerases. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=GNZaCAsJDBo"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a73a5453-c091-43fd-aae2-d992152363b1"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-core-GNZaCAsJDBo-2",
+    "lectureId": "GNZaCAsJDBo",
+    "title": "Aminoglycosides: 2",
+    "prompt": "An older patient receiving gentamicin reports tinnitus and imbalance. Hearing testing demonstrates a new deficit, and no obstructing ear lesion is present. Which adverse effect should be suspected when reassessing the antimicrobial regimen?",
+    "options": [
+      "Clostridioides difficile colitis",
+      "Serotonin syndrome",
+      "Myelosuppression",
+      "Ototoxicity",
+      "QT prolongation"
+    ],
+    "answer": "Ototoxicity",
+    "explanation": "Aminoglycosides can injure cochlear or vestibular structures, causing hearing loss, tinnitus or imbalance.",
+    "distractorExplanations": {
+      "Ototoxicity": "Aminoglycosides can injure cochlear or vestibular structures, causing hearing loss, tinnitus or imbalance.",
+      "QT prolongation": "Delayed repolarization increases torsades risk, especially with electrolyte disturbances or other QT-prolonging drugs. This does not best answer the specific question in this case.",
+      "Clostridioides difficile colitis": "Antibiotic-associated disruption of intestinal flora can permit toxin-producing C. difficile to cause colitis. This does not best answer the specific question in this case.",
+      "Serotonin syndrome": "Serotonergic interactions can produce agitation, autonomic instability, hyperreflexia and clonus. This does not best answer the specific question in this case.",
+      "Myelosuppression": "Linezolid can suppress blood counts, including platelets; CBC monitoring is important. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=GNZaCAsJDBo"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a73a5453-c091-43fd-aae2-d992152363b1"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-core-GNZaCAsJDBo-3",
+    "lectureId": "GNZaCAsJDBo",
+    "title": "Aminoglycosides: 3",
+    "prompt": "During gentamicin therapy, a patient develops a rising creatinine without urinary obstruction or shock. The clinician considers accumulation of the antibiotic within renal tubular cells. Which adverse effect most directly accounts for this pattern?",
+    "options": [
+      "Ototoxicity",
+      "Serotonin syndrome",
+      "Drug-associated tubular kidney injury",
+      "QT prolongation",
+      "Clostridioides difficile colitis"
+    ],
+    "answer": "Drug-associated tubular kidney injury",
+    "explanation": "Aminoglycoside accumulation in proximal tubular cells can cause nephrotoxicity.",
+    "distractorExplanations": {
+      "Drug-associated tubular kidney injury": "Aminoglycoside accumulation in proximal tubular cells can cause nephrotoxicity.",
+      "QT prolongation": "Delayed repolarization increases torsades risk, especially with electrolyte disturbances or other QT-prolonging drugs. This does not best answer the specific question in this case.",
+      "Clostridioides difficile colitis": "Antibiotic-associated disruption of intestinal flora can permit toxin-producing C. difficile to cause colitis. This does not best answer the specific question in this case.",
+      "Ototoxicity": "Aminoglycosides can injure cochlear or vestibular structures, causing hearing loss, tinnitus or imbalance. This does not best answer the specific question in this case.",
+      "Serotonin syndrome": "Serotonergic interactions can produce agitation, autonomic instability, hyperreflexia and clonus. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=GNZaCAsJDBo"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a73a5453-c091-43fd-aae2-d992152363b1"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-core-GNZaCAsJDBo-4",
+    "lectureId": "GNZaCAsJDBo",
+    "title": "Aminoglycosides: 4",
+    "prompt": "A clinician avoids relying on gentamicin alone for a strictly anaerobic infection. The antibiotic cannot efficiently enter these organisms under anaerobic conditions. Which property of aminoglycoside transport explains this important limitation of its spectrum?",
+    "options": [
+      "Alteration of the ribosomal binding site",
+      "Oxygen-dependent bacterial uptake",
+      "Poor systemic absorption after oral administration",
+      "High oral bioavailability",
+      "Increased bacterial drug efflux"
+    ],
+    "answer": "Oxygen-dependent bacterial uptake",
+    "explanation": "Aminoglycosides require active oxygen-dependent transport into susceptible bacteria.",
+    "distractorExplanations": {
+      "Oxygen-dependent bacterial uptake": "Aminoglycosides require active oxygen-dependent transport into susceptible bacteria.",
+      "Poor systemic absorption after oral administration": "Oral vancomycin acts mainly in the bowel and does not provide dependable systemic therapy. This does not best answer the specific question in this case.",
+      "High oral bioavailability": "Linezolid has high oral bioavailability, permitting an appropriate IV-to-oral switch in selected stable patients. This does not best answer the specific question in this case.",
+      "Increased bacterial drug efflux": "Efflux can lower intracellular tetracycline concentrations and cause resistance. This does not best answer the specific question in this case.",
+      "Alteration of the ribosomal binding site": "Ribosomal methylation or other target changes can reduce binding of some protein-synthesis inhibitors. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=GNZaCAsJDBo"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a73a5453-c091-43fd-aae2-d992152363b1"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-core-GNZaCAsJDBo-5",
+    "lectureId": "GNZaCAsJDBo",
+    "title": "Aminoglycosides: 5",
+    "prompt": "A patient with fluctuating renal function requires gentamicin for a serious susceptible infection. The team wants effective exposure while minimizing toxicity during treatment. Which monitoring strategy is most directly relevant to individualized aminoglycoside dosing?",
+    "options": [
+      "Monitor renal function and drug exposure",
+      "Monitor the complete blood count",
+      "Stop the suspected drug and assess the adverse reaction",
+      "Separate dosing from polyvalent-cation products",
+      "Use culture and susceptibility results to refine treatment"
+    ],
+    "answer": "Monitor renal function and drug exposure",
+    "explanation": "Renally affected antimicrobial exposure requires kidney-function review and drug-specific dose adjustment or concentration monitoring when indicated.",
+    "distractorExplanations": {
+      "Monitor renal function and drug exposure": "Renally affected antimicrobial exposure requires kidney-function review and drug-specific dose adjustment or concentration monitoring when indicated.",
+      "Monitor the complete blood count": "Linezolid can cause cytopenias; serial CBC assessment helps detect marrow toxicity. This does not best answer the specific question in this case.",
+      "Stop the suspected drug and assess the adverse reaction": "Potentially serious new drug toxicity warrants prompt assessment and an alternative treatment plan. This does not best answer the specific question in this case.",
+      "Separate dosing from polyvalent-cation products": "Dose separation according to product guidance limits absorption-reducing chelation. This does not best answer the specific question in this case.",
+      "Use culture and susceptibility results to refine treatment": "Definitive antimicrobial choice should reflect the organism, susceptibility, infection site and patient factors. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=GNZaCAsJDBo"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a73a5453-c091-43fd-aae2-d992152363b1"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-core-d-P8_wfjVJ0-1",
+    "lectureId": "d-P8_wfjVJ0",
+    "title": "Macrolides: 1",
+    "prompt": "A patient with atypical pneumonia receives azithromycin. The antimicrobial acts on the larger bacterial ribosomal subunit and prevents progression of the growing peptide along the ribosome. Which process is most directly inhibited by this class?",
+    "options": [
+      "50S-mediated translocation",
+      "Penicillin-binding proteins",
+      "D-Ala-D-Ala termini",
+      "30S aminoacyl-tRNA attachment",
+      "DNA gyrase and topoisomerase IV"
+    ],
+    "answer": "50S-mediated translocation",
+    "explanation": "Macrolides inhibit ribosomal translocation.",
+    "distractorExplanations": {
+      "50S-mediated translocation": "Macrolides inhibit ribosomal translocation.",
+      "Penicillin-binding proteins": "Beta-lactams inhibit PBPs and peptidoglycan cross-linking. This does not best answer the specific question in this case.",
+      "D-Ala-D-Ala termini": "Vancomycin binds cell-wall precursor termini rather than PBPs. This does not best answer the specific question in this case.",
+      "30S aminoacyl-tRNA attachment": "Tetracyclines prevent aminoacyl-tRNA binding to the 30S subunit. This does not best answer the specific question in this case.",
+      "DNA gyrase and topoisomerase IV": "Fluoroquinolones inhibit bacterial DNA topoisomerases. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=d-P8_wfjVJ0"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1ef293bd-b99c-42ba-9c9b-6e0cd5e350b5"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-core-d-P8_wfjVJ0-2",
+    "lectureId": "d-P8_wfjVJ0",
+    "title": "Macrolides: 2",
+    "prompt": "Before prescribing azithromycin, a clinician reviews an ECG showing baseline QT prolongation and notes another medication that delays repolarization. Which adverse effect is the main reason this combination requires careful risk assessment?",
+    "options": [
+      "Clostridioides difficile colitis",
+      "Ototoxicity",
+      "Serotonin syndrome",
+      "Myelosuppression",
+      "QT prolongation"
+    ],
+    "answer": "QT prolongation",
+    "explanation": "Delayed repolarization increases torsades risk, especially with electrolyte disturbances or other QT-prolonging drugs.",
+    "distractorExplanations": {
+      "QT prolongation": "Delayed repolarization increases torsades risk, especially with electrolyte disturbances or other QT-prolonging drugs.",
+      "Clostridioides difficile colitis": "Antibiotic-associated disruption of intestinal flora can permit toxin-producing C. difficile to cause colitis. This does not best answer the specific question in this case.",
+      "Ototoxicity": "Aminoglycosides can injure cochlear or vestibular structures, causing hearing loss, tinnitus or imbalance. This does not best answer the specific question in this case.",
+      "Serotonin syndrome": "Serotonergic interactions can produce agitation, autonomic instability, hyperreflexia and clonus. This does not best answer the specific question in this case.",
+      "Myelosuppression": "Linezolid can suppress blood counts, including platelets; CBC monitoring is important. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=d-P8_wfjVJ0"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1ef293bd-b99c-42ba-9c9b-6e0cd5e350b5"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-core-d-P8_wfjVJ0-3",
+    "lectureId": "d-P8_wfjVJ0",
+    "title": "Macrolides: 3",
+    "prompt": "A patient stable on a CYP3A4-metabolized medicine develops increased drug exposure after clarithromycin is added. Renal function and the original dose are unchanged. Which pharmacokinetic interaction best explains the increased concentration of the other medicine?",
+    "options": [
+      "Monoamine oxidase inhibition",
+      "Reduced renal drug elimination",
+      "Sequential folate-pathway blockade",
+      "Reduced CYP-mediated drug clearance",
+      "Intestinal chelation"
+    ],
+    "answer": "Reduced CYP-mediated drug clearance",
+    "explanation": "Clarithromycin can inhibit CYP3A4 and increase exposure to susceptible coadministered drugs.",
+    "distractorExplanations": {
+      "Reduced CYP-mediated drug clearance": "Clarithromycin can inhibit CYP3A4 and increase exposure to susceptible coadministered drugs.",
+      "Intestinal chelation": "Polyvalent cations can bind tetracyclines and fluoroquinolones and reduce absorption. This does not best answer the specific question in this case.",
+      "Monoamine oxidase inhibition": "Linezolid has reversible MAO-inhibiting activity, explaining important serotonergic and adrenergic interactions. This does not best answer the specific question in this case.",
+      "Reduced renal drug elimination": "Renal dysfunction can increase exposure to drugs cleared predominantly by the kidneys. This does not best answer the specific question in this case.",
+      "Sequential folate-pathway blockade": "Sulfamethoxazole and trimethoprim block consecutive steps in microbial folate production. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=d-P8_wfjVJ0"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1ef293bd-b99c-42ba-9c9b-6e0cd5e350b5"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-core-d-P8_wfjVJ0-4",
+    "lectureId": "d-P8_wfjVJ0",
+    "title": "Macrolides: 4",
+    "prompt": "A patient has pneumonia caused by Mycoplasma pneumoniae. The organism lacks the peptidoglycan structure targeted by beta-lactams, and a macrolide is selected when appropriate. Which organism category explains the rationale for this antimicrobial choice?",
+    "options": [
+      "Aerobic Gram-negative bacilli",
+      "Selected protozoal infections",
+      "Atypical respiratory pathogens",
+      "Anaerobic bacteria",
+      "Resistant Gram-positive bacteria"
+    ],
+    "answer": "Atypical respiratory pathogens",
+    "explanation": "Macrolides and tetracyclines can cover organisms such as Mycoplasma that are not treated by cell-wall inhibitors.",
+    "distractorExplanations": {
+      "Atypical respiratory pathogens": "Macrolides and tetracyclines can cover organisms such as Mycoplasma that are not treated by cell-wall inhibitors.",
+      "Anaerobic bacteria": "Metronidazole is active against many susceptible anaerobes; it does not replace aerobic coverage in a mixed infection. This does not best answer the specific question in this case.",
+      "Resistant Gram-positive bacteria": "Linezolid and vancomycin are used for selected resistant Gram-positive infections, depending on susceptibility and site. This does not best answer the specific question in this case.",
+      "Aerobic Gram-negative bacilli": "Aminoglycosides are useful against selected aerobic Gram-negative organisms; oxygen-dependent uptake limits anaerobic activity. This does not best answer the specific question in this case.",
+      "Selected protozoal infections": "Metronidazole has activity against organisms such as Giardia and Trichomonas. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=d-P8_wfjVJ0"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1ef293bd-b99c-42ba-9c9b-6e0cd5e350b5"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-core-d-P8_wfjVJ0-5",
+    "lectureId": "d-P8_wfjVJ0",
+    "title": "Macrolides: 5",
+    "prompt": "A bacterial isolate becomes resistant to erythromycin despite adequate intracellular drug concentration. Molecular testing identifies methylation of ribosomal RNA near the binding site. Which resistance mechanism best explains loss of antimicrobial activity in this isolate?",
+    "options": [
+      "Increased bacterial drug efflux",
+      "Alteration of the ribosomal binding site",
+      "Poor systemic absorption after oral administration",
+      "High oral bioavailability",
+      "Oxygen-dependent bacterial uptake"
+    ],
+    "answer": "Alteration of the ribosomal binding site",
+    "explanation": "Ribosomal methylation or other target changes can reduce binding of some protein-synthesis inhibitors.",
+    "distractorExplanations": {
+      "Alteration of the ribosomal binding site": "Ribosomal methylation or other target changes can reduce binding of some protein-synthesis inhibitors.",
+      "Poor systemic absorption after oral administration": "Oral vancomycin acts mainly in the bowel and does not provide dependable systemic therapy. This does not best answer the specific question in this case.",
+      "High oral bioavailability": "Linezolid has high oral bioavailability, permitting an appropriate IV-to-oral switch in selected stable patients. This does not best answer the specific question in this case.",
+      "Oxygen-dependent bacterial uptake": "Aminoglycosides require active oxygen-dependent transport into susceptible bacteria. This does not best answer the specific question in this case.",
+      "Increased bacterial drug efflux": "Efflux can lower intracellular tetracycline concentrations and cause resistance. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=d-P8_wfjVJ0"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1ef293bd-b99c-42ba-9c9b-6e0cd5e350b5"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-core-20ArLfzxfEE-1",
+    "lectureId": "20ArLfzxfEE",
+    "title": "Clindamycin: 1",
+    "prompt": "A patient receives clindamycin for an infection caused by a susceptible organism. The agent inhibits bacterial peptide synthesis without directly blocking DNA replication or folate production. Which target best describes the action of this lincosamide?",
+    "options": [
+      "50S protein synthesis",
+      "Penicillin-binding proteins",
+      "D-Ala-D-Ala termini",
+      "30S aminoacyl-tRNA attachment",
+      "DNA gyrase and topoisomerase IV"
+    ],
+    "answer": "50S protein synthesis",
+    "explanation": "Clindamycin is a lincosamide that inhibits bacterial protein synthesis at the 50S subunit.",
+    "distractorExplanations": {
+      "50S protein synthesis": "Clindamycin is a lincosamide that inhibits bacterial protein synthesis at the 50S subunit.",
+      "Penicillin-binding proteins": "Beta-lactams inhibit PBPs and peptidoglycan cross-linking. This does not best answer the specific question in this case.",
+      "D-Ala-D-Ala termini": "Vancomycin binds cell-wall precursor termini rather than PBPs. This does not best answer the specific question in this case.",
+      "30S aminoacyl-tRNA attachment": "Tetracyclines prevent aminoacyl-tRNA binding to the 30S subunit. This does not best answer the specific question in this case.",
+      "DNA gyrase and topoisomerase IV": "Fluoroquinolones inhibit bacterial DNA topoisomerases. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=20ArLfzxfEE"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c46cac0a-0c36-02fa-e053-2995a90a772b"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-core-20ArLfzxfEE-2",
+    "lectureId": "20ArLfzxfEE",
+    "title": "Clindamycin: 2",
+    "prompt": "A patient develops frequent watery stools and abdominal cramping after a clindamycin course. Stool testing identifies a toxin-producing organism associated with antibiotic disruption of bowel flora. Which diagnosis best explains the new gastrointestinal illness?",
+    "options": [
+      "QT prolongation",
+      "Ototoxicity",
+      "Serotonin syndrome",
+      "Myelosuppression",
+      "Clostridioides difficile colitis"
+    ],
+    "answer": "Clostridioides difficile colitis",
+    "explanation": "Antibiotic-associated disruption of intestinal flora can permit toxin-producing C. difficile to cause colitis.",
+    "distractorExplanations": {
+      "Clostridioides difficile colitis": "Antibiotic-associated disruption of intestinal flora can permit toxin-producing C. difficile to cause colitis.",
+      "QT prolongation": "Delayed repolarization increases torsades risk, especially with electrolyte disturbances or other QT-prolonging drugs. This does not best answer the specific question in this case.",
+      "Ototoxicity": "Aminoglycosides can injure cochlear or vestibular structures, causing hearing loss, tinnitus or imbalance. This does not best answer the specific question in this case.",
+      "Serotonin syndrome": "Serotonergic interactions can produce agitation, autonomic instability, hyperreflexia and clonus. This does not best answer the specific question in this case.",
+      "Myelosuppression": "Linezolid can suppress blood counts, including platelets; CBC monitoring is important. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=20ArLfzxfEE"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c46cac0a-0c36-02fa-e053-2995a90a772b"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-core-20ArLfzxfEE-3",
+    "lectureId": "20ArLfzxfEE",
+    "title": "Clindamycin: 3",
+    "prompt": "A staphylococcal isolate appears clindamycin susceptible but shows inducible resistance on a D-test performed because erythromycin resistance is present. The laboratory identifies an inducible methylase affecting ribosomal binding. Which mechanism explains the finding?",
+    "options": [
+      "High oral bioavailability",
+      "Oxygen-dependent bacterial uptake",
+      "Increased bacterial drug efflux",
+      "Alteration of the ribosomal binding site",
+      "Poor systemic absorption after oral administration"
+    ],
+    "answer": "Alteration of the ribosomal binding site",
+    "explanation": "Ribosomal methylation or other target changes can reduce binding of some protein-synthesis inhibitors.",
+    "distractorExplanations": {
+      "Alteration of the ribosomal binding site": "Ribosomal methylation or other target changes can reduce binding of some protein-synthesis inhibitors.",
+      "Poor systemic absorption after oral administration": "Oral vancomycin acts mainly in the bowel and does not provide dependable systemic therapy. This does not best answer the specific question in this case.",
+      "High oral bioavailability": "Linezolid has high oral bioavailability, permitting an appropriate IV-to-oral switch in selected stable patients. This does not best answer the specific question in this case.",
+      "Oxygen-dependent bacterial uptake": "Aminoglycosides require active oxygen-dependent transport into susceptible bacteria. This does not best answer the specific question in this case.",
+      "Increased bacterial drug efflux": "Efflux can lower intracellular tetracycline concentrations and cause resistance. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=20ArLfzxfEE"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c46cac0a-0c36-02fa-e053-2995a90a772b"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-core-20ArLfzxfEE-4",
+    "lectureId": "20ArLfzxfEE",
+    "title": "Clindamycin: 4",
+    "prompt": "A patient with a drained skin abscess is being considered for clindamycin. Local resistance is substantial and the isolate has susceptibility results available. Which information should guide whether this antibiotic provides appropriate definitive coverage?",
+    "options": [
+      "Stop the suspected drug and assess the adverse reaction",
+      "Separate dosing from polyvalent-cation products",
+      "Use culture and susceptibility results to refine treatment",
+      "Monitor the complete blood count",
+      "Monitor renal function and drug exposure"
+    ],
+    "answer": "Use culture and susceptibility results to refine treatment",
+    "explanation": "Definitive antimicrobial choice should reflect the organism, susceptibility, infection site and patient factors.",
+    "distractorExplanations": {
+      "Use culture and susceptibility results to refine treatment": "Definitive antimicrobial choice should reflect the organism, susceptibility, infection site and patient factors.",
+      "Monitor the complete blood count": "Linezolid can cause cytopenias; serial CBC assessment helps detect marrow toxicity. This does not best answer the specific question in this case.",
+      "Monitor renal function and drug exposure": "Renally affected antimicrobial exposure requires kidney-function review and drug-specific dose adjustment or concentration monitoring when indicated. This does not best answer the specific question in this case.",
+      "Stop the suspected drug and assess the adverse reaction": "Potentially serious new drug toxicity warrants prompt assessment and an alternative treatment plan. This does not best answer the specific question in this case.",
+      "Separate dosing from polyvalent-cation products": "Dose separation according to product guidance limits absorption-reducing chelation. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=20ArLfzxfEE"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c46cac0a-0c36-02fa-e053-2995a90a772b"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-core-20ArLfzxfEE-5",
+    "lectureId": "20ArLfzxfEE",
+    "title": "Clindamycin: 5",
+    "prompt": "A patient taking clindamycin develops severe diarrhea, fever and abdominal tenderness. The clinician suspects antibiotic-associated colitis rather than a minor transient upset. Which general medication response is appropriate while urgent diagnostic evaluation is arranged?",
+    "options": [
+      "Use culture and susceptibility results to refine treatment",
+      "Stop the suspected drug and assess the adverse reaction",
+      "Monitor the complete blood count",
+      "Monitor renal function and drug exposure",
+      "Separate dosing from polyvalent-cation products"
+    ],
+    "answer": "Stop the suspected drug and assess the adverse reaction",
+    "explanation": "Potentially serious new drug toxicity warrants prompt assessment and an alternative treatment plan.",
+    "distractorExplanations": {
+      "Stop the suspected drug and assess the adverse reaction": "Potentially serious new drug toxicity warrants prompt assessment and an alternative treatment plan.",
+      "Monitor the complete blood count": "Linezolid can cause cytopenias; serial CBC assessment helps detect marrow toxicity. This does not best answer the specific question in this case.",
+      "Monitor renal function and drug exposure": "Renally affected antimicrobial exposure requires kidney-function review and drug-specific dose adjustment or concentration monitoring when indicated. This does not best answer the specific question in this case.",
+      "Separate dosing from polyvalent-cation products": "Dose separation according to product guidance limits absorption-reducing chelation. This does not best answer the specific question in this case.",
+      "Use culture and susceptibility results to refine treatment": "Definitive antimicrobial choice should reflect the organism, susceptibility, infection site and patient factors. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=20ArLfzxfEE"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c46cac0a-0c36-02fa-e053-2995a90a772b"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  }
+]

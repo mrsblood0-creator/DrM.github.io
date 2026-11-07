@@ -1,0 +1,37 @@
+﻿{
+    "lectureId":  "_gen54iRCWI",
+    "status":  "unreviewed-ocr",
+    "source":  "Windows OCR of low-resolution YouTube preview frames",
+    "frames":  [
+                   {
+                       "src":  "video-frames/_gen54iRCWI-0.jpg",
+                       "seconds":  0,
+                       "text":  "Linezolid",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/_gen54iRCWI-18.jpg",
+                       "seconds":  90,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/_gen54iRCWI-42.jpg",
+                       "seconds":  210,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/_gen54iRCWI-64.jpg",
+                       "seconds":  320,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/_gen54iRCWI-150.jpg",
+                       "seconds":  750,
+                       "text":  "",
+                       "reviewed":  false
+                   }
+               ]
+}

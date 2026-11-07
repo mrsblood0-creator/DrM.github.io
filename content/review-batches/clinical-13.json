@@ -1,0 +1,702 @@
+[
+  {
+    "id": "-v6qWPet_w4",
+    "title": "Types of Bone Fractures According to Fracture Displacement, Pattern, Causative Force and MORE",
+    "category": "Orthopedics",
+    "noteStatus": "Source presentation",
+    "notes": [
+      {
+        "type": "p",
+        "text": "This article will explain the different types of bone fractures according to many variables, this article is part of the Orthopedics Trauma Basic Principles Course"
+      },
+      {
+        "type": "h2",
+        "text": "Types of Bone Fractures According to The Extent of Fracture Line"
+      },
+      {
+        "type": "li",
+        "text": "Complete Fracture: The bone splits into two fragments or more."
+      },
+      {
+        "type": "li",
+        "text": "Incomplete Fracture: incomplete split of the bone, with the periosteum remaining continuous in part of the bone."
+      },
+      {
+        "type": "h2",
+        "text": "Types of Bone Fractures According to The Fracture Displacement"
+      },
+      {
+        "type": "li",
+        "text": "Undisplaced Fracture: Bone fragments remain aligned in their normal position."
+      },
+      {
+        "type": "li",
+        "text": "Displaced Fracture: Bone fragments are out of alignment and shifted from their original position."
+      },
+      {
+        "type": "h2",
+        "text": "Types of Bone Fractures According to The Fracture Pattern"
+      },
+      {
+        "type": "li",
+        "text": "Linear Fracture: Can be transverse, short oblique, or long oblique (spiral)."
+      },
+      {
+        "type": "li",
+        "text": "Transverse fracture"
+      },
+      {
+        "type": "li",
+        "text": "Short oblique fracture"
+      },
+      {
+        "type": "li",
+        "text": "Long oblique fracture"
+      },
+      {
+        "type": "li",
+        "text": "Comminuted Fracture: Involves more than two fracture fragments."
+      },
+      {
+        "type": "li",
+        "text": "Segmental Fractures: The fracture breaks into segments, a Segment includes a full width of the bone while a Fragment includes part of the width of the bone"
+      },
+      {
+        "type": "li",
+        "text": "Bone Loss: Part or all of the bone is lost due to the fracture."
+      },
+      {
+        "type": "h2",
+        "text": "Types of Bone Fractures According to The Relation with External Environment"
+      },
+      {
+        "type": "li",
+        "text": "Closed Fractures: Overlying skin and soft tissue are intact."
+      },
+      {
+        "type": "li",
+        "text": "Open Fracture: overlying skin and soft tissue are injured making the fractured bone exposed to the external environment"
+      },
+      {
+        "type": "li",
+        "text": "Internally Open: A sharp fractured bone pierces the skin to communicate with the external environment."
+      },
+      {
+        "type": "li",
+        "text": "Externally Open: An object from outside causes laceration to the skin and soft tissue, exposing the bone."
+      },
+      {
+        "type": "h2",
+        "text": "Types of Bone Fractures According to The Complexity of Treatment"
+      },
+      {
+        "type": "li",
+        "text": "Simple Fracture: a fracture in two fragments, requiring reduction and casting (relatively easy to treat)."
+      },
+      {
+        "type": "li",
+        "text": "Complex Fracture: a fracture with multiple fragments or segments (comminuted), often requiring surgery for treatment (more challenging to treat)."
+      },
+      {
+        "type": "h2",
+        "text": "Types of Bone Fractures According to The Force Causing the Fracture"
+      },
+      {
+        "type": "li",
+        "text": "High-Energy Fracture: Occurs due to high-impact forces such as severe trauma, road traffic accidents, and fall from height."
+      },
+      {
+        "type": "li",
+        "text": "Low-Energy Fracture: Occurs due to low-impact forces such as ground-level falls."
+      }
+    ],
+    "references": [
+      {
+        "title": "Further reading: overview of fractures",
+        "url": "https://www.merckmanuals.com/professional/injuries-poisoning/fractures/overview-of-fractures"
+      }
+    ]
+  },
+  {
+    "id": "xQDr05DvYqU",
+    "title": "Bone Fracture Mechanisms: Traumatic Forces Types, Stress Fractures & Pathological Fractures",
+    "category": "Orthopedics",
+    "noteStatus": "Source presentation",
+    "notes": [
+      {
+        "type": "p",
+        "text": "Bone fracture mechanisms include traumatic forces , stress-related injuries , and pathological conditions . Below we delve into each category and show the typical fracture patterns they produce."
+      },
+      {
+        "type": "h2",
+        "text": "1. Traumatic Forces"
+      },
+      {
+        "type": "p",
+        "text": "Fractures caused by traumatic forces result from sudden, high-impact incidents. Different types of traumatic forces lead to characteristic fracture patterns:"
+      },
+      {
+        "type": "li",
+        "text": "Rotational Force — can cause a spiral fracture or a long oblique fracture that runs along the bone's length. Rotational force leading to a long oblique fracture. (Image placeholder)"
+      },
+      {
+        "type": "li",
+        "text": "Compressing Force on Long Axis — may result in a short oblique fracture. Compressing force mechanism leading to a short oblique fracture. (Image placeholder)"
+      },
+      {
+        "type": "li",
+        "text": "Crushing Force on Long Axis — produces a comminuted fracture in which the bone breaks into multiple fragments. Crushing force mechanism leading to a comminuted fracture. (Image placeholder)"
+      },
+      {
+        "type": "li",
+        "text": "Bending Force (Horizontal Axis) — often causes a fracture with a butterfly fragment (a triangular fragment resembling a butterfly wing). Bending force mechanism leading to a butterfly fracture. (Image placeholder)"
+      },
+      {
+        "type": "li",
+        "text": "Tension Force — tension can produce a transverse fracture or cause an avulsion where a small fragment is pulled off at a tendon/ligament insertion. Tension force mechanism leading to a transverse or avulsion fracture. (Image placeholder)"
+      },
+      {
+        "type": "h2",
+        "text": "2. Stress Fractures"
+      },
+      {
+        "type": "p",
+        "text": "A stress fracture is a small break in the bone that occurs from repetitive microtrauma or prolonged mechanical loading."
+      },
+      {
+        "type": "li",
+        "text": "Typical sites: weight-bearing bones such as the tibia, fibula, and femur."
+      },
+      {
+        "type": "li",
+        "text": "Mechanism: repetitive stress causes bone resorption by osteoclasts to outpace bone formation by osteoblasts, eventually producing a fracture line."
+      },
+      {
+        "type": "li",
+        "text": "Risk groups: long-distance runners, dancers, gymnasts, and others with repetitive high-load activity."
+      },
+      {
+        "type": "li",
+        "text": "Contributing factors: nutritional deficiencies (e.g., low calcium or vitamin D), relative energy deficiency, and age-related bone loss."
+      },
+      {
+        "type": "h2",
+        "text": "3. Pathological Fractures"
+      },
+      {
+        "type": "p",
+        "text": "Pathological fractures occur when underlying bone disease weakens the bone, making it susceptible to fracture from minimal or normal forces."
+      },
+      {
+        "type": "li",
+        "text": "Common causes: Osteoporosis"
+      },
+      {
+        "type": "li",
+        "text": "Osteogenesis Imperfecta"
+      },
+      {
+        "type": "li",
+        "text": "Long-term bisphosphonate therapy (atypical fracture risk)"
+      },
+      {
+        "type": "li",
+        "text": "Lytic bone lesions from metastasis or multiple myeloma"
+      }
+    ],
+    "references": [
+      {
+        "title": "Further reading: overview of fractures",
+        "url": "https://www.merckmanuals.com/professional/injuries-poisoning/fractures/overview-of-fractures"
+      }
+    ]
+  },
+  {
+    "id": "g9GM06BiySc",
+    "title": "Orthopedic Trauma Basic Principles Free Course | Introduction",
+    "category": "Orthopedics",
+    "noteStatus": "Source presentation",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Orthopedic assessment essentials"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "Neurovascular examination should be documented during limb injury assessment."
+      },
+      {
+        "type": "li",
+        "text": "Orthogonal views reduce the chance of missing displacement on radiographs."
+      },
+      {
+        "type": "li",
+        "text": "Joint alignment must be checked alongside bony cortex and soft tissues."
+      },
+      {
+        "type": "li",
+        "text": "Associated injuries can influence management even when the primary fracture appears straightforward."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": [
+      {
+        "title": "Further reading: overview of fractures",
+        "url": "https://www.merckmanuals.com/professional/injuries-poisoning/fractures/overview-of-fractures"
+      }
+    ]
+  },
+  {
+    "id": "BWkaZq3RdO0",
+    "title": "Types of Antagonists: Reversible Competitive, Irreversible Competitive and Non Competitive",
+    "category": "Clinical medicine",
+    "noteStatus": "Video frames + study guide",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Receptor antagonists"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "Competitive antagonists compete with agonists for the same binding site."
+      },
+      {
+        "type": "li",
+        "text": "Surmountable antagonism can be overcome by increasing agonist concentration."
+      },
+      {
+        "type": "li",
+        "text": "Reduced maximal response may occur with irreversible or noncompetitive antagonism."
+      },
+      {
+        "type": "li",
+        "text": "Receptor reserve can modify the observed dose-response pattern."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": []
+  },
+  {
+    "id": "LJKUUqWmcVM",
+    "title": "Quinolones Classification: All Quinolones Generations Explained",
+    "category": "Clinical medicine",
+    "noteStatus": "Video frames + study guide",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Fluoroquinolones"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "DNA gyrase and topoisomerase IV are bacterial enzyme targets."
+      },
+      {
+        "type": "li",
+        "text": "Ciprofloxacin and levofloxacin are examples with differing spectra."
+      },
+      {
+        "type": "li",
+        "text": "Tendinopathy is a serious class safety concern."
+      },
+      {
+        "type": "li",
+        "text": "Cation binding can reduce oral absorption when taken with certain antacids or supplements."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": []
+  },
+  {
+    "id": "7wnwMfGuPyM",
+    "title": "Quinupristin / Dalfopristin (SYNERCID): Mechanism of Action, Therapeutic Uses & Adverse Effects",
+    "category": "Clinical medicine",
+    "noteStatus": "Video frames + study guide",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Quinupristin and dalfopristin"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "Streptogramins inhibit bacterial protein synthesis at the 50S ribosomal subunit."
+      },
+      {
+        "type": "li",
+        "text": "Synergy between the two components improves antibacterial activity."
+      },
+      {
+        "type": "li",
+        "text": "Enterococcus faecium may be susceptible, whereas E. faecalis is intrinsically resistant."
+      },
+      {
+        "type": "li",
+        "text": "Arthralgia and myalgia are notable adverse effects."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": [
+      {
+        "title": "MedlinePlus — medicine reference index",
+        "url": "https://medlineplus.gov/druginformation.html"
+      }
+    ]
+  },
+  {
+    "id": "jO6RwevsOmY",
+    "title": "Protein Synthesis Inhibitors Introduction",
+    "category": "Clinical medicine",
+    "noteStatus": "Video frames + study guide",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Protein synthesis inhibitors"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "Bacterial ribosomes provide targets distinct from mammalian cytoplasmic ribosomes."
+      },
+      {
+        "type": "li",
+        "text": "30S subunit inhibitors include aminoglycosides and tetracyclines."
+      },
+      {
+        "type": "li",
+        "text": "50S subunit inhibitors include macrolides and clindamycin."
+      },
+      {
+        "type": "li",
+        "text": "Resistance mechanisms include target modification, efflux, and drug inactivation."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": []
+  },
+  {
+    "id": "y_QNg88uHLU",
+    "title": "Carbonic Anhydrase Inhibitors: Types, Mechanism of Action, Therapeutic Uses and Adverse Effects",
+    "category": "Clinical medicine",
+    "noteStatus": "Source presentation",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Carbonic anhydrase inhibition"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "Acetazolamide inhibits carbonic anhydrase."
+      },
+      {
+        "type": "li",
+        "text": "Bicarbonate excretion increases as proximal tubular reabsorption falls."
+      },
+      {
+        "type": "li",
+        "text": "Metabolic acidosis is an expected pharmacologic consequence."
+      },
+      {
+        "type": "li",
+        "text": "Altitude illness prevention is one indication in selected circumstances."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": []
+  },
+  {
+    "id": "7VzcxT1T-lM",
+    "title": "Odontoid Process Fractures: Anderson D'Alonzo Classification",
+    "category": "Orthopedics",
+    "noteStatus": "Source presentation",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Odontoid fracture classification"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "Type I involves the odontoid tip."
+      },
+      {
+        "type": "li",
+        "text": "Type II involves the base of the odontoid and has greater nonunion concern."
+      },
+      {
+        "type": "li",
+        "text": "Type III extends into the body of C2."
+      },
+      {
+        "type": "li",
+        "text": "Stability and patient factors affect treatment selection."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": [
+      {
+        "title": "Further reading: overview of fractures",
+        "url": "https://www.merckmanuals.com/professional/injuries-poisoning/fractures/overview-of-fractures"
+      }
+    ]
+  },
+  {
+    "id": "J3_iSJY8r7A",
+    "title": "Salter Harris Classification for Pediatric Growth Plate Fractures",
+    "category": "Orthopedics",
+    "noteStatus": "Source presentation",
+    "notes": [
+      {
+        "type": "p",
+        "text": "Growth plate fractures are Fractures affecting the growing part of the bone (physis) in children"
+      },
+      {
+        "type": "p",
+        "text": "15-30% of fractures in children involve injury to the growth plate"
+      },
+      {
+        "type": "p",
+        "text": "The growth plate (physis) is relatively weak, that is why it fractures commonly in children"
+      },
+      {
+        "type": "p",
+        "text": "If the fracture injures the reproductive layers of the growth plate, it may result in premature ossification and growth arrest"
+      },
+      {
+        "type": "p",
+        "text": "Growth plate fractures are classified according to Salter-Harris classification"
+      },
+      {
+        "type": "p",
+        "text": "This classification is based on the fracture location in relation to the physis, metaphysis and epiphysis, fracture pattern, and prognosis"
+      },
+      {
+        "type": "p",
+        "text": "It’s on five grades"
+      },
+      {
+        "type": "li",
+        "text": "Transverse fracture through the hypertrophic or calcified zone of the plate"
+      },
+      {
+        "type": "li",
+        "text": "Growth plate state: not injured"
+      },
+      {
+        "type": "li",
+        "text": "Transverse fracture through the growth plate and it deviates away from the physis to split off a triangular metaphyseal fragment of bone"
+      },
+      {
+        "type": "li",
+        "text": "Growth plate state: not injured"
+      },
+      {
+        "type": "li",
+        "text": "Most common grade"
+      },
+      {
+        "type": "li",
+        "text": "Transverse fracture through the physis and then deviates to the epiphysis"
+      },
+      {
+        "type": "li",
+        "text": "Growth plate state: injured"
+      },
+      {
+        "type": "li",
+        "text": "Fracture location: fracture travels through the epiphysis, physis and metaphysis and it is liable to displacement which if happened result in asymmetrical growth"
+      },
+      {
+        "type": "li",
+        "text": "Growth plate state: injured"
+      },
+      {
+        "type": "li",
+        "text": "Fracture location: longitudinal compression injury of the physis"
+      },
+      {
+        "type": "li",
+        "text": "Growth plate state: compression injury"
+      },
+      {
+        "type": "h2",
+        "text": "Mechanism of injury"
+      },
+      {
+        "type": "p",
+        "text": "Growth plate fractures are caused by many types of injuries including:"
+      },
+      {
+        "type": "li",
+        "text": "Road traffic accidents"
+      },
+      {
+        "type": "li",
+        "text": "Sporting activities"
+      },
+      {
+        "type": "p",
+        "text": "In the hip, slipped upper femoral epiphysis is Salter 1 fracture that can occur without traumatic event"
+      },
+      {
+        "type": "h2",
+        "text": "Clinical features"
+      },
+      {
+        "type": "p",
+        "text": "Patient present with pain, tenderness and swelling after traumatic event (mostly fall)"
+      },
+      {
+        "type": "p",
+        "text": "If the injury involves a lower extremity, the patient is unable to bear weight on the affected side"
+      },
+      {
+        "type": "p",
+        "text": "Deformity is rare"
+      },
+      {
+        "type": "p",
+        "text": "Examination is difficult"
+      },
+      {
+        "type": "p",
+        "text": "It is hard to tell if there is a fracture or not on x ray because"
+      },
+      {
+        "type": "li",
+        "text": "The physis (growth plate) is radiolucent"
+      },
+      {
+        "type": "li",
+        "text": "epiphysis is incompletely ossified"
+      },
+      {
+        "type": "p",
+        "text": "The younger the child, the larger the radiolucent part on x ray thus the harder to look for fractures"
+      },
+      {
+        "type": "p",
+        "text": "The easiest way is to x ray the contralateral joint and compare them"
+      },
+      {
+        "type": "p",
+        "text": "There is usually widening of the physeal gap, incongruity of the joint , tilting of the epiphysis"
+      },
+      {
+        "type": "p",
+        "text": "if there is displacement then it is easier to diagnose"
+      },
+      {
+        "type": "p",
+        "text": "Salter 5 are quite hard to diagnose"
+      },
+      {
+        "type": "p",
+        "text": "Salter 1 and 2 treated with closed reduction and then casting or splinting, the reduction is through gentle manipulation to avoid injuring the physis"
+      },
+      {
+        "type": "p",
+        "text": "Salter 3 and 4 treated with open reduction and internal fixation with avoiding crossing the physis"
+      },
+      {
+        "type": "p",
+        "text": "Reexamination with X ray in seven to ten days is necessary to check for late displacement and additional X ray done in 6- 12 months to assess for growth arrest"
+      },
+      {
+        "type": "p",
+        "text": "Bone growth arrest"
+      },
+      {
+        "type": "p",
+        "text": "Grade 1 and 2 Salter Harris have good prognosis (bone growth not affected) if reduced properly except injuries around knee joint involving distal femoral physis or proximal tibial physis, because growth plates there doesn’t have linear shape, so linear fracture would pass through the hypertrophic layer of the growth plate thus affecting growth"
+      },
+      {
+        "type": "p",
+        "text": "Grade 3 and 4 may result in premature fusion of parts of the growth plate and lead to asymmetrical growth"
+      },
+      {
+        "type": "p",
+        "text": "Grade 5 fractures always cause premature fusion of parts of the growth plate and lead to asymmetrical growth"
+      }
+    ],
+    "references": [
+      {
+        "title": "Further reading: overview of fractures",
+        "url": "https://www.merckmanuals.com/professional/injuries-poisoning/fractures/overview-of-fractures"
+      }
+    ]
+  }
+]

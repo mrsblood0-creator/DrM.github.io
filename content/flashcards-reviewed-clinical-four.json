@@ -1,0 +1,302 @@
+[
+  {
+    "id": "reviewed-c4-pancreatitis-fc-1",
+    "lectureId": "GkgFNPpqWx4",
+    "front": "Must lipase normalize before oral feeding resumes in improving acute pancreatitis?",
+    "back": "No; resume feeding as clinically tolerated.",
+    "explanation": "Clinical tolerance, rather than normalization of lipase, guides resumption of oral intake.",
+    "references": [
+      {
+        "title": "AGA — initial management of acute pancreatitis",
+        "url": "https://gastro.org/clinical-guidance/initial-management-of-acute-pancreatitis-ap/"
+      },
+      {
+        "title": "NICE — pancreatitis",
+        "url": "https://www.nice.org.uk/guidance/ng104/chapter/recommendations"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-c4-pancreatitis-fc-2",
+    "lectureId": "GkgFNPpqWx4",
+    "front": "Does sterile pancreatic necrosis alone require prophylactic antibiotics?",
+    "back": "No. Antibiotics are used when there is an appropriate infectious indication.",
+    "explanation": "Pancreatic necrosis alone is not an indication for prophylactic antibiotics.",
+    "references": [
+      {
+        "title": "AGA — initial management of acute pancreatitis",
+        "url": "https://gastro.org/clinical-guidance/initial-management-of-acute-pancreatitis-ap/"
+      },
+      {
+        "title": "NICE — pancreatitis",
+        "url": "https://www.nice.org.uk/guidance/ng104/chapter/recommendations"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-c4-pancreatitis-fc-3",
+    "lectureId": "GkgFNPpqWx4",
+    "front": "Is urgent ERCP routine in improving biliary pancreatitis without cholangitis or persistent obstruction?",
+    "back": "No. Those complications determine whether urgent duct intervention is needed.",
+    "explanation": "Routine urgent ERCP is not recommended for biliary pancreatitis without cholangitis or persistent obstruction.",
+    "references": [
+      {
+        "title": "AGA — initial management of acute pancreatitis",
+        "url": "https://gastro.org/clinical-guidance/initial-management-of-acute-pancreatitis-ap/"
+      },
+      {
+        "title": "NICE — pancreatitis",
+        "url": "https://www.nice.org.uk/guidance/ng104/chapter/recommendations"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-c4-pancreatitis-fc-4",
+    "lectureId": "GkgFNPpqWx4",
+    "front": "Which nutrition route is preferred when acute pancreatitis prevents oral intake but the gut works?",
+    "back": "Enteral tube feeding.",
+    "explanation": "Enteral nutrition is preferred when oral intake is inadequate and the gut can be used.",
+    "references": [
+      {
+        "title": "AGA — initial management of acute pancreatitis",
+        "url": "https://gastro.org/clinical-guidance/initial-management-of-acute-pancreatitis-ap/"
+      },
+      {
+        "title": "NICE — pancreatitis",
+        "url": "https://www.nice.org.uk/guidance/ng104/chapter/recommendations"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-c4-pancreatitis-fc-5",
+    "lectureId": "GkgFNPpqWx4",
+    "front": "What pain pattern is typical of acute pancreatitis?",
+    "back": "Severe epigastric pain that may radiate to the back.",
+    "explanation": "The characteristic pain and substantial lipase elevation strongly support acute pancreatitis.",
+    "references": [
+      {
+        "title": "AGA — initial management of acute pancreatitis",
+        "url": "https://gastro.org/clinical-guidance/initial-management-of-acute-pancreatitis-ap/"
+      },
+      {
+        "title": "NICE — pancreatitis",
+        "url": "https://www.nice.org.uk/guidance/ng104/chapter/recommendations"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-c4-appendicitis-fc-1",
+    "lectureId": "MrwHTxs5WvE",
+    "front": "Why does appendicitis pain often migrate from the periumbilical area to the right lower quadrant?",
+    "back": "Visceral pain is followed by localized parietal peritoneal irritation.",
+    "explanation": "Early visceral pain is poorly localized; local parietal peritoneal irritation produces focal pain.",
+    "references": [
+      {
+        "title": "WSES — acute appendicitis guidelines",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7386163/"
+      },
+      {
+        "title": "IDSA — diagnostic imaging guidance",
+        "url": "https://www.idsociety.org/practice-guideline/intra-abdominal-infections/"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-c4-appendicitis-fc-2",
+    "lectureId": "MrwHTxs5WvE",
+    "front": "Which imaging test can follow nondiagnostic ultrasound for suspected appendicitis in pregnancy?",
+    "back": "MRI, when available and clinically appropriate.",
+    "explanation": "MRI is an appropriate next test after nondiagnostic ultrasound in pregnancy when feasible.",
+    "references": [
+      {
+        "title": "WSES — acute appendicitis guidelines",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7386163/"
+      },
+      {
+        "title": "IDSA — diagnostic imaging guidance",
+        "url": "https://www.idsociety.org/practice-guideline/intra-abdominal-infections/"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-c4-appendicitis-fc-3",
+    "lectureId": "MrwHTxs5WvE",
+    "front": "What does an intermediate appendicitis risk score usually imply?",
+    "back": "Further clinical evaluation, often with observation and imaging.",
+    "explanation": "Clinical scores stratify risk; intermediate probability commonly warrants observation and imaging.",
+    "references": [
+      {
+        "title": "WSES — acute appendicitis guidelines",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7386163/"
+      },
+      {
+        "title": "IDSA — diagnostic imaging guidance",
+        "url": "https://www.idsociety.org/practice-guideline/intra-abdominal-infections/"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-c4-appendicitis-fc-4",
+    "lectureId": "MrwHTxs5WvE",
+    "front": "Which pregnancy-related emergency must be considered in a reproductive-age patient with lower abdominal pain?",
+    "back": "Ectopic pregnancy.",
+    "explanation": "Pregnancy status is essential when evaluating abdominal pain in a patient who could be pregnant.",
+    "references": [
+      {
+        "title": "WSES — acute appendicitis guidelines",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7386163/"
+      },
+      {
+        "title": "IDSA — diagnostic imaging guidance",
+        "url": "https://www.idsociety.org/practice-guideline/intra-abdominal-infections/"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-c4-appendicitis-fc-5",
+    "lectureId": "MrwHTxs5WvE",
+    "front": "Do normal initial blood tests exclude appendicitis?",
+    "back": "No; persistent or worsening symptoms require reassessment.",
+    "explanation": "Persistent symptoms justify reassessment and appropriate imaging rather than false reassurance.",
+    "references": [
+      {
+        "title": "WSES — acute appendicitis guidelines",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7386163/"
+      },
+      {
+        "title": "IDSA — diagnostic imaging guidance",
+        "url": "https://www.idsociety.org/practice-guideline/intra-abdominal-infections/"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-c4-septic-arthritis-fc-1",
+    "lectureId": "FHHQhZuBBkw",
+    "front": "In a stable patient with suspected septic arthritis, when should joint aspiration occur relative to antibiotics?",
+    "back": "Promptly before antibiotics when feasible; sepsis requires immediate treatment.",
+    "explanation": "When there is no sepsis, sampling before antibiotics improves culture yield without delaying necessary care.",
+    "references": [
+      {
+        "title": "EBJIS — SANJO guideline (Ravn et al., CC BY 4.0)",
+        "url": "https://jbji.copernicus.org/articles/8/29/2023/"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-c4-septic-arthritis-fc-2",
+    "lectureId": "FHHQhZuBBkw",
+    "front": "Do synovial crystals exclude septic arthritis?",
+    "back": "No. Crystal arthritis and infection can occur together.",
+    "explanation": "Finding crystals does not rule out a concurrent joint infection.",
+    "references": [
+      {
+        "title": "EBJIS — SANJO guideline (Ravn et al., CC BY 4.0)",
+        "url": "https://jbji.copernicus.org/articles/8/29/2023/"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-c4-septic-arthritis-fc-3",
+    "lectureId": "FHHQhZuBBkw",
+    "front": "Can a low synovial leukocyte count rule out septic arthritis?",
+    "back": "No, particularly in an immunosuppressed patient.",
+    "explanation": "Cell-count thresholds are not absolute, particularly in immunosuppressed patients.",
+    "references": [
+      {
+        "title": "EBJIS — SANJO guideline (Ravn et al., CC BY 4.0)",
+        "url": "https://jbji.copernicus.org/articles/8/29/2023/"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-c4-septic-arthritis-fc-4",
+    "lectureId": "FHHQhZuBBkw",
+    "front": "Should antibiotics wait for joint aspiration in suspected septic shock?",
+    "back": "No; begin prompt sepsis treatment while obtaining cultures as feasible.",
+    "explanation": "Suspected sepsis or septic shock requires immediate treatment; delayed joint sampling must not postpone antibiotics.",
+    "references": [
+      {
+        "title": "EBJIS — SANJO guideline (Ravn et al., CC BY 4.0)",
+        "url": "https://jbji.copernicus.org/articles/8/29/2023/"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-c4-septic-arthritis-fc-5",
+    "lectureId": "FHHQhZuBBkw",
+    "front": "What treatment principle accompanies antibiotics for a purulent septic joint?",
+    "back": "Drainage/source control with appropriate orthopedic management.",
+    "explanation": "Source control is a key part of managing a purulent infected joint.",
+    "references": [
+      {
+        "title": "EBJIS — SANJO guideline (Ravn et al., CC BY 4.0)",
+        "url": "https://jbji.copernicus.org/articles/8/29/2023/"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-c4-acs-fc-1",
+    "lectureId": "zqm5uxGWGL4",
+    "front": "Does a normal initial ECG exclude acute coronary syndrome?",
+    "back": "No; further assessment and serial testing may be necessary.",
+    "explanation": "Further clinical evaluation, serial ECGs and cardiac troponin testing may be needed.",
+    "references": [
+      {
+        "title": "ACC/AHA — 2025 acute coronary syndromes guideline",
+        "url": "https://www.jacc.org/doi/10.1016/j.jacc.2024.11.009"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-c4-acs-fc-2",
+    "lectureId": "zqm5uxGWGL4",
+    "front": "Is routine oxygen recommended in ACS with saturation at least 90% and no other indication?",
+    "back": "No. Give oxygen for hypoxemia or another appropriate indication.",
+    "explanation": "Routine oxygen has no established benefit in normoxemic ACS; hypoxemia creates an indication.",
+    "references": [
+      {
+        "title": "ACC/AHA — 2025 acute coronary syndromes guideline",
+        "url": "https://www.jacc.org/doi/10.1016/j.jacc.2024.11.009"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-c4-acs-fc-3",
+    "lectureId": "zqm5uxGWGL4",
+    "front": "Why is aspirin given early in ACS when appropriate?",
+    "back": "To inhibit platelet activity and reduce atherothrombotic events.",
+    "explanation": "Aspirin reduces platelet thromboxane signaling and recurrent atherothrombotic events.",
+    "references": [
+      {
+        "title": "ACC/AHA — 2025 acute coronary syndromes guideline",
+        "url": "https://www.jacc.org/doi/10.1016/j.jacc.2024.11.009"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-c4-acs-fc-4",
+    "lectureId": "zqm5uxGWGL4",
+    "front": "What is the purpose of prompt primary PCI in STEMI?",
+    "back": "To restore flow through the culprit coronary artery and limit myocardial injury.",
+    "explanation": "Timely reperfusion is central to STEMI management; primary PCI opens the culprit artery.",
+    "references": [
+      {
+        "title": "ACC/AHA — 2025 acute coronary syndromes guideline",
+        "url": "https://www.jacc.org/doi/10.1016/j.jacc.2024.11.009"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-c4-acs-fc-5",
+    "lectureId": "zqm5uxGWGL4",
+    "front": "Which two drug classes usually form DAPT after ACS?",
+    "back": "Aspirin plus a P2Y12 inhibitor, with duration individualized to clinical risk.",
+    "explanation": "Dual antiplatelet therapy combines aspirin-mediated thromboxane inhibition with P2Y12 receptor blockade.",
+    "references": [
+      {
+        "title": "ACC/AHA — 2025 acute coronary syndromes guideline",
+        "url": "https://www.jacc.org/doi/10.1016/j.jacc.2024.11.009"
+      }
+    ]
+  }
+]

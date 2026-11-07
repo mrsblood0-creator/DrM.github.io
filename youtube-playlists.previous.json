@@ -1,0 +1,1291 @@
+{
+  "syncedAt": "2026-10-25T22:14:45.623Z",
+  "playlists": [
+    {
+      "id": "PLEexNWypa754",
+      "title": "Pathology: Growth Adaptations, Cell Injury & Cell Death",
+      "videos": [
+        {
+          "id": "DHphsnW-nYo",
+          "title": "Cellular Adaptations (Growth Adaptations): Hypertrophy, Hyperplasia, Atrophy, Metaplasia",
+          "index": 1
+        },
+        {
+          "id": "kHhJRk4qxPQ",
+          "title": "Cell Injury: Definition, Causes (Ischemia, Hypoxemia, Decrease O2 Carrying Capacity) and Features",
+          "index": 2
+        },
+        {
+          "id": "I-_HV25j_9s",
+          "title": "Cell Death: Morphologic Hallmarks, Mechanisms, Types of Necrosis, Pathways of Apoptosis",
+          "index": 3
+        },
+        {
+          "id": "n9brM9pTw6I",
+          "title": "Oxidative Stress (Free Radical Injury): Physiologic & Pathologic Generation, Elimination & Examples",
+          "index": 4
+        },
+        {
+          "id": "I0ygFfqwhHw",
+          "title": "Amyloidosis: Classification, Appearance on Histological Slides, Clinical Features & Diagnosis",
+          "index": 5
+        },
+        {
+          "id": "iFo2ROztdGs",
+          "title": "Intracellular Accumulations: Mechanism of Accumulation & Types- Lipids, Proteins, Carbon, Lipofuscin",
+          "index": 6
+        },
+        {
+          "id": "IdO0f5klcXI",
+          "title": "Pathology USMLE Step 1 MCQ Practice Questions | General Pathology Part 1",
+          "index": 7
+        },
+        {
+          "id": "esgddQPQqSQ",
+          "title": "",
+          "index": 8
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLMo46Bhy_j5U",
+      "title": "General Pathology",
+      "videos": [
+        {
+          "id": "DHphsnW-nYo",
+          "title": "Cellular Adaptations (Growth Adaptations): Hypertrophy, Hyperplasia, Atrophy, Metaplasia",
+          "index": 1
+        },
+        {
+          "id": "kHhJRk4qxPQ",
+          "title": "Cell Injury: Definition, Causes (Ischemia, Hypoxemia, Decrease O2 Carrying Capacity) and Features",
+          "index": 2
+        },
+        {
+          "id": "I-_HV25j_9s",
+          "title": "Cell Death: Morphologic Hallmarks, Mechanisms, Types of Necrosis, Pathways of Apoptosis",
+          "index": 3
+        },
+        {
+          "id": "n9brM9pTw6I",
+          "title": "Oxidative Stress (Free Radical Injury): Physiologic & Pathologic Generation, Elimination & Examples",
+          "index": 4
+        },
+        {
+          "id": "I0ygFfqwhHw",
+          "title": "Amyloidosis: Classification, Appearance on Histological Slides, Clinical Features & Diagnosis",
+          "index": 5
+        },
+        {
+          "id": "iFo2ROztdGs",
+          "title": "Intracellular Accumulations: Mechanism of Accumulation & Types- Lipids, Proteins, Carbon, Lipofuscin",
+          "index": 6
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLllTTKSgGCnmVntX0KJweCc4C0n9aruJh",
+      "title": "Pediatric Respiratory Diseases",
+      "videos": [
+        {
+          "id": "ionR1D5j3gI",
+          "title": "Pediatric Pneumonia: Latest Guidelines on Diagnosis and Treatment & a Comprehensive Explanation",
+          "index": 1
+        },
+        {
+          "id": "tKbkO6dladc",
+          "title": "Bronchiolitis: Latest Guidelines on Diagnosis and Treatment, Clinical Features and Pathophysiology",
+          "index": 2
+        },
+        {
+          "id": "rtPmnu09wto",
+          "title": "Peritonsillar Abscess (Quinsy): Pathophysiology, Clinical Features, Diagnosis and Treatment",
+          "index": 3
+        },
+        {
+          "id": "sBp7NlJQME0",
+          "title": "Retropharyngeal Abscess & Lateral Pharyngeal Abscess and Lemierre Disease All Explained",
+          "index": 4
+        },
+        {
+          "id": "1oZDzR-_QGk",
+          "title": "Airway Foreign Body: X Ray Examples, Clinical Features, Diagnosis and Treatment",
+          "index": 5
+        },
+        {
+          "id": "M5FnKmsGxmM",
+          "title": "Bacterial Tracheitis: Clinical Features, Etiology, Diagnosis and Treatment",
+          "index": 6
+        },
+        {
+          "id": "cozkYn9YcYo",
+          "title": "Epiglottitis: Signs and Symptoms, Causes, Diagnosis and Treatment All Explained",
+          "index": 7
+        },
+        {
+          "id": "A8_qaIox3ys",
+          "title": "Croup (Laryngotracheobronchitis) Explained: Pathophysiology, Signs & Symptoms, Diagnosis & Treatment",
+          "index": 8
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLllTTKSgGCnlcXMXskcGfzaZba-ufR6LC",
+      "title": "Management of Cardiac Arrhythmias",
+      "videos": [
+        {
+          "id": "flB-sPYNJ34",
+          "title": "Sinus Arrhythmia: ECG Characteristics, Presentation & Treatment",
+          "index": 1
+        },
+        {
+          "id": "dmRp5H85WMs",
+          "title": "Premature Atrial Contraction (PACs): ECG Characteristics, Causes, Diagnosis and Treatment",
+          "index": 2
+        },
+        {
+          "id": "3LKa8IO0QaE",
+          "title": "Premature Ventricular Contractions (PVCs): EKG Characteristics, Causes and Treatment",
+          "index": 3
+        },
+        {
+          "id": "SlETVFSIn8A",
+          "title": "Sinus Bradycardia: EKG Characteristics, Causes and Treatment",
+          "index": 4
+        },
+        {
+          "id": "vJOep88PVIk",
+          "title": "Junctional Rhythm: Pathophysiology, ECG Characteristics, Classification, Causes and Treatment",
+          "index": 5
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLllTTKSgGCnmgmizdJg58aZO1b8sDt9E3",
+      "title": "Advanced Airway Support",
+      "videos": [
+        {
+          "id": "eWjC_Y3rUZQ",
+          "title": "Advanced Airway Support: Introduction",
+          "index": 1
+        },
+        {
+          "id": "SpjIi-cbawo",
+          "title": "Bedside Assessment of The Airway in Resuscitation",
+          "index": 2
+        },
+        {
+          "id": "xSrRSHHfLoU",
+          "title": "Head Tilt/Chin Lift, Jaw Thrust, Oropharyngeal Airway and Nasopharyngeal Airway",
+          "index": 3
+        },
+        {
+          "id": "qfSpLNr9S44",
+          "title": "CPAP and BiPAP: How it Works, Indications, Contraindications and Complications",
+          "index": 4
+        },
+        {
+          "id": "_q0giMKf5Vc",
+          "title": "Bag Valve Mask Ventilation (BVM): steps to do it, Difficult BVM, Indications and Complications",
+          "index": 5
+        },
+        {
+          "id": "3ZM6nOx4hpw",
+          "title": "Spine Motion Restriction: Indications, Equipment, Steps to Do it and Contraindications",
+          "index": 6
+        },
+        {
+          "id": "x7i4lCVPhF0",
+          "title": "Extraglottic Airway: Supraglottic and Retroglottic Devices, Advantages and Disadvantages",
+          "index": 7
+        },
+        {
+          "id": "Lht-xTYLiCs",
+          "title": "Rapid Sequence Intubation (RSI): Airway Risk Assessment, Technique, Induction and Paralytic Agents",
+          "index": 8
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLllTTKSgGCnnqi2iFgAX6YzVehUbnes4o",
+      "title": "Therapy for Liver Disease",
+      "videos": [
+        {
+          "id": "cNyNVRXtPcA",
+          "title": "Rifaximin: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 1
+        },
+        {
+          "id": "CXq0c75lkPw",
+          "title": "Lactulose: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 2
+        },
+        {
+          "id": "YdGUbVePf-E",
+          "title": "Hepatic Encephalopathy: Pathophysiology, Clinical Features, Diagnosis & Treatment",
+          "index": 3
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLllTTKSgGCnnLpMyI1yGHI8H16Hyg0_vq",
+      "title": "Therapy for Gastroesophageal Reflux Disease Free Course",
+      "videos": [
+        {
+          "id": "kmvJx7G2bSI",
+          "title": "Gastroesophageal Reflux Disease (GERD): Causes, Clinical Features, Classification, Treatment",
+          "index": 1
+        },
+        {
+          "id": "2F9awf5M5Ls",
+          "title": "Antacids: Types, Therapeutic Uses, Adverse Effects and Interactions",
+          "index": 2
+        },
+        {
+          "id": "7VjKp18wQOo",
+          "title": "Histamine H2 Receptor Antagonists: Mechanism of Action, Therapeutic Uses and Adverse Effects",
+          "index": 3
+        },
+        {
+          "id": "Hu5-Bv_eVJU",
+          "title": "Proton Pump Inhibitors: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 4
+        },
+        {
+          "id": "bAt1Uc_SES0",
+          "title": "Metoclopramide (Plasil): Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 5
+        },
+        {
+          "id": "Wnxr4dQ7-LU",
+          "title": "Ondansetron (Zofran): Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 6
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLllTTKSgGCnlnFMkN0_-dqNx5Jax0ndkP",
+      "title": "Therapy for Peptic Ulcer Disease Free Course",
+      "videos": [
+        {
+          "id": "UjZ9BvqgOlc",
+          "title": "Therapy for Peptic Ulcer Disease Free Course Introduction",
+          "index": 1
+        },
+        {
+          "id": "2F9awf5M5Ls",
+          "title": "Antacids: Types, Therapeutic Uses, Adverse Effects and Interactions",
+          "index": 2
+        },
+        {
+          "id": "7VjKp18wQOo",
+          "title": "Histamine H2 Receptor Antagonists: Mechanism of Action, Therapeutic Uses and Adverse Effects",
+          "index": 3
+        },
+        {
+          "id": "Hu5-Bv_eVJU",
+          "title": "Proton Pump Inhibitors: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 4
+        },
+        {
+          "id": "cZA8FWRxv4g",
+          "title": "Sucralfate (Anti Ulcer Drug): Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 5
+        },
+        {
+          "id": "NDkTbRGw-Do",
+          "title": "Bismuth Subsalicylates: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 6
+        },
+        {
+          "id": "rZ8U60NLNbs",
+          "title": "Misoprostol: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 7
+        },
+        {
+          "id": "W1j_saTcyXo",
+          "title": "H. Pylori Treatment: All Treatment Regimens Explained",
+          "index": 8
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLllTTKSgGCnknMPKaAiwuamj1XEM3k4zc",
+      "title": "Respiratory Pharmacology",
+      "videos": [
+        {
+          "id": "brQi0DrlKDI",
+          "title": "Cough Suppressants (Antitussives) Classification & Mechanism of Action",
+          "index": 1
+        },
+        {
+          "id": "30mf-G9kNSc",
+          "title": "Mucoactive Drugs: N-Acetylcysteine, Guaifenesin and Carbocysteine",
+          "index": 2
+        },
+        {
+          "id": "vsWmWR40M9Q",
+          "title": "Oxygen Therapy: Oxygen Delivery Devices, Indications, Adverse Effects, Monitoring and MORE",
+          "index": 3
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLllTTKSgGCnlZp9J4KFxwk5jyyLxlKAkU",
+      "title": "Antidepressants Side Effects",
+      "videos": [
+        {
+          "id": "4IBLbpsvAMs",
+          "title": "Strattera (Atomoxetine) Side Effects & Why They Occur",
+          "index": 1
+        },
+        {
+          "id": "-QQ0-cWZcM4",
+          "title": "Adderall (Amphetamine) Side Effects & Why They Occur",
+          "index": 2
+        },
+        {
+          "id": "lSLP81EqL8A",
+          "title": "Tofranil (Imipramine) Side Effects & Why They Occur",
+          "index": 3
+        },
+        {
+          "id": "fQ5OQIDBqgI",
+          "title": "Zoloft (Sertraline) Side Effects with Explanation",
+          "index": 4
+        },
+        {
+          "id": "EwawYxqnlF8",
+          "title": "Wellbutrin (Bupropion) Side Effects & Why They Occur",
+          "index": 5
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLllTTKSgGCnmi2pRpYm3pBasQfy16oM9H",
+      "title": "Therapy For Asthma MasterClass",
+      "videos": [
+        {
+          "id": "4Gy3kBD4Zpw",
+          "title": "Bronchial Asthma: Causes, Pathophysiology, Triggers, Classification, Presentation & Treatment",
+          "index": 1
+        },
+        {
+          "id": "v0redm4vFVA",
+          "title": "Beta 2 Adrenergic Agonists: Mechanism of Action, Therapeutic Uses and Adverse Effects",
+          "index": 2
+        },
+        {
+          "id": "YoZt94lBYcM",
+          "title": "Ipratropium Bromide in Asthma Treatment: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 3
+        },
+        {
+          "id": "4tMkbauozAc",
+          "title": "Methylxanthines (Theophylline & Aminophylline): Mechanism of Action and Therapeutic Uses",
+          "index": 4
+        },
+        {
+          "id": "P0NWBHUUVmU",
+          "title": "Inhaled Corticosteroids (ICS): Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 5
+        },
+        {
+          "id": "YkoLh829-Ro",
+          "title": "Anti Leukotrienes (Montelukast, Zafirlukast & Zileuton): Mechanism of Action & Therapeutic Uses",
+          "index": 6
+        },
+        {
+          "id": "SAPa-5H2GSE",
+          "title": "Mast Cell Stabilizers (Cromolyn Sodium & Ketotifen): Mechanism of Action & Therapeutic Uses",
+          "index": 7
+        },
+        {
+          "id": "QuWsAM-O6RU",
+          "title": "Xolair (Omalizumab): Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 8
+        },
+        {
+          "id": "-tT6ZT-W-v4",
+          "title": "Mepolizumab & Reslizumab: Mechanism of Action, Therapeutic Uses and Adverse Effects",
+          "index": 9
+        },
+        {
+          "id": "cjmcjjk5tr8",
+          "title": "Asthma Treatment According to GINA Guidelines 2025",
+          "index": 10
+        },
+        {
+          "id": "H9gxVi8Ewpg",
+          "title": "Emergency Treatment of Asthma Exacerbations According to GINA Guidelines",
+          "index": 11
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLllTTKSgGCnm9a8A8icYVwgaqK-Yp4sRQ",
+      "title": "Anticoagulants & Fibrinolytics Pharmacology MasterClass",
+      "videos": [
+        {
+          "id": "zCQD-v2pz_M",
+          "title": "Unfractionated Heparin vs Warfarin: A Full Comparison",
+          "index": 1
+        },
+        {
+          "id": "l81Mg1iU1hA",
+          "title": "Low Molecular Weight Heparin (LMWH): Mechanism of Action, Therapeutic Uses and Adverse Effects",
+          "index": 2
+        },
+        {
+          "id": "u8LiXyMe0pk",
+          "title": "Fibrinolytic Drugs (Thrombolytics): Mechanism of Action, Therapeutic Uses and Adverse Effects",
+          "index": 3
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLllTTKSgGCnnRd5olCUte3LsDc_j50IEL",
+      "title": "Amlodipine side effects",
+      "videos": [
+        {
+          "id": "NzkVcA6xfEY",
+          "title": "4 Most SERIOUS Amlodipine Side Effects",
+          "index": 1
+        },
+        {
+          "id": "-ekVYKeK_OY",
+          "title": "4 Most Common Amlodipine Side Effects",
+          "index": 2
+        },
+        {
+          "id": "MH_uA2e34PY",
+          "title": "5 Contraindications of AMLODIPINE with Explanation !",
+          "index": 3
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLllTTKSgGCnlYBCttm9Qtq-h3-tIBPP6-",
+      "title": "Wrist and Hand Trauma MasterClass",
+      "videos": [
+        {
+          "id": "wBHtaw2Eoc8",
+          "title": "Scaphoid Fractures: Herbert Classification, Imaging, Clinical Features, Treatment and Complications",
+          "index": 1
+        },
+        {
+          "id": "1dRHtMT16TI",
+          "title": "Wrist Injuries: Normal Anatomy, Sprains, TFCC tears and X ray imaging",
+          "index": 2
+        },
+        {
+          "id": "SIX17WxeLfM",
+          "title": "Distal Radius Fractures: Colles fracture, Smith Fracture, Barton Fracture, Chauffeur Fracture & MORE",
+          "index": 3
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLllTTKSgGCnnolsjnWBx5Sby0SvhqHfkM",
+      "title": "Elbow & Forearm Trauma MasterClass",
+      "videos": [
+        {
+          "id": "7kbQ5Jwj3Es",
+          "title": "Distal Humerus Fractures: AO Classification, Clinical Features, Treatment and Complications",
+          "index": 1
+        },
+        {
+          "id": "iIKLt1Y-23c",
+          "title": "Radial Head Fractures: Anatomy, Classification, Clinical Features, Treatment and Complication",
+          "index": 2
+        },
+        {
+          "id": "IWq-2VXDRwI",
+          "title": "Olecranon Fractures: Mayo Classification, Clinical Features, Treatment and Complications",
+          "index": 3
+        },
+        {
+          "id": "5YJsNcvelzg",
+          "title": "Elbow Dislocation: Reduction Techniques, Diagnosis and Complications",
+          "index": 4
+        },
+        {
+          "id": "D3GxmDsCEBg",
+          "title": "Radius and Ulna Shaft Fractures: Treatment, Complications, Anatomy and Clinical Features",
+          "index": 5
+        },
+        {
+          "id": "_afYy_HDT6M",
+          "title": "Monteggia Fracture Dislocation: Bado Classification, Treatment and Complications",
+          "index": 6
+        },
+        {
+          "id": "jflb-nvOTwc",
+          "title": "Galeazzi Fracture Dislocation: Clinical Features, Treatment and Complications",
+          "index": 7
+        },
+        {
+          "id": "fyE1r2M6AF8",
+          "title": "Elbow X ray Interpretation Explained and Simplified",
+          "index": 8
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLllTTKSgGCnk8iznUdxRRMAN3xdI9M86C",
+      "title": "Shoulder & Arm Trauma MasterClass",
+      "videos": [
+        {
+          "id": "Lk1CBijkKJQ",
+          "title": "Shoulder and Arm Trauma MasterClass | Introduction",
+          "index": 1
+        },
+        {
+          "id": "8eGo8agSIBM",
+          "title": "Clavicle Bone Fractures: Anatomy, Classification, Clinical Features and Treatment",
+          "index": 2
+        },
+        {
+          "id": "tfOaWc3yni4",
+          "title": "Scapula Bone Fractures: Anatomy, Classification, Clinical Features and Treatment",
+          "index": 3
+        },
+        {
+          "id": "o0c7PvRFH_g",
+          "title": "Acromioclavicular Joint Injury: Rockwood Classification, Clinical Features and Treatment",
+          "index": 4
+        },
+        {
+          "id": "TiOGc1Yx12M",
+          "title": "Sternoclavicular Joint Injury: Clinical Features, Classification, Treatment and Complications",
+          "index": 5
+        },
+        {
+          "id": "8Y68hgonnnQ",
+          "title": "Anterior Shoulder Dislocation: PathoAnatomy, Reduction techniques, Clinical Features & Complications",
+          "index": 6
+        },
+        {
+          "id": "KfbUapEyL-I",
+          "title": "Posterior Shoulder Dislocation: Reduction Technique, Clinical Features, Imaging & Complications",
+          "index": 7
+        },
+        {
+          "id": "dXFZ3RUREwc",
+          "title": "Inferior Shoulder Dislocation: Clinical Features, Imaging, Treatment & Complications",
+          "index": 8
+        },
+        {
+          "id": "Dqsqdmwn-Tc",
+          "title": "Proximal Humerus Fractures: Neer Classification, Anatomy, Imaging and Treatment",
+          "index": 9
+        },
+        {
+          "id": "5a1Qyb44wt0",
+          "title": "Humerus Shaft Fractures: Clinical Features, Classification, Treatment and Complications",
+          "index": 10
+        },
+        {
+          "id": "qRLw6NOBqjI",
+          "title": "How to Read Shoulder X Rays",
+          "index": 11
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLllTTKSgGCnk8zmWbKoJLYMzOdKlLeEkR",
+      "title": "Chest X ray MasterClass",
+      "videos": [
+        {
+          "id": "xxLnsZHOnOw",
+          "title": "Chest X-Ray: Normal Radiological Anatomy Explained",
+          "index": 1
+        },
+        {
+          "id": "GvukcclgI08",
+          "title": "Pneumothorax Chest X Ray Signs",
+          "index": 2
+        },
+        {
+          "id": "9ORnGlJ3BK4",
+          "title": "Atelectasis Chest X Ray Signs",
+          "index": 3
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLllTTKSgGCnkF6E-_pI4MdH8Kly8LfwAy",
+      "title": "Real Examples of Seizures",
+      "videos": [
+        {
+          "id": "hyj7MSdaLqw",
+          "title": "Complex Partial Epileptic Seizure",
+          "index": 1
+        },
+        {
+          "id": "VM1vIY2g32Q",
+          "title": "Complex Partial Tonic Seizure",
+          "index": 2
+        },
+        {
+          "id": "gWZGMABBfYo",
+          "title": "Tonic Clonic seizure (grand mal seizure)",
+          "index": 3
+        },
+        {
+          "id": "mWK-oqwrJz0",
+          "title": "Examples of Absence Seizures",
+          "index": 4
+        },
+        {
+          "id": "e3gf57IAR9I",
+          "title": "Complex Partial Seizure 4",
+          "index": 5
+        },
+        {
+          "id": "NuGUfUymfFs",
+          "title": "Bad seizure (part 1) (04/10/22)",
+          "index": 6
+        },
+        {
+          "id": "x3UheggFDuc",
+          "title": "Tonic clonic seizure (04/10/22)",
+          "index": 7
+        },
+        {
+          "id": "m1ezb7_uEGs",
+          "title": "Bartonella Seizure",
+          "index": 8
+        },
+        {
+          "id": "VGOgvCTZbWQ",
+          "title": "Epilepsy Explained: Definition, Causes, ILAE Classification, Status Epilepticus & Anti Seizure Meds",
+          "index": 9
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLllTTKSgGCnkV2TZ3-xgpkXVdASGxnzSf",
+      "title": "Pediatrics Emergency Medicine",
+      "videos": [
+        {
+          "id": "A8_qaIox3ys",
+          "title": "Croup (Laryngotracheobronchitis) Explained: Pathophysiology, Signs & Symptoms, Diagnosis & Treatment",
+          "index": 1
+        },
+        {
+          "id": "R1mXf8QbFfw",
+          "title": "Neonatal Cyanosis: Pathophysiology, Types, Differential Diagnosis and Treatment",
+          "index": 2
+        },
+        {
+          "id": "lY7WO4HwMOM",
+          "title": "Neonatal Sepsis: Early Onset vs Late Onset, Pathophysiology, Diagnosis and Treatment",
+          "index": 3
+        },
+        {
+          "id": "8aPGCQHoemA",
+          "title": "Meconium Aspiration Syndrome: Pathophysiology, Signs and Symptoms, Diagnosis and Treatment",
+          "index": 4
+        },
+        {
+          "id": "cozkYn9YcYo",
+          "title": "Epiglottitis: Signs and Symptoms, Causes, Diagnosis and Treatment All Explained",
+          "index": 5
+        },
+        {
+          "id": "M5FnKmsGxmM",
+          "title": "Bacterial Tracheitis: Clinical Features, Etiology, Diagnosis and Treatment",
+          "index": 6
+        },
+        {
+          "id": "1oZDzR-_QGk",
+          "title": "Airway Foreign Body: X Ray Examples, Clinical Features, Diagnosis and Treatment",
+          "index": 7
+        },
+        {
+          "id": "sBp7NlJQME0",
+          "title": "Retropharyngeal Abscess & Lateral Pharyngeal Abscess and Lemierre Disease All Explained",
+          "index": 8
+        },
+        {
+          "id": "rtPmnu09wto",
+          "title": "Peritonsillar Abscess (Quinsy): Pathophysiology, Clinical Features, Diagnosis and Treatment",
+          "index": 9
+        },
+        {
+          "id": "tKbkO6dladc",
+          "title": "Bronchiolitis: Latest Guidelines on Diagnosis and Treatment, Clinical Features and Pathophysiology",
+          "index": 10
+        },
+        {
+          "id": "ionR1D5j3gI",
+          "title": "Pediatric Pneumonia: Latest Guidelines on Diagnosis and Treatment & a Comprehensive Explanation",
+          "index": 11
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLllTTKSgGCnm-QrQjMiqR6dZ7OHrD0bZY",
+      "title": "General Surgery MasterClass",
+      "videos": [
+        {
+          "id": "rSl7h5tIybc",
+          "title": "Hernia Symptoms in Men and Women Explained",
+          "index": 1
+        },
+        {
+          "id": "jbuCw02x5DE",
+          "title": "Hernia Treatment Explained in Details",
+          "index": 2
+        },
+        {
+          "id": "R2mubHSdhbM",
+          "title": "Abdominal Wall Anatomy: Anterior and Posterior",
+          "index": 3
+        },
+        {
+          "id": "4idQbwsvtUo",
+          "title": "Israel-Hamas War: Piers Morgan vs Bassem Youssef On Palestine's Treatment | The Full Interview",
+          "index": 4
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLllTTKSgGCnmbijl8v9oSkzhEBxqI7OLU",
+      "title": "Hepatology MasterClass",
+      "videos": [
+        {
+          "id": "LHx60k474pQ",
+          "title": "Liver Function Test Interpretation: AST, ALT, ALP, GGT, Bilirubin and Albumin",
+          "index": 1
+        },
+        {
+          "id": "HU4JW4Pq8Ro",
+          "title": "Acute Liver Failure: Symptoms, Causes and Treatment",
+          "index": 2
+        },
+        {
+          "id": "Aw_0lr3smWQ",
+          "title": "Alcoholic Hepatitis: Pathophysiology, Signs and Symptoms, Diagnosis and Treatment",
+          "index": 3
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLllTTKSgGCnkX3-1pudkLqmRD_TnwuF0Y",
+      "title": "CNS Pharmacology MasterClass",
+      "videos": [
+        {
+          "id": "6ryC99g9leI",
+          "title": "CNS Pharmacology MasterClass | Introduction",
+          "index": 1
+        },
+        {
+          "id": "DveU0FiMVJk",
+          "title": "Opioids Pharmacology: Classification, Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 2
+        },
+        {
+          "id": "8aAkfYdNA14",
+          "title": "Morphine Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 3
+        },
+        {
+          "id": "9gEZfHnIhlI",
+          "title": "Opioid Withdrawal Symptoms Explained in Details",
+          "index": 4
+        },
+        {
+          "id": "bgso-5IGFMI",
+          "title": "Codeine Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 5
+        },
+        {
+          "id": "nuE3VoxlhdE",
+          "title": "Heroin Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 6
+        },
+        {
+          "id": "klzuCpi-K6k",
+          "title": "Pethidine: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 7
+        },
+        {
+          "id": "DKeWI40yyzM",
+          "title": "Fentanyl Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 8
+        },
+        {
+          "id": "UPR6LqAWHWA",
+          "title": "Methadone Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 9
+        },
+        {
+          "id": "WMV-SJtw68s",
+          "title": "Tramadol Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 10
+        },
+        {
+          "id": "nHYvCKW33TA",
+          "title": "Buprenorphine: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 11
+        },
+        {
+          "id": "jpecDir_fgM",
+          "title": "Naloxone Pharmacology: Treatment of Opioid Overdose, Mechanism of Action & Adverse Effects",
+          "index": 12
+        },
+        {
+          "id": "6P-i2kgQxUU",
+          "title": "Acetaminophen Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 13
+        },
+        {
+          "id": "I6F9Cf5i6XM",
+          "title": "Nefopam (Acupan): Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 14
+        },
+        {
+          "id": "WPPaustj2-w",
+          "title": "Novalgin Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 15
+        },
+        {
+          "id": "Z6hYtxhTPaE",
+          "title": "Antipsychotic Drugs Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 16
+        },
+        {
+          "id": "PB88X1wO4aA",
+          "title": "Neuroleptic Malignant Syndrome: Pathophysiology, Signs and Symptoms, Diagnosis and Treatment",
+          "index": 17
+        },
+        {
+          "id": "Tsqj4mgn0bQ",
+          "title": "Chlorpromazine Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 18
+        },
+        {
+          "id": "GHlXbNd_KxM",
+          "title": "Haloperidol Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 19
+        },
+        {
+          "id": "heTyT33hjzs",
+          "title": "Risperidone Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 20
+        },
+        {
+          "id": "d7_u2fBF2cI",
+          "title": "Clozapine Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 21
+        },
+        {
+          "id": "9KcipF82jn4",
+          "title": "Antiparkinsonian Drugs Pharmacology: Levodopa and Carbidopa, Entacapone, Selegiline, Pramipexole",
+          "index": 22
+        },
+        {
+          "id": "6hxAwUugSlA",
+          "title": "Barbiturates Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 23
+        },
+        {
+          "id": "fCd7uzoqjlM",
+          "title": "Benzodiazepines Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 24
+        },
+        {
+          "id": "kqtm_xEGY5c",
+          "title": "Z Drugs Pharmacology: Zolpidem , Eszopiclone, Zaleplon All Explained",
+          "index": 25
+        },
+        {
+          "id": "1rxyECFjZ68",
+          "title": "Buspirone Pharmacology: Mechanism of Action, Therapeutic Uses & Side Effects",
+          "index": 26
+        },
+        {
+          "id": "m9bhT4zjh3I",
+          "title": "Melatonin for Sleep: Mechanism of Action & Side Effects",
+          "index": 27
+        },
+        {
+          "id": "rtjRDUCv7DE",
+          "title": "Suvorexant Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 28
+        },
+        {
+          "id": "VGOgvCTZbWQ",
+          "title": "Epilepsy Explained: Definition, Causes, ILAE Classification, Status Epilepticus & Anti Seizure Meds",
+          "index": 29
+        },
+        {
+          "id": "cOUIUnntEc8",
+          "title": "Phenytoin Pharmacology: Pharmacokinetics, Mechanism of Action, Therapeutic Uses and Adverse Effects",
+          "index": 30
+        },
+        {
+          "id": "XwHpK7-kQuQ",
+          "title": "Carbamazepine Pharmacology: Mechanism of Action, Therapeutic Uses and Adverse Effects",
+          "index": 31
+        },
+        {
+          "id": "Ubq4Q7VcA4Y",
+          "title": "Valproic Acid Pharmacology: Mechanism of Action, Therapeutic Uses and Adverse Effects",
+          "index": 32
+        },
+        {
+          "id": "I6MQfP131AQ",
+          "title": "Ethosuximide Pharmacology: Mechanism of Action, Therapeutic Uses and Adverse Effects",
+          "index": 33
+        },
+        {
+          "id": "dM8s0FL7Tlc",
+          "title": "Lamotrigine Pharmacology: Mechanism of Action, Therapeutic Uses and Adverse Effects",
+          "index": 34
+        },
+        {
+          "id": "n1bTY2_BOsI",
+          "title": "Topiramate Pharmacology: Mechanism of Action, Therapeutic Uses and Adverse Effects",
+          "index": 35
+        },
+        {
+          "id": "vcWNw51yG8k",
+          "title": "Levetiracetam Pharmacology: Mechanism of Action, Therapeutic Uses and Adverse Effects",
+          "index": 36
+        },
+        {
+          "id": "An7F4fR0514",
+          "title": "Gabapentin Pharmacology: Mechanism of Action, Therapeutic Uses and Adverse Effects",
+          "index": 37
+        },
+        {
+          "id": "2y7SaQNkKPY",
+          "title": "Depression Medical Definition and Diagnostic Criteria",
+          "index": 38
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLllTTKSgGCnmlxrkNwobH3pYiGaMqi1TJ",
+      "title": "Plastic Surgery MasterClass",
+      "videos": [
+        {
+          "id": "yh3ZU7Tq1yw",
+          "title": "Burn Assessment Using Rule of Nine, Rule of Palm and Lund and Browder Chart All Explained in Details",
+          "index": 1
+        },
+        {
+          "id": "0PWRTjdBjBk",
+          "title": "Hypertrophic Scar and Keloid Scar Explanation and Comparison",
+          "index": 2
+        },
+        {
+          "id": "lnE6Ju2x7nM",
+          "title": "Skin Graft and Flap Explained in Details",
+          "index": 3
+        },
+        {
+          "id": "GRf53MkN_7Q",
+          "title": "1st Degree Burn Explained - Why Skin Become RED and HOW to Treat It",
+          "index": 4
+        },
+        {
+          "id": "xRK6YWTL7C8",
+          "title": "2nd Degree Burn: Superficial and Deep Partial Thickness Burns Explained",
+          "index": 5
+        },
+        {
+          "id": "Vodezs_gHVg",
+          "title": "3rd Degree Burn Explained",
+          "index": 6
+        },
+        {
+          "id": "A5nDUA9lUKQ",
+          "title": "4th Degree Burn Explained",
+          "index": 7
+        },
+        {
+          "id": "zkkSVcn982Y",
+          "title": "Wound Healing by Primary and Secondary Intention",
+          "index": 8
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLllTTKSgGCnk7061EvF54AvrGt-BWnRsa",
+      "title": "Nephrology MasterClass",
+      "videos": [
+        {
+          "id": "NFiVzPbHkGY",
+          "title": "Nephrotic Syndrome: Pathophysiology, Signs and Symptoms, Diagnosis and Treatment",
+          "index": 1
+        },
+        {
+          "id": "CxnwlXJLVm4",
+          "title": "Minimal Change Disease: Pathophysiology, Signs and Symptoms, Diagnosis and Treatment",
+          "index": 2
+        },
+        {
+          "id": "5n01Gu3A_YQ",
+          "title": "Focal Segmental Glomerulosclerosis (FSGS): Pathophysiology, Signs & Symptoms, Diagnosis & Treatment",
+          "index": 3
+        },
+        {
+          "id": "im-igoRM3D4",
+          "title": "Membranous Nephropathy: Pathophysiology, Signs and Symptoms, Diagnosis and Treatment",
+          "index": 4
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLllTTKSgGCnlO-0Kx4ImXx7MQ4D_JK9hY",
+      "title": "Orthopedics Imaging MasterClass",
+      "videos": [
+        {
+          "id": "7rzMPd2UlDw",
+          "title": "Orthopedic X Ray Interpretation Basics Explained with Examples",
+          "index": 1
+        },
+        {
+          "id": "qRLw6NOBqjI",
+          "title": "How to Read Shoulder X Rays",
+          "index": 2
+        },
+        {
+          "id": "fyE1r2M6AF8",
+          "title": "Elbow X ray Interpretation Explained and Simplified",
+          "index": 3
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLllTTKSgGCnlPzFFTYPaRTtObpOagHk--",
+      "title": "Clinical Pharmacology Basic Principles MasterClass",
+      "videos": [
+        {
+          "id": "w9uFS_SIPRw",
+          "title": "Clinical Pharmacology Basic Principles Free Course | Introduction",
+          "index": 1
+        },
+        {
+          "id": "_m5Il0SK40g",
+          "title": "Routes of Drug Administration: Oral, Intravenous, Intramuscular, Intranasal and MORE",
+          "index": 2
+        },
+        {
+          "id": "zZfiOzx7CEo",
+          "title": "Drug Absorption: pKa, First Pass Metabolism, Bioavailability and Mechanisms of Drug Absorption",
+          "index": 3
+        },
+        {
+          "id": "TOUAIJSzZxU",
+          "title": "Drug Distribution: Volume of Distribution, Binding of Drugs to Plasma Proteins and Tissue Proteins",
+          "index": 4
+        },
+        {
+          "id": "0ldidKshF8I",
+          "title": "Drug Metabolism: Phase I and Phase II of Hepatic Drug Metabolism",
+          "index": 5
+        },
+        {
+          "id": "hBbso9LXNcg",
+          "title": "Drug Elimination: Elimination Half Life, First and Zero Order Kinetics, Loading Dose and Clearance",
+          "index": 6
+        },
+        {
+          "id": "rKEHswIToPc",
+          "title": "Drug Targets Pharmacology: Receptors, Ion Channels, Enzymes and Carrier Molecules All Explained",
+          "index": 7
+        },
+        {
+          "id": "2IQcqzDcOyo",
+          "title": "Drug Agonist Dose Response Curves, Quantal and Graded Responses and Efficacy VS Potency",
+          "index": 8
+        },
+        {
+          "id": "BWkaZq3RdO0",
+          "title": "Types of Antagonists: Reversible Competitive, Irreversible Competitive and Non Competitive",
+          "index": 9
+        },
+        {
+          "id": "AMJdEW9CxhA",
+          "title": "Drug Factors Affecting Patient Response: Drug Structure, Molecular Weight and Combination",
+          "index": 10
+        },
+        {
+          "id": "E80R3vE25tg",
+          "title": "Patient Factors Affecting Response to Drugs: Drug Tolerance, Rebound and Withdrawal Effects",
+          "index": 11
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLllTTKSgGCnkPmlNgXSQ_HIzA3sHi4jc8",
+      "title": "Alpha Blockers",
+      "videos": [
+        {
+          "id": "Y6Qf_lb3oKc",
+          "title": "Alpha Blockers Pharmacology: Phenoxybenzamine and Phentolamine Explained",
+          "index": 1
+        },
+        {
+          "id": "AMlntTP1YQA",
+          "title": "Selective Alpha Blockers Pharmacology: Prazosin, Doxazocin, Terazosin and Tamsulosin Explained",
+          "index": 2
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLllTTKSgGCnnUIJfXWRdaMiM7yMNqFnkX",
+      "title": "Antibiotics Pharmacology MasterClass",
+      "videos": [
+        {
+          "id": "tJtsmSfDyP0",
+          "index": 1,
+          "title": "Antibiotics Pharmacology: Gram Stain, Antibiotics Classification & Combination, Bacterial Resistance"
+        },
+        {
+          "id": "Kl9I2T7-iCY",
+          "index": 2,
+          "title": "How to Choose Antibiotics (Antibiotic Prescription): Patient Factor and Drug Factor"
+        },
+        {
+          "id": "hvh86HzdHzs",
+          "index": 3,
+          "title": "Cell Wall Synthesis Inhibitors Pharmacology Introduction"
+        },
+        {
+          "id": "ornBG-kfd_w",
+          "index": 4,
+          "title": "Penicillin Classification Explained: Penicillin G, Anti Staph, Amino & Antipseudomonal Penicillin"
+        },
+        {
+          "id": "yMqQIE1BgAE",
+          "index": 5,
+          "title": "Penicillin Pharmacology: Mechanism of Action, Spectrum, Therapeutic Uses and Adverse Effects"
+        },
+        {
+          "id": "-4D-qe2G79A",
+          "index": 6,
+          "title": "Cephalosporins Classification: All Five Generations Explained"
+        },
+        {
+          "id": "Bl9T23NyMHU",
+          "index": 7,
+          "title": "Cephalosporins Pharmacology: Mechanism of Action, Spectrum, Therapeutic Uses and Adverse Effects"
+        },
+        {
+          "id": "Vbhds14MOag",
+          "index": 8,
+          "title": "Monobactams and Carbapenems Pharmacology: Aztreonam, Imipenem & Carbapenems"
+        },
+        {
+          "id": "5u6pe9HNZ9M",
+          "index": 9,
+          "title": "Glycopeptides Pharmacology: Mechanism of Action, Spectrum, Therapeutic Uses and Adverse Effects"
+        },
+        {
+          "id": "jO6RwevsOmY",
+          "index": 10,
+          "title": "Protein Synthesis Inhibitors Introduction"
+        },
+        {
+          "id": "GNZaCAsJDBo",
+          "index": 11,
+          "title": "Aminoglycosides Pharmacology: Mechanism of Action, Spectrum, Therapeutic Uses and Adverse Effects"
+        },
+        {
+          "id": "d-P8_wfjVJ0",
+          "index": 12,
+          "title": "Macrolides Pharmacology: Mechanism of Action, Spectrum, Therapeutic Uses and Adverse Effects"
+        },
+        {
+          "id": "qiCVMhbSfKs",
+          "index": 13,
+          "title": "Tetracyclines Pharmacology: Mechanism of Action, Spectrum, Therapeutic Uses and Adverse Effects"
+        },
+        {
+          "id": "Hdnw0PJaTK8",
+          "index": 14,
+          "title": "Tigecycline (Glycylcyclines) Pharmacology: Mechanism of Action, Therapeutic Uses and Adverse Effects"
+        },
+        {
+          "id": "VKm2uo2JjUA",
+          "index": 15,
+          "title": "Chloramphenicol Pharmacology: Pharmacokinetics, Mechanism of Action, Spectrum & Therapeutic Uses"
+        },
+        {
+          "id": "20ArLfzxfEE",
+          "index": 16,
+          "title": "Clindamycin Pharmacology: Mechanism of Action, Spectrum, Therapeutic Uses and Adverse Effects"
+        },
+        {
+          "id": "7wnwMfGuPyM",
+          "index": 17,
+          "title": "Quinupristin / Dalfopristin (SYNERCID): Mechanism of Action, Therapeutic Uses & Adverse Effects"
+        },
+        {
+          "id": "_gen54iRCWI",
+          "index": 18,
+          "title": "Linezolid Pharmacology: Mechanism of Action, Spectrum, Therapeutic Uses and Adverse Effects"
+        },
+        {
+          "id": "LJKUUqWmcVM",
+          "index": 19,
+          "title": "Quinolones Classification: All Quinolones Generations Explained"
+        },
+        {
+          "id": "ttJU_RcE06k",
+          "index": 20,
+          "title": "Quinolones Pharmacology: Mechanism of Action, Spectrum, Therapeutic Uses and Adverse Effects"
+        },
+        {
+          "id": "amaIwmYCEkk",
+          "index": 21,
+          "title": "Sulfonamides Pharmacology: Mechanism of Action, Spectrum, Therapeutic Uses and Adverse Effects"
+        },
+        {
+          "id": "wpR477xCMtA",
+          "index": 22,
+          "title": "Metronidazole Pharmacology: Mechanism of Action, Spectrum, Therapeutic Uses and Adverse Effects"
+        },
+        {
+          "id": "n4ltqJIxIQk",
+          "index": 23,
+          "title": "Urinary Antiseptics Pharmacology: Nitrofurantoin, Methenamine and Fosfomycin"
+        }
+      ],
+      "orderSource": "Verified visible YouTube playlist"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+﻿{
+    "lectureId":  "Bl9T23NyMHU",
+    "status":  "unreviewed-ocr",
+    "source":  "Windows OCR of low-resolution YouTube preview frames",
+    "frames":  [
+                   {
+                       "src":  "video-frames/Bl9T23NyMHU-0.jpg",
+                       "seconds":  0,
+                       "text":  "Cephalosporins",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/Bl9T23NyMHU-5.jpg",
+                       "seconds":  50,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/Bl9T23NyMHU-19.jpg",
+                       "seconds":  190,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/Bl9T23NyMHU-23.jpg",
+                       "seconds":  230,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/Bl9T23NyMHU-31.jpg",
+                       "seconds":  310,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/Bl9T23NyMHU-37.jpg",
+                       "seconds":  370,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/Bl9T23NyMHU-48.jpg",
+                       "seconds":  480,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/Bl9T23NyMHU-49.jpg",
+                       "seconds":  490,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/Bl9T23NyMHU-61.jpg",
+                       "seconds":  610,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/Bl9T23NyMHU-67.jpg",
+                       "seconds":  670,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/Bl9T23NyMHU-70.jpg",
+                       "seconds":  700,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/Bl9T23NyMHU-88.jpg",
+                       "seconds":  880,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/Bl9T23NyMHU-98.jpg",
+                       "seconds":  980,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/Bl9T23NyMHU-104.jpg",
+                       "seconds":  1040,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/Bl9T23NyMHU-107.jpg",
+                       "seconds":  1070,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/Bl9T23NyMHU-108.jpg",
+                       "seconds":  1080,
+                       "text":  "",
+                       "reviewed":  false
+                   }
+               ]
+}

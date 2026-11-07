@@ -1,0 +1,3 @@
+import fs from 'node:fs';
+const url='https://www.youtube.com/watch?v=I0ygFfqwhHw&hl=en';
+try{const r=await fetch(url,{headers:{'User-Agent':'Mozilla/5.0'},signal:AbortSignal.timeout(20000)});const html=await r.text();const match=html.match(/var ytInitialPlayerResponse = (.*?);(?:var |<\/script>)/s);if(!match){console.log({status:r.status,length:html.length,player:false});process.exit(0)}const p=JSON.parse(match[1]);fs.writeFileSync('youtube-slide-probe.json',JSON.stringify({id:'I0ygFfqwhHw',playability:p.playabilityStatus,captions:p.captions,storyboards:p.storyboards},null,2));console.log({status:r.status,playability:p.playabilityStatus?.status,captions:!!p.captions,storyboards:!!p.storyboards});}catch(e){console.log(e.message)}

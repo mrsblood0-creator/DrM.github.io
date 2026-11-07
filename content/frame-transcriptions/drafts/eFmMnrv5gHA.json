@@ -1,0 +1,37 @@
+﻿{
+    "lectureId":  "eFmMnrv5gHA",
+    "status":  "unreviewed-ocr",
+    "source":  "Windows OCR of low-resolution YouTube preview frames",
+    "frames":  [
+                   {
+                       "src":  "video-frames/eFmMnrv5gHA-0.jpg",
+                       "seconds":  0,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/eFmMnrv5gHA-1.jpg",
+                       "seconds":  5,
+                       "text":  "Pathology\nCauses of cell injury",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/eFmMnrv5gHA-11.jpg",
+                       "seconds":  55,
+                       "text":  "Causes of cell injury\nI.Opa»ib",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/eFmMnrv5gHA-49.jpg",
+                       "seconds":  245,
+                       "text":  "Causes of cell injury\n• Genetic",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/eFmMnrv5gHA-64.jpg",
+                       "seconds":  320,
+                       "text":  "",
+                       "reviewed":  false
+                   }
+               ]
+}

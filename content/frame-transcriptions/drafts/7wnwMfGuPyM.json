@@ -1,0 +1,67 @@
+﻿{
+    "lectureId":  "7wnwMfGuPyM",
+    "status":  "unreviewed-ocr",
+    "source":  "Windows OCR of low-resolution YouTube preview frames",
+    "frames":  [
+                   {
+                       "src":  "video-frames/7wnwMfGuPyM-0.jpg",
+                       "seconds":  0,
+                       "text":  "Quinupristill + Oafopristin",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/7wnwMfGuPyM-19.jpg",
+                       "seconds":  95,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/7wnwMfGuPyM-43.jpg",
+                       "seconds":  215,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/7wnwMfGuPyM-50.jpg",
+                       "seconds":  250,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/7wnwMfGuPyM-63.jpg",
+                       "seconds":  315,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/7wnwMfGuPyM-65.jpg",
+                       "seconds":  325,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/7wnwMfGuPyM-99.jpg",
+                       "seconds":  495,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/7wnwMfGuPyM-101.jpg",
+                       "seconds":  505,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/7wnwMfGuPyM-123.jpg",
+                       "seconds":  615,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/7wnwMfGuPyM-153.jpg",
+                       "seconds":  765,
+                       "text":  "",
+                       "reviewed":  false
+                   }
+               ]
+}

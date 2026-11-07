@@ -1,0 +1,872 @@
+[
+  {
+    "id": "reviewed-pharmacology-foundations-w9uFS_SIPRw-1",
+    "lectureId": "w9uFS_SIPRw",
+    "title": "Clinical pharmacology foundations: 1",
+    "prompt": "After a medicine is administered, investigators measure its absorption, tissue distribution and eventual elimination. They want to explain the concentration-time curve rather than receptor signaling. Which branch of pharmacology addresses the processes being studied?",
+    "options": [
+      "Therapeutic window",
+      "Pharmacokinetics",
+      "Pharmacodynamics",
+      "Bioavailability",
+      "Clearance"
+    ],
+    "answer": "Pharmacokinetics",
+    "explanation": "Pharmacokinetics describes absorption, distribution, metabolism and elimination and their effects on drug concentration.",
+    "distractorExplanations": {
+      "Pharmacokinetics": "Pharmacokinetics describes absorption, distribution, metabolism and elimination and their effects on drug concentration.",
+      "Pharmacodynamics": "Pharmacodynamics relates drug concentration and target interaction to biological effects. This does not best answer the specific question in this case.",
+      "Bioavailability": "Bioavailability is the fraction of an administered dose reaching systemic circulation unchanged. This does not best answer the specific question in this case.",
+      "Clearance": "Clearance expresses the volume of plasma effectively cleared of drug per unit time. This does not best answer the specific question in this case.",
+      "Therapeutic window": "The therapeutic window separates exposures associated with benefit from those causing unacceptable toxicity. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=w9uFS_SIPRw"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-pharmacology-foundations-w9uFS_SIPRw-2",
+    "lectureId": "w9uFS_SIPRw",
+    "title": "Clinical pharmacology foundations: 2",
+    "prompt": "Two patients have similar plasma concentrations of a medicine but different physiological responses. The clinician considers receptor sensitivity and downstream signaling. Which branch of pharmacology most directly addresses the relationship between concentration and biological effect?",
+    "options": [
+      "Pharmacodynamics",
+      "Pharmacokinetics",
+      "Bioavailability",
+      "Clearance",
+      "Therapeutic window"
+    ],
+    "answer": "Pharmacodynamics",
+    "explanation": "Pharmacodynamics relates drug concentration and target interaction to biological effects.",
+    "distractorExplanations": {
+      "Pharmacodynamics": "Pharmacodynamics relates drug concentration and target interaction to biological effects.",
+      "Pharmacokinetics": "Pharmacokinetics describes absorption, distribution, metabolism and elimination and their effects on drug concentration. This does not best answer the specific question in this case.",
+      "Bioavailability": "Bioavailability is the fraction of an administered dose reaching systemic circulation unchanged. This does not best answer the specific question in this case.",
+      "Clearance": "Clearance expresses the volume of plasma effectively cleared of drug per unit time. This does not best answer the specific question in this case.",
+      "Therapeutic window": "The therapeutic window separates exposures associated with benefit from those causing unacceptable toxicity. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=w9uFS_SIPRw"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-pharmacology-foundations-w9uFS_SIPRw-3",
+    "lectureId": "w9uFS_SIPRw",
+    "title": "Clinical pharmacology foundations: 3",
+    "prompt": "An oral dose undergoes incomplete absorption and first-pass metabolism, so only part reaches the bloodstream unchanged. Which pharmacokinetic measure describes this fraction rather than the speed at which the drug is later eliminated?",
+    "options": [
+      "Pharmacokinetics",
+      "Pharmacodynamics",
+      "Clearance",
+      "Therapeutic window",
+      "Bioavailability"
+    ],
+    "answer": "Bioavailability",
+    "explanation": "Bioavailability is the fraction of an administered dose reaching systemic circulation unchanged.",
+    "distractorExplanations": {
+      "Bioavailability": "Bioavailability is the fraction of an administered dose reaching systemic circulation unchanged.",
+      "Pharmacokinetics": "Pharmacokinetics describes absorption, distribution, metabolism and elimination and their effects on drug concentration. This does not best answer the specific question in this case.",
+      "Pharmacodynamics": "Pharmacodynamics relates drug concentration and target interaction to biological effects. This does not best answer the specific question in this case.",
+      "Clearance": "Clearance expresses the volume of plasma effectively cleared of drug per unit time. This does not best answer the specific question in this case.",
+      "Therapeutic window": "The therapeutic window separates exposures associated with benefit from those causing unacceptable toxicity. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=w9uFS_SIPRw"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-pharmacology-foundations-w9uFS_SIPRw-4",
+    "lectureId": "w9uFS_SIPRw",
+    "title": "Clinical pharmacology foundations: 4",
+    "prompt": "A clinician compares the effective volume of plasma cleared of a medicine per minute in two patients. Which pharmacokinetic parameter is being compared rather than the total amount of drug present in the body?",
+    "options": [
+      "Pharmacodynamics",
+      "Bioavailability",
+      "Therapeutic window",
+      "Clearance",
+      "Pharmacokinetics"
+    ],
+    "answer": "Clearance",
+    "explanation": "Clearance expresses the volume of plasma effectively cleared of drug per unit time.",
+    "distractorExplanations": {
+      "Clearance": "Clearance expresses the volume of plasma effectively cleared of drug per unit time.",
+      "Pharmacokinetics": "Pharmacokinetics describes absorption, distribution, metabolism and elimination and their effects on drug concentration. This does not best answer the specific question in this case.",
+      "Pharmacodynamics": "Pharmacodynamics relates drug concentration and target interaction to biological effects. This does not best answer the specific question in this case.",
+      "Bioavailability": "Bioavailability is the fraction of an administered dose reaching systemic circulation unchanged. This does not best answer the specific question in this case.",
+      "Therapeutic window": "The therapeutic window separates exposures associated with benefit from those causing unacceptable toxicity. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=w9uFS_SIPRw"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-pharmacology-foundations-w9uFS_SIPRw-5",
+    "lectureId": "w9uFS_SIPRw",
+    "title": "Clinical pharmacology foundations: 5",
+    "prompt": "A patient benefits from a medicine at moderate exposure but develops serious toxicity when exposure rises only slightly. Which concept describes the limited separation between beneficial and harmful concentrations relevant to monitoring this treatment?",
+    "options": [
+      "Bioavailability",
+      "Clearance",
+      "Therapeutic window",
+      "Pharmacokinetics",
+      "Pharmacodynamics"
+    ],
+    "answer": "Therapeutic window",
+    "explanation": "The therapeutic window separates exposures associated with benefit from those causing unacceptable toxicity.",
+    "distractorExplanations": {
+      "Therapeutic window": "The therapeutic window separates exposures associated with benefit from those causing unacceptable toxicity.",
+      "Pharmacokinetics": "Pharmacokinetics describes absorption, distribution, metabolism and elimination and their effects on drug concentration. This does not best answer the specific question in this case.",
+      "Pharmacodynamics": "Pharmacodynamics relates drug concentration and target interaction to biological effects. This does not best answer the specific question in this case.",
+      "Bioavailability": "Bioavailability is the fraction of an administered dose reaching systemic circulation unchanged. This does not best answer the specific question in this case.",
+      "Clearance": "Clearance expresses the volume of plasma effectively cleared of drug per unit time. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=w9uFS_SIPRw"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-pharmacology-foundations-rKEHswIToPc-1",
+    "lectureId": "rKEHswIToPc",
+    "title": "Drug targets: 1",
+    "prompt": "A bronchodilator binds a beta2-adrenoceptor and activates an intracellular signaling cascade in airway smooth muscle. Which category of drug target best describes the protein initiating this response rather than a channel or metabolic catalyst?",
+    "options": [
+      "Physical or chemical action without a specific receptor",
+      "Receptor",
+      "Ion channel",
+      "Enzyme",
+      "Transporter"
+    ],
+    "answer": "Receptor",
+    "explanation": "A receptor binds a signal or drug and changes cellular signaling; beta-adrenoceptors are examples.",
+    "distractorExplanations": {
+      "Receptor": "A receptor binds a signal or drug and changes cellular signaling; beta-adrenoceptors are examples.",
+      "Ion channel": "Ion channels control transmembrane ion movement; local anesthetics block voltage-gated sodium channels. This does not best answer the specific question in this case.",
+      "Enzyme": "Drugs can inhibit catalytic proteins, such as acetylcholinesterase or HMG-CoA reductase. This does not best answer the specific question in this case.",
+      "Transporter": "Transporters move substances across membranes; serotonin reuptake inhibitors act on SERT. This does not best answer the specific question in this case.",
+      "Physical or chemical action without a specific receptor": "Some drugs act by properties such as osmolality or acid neutralization rather than receptor binding. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=rKEHswIToPc"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-pharmacology-foundations-rKEHswIToPc-2",
+    "lectureId": "rKEHswIToPc",
+    "title": "Drug targets: 2",
+    "prompt": "A local anesthetic prevents sodium movement through voltage-dependent membrane pores in a peripheral nerve. Action-potential propagation is reduced. Which category of molecular target is directly blocked by the drug in this example?",
+    "options": [
+      "Ion channel",
+      "Receptor",
+      "Enzyme",
+      "Transporter",
+      "Physical or chemical action without a specific receptor"
+    ],
+    "answer": "Ion channel",
+    "explanation": "Ion channels control transmembrane ion movement; local anesthetics block voltage-gated sodium channels.",
+    "distractorExplanations": {
+      "Ion channel": "Ion channels control transmembrane ion movement; local anesthetics block voltage-gated sodium channels.",
+      "Receptor": "A receptor binds a signal or drug and changes cellular signaling; beta-adrenoceptors are examples. This does not best answer the specific question in this case.",
+      "Enzyme": "Drugs can inhibit catalytic proteins, such as acetylcholinesterase or HMG-CoA reductase. This does not best answer the specific question in this case.",
+      "Transporter": "Transporters move substances across membranes; serotonin reuptake inhibitors act on SERT. This does not best answer the specific question in this case.",
+      "Physical or chemical action without a specific receptor": "Some drugs act by properties such as osmolality or acid neutralization rather than receptor binding. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=rKEHswIToPc"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-pharmacology-foundations-rKEHswIToPc-3",
+    "lectureId": "rKEHswIToPc",
+    "title": "Drug targets: 3",
+    "prompt": "A drug inhibits acetylcholinesterase and thereby slows acetylcholine breakdown. Its target normally catalyzes a chemical reaction rather than transporting ions or activating a receptor cascade. Which target category best describes this protein?",
+    "options": [
+      "Receptor",
+      "Ion channel",
+      "Transporter",
+      "Physical or chemical action without a specific receptor",
+      "Enzyme"
+    ],
+    "answer": "Enzyme",
+    "explanation": "Drugs can inhibit catalytic proteins, such as acetylcholinesterase or HMG-CoA reductase.",
+    "distractorExplanations": {
+      "Enzyme": "Drugs can inhibit catalytic proteins, such as acetylcholinesterase or HMG-CoA reductase.",
+      "Receptor": "A receptor binds a signal or drug and changes cellular signaling; beta-adrenoceptors are examples. This does not best answer the specific question in this case.",
+      "Ion channel": "Ion channels control transmembrane ion movement; local anesthetics block voltage-gated sodium channels. This does not best answer the specific question in this case.",
+      "Transporter": "Transporters move substances across membranes; serotonin reuptake inhibitors act on SERT. This does not best answer the specific question in this case.",
+      "Physical or chemical action without a specific receptor": "Some drugs act by properties such as osmolality or acid neutralization rather than receptor binding. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=rKEHswIToPc"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-pharmacology-foundations-rKEHswIToPc-4",
+    "lectureId": "rKEHswIToPc",
+    "title": "Drug targets: 4",
+    "prompt": "An antidepressant reduces serotonin reuptake by inhibiting SERT on the presynaptic membrane. The target normally moves transmitter across the membrane. Which category best describes the protein affected in this drug mechanism?",
+    "options": [
+      "Ion channel",
+      "Enzyme",
+      "Physical or chemical action without a specific receptor",
+      "Transporter",
+      "Receptor"
+    ],
+    "answer": "Transporter",
+    "explanation": "Transporters move substances across membranes; serotonin reuptake inhibitors act on SERT.",
+    "distractorExplanations": {
+      "Transporter": "Transporters move substances across membranes; serotonin reuptake inhibitors act on SERT.",
+      "Receptor": "A receptor binds a signal or drug and changes cellular signaling; beta-adrenoceptors are examples. This does not best answer the specific question in this case.",
+      "Ion channel": "Ion channels control transmembrane ion movement; local anesthetics block voltage-gated sodium channels. This does not best answer the specific question in this case.",
+      "Enzyme": "Drugs can inhibit catalytic proteins, such as acetylcholinesterase or HMG-CoA reductase. This does not best answer the specific question in this case.",
+      "Physical or chemical action without a specific receptor": "Some drugs act by properties such as osmolality or acid neutralization rather than receptor binding. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=rKEHswIToPc"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-pharmacology-foundations-rKEHswIToPc-5",
+    "lectureId": "rKEHswIToPc",
+    "title": "Drug targets: 5",
+    "prompt": "An antacid reduces gastric acidity by a direct neutralization reaction rather than binding a specific signaling protein. Which type of drug action best explains this effect compared with receptor, enzyme and transporter mechanisms?",
+    "options": [
+      "Enzyme",
+      "Transporter",
+      "Physical or chemical action without a specific receptor",
+      "Receptor",
+      "Ion channel"
+    ],
+    "answer": "Physical or chemical action without a specific receptor",
+    "explanation": "Some drugs act by properties such as osmolality or acid neutralization rather than receptor binding.",
+    "distractorExplanations": {
+      "Physical or chemical action without a specific receptor": "Some drugs act by properties such as osmolality or acid neutralization rather than receptor binding.",
+      "Receptor": "A receptor binds a signal or drug and changes cellular signaling; beta-adrenoceptors are examples. This does not best answer the specific question in this case.",
+      "Ion channel": "Ion channels control transmembrane ion movement; local anesthetics block voltage-gated sodium channels. This does not best answer the specific question in this case.",
+      "Enzyme": "Drugs can inhibit catalytic proteins, such as acetylcholinesterase or HMG-CoA reductase. This does not best answer the specific question in this case.",
+      "Transporter": "Transporters move substances across membranes; serotonin reuptake inhibitors act on SERT. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=rKEHswIToPc"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-pharmacology-foundations-E80R3vE25tg-1",
+    "lectureId": "E80R3vE25tg",
+    "title": "Patient factors and drug response: 1",
+    "prompt": "A patient experiences progressively less effect from the same repeated dose despite unchanged measured exposure. There are no new interacting medicines. Which adaptation describes the reduced response without automatically implying compulsive drug-taking behavior?",
+    "options": [
+      "Pharmacogenetic variation",
+      "Tolerance",
+      "Physical dependence",
+      "Rebound effect",
+      "Reduced renal elimination"
+    ],
+    "answer": "Tolerance",
+    "explanation": "A reduced response after repeated exposure may require more drug for the previous effect; it is not synonymous with addiction.",
+    "distractorExplanations": {
+      "Tolerance": "A reduced response after repeated exposure may require more drug for the previous effect; it is not synonymous with addiction.",
+      "Physical dependence": "Physiological adaptation can produce withdrawal when drug exposure is abruptly reduced. This does not best answer the specific question in this case.",
+      "Rebound effect": "Symptoms can temporarily exceed baseline after withdrawal of a suppressive treatment. This does not best answer the specific question in this case.",
+      "Reduced renal elimination": "Impaired kidney function can raise exposure to a predominantly renally eliminated drug. This does not best answer the specific question in this case.",
+      "Pharmacogenetic variation": "Inherited differences in drug metabolism or targets can alter efficacy and toxicity. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=E80R3vE25tg"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-pharmacology-foundations-E80R3vE25tg-2",
+    "lectureId": "E80R3vE25tg",
+    "title": "Patient factors and drug response: 2",
+    "prompt": "A patient taking a prescribed sedative regularly develops tremor and severe symptoms when it is abruptly stopped. The history does not establish compulsive use. Which physiological adaptation best explains the withdrawal reaction?",
+    "options": [
+      "Physical dependence",
+      "Tolerance",
+      "Rebound effect",
+      "Reduced renal elimination",
+      "Pharmacogenetic variation"
+    ],
+    "answer": "Physical dependence",
+    "explanation": "Physiological adaptation can produce withdrawal when drug exposure is abruptly reduced.",
+    "distractorExplanations": {
+      "Physical dependence": "Physiological adaptation can produce withdrawal when drug exposure is abruptly reduced.",
+      "Tolerance": "A reduced response after repeated exposure may require more drug for the previous effect; it is not synonymous with addiction. This does not best answer the specific question in this case.",
+      "Rebound effect": "Symptoms can temporarily exceed baseline after withdrawal of a suppressive treatment. This does not best answer the specific question in this case.",
+      "Reduced renal elimination": "Impaired kidney function can raise exposure to a predominantly renally eliminated drug. This does not best answer the specific question in this case.",
+      "Pharmacogenetic variation": "Inherited differences in drug metabolism or targets can alter efficacy and toxicity. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=E80R3vE25tg"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-pharmacology-foundations-E80R3vE25tg-3",
+    "lectureId": "E80R3vE25tg",
+    "title": "Patient factors and drug response: 3",
+    "prompt": "After abruptly stopping a treatment that suppressed a chronic symptom, a patient temporarily experiences symptoms worse than the pretreatment baseline. Which term specifically describes this overshoot rather than simply the return of the original condition?",
+    "options": [
+      "Tolerance",
+      "Physical dependence",
+      "Reduced renal elimination",
+      "Pharmacogenetic variation",
+      "Rebound effect"
+    ],
+    "answer": "Rebound effect",
+    "explanation": "Symptoms can temporarily exceed baseline after withdrawal of a suppressive treatment.",
+    "distractorExplanations": {
+      "Rebound effect": "Symptoms can temporarily exceed baseline after withdrawal of a suppressive treatment.",
+      "Tolerance": "A reduced response after repeated exposure may require more drug for the previous effect; it is not synonymous with addiction. This does not best answer the specific question in this case.",
+      "Physical dependence": "Physiological adaptation can produce withdrawal when drug exposure is abruptly reduced. This does not best answer the specific question in this case.",
+      "Reduced renal elimination": "Impaired kidney function can raise exposure to a predominantly renally eliminated drug. This does not best answer the specific question in this case.",
+      "Pharmacogenetic variation": "Inherited differences in drug metabolism or targets can alter efficacy and toxicity. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=E80R3vE25tg"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-pharmacology-foundations-E80R3vE25tg-4",
+    "lectureId": "E80R3vE25tg",
+    "title": "Patient factors and drug response: 4",
+    "prompt": "A patient develops excessive exposure to a predominantly renally cleared medicine after kidney function deteriorates. The dose and adherence are unchanged. Which patient-related mechanism best explains the altered concentration and toxicity risk?",
+    "options": [
+      "Physical dependence",
+      "Rebound effect",
+      "Pharmacogenetic variation",
+      "Reduced renal elimination",
+      "Tolerance"
+    ],
+    "answer": "Reduced renal elimination",
+    "explanation": "Impaired kidney function can raise exposure to a predominantly renally eliminated drug.",
+    "distractorExplanations": {
+      "Reduced renal elimination": "Impaired kidney function can raise exposure to a predominantly renally eliminated drug.",
+      "Tolerance": "A reduced response after repeated exposure may require more drug for the previous effect; it is not synonymous with addiction. This does not best answer the specific question in this case.",
+      "Physical dependence": "Physiological adaptation can produce withdrawal when drug exposure is abruptly reduced. This does not best answer the specific question in this case.",
+      "Rebound effect": "Symptoms can temporarily exceed baseline after withdrawal of a suppressive treatment. This does not best answer the specific question in this case.",
+      "Pharmacogenetic variation": "Inherited differences in drug metabolism or targets can alter efficacy and toxicity. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=E80R3vE25tg"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-pharmacology-foundations-E80R3vE25tg-5",
+    "lectureId": "E80R3vE25tg",
+    "title": "Patient factors and drug response: 5",
+    "prompt": "Two otherwise similar patients metabolize the same drug at very different rates. Testing identifies an inherited enzyme variant in one patient. Which patient factor best explains the difference in drug exposure and response?",
+    "options": [
+      "Rebound effect",
+      "Reduced renal elimination",
+      "Pharmacogenetic variation",
+      "Tolerance",
+      "Physical dependence"
+    ],
+    "answer": "Pharmacogenetic variation",
+    "explanation": "Inherited differences in drug metabolism or targets can alter efficacy and toxicity.",
+    "distractorExplanations": {
+      "Pharmacogenetic variation": "Inherited differences in drug metabolism or targets can alter efficacy and toxicity.",
+      "Tolerance": "A reduced response after repeated exposure may require more drug for the previous effect; it is not synonymous with addiction. This does not best answer the specific question in this case.",
+      "Physical dependence": "Physiological adaptation can produce withdrawal when drug exposure is abruptly reduced. This does not best answer the specific question in this case.",
+      "Rebound effect": "Symptoms can temporarily exceed baseline after withdrawal of a suppressive treatment. This does not best answer the specific question in this case.",
+      "Reduced renal elimination": "Impaired kidney function can raise exposure to a predominantly renally eliminated drug. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=E80R3vE25tg"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-pharmacology-foundations-AMJdEW9CxhA-1",
+    "lectureId": "AMJdEW9CxhA",
+    "title": "Drug properties affecting response: 1",
+    "prompt": "Two medicines have similar target affinity but differ markedly in passage across lipid membranes. One reaches the CNS more readily because of its physicochemical properties. Which drug characteristic most directly contributes to this difference?",
+    "options": [
+      "Lipid solubility and membrane passage",
+      "Molecular size limiting passive membrane passage",
+      "Formulation-dependent release",
+      "Additive pharmacodynamic effects",
+      "Complex formation reducing absorption"
+    ],
+    "answer": "Lipid solubility and membrane passage",
+    "explanation": "Physicochemical properties influence membrane penetration, distribution and sometimes CNS entry.",
+    "distractorExplanations": {
+      "Lipid solubility and membrane passage": "Physicochemical properties influence membrane penetration, distribution and sometimes CNS entry.",
+      "Molecular size limiting passive membrane passage": "Large molecules often cross lipid membranes poorly without specialized transport or delivery. This does not best answer the specific question in this case.",
+      "Formulation-dependent release": "Immediate- and modified-release products can have different concentration-time profiles despite containing the same drug. This does not best answer the specific question in this case.",
+      "Additive pharmacodynamic effects": "Two medicines with similar physiological actions can increase the combined effect or toxicity. This does not best answer the specific question in this case.",
+      "Complex formation reducing absorption": "Binding of some medicines to polyvalent cations can reduce gastrointestinal absorption. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=AMJdEW9CxhA"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-pharmacology-foundations-AMJdEW9CxhA-2",
+    "lectureId": "AMJdEW9CxhA",
+    "title": "Drug properties affecting response: 2",
+    "prompt": "A large therapeutic protein has poor passive intestinal membrane absorption compared with many small molecules. Which physical characteristic helps explain why simply placing it in an ordinary oral tablet may not provide reliable systemic exposure?",
+    "options": [
+      "Lipid solubility and membrane passage",
+      "Formulation-dependent release",
+      "Additive pharmacodynamic effects",
+      "Complex formation reducing absorption",
+      "Molecular size limiting passive membrane passage"
+    ],
+    "answer": "Molecular size limiting passive membrane passage",
+    "explanation": "Large molecules often cross lipid membranes poorly without specialized transport or delivery.",
+    "distractorExplanations": {
+      "Molecular size limiting passive membrane passage": "Large molecules often cross lipid membranes poorly without specialized transport or delivery.",
+      "Lipid solubility and membrane passage": "Physicochemical properties influence membrane penetration, distribution and sometimes CNS entry. This does not best answer the specific question in this case.",
+      "Formulation-dependent release": "Immediate- and modified-release products can have different concentration-time profiles despite containing the same drug. This does not best answer the specific question in this case.",
+      "Additive pharmacodynamic effects": "Two medicines with similar physiological actions can increase the combined effect or toxicity. This does not best answer the specific question in this case.",
+      "Complex formation reducing absorption": "Binding of some medicines to polyvalent cations can reduce gastrointestinal absorption. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=AMJdEW9CxhA"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-pharmacology-foundations-AMJdEW9CxhA-3",
+    "lectureId": "AMJdEW9CxhA",
+    "title": "Drug properties affecting response: 3",
+    "prompt": "A patient switches from an immediate-release tablet to a modified-release product containing the same active ingredient. Peak timing and duration change. Which property best explains the altered concentration-time profile without changing the molecular target?",
+    "options": [
+      "Molecular size limiting passive membrane passage",
+      "Additive pharmacodynamic effects",
+      "Complex formation reducing absorption",
+      "Formulation-dependent release",
+      "Lipid solubility and membrane passage"
+    ],
+    "answer": "Formulation-dependent release",
+    "explanation": "Immediate- and modified-release products can have different concentration-time profiles despite containing the same drug.",
+    "distractorExplanations": {
+      "Formulation-dependent release": "Immediate- and modified-release products can have different concentration-time profiles despite containing the same drug.",
+      "Lipid solubility and membrane passage": "Physicochemical properties influence membrane penetration, distribution and sometimes CNS entry. This does not best answer the specific question in this case.",
+      "Molecular size limiting passive membrane passage": "Large molecules often cross lipid membranes poorly without specialized transport or delivery. This does not best answer the specific question in this case.",
+      "Additive pharmacodynamic effects": "Two medicines with similar physiological actions can increase the combined effect or toxicity. This does not best answer the specific question in this case.",
+      "Complex formation reducing absorption": "Binding of some medicines to polyvalent cations can reduce gastrointestinal absorption. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=AMJdEW9CxhA"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-pharmacology-foundations-AMJdEW9CxhA-4",
+    "lectureId": "AMJdEW9CxhA",
+    "title": "Drug properties affecting response: 4",
+    "prompt": "A patient taking one sedating medicine becomes excessively drowsy after another sedative is added. Neither drug’s plasma concentration has substantially changed. Which interaction best describes the combined physiological effect in this case?",
+    "options": [
+      "Formulation-dependent release",
+      "Complex formation reducing absorption",
+      "Additive pharmacodynamic effects",
+      "Lipid solubility and membrane passage",
+      "Molecular size limiting passive membrane passage"
+    ],
+    "answer": "Additive pharmacodynamic effects",
+    "explanation": "Two medicines with similar physiological actions can increase the combined effect or toxicity.",
+    "distractorExplanations": {
+      "Additive pharmacodynamic effects": "Two medicines with similar physiological actions can increase the combined effect or toxicity.",
+      "Lipid solubility and membrane passage": "Physicochemical properties influence membrane penetration, distribution and sometimes CNS entry. This does not best answer the specific question in this case.",
+      "Molecular size limiting passive membrane passage": "Large molecules often cross lipid membranes poorly without specialized transport or delivery. This does not best answer the specific question in this case.",
+      "Formulation-dependent release": "Immediate- and modified-release products can have different concentration-time profiles despite containing the same drug. This does not best answer the specific question in this case.",
+      "Complex formation reducing absorption": "Binding of some medicines to polyvalent cations can reduce gastrointestinal absorption. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=AMJdEW9CxhA"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-pharmacology-foundations-AMJdEW9CxhA-5",
+    "lectureId": "AMJdEW9CxhA",
+    "title": "Drug properties affecting response: 5",
+    "prompt": "A patient takes an oral antibiotic with an iron supplement, forming poorly absorbed complexes in the bowel. Which drug-interaction mechanism explains reduced exposure without requiring a change in liver metabolism or renal elimination?",
+    "options": [
+      "Additive pharmacodynamic effects",
+      "Complex formation reducing absorption",
+      "Lipid solubility and membrane passage",
+      "Molecular size limiting passive membrane passage",
+      "Formulation-dependent release"
+    ],
+    "answer": "Complex formation reducing absorption",
+    "explanation": "Binding of some medicines to polyvalent cations can reduce gastrointestinal absorption.",
+    "distractorExplanations": {
+      "Complex formation reducing absorption": "Binding of some medicines to polyvalent cations can reduce gastrointestinal absorption.",
+      "Lipid solubility and membrane passage": "Physicochemical properties influence membrane penetration, distribution and sometimes CNS entry. This does not best answer the specific question in this case.",
+      "Molecular size limiting passive membrane passage": "Large molecules often cross lipid membranes poorly without specialized transport or delivery. This does not best answer the specific question in this case.",
+      "Formulation-dependent release": "Immediate- and modified-release products can have different concentration-time profiles despite containing the same drug. This does not best answer the specific question in this case.",
+      "Additive pharmacodynamic effects": "Two medicines with similar physiological actions can increase the combined effect or toxicity. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=AMJdEW9CxhA"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-pharmacology-foundations-_m5Il0SK40g-1",
+    "lectureId": "_m5Il0SK40g",
+    "title": "Administration routes: 1",
+    "prompt": "A medicine is delivered directly into a vein, so no absorption barrier separates administration from systemic circulation. Which route provides complete systemic bioavailability by definition, unlike routes that require absorption from a separate site?",
+    "options": [
+      "Intravenous administration",
+      "Oral administration",
+      "Sublingual administration",
+      "Inhaled administration",
+      "Transdermal administration"
+    ],
+    "answer": "Intravenous administration",
+    "explanation": "IV dosing delivers drug directly into systemic circulation with complete bioavailability.",
+    "distractorExplanations": {
+      "Intravenous administration": "IV dosing delivers drug directly into systemic circulation with complete bioavailability.",
+      "Oral administration": "Oral drugs require gastrointestinal absorption and may undergo first-pass metabolism. This does not best answer the specific question in this case.",
+      "Sublingual administration": "Absorption through sublingual mucosa can provide rapid systemic delivery while initially bypassing portal first-pass metabolism. This does not best answer the specific question in this case.",
+      "Inhaled administration": "Inhalation can target airways and reduce the dose required for a local pulmonary effect. This does not best answer the specific question in this case.",
+      "Transdermal administration": "Transdermal delivery can provide sustained systemic exposure; absorption depends on formulation and skin factors. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=_m5Il0SK40g"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-pharmacology-foundations-_m5Il0SK40g-2",
+    "lectureId": "_m5Il0SK40g",
+    "title": "Administration routes: 2",
+    "prompt": "A swallowed medicine is absorbed through the gastrointestinal tract and passes through portal circulation before reaching the systemic blood. Which administration route exposes the drug to these absorption and first-pass processes in this sequence?",
+    "options": [
+      "Intravenous administration",
+      "Sublingual administration",
+      "Inhaled administration",
+      "Transdermal administration",
+      "Oral administration"
+    ],
+    "answer": "Oral administration",
+    "explanation": "Oral drugs require gastrointestinal absorption and may undergo first-pass metabolism.",
+    "distractorExplanations": {
+      "Oral administration": "Oral drugs require gastrointestinal absorption and may undergo first-pass metabolism.",
+      "Intravenous administration": "IV dosing delivers drug directly into systemic circulation with complete bioavailability. This does not best answer the specific question in this case.",
+      "Sublingual administration": "Absorption through sublingual mucosa can provide rapid systemic delivery while initially bypassing portal first-pass metabolism. This does not best answer the specific question in this case.",
+      "Inhaled administration": "Inhalation can target airways and reduce the dose required for a local pulmonary effect. This does not best answer the specific question in this case.",
+      "Transdermal administration": "Transdermal delivery can provide sustained systemic exposure; absorption depends on formulation and skin factors. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=_m5Il0SK40g"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-pharmacology-foundations-_m5Il0SK40g-3",
+    "lectureId": "_m5Il0SK40g",
+    "title": "Administration routes: 3",
+    "prompt": "A medicine is placed under the tongue for rapid absorption through oral mucosa. The absorbed portion initially avoids the portal route associated with swallowing. Which administration route best describes this delivery method?",
+    "options": [
+      "Oral administration",
+      "Inhaled administration",
+      "Transdermal administration",
+      "Sublingual administration",
+      "Intravenous administration"
+    ],
+    "answer": "Sublingual administration",
+    "explanation": "Absorption through sublingual mucosa can provide rapid systemic delivery while initially bypassing portal first-pass metabolism.",
+    "distractorExplanations": {
+      "Sublingual administration": "Absorption through sublingual mucosa can provide rapid systemic delivery while initially bypassing portal first-pass metabolism.",
+      "Intravenous administration": "IV dosing delivers drug directly into systemic circulation with complete bioavailability. This does not best answer the specific question in this case.",
+      "Oral administration": "Oral drugs require gastrointestinal absorption and may undergo first-pass metabolism. This does not best answer the specific question in this case.",
+      "Inhaled administration": "Inhalation can target airways and reduce the dose required for a local pulmonary effect. This does not best answer the specific question in this case.",
+      "Transdermal administration": "Transdermal delivery can provide sustained systemic exposure; absorption depends on formulation and skin factors. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=_m5Il0SK40g"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-pharmacology-foundations-_m5Il0SK40g-4",
+    "lectureId": "_m5Il0SK40g",
+    "title": "Administration routes: 4",
+    "prompt": "A bronchodilator is delivered to the airways using an appropriate device and technique. The aim is a local pulmonary effect with a relatively small dose. Which administration route best matches this therapeutic approach?",
+    "options": [
+      "Sublingual administration",
+      "Transdermal administration",
+      "Inhaled administration",
+      "Intravenous administration",
+      "Oral administration"
+    ],
+    "answer": "Inhaled administration",
+    "explanation": "Inhalation can target airways and reduce the dose required for a local pulmonary effect.",
+    "distractorExplanations": {
+      "Inhaled administration": "Inhalation can target airways and reduce the dose required for a local pulmonary effect.",
+      "Intravenous administration": "IV dosing delivers drug directly into systemic circulation with complete bioavailability. This does not best answer the specific question in this case.",
+      "Oral administration": "Oral drugs require gastrointestinal absorption and may undergo first-pass metabolism. This does not best answer the specific question in this case.",
+      "Sublingual administration": "Absorption through sublingual mucosa can provide rapid systemic delivery while initially bypassing portal first-pass metabolism. This does not best answer the specific question in this case.",
+      "Transdermal administration": "Transdermal delivery can provide sustained systemic exposure; absorption depends on formulation and skin factors. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=_m5Il0SK40g"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-pharmacology-foundations-_m5Il0SK40g-5",
+    "lectureId": "_m5Il0SK40g",
+    "title": "Administration routes: 5",
+    "prompt": "A patient uses a patch designed to deliver medication slowly through intact skin into systemic circulation. Which administration route best describes this sustained delivery method rather than an injection or a local cream?",
+    "options": [
+      "Inhaled administration",
+      "Transdermal administration",
+      "Intravenous administration",
+      "Oral administration",
+      "Sublingual administration"
+    ],
+    "answer": "Transdermal administration",
+    "explanation": "Transdermal delivery can provide sustained systemic exposure; absorption depends on formulation and skin factors.",
+    "distractorExplanations": {
+      "Transdermal administration": "Transdermal delivery can provide sustained systemic exposure; absorption depends on formulation and skin factors.",
+      "Intravenous administration": "IV dosing delivers drug directly into systemic circulation with complete bioavailability. This does not best answer the specific question in this case.",
+      "Oral administration": "Oral drugs require gastrointestinal absorption and may undergo first-pass metabolism. This does not best answer the specific question in this case.",
+      "Sublingual administration": "Absorption through sublingual mucosa can provide rapid systemic delivery while initially bypassing portal first-pass metabolism. This does not best answer the specific question in this case.",
+      "Inhaled administration": "Inhalation can target airways and reduce the dose required for a local pulmonary effect. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=_m5Il0SK40g"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-pharmacology-foundations-6ryC99g9leI-1",
+    "lectureId": "6ryC99g9leI",
+    "title": "CNS pharmacology foundations: 1",
+    "prompt": "A patient receives a medicine that strengthens inhibitory neurotransmission and reduces neuronal excitability. Sedation and anticonvulsant effects are expected consequences. Which broad CNS mechanism best connects these effects in this introductory pharmacology example?",
+    "options": [
+      "Additive CNS depression",
+      "Enhanced inhibitory GABA signaling",
+      "Dopamine receptor blockade",
+      "Mu-opioid receptor activation",
+      "Blood-brain barrier penetration"
+    ],
+    "answer": "Enhanced inhibitory GABA signaling",
+    "explanation": "Increasing GABA-mediated inhibition can produce sedation and anticonvulsant effects.",
+    "distractorExplanations": {
+      "Enhanced inhibitory GABA signaling": "Increasing GABA-mediated inhibition can produce sedation and anticonvulsant effects.",
+      "Dopamine receptor blockade": "Dopamine antagonism can reduce some psychotic symptoms but also affect movement and prolactin. This does not best answer the specific question in this case.",
+      "Mu-opioid receptor activation": "Mu-receptor activation contributes to analgesia, respiratory depression and dependence. This does not best answer the specific question in this case.",
+      "Blood-brain barrier penetration": "A CNS medicine must reach its central target; physicochemical and transport properties affect access. This does not best answer the specific question in this case.",
+      "Additive CNS depression": "Combining sedating agents can impair alertness and breathing more than expected from one drug alone. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=6ryC99g9leI"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-pharmacology-foundations-6ryC99g9leI-2",
+    "lectureId": "6ryC99g9leI",
+    "title": "CNS pharmacology foundations: 2",
+    "prompt": "An antipsychotic improves positive psychotic symptoms but produces rigidity and prolactin elevation. Which broad receptor mechanism can account for both therapeutic and adverse effects across different neural pathways in this patient?",
+    "options": [
+      "Dopamine receptor blockade",
+      "Enhanced inhibitory GABA signaling",
+      "Mu-opioid receptor activation",
+      "Blood-brain barrier penetration",
+      "Additive CNS depression"
+    ],
+    "answer": "Dopamine receptor blockade",
+    "explanation": "Dopamine antagonism can reduce some psychotic symptoms but also affect movement and prolactin.",
+    "distractorExplanations": {
+      "Dopamine receptor blockade": "Dopamine antagonism can reduce some psychotic symptoms but also affect movement and prolactin.",
+      "Enhanced inhibitory GABA signaling": "Increasing GABA-mediated inhibition can produce sedation and anticonvulsant effects. This does not best answer the specific question in this case.",
+      "Mu-opioid receptor activation": "Mu-receptor activation contributes to analgesia, respiratory depression and dependence. This does not best answer the specific question in this case.",
+      "Blood-brain barrier penetration": "A CNS medicine must reach its central target; physicochemical and transport properties affect access. This does not best answer the specific question in this case.",
+      "Additive CNS depression": "Combining sedating agents can impair alertness and breathing more than expected from one drug alone. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=6ryC99g9leI"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-pharmacology-foundations-6ryC99g9leI-3",
+    "lectureId": "6ryC99g9leI",
+    "title": "CNS pharmacology foundations: 3",
+    "prompt": "An analgesic reduces severe pain but also slows breathing and can produce physical dependence with repeated exposure. Which receptor mechanism best connects these clinically important effects of a typical strong opioid medication?",
+    "options": [
+      "Enhanced inhibitory GABA signaling",
+      "Dopamine receptor blockade",
+      "Blood-brain barrier penetration",
+      "Additive CNS depression",
+      "Mu-opioid receptor activation"
+    ],
+    "answer": "Mu-opioid receptor activation",
+    "explanation": "Mu-receptor activation contributes to analgesia, respiratory depression and dependence.",
+    "distractorExplanations": {
+      "Mu-opioid receptor activation": "Mu-receptor activation contributes to analgesia, respiratory depression and dependence.",
+      "Enhanced inhibitory GABA signaling": "Increasing GABA-mediated inhibition can produce sedation and anticonvulsant effects. This does not best answer the specific question in this case.",
+      "Dopamine receptor blockade": "Dopamine antagonism can reduce some psychotic symptoms but also affect movement and prolactin. This does not best answer the specific question in this case.",
+      "Blood-brain barrier penetration": "A CNS medicine must reach its central target; physicochemical and transport properties affect access. This does not best answer the specific question in this case.",
+      "Additive CNS depression": "Combining sedating agents can impair alertness and breathing more than expected from one drug alone. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=6ryC99g9leI"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-pharmacology-foundations-6ryC99g9leI-4",
+    "lectureId": "6ryC99g9leI",
+    "title": "CNS pharmacology foundations: 4",
+    "prompt": "A compound has strong activity at a brain receptor in a laboratory but produces little central effect after systemic dosing because it reaches the brain poorly. Which delivery issue must be considered before judging target efficacy?",
+    "options": [
+      "Dopamine receptor blockade",
+      "Mu-opioid receptor activation",
+      "Additive CNS depression",
+      "Blood-brain barrier penetration",
+      "Enhanced inhibitory GABA signaling"
+    ],
+    "answer": "Blood-brain barrier penetration",
+    "explanation": "A CNS medicine must reach its central target; physicochemical and transport properties affect access.",
+    "distractorExplanations": {
+      "Blood-brain barrier penetration": "A CNS medicine must reach its central target; physicochemical and transport properties affect access.",
+      "Enhanced inhibitory GABA signaling": "Increasing GABA-mediated inhibition can produce sedation and anticonvulsant effects. This does not best answer the specific question in this case.",
+      "Dopamine receptor blockade": "Dopamine antagonism can reduce some psychotic symptoms but also affect movement and prolactin. This does not best answer the specific question in this case.",
+      "Mu-opioid receptor activation": "Mu-receptor activation contributes to analgesia, respiratory depression and dependence. This does not best answer the specific question in this case.",
+      "Additive CNS depression": "Combining sedating agents can impair alertness and breathing more than expected from one drug alone. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=6ryC99g9leI"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-pharmacology-foundations-6ryC99g9leI-5",
+    "lectureId": "6ryC99g9leI",
+    "title": "CNS pharmacology foundations: 5",
+    "prompt": "A patient combines several centrally sedating medicines and becomes much less alert than expected. Which pharmacodynamic principle explains why reviewing the entire medication list matters even when each individual prescription appears familiar?",
+    "options": [
+      "Mu-opioid receptor activation",
+      "Blood-brain barrier penetration",
+      "Additive CNS depression",
+      "Enhanced inhibitory GABA signaling",
+      "Dopamine receptor blockade"
+    ],
+    "answer": "Additive CNS depression",
+    "explanation": "Combining sedating agents can impair alertness and breathing more than expected from one drug alone.",
+    "distractorExplanations": {
+      "Additive CNS depression": "Combining sedating agents can impair alertness and breathing more than expected from one drug alone.",
+      "Enhanced inhibitory GABA signaling": "Increasing GABA-mediated inhibition can produce sedation and anticonvulsant effects. This does not best answer the specific question in this case.",
+      "Dopamine receptor blockade": "Dopamine antagonism can reduce some psychotic symptoms but also affect movement and prolactin. This does not best answer the specific question in this case.",
+      "Mu-opioid receptor activation": "Mu-receptor activation contributes to analgesia, respiratory depression and dependence. This does not best answer the specific question in this case.",
+      "Blood-brain barrier penetration": "A CNS medicine must reach its central target; physicochemical and transport properties affect access. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=6ryC99g9leI"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  }
+]

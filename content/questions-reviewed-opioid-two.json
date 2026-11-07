@@ -1,0 +1,292 @@
+[
+  {
+    "id": "reviewed-opioid-tramadol-1",
+    "lectureId": "WMV-SJtw68s",
+    "category": "Pharmacology",
+    "title": "A serotonergic interaction",
+    "prompt": "A 39-year-old woman taking sertraline begins tramadol for pain. Two days later she develops agitation, sweating, diarrhea, fever, hyperreflexia, and inducible ankle clonus. There is no dopamine-blocking medication exposure. Which drug action most directly contributes to this syndrome?",
+    "answer": "Inhibition of serotonin reuptake",
+    "options": [
+      "Blockade of dopamine D2 receptors",
+      "Blockade of muscarinic receptors",
+      "Inhibition of acetylcholinesterase",
+      "Irreversible inhibition of cyclooxygenase",
+      "Inhibition of serotonin reuptake"
+    ],
+    "explanation": "Tramadol has serotonergic activity; combining it with an SSRI can cause serotonin toxicity.",
+    "distractorExplanations": {
+      "Inhibition of serotonin reuptake": "Tramadol has serotonergic activity; combining it with an SSRI can cause serotonin toxicity.",
+      "Blockade of dopamine D2 receptors": "This would suggest neuroleptic malignant syndrome, typically with rigidity rather than prominent clonus.",
+      "Blockade of muscarinic receptors": "Antimuscarinic toxicity typically causes dry skin and reduced bowel activity.",
+      "Inhibition of acetylcholinesterase": "This mechanism produces cholinergic excess and is not tramadol’s action.",
+      "Irreversible inhibition of cyclooxygenase": "This explains aspirin effects, not serotonin toxicity."
+    },
+    "references": [
+      {
+        "title": "DailyMed — tramadol prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=54d74939-301b-e603-e063-6394a90a3b03"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-tramadol-2",
+    "lectureId": "WMV-SJtw68s",
+    "category": "Pharmacology",
+    "title": "Unexpected opioid toxicity",
+    "prompt": "A 26-year-old adult becomes profoundly sleepy with a respiratory rate of 7/min after prescribed tramadol doses. Emergency ventilatory support is started. Testing later identifies multiple functional copies of CYP2D6. Which finding best explains the unexpectedly strong opioid effect?",
+    "answer": "Rapid formation of the active M1 metabolite",
+    "options": [
+      "Accelerated renal removal of M1",
+      "Blockade of mu receptors by tramadol",
+      "Reduced absorption of the administered dose",
+      "Rapid formation of the active M1 metabolite",
+      "Failure to form any active metabolite"
+    ],
+    "explanation": "CYP2D6 ultrarapid metabolism can increase active-metabolite exposure and respiratory toxicity.",
+    "distractorExplanations": {
+      "Rapid formation of the active M1 metabolite": "CYP2D6 ultrarapid metabolism can increase active-metabolite exposure and respiratory toxicity.",
+      "Failure to form any active metabolite": "This does not explain enhanced metabolite-mediated opioid effects.",
+      "Accelerated renal removal of M1": "More rapid removal would reduce exposure.",
+      "Blockade of mu receptors by tramadol": "Opioid antagonism would not explain this toxidrome.",
+      "Reduced absorption of the administered dose": "Reduced absorption would generally lower exposure."
+    },
+    "references": [
+      {
+        "title": "DailyMed — tramadol prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=54d74939-301b-e603-e063-6394a90a3b03"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-tramadol-3",
+    "lectureId": "WMV-SJtw68s",
+    "category": "Pharmacology",
+    "title": "Seizure risk during analgesic selection",
+    "prompt": "A 47-year-old man with epilepsy and a recent breakthrough seizure needs treatment for persistent pain. His clinician considers tramadol but reviews its neurologic adverse effects before prescribing. Which concern is especially relevant to this patient’s history?",
+    "answer": "Tramadol can provoke seizures",
+    "options": [
+      "Tramadol selectively abolishes absence seizures",
+      "Tramadol causes seizures only after years of use",
+      "Tramadol can provoke seizures",
+      "Tramadol reliably protects against focal seizures",
+      "Tramadol prevents seizures through dopamine blockade"
+    ],
+    "explanation": "Seizure risk is increased in patients with epilepsy or other seizure predispositions.",
+    "distractorExplanations": {
+      "Tramadol can provoke seizures": "Seizure risk is increased in patients with epilepsy or other seizure predispositions.",
+      "Tramadol reliably protects against focal seizures": "It is not an antiseizure medication.",
+      "Tramadol prevents seizures through dopamine blockade": "Dopamine blockade is not its therapeutic mechanism.",
+      "Tramadol selectively abolishes absence seizures": "This describes neither its indication nor its action.",
+      "Tramadol causes seizures only after years of use": "Seizures are not restricted to long-term exposure."
+    },
+    "references": [
+      {
+        "title": "DailyMed — tramadol prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=54d74939-301b-e603-e063-6394a90a3b03"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-tramadol-4",
+    "lectureId": "WMV-SJtw68s",
+    "category": "Pharmacology",
+    "title": "A pediatric prescribing restriction",
+    "prompt": "An 11-year-old child has pain after a fracture. During medication reconciliation, the pharmacist sees a proposed tramadol prescription. The child has normal renal function and no medication allergies. Which feature independently makes tramadol contraindicated under US labeling?",
+    "answer": "Age younger than 12 years",
+    "options": [
+      "No previous opioid exposure",
+      "Age younger than 12 years",
+      "Normal renal function",
+      "Absence of drug allergies",
+      "A fracture as the source of pain"
+    ],
+    "explanation": "US tramadol labeling contraindicates use below age 12.",
+    "distractorExplanations": {
+      "Age younger than 12 years": "US tramadol labeling contraindicates use below age 12.",
+      "Normal renal function": "Normal renal function is not a contraindication.",
+      "Absence of drug allergies": "A negative allergy history is not a contraindication.",
+      "A fracture as the source of pain": "The injury itself is not the age-based contraindication being tested.",
+      "No previous opioid exposure": "The specific absolute restriction here is age; opioid-naive adults are not universally excluded."
+    },
+    "references": [
+      {
+        "title": "DailyMed — tramadol prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=54d74939-301b-e603-e063-6394a90a3b03"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-tramadol-5",
+    "lectureId": "WMV-SJtw68s",
+    "category": "Pharmacology",
+    "title": "Contrasting analgesic mechanisms",
+    "prompt": "A medical student compares tramadol with a conventional pure mu-opioid agonist. Both can produce opioid adverse effects, but tramadol has an additional monoaminergic action relevant to analgesia and drug interactions. Which paired action correctly describes that additional mechanism?",
+    "answer": "Reduced reuptake of serotonin and norepinephrine",
+    "options": [
+      "Reduced reuptake of serotonin and norepinephrine",
+      "Increased reuptake of serotonin and norepinephrine",
+      "Blockade of serotonin synthesis and dopamine synthesis",
+      "Direct activation of GABA-A and GABA-B receptors",
+      "Inhibition of histamine degradation and acetylcholine release"
+    ],
+    "explanation": "Tramadol also inhibits serotonin and norepinephrine reuptake.",
+    "distractorExplanations": {
+      "Reduced reuptake of serotonin and norepinephrine": "Tramadol also inhibits serotonin and norepinephrine reuptake.",
+      "Increased reuptake of serotonin and norepinephrine": "This reverses the monoaminergic action.",
+      "Blockade of serotonin synthesis and dopamine synthesis": "This is not its analgesic mechanism.",
+      "Direct activation of GABA-A and GABA-B receptors": "These are not its characteristic monoaminergic targets.",
+      "Inhibition of histamine degradation and acetylcholine release": "This does not describe tramadol’s additional analgesic action."
+    },
+    "references": [
+      {
+        "title": "DailyMed — tramadol prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=54d74939-301b-e603-e063-6394a90a3b03"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-buprenorphine-1",
+    "lectureId": "nHYvCKW33TA",
+    "category": "Pharmacology",
+    "title": "Withdrawal immediately after induction",
+    "prompt": "A 32-year-old man dependent on a full opioid agonist takes buprenorphine before developing withdrawal from his previous opioid. Soon afterward he develops yawning, piloerection, abdominal cramping, and diarrhea. Which receptor property best explains this abrupt deterioration?",
+    "answer": "High-affinity mu-receptor binding with partial agonist activity",
+    "options": [
+      "Full mu-receptor agonism with greater intrinsic activity",
+      "Irreversible destruction of mu receptors",
+      "Selective activation of peripheral muscarinic receptors",
+      "Increased metabolism of the prior opioid through enzyme induction",
+      "High-affinity mu-receptor binding with partial agonist activity"
+    ],
+    "explanation": "Replacing a full agonist with buprenorphine can abruptly reduce receptor activation and precipitate withdrawal.",
+    "distractorExplanations": {
+      "High-affinity mu-receptor binding with partial agonist activity": "Replacing a full agonist with buprenorphine can abruptly reduce receptor activation and precipitate withdrawal.",
+      "Full mu-receptor agonism with greater intrinsic activity": "Greater agonist activation would not explain this abrupt withdrawal.",
+      "Irreversible destruction of mu receptors": "Buprenorphine does not destroy opioid receptors.",
+      "Selective activation of peripheral muscarinic receptors": "This does not explain the opioid-dependent induction setting.",
+      "Increased metabolism of the prior opioid through enzyme induction": "The immediate onset is better explained by receptor displacement."
+    },
+    "references": [
+      {
+        "title": "DailyMed — buprenorphine prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fe023dbf-e165-4b7f-a211-bd14696f1e2c"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-buprenorphine-2",
+    "lectureId": "nHYvCKW33TA",
+    "category": "Pharmacology",
+    "title": "Risk from a sedative combination",
+    "prompt": "A 45-year-old woman receiving buprenorphine for opioid use disorder takes nonprescribed alprazolam and becomes difficult to awaken with slow breathing. Her respiratory rate is 8/min, and assisted ventilation is initiated. Which interpretation of this event is most accurate?",
+    "answer": "Buprenorphine can cause serious respiratory depression, especially with CNS depressants",
+    "options": [
+      "Alprazolam acts as an opioid antagonist",
+      "The combination reliably protects against sedation",
+      "Buprenorphine’s only respiratory effect is hyperventilation",
+      "Buprenorphine can cause serious respiratory depression, especially with CNS depressants",
+      "Partial agonism makes opioid respiratory depression impossible"
+    ],
+    "explanation": "Partial agonism does not eliminate respiratory risk, and benzodiazepines increase that risk.",
+    "distractorExplanations": {
+      "Buprenorphine can cause serious respiratory depression, especially with CNS depressants": "Partial agonism does not eliminate respiratory risk, and benzodiazepines increase that risk.",
+      "Partial agonism makes opioid respiratory depression impossible": "This is a dangerous misconception; serious respiratory depression can occur.",
+      "Alprazolam acts as an opioid antagonist": "It is a benzodiazepine, not an opioid antagonist.",
+      "The combination reliably protects against sedation": "The drugs can instead have additive depressant effects.",
+      "Buprenorphine’s only respiratory effect is hyperventilation": "This contradicts the recognized opioid respiratory toxicity."
+    },
+    "references": [
+      {
+        "title": "DailyMed — buprenorphine prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fe023dbf-e165-4b7f-a211-bd14696f1e2c"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-buprenorphine-3",
+    "lectureId": "nHYvCKW33TA",
+    "category": "Pharmacology",
+    "title": "The antagonist in a combination product",
+    "prompt": "A patient asks why an opioid antagonist is included in buprenorphine/naloxone sublingual treatment. The clinician explains that route of administration matters. In a person dependent on a full opioid agonist, which effect is associated with parenteral misuse of this combination?",
+    "answer": "Naloxone can precipitate opioid withdrawal",
+    "options": [
+      "Naloxone prevents all possible misuse by every route",
+      "Naloxone irreversibly inhibits CYP3A4",
+      "Naloxone can precipitate opioid withdrawal",
+      "Naloxone increases mu-receptor intrinsic activity",
+      "Naloxone converts buprenorphine into a full agonist"
+    ],
+    "explanation": "Parenteral naloxone can antagonize opioid receptors and provoke withdrawal.",
+    "distractorExplanations": {
+      "Naloxone can precipitate opioid withdrawal": "Parenteral naloxone can antagonize opioid receptors and provoke withdrawal.",
+      "Naloxone increases mu-receptor intrinsic activity": "Naloxone is an antagonist rather than an agonist enhancer.",
+      "Naloxone converts buprenorphine into a full agonist": "It does not change buprenorphine’s intrinsic activity.",
+      "Naloxone prevents all possible misuse by every route": "The combination does not eliminate every form of misuse.",
+      "Naloxone irreversibly inhibits CYP3A4": "Its relevant action is receptor antagonism, not this metabolic effect."
+    },
+    "references": [
+      {
+        "title": "DailyMed — buprenorphine prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fe023dbf-e165-4b7f-a211-bd14696f1e2c"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-buprenorphine-4",
+    "lectureId": "nHYvCKW33TA",
+    "category": "Pharmacology",
+    "title": "Responding to respiratory toxicity",
+    "prompt": "An adult with suspected buprenorphine overdose has marked hypoventilation. Emergency personnel provide assisted ventilation. A trainee states that an opioid reversal agent can never help because buprenorphine binds receptors strongly. Which response best corrects that statement?",
+    "answer": "Naloxone may help, but repeated or higher doses can be necessary",
+    "options": [
+      "Assume a single ineffective dose proves there is no opioid toxicity",
+      "Naloxone may help, but repeated or higher doses can be necessary",
+      "Stop ventilation while awaiting spontaneous drug clearance",
+      "Use flumazenil as the specific buprenorphine antagonist",
+      "Give a full opioid agonist to displace buprenorphine"
+    ],
+    "explanation": "Ventilatory support is essential; reversal may require repeated or higher doses.",
+    "distractorExplanations": {
+      "Naloxone may help, but repeated or higher doses can be necessary": "Ventilatory support is essential; reversal may require repeated or higher doses.",
+      "Stop ventilation while awaiting spontaneous drug clearance": "Airway and ventilatory support must not be withheld.",
+      "Use flumazenil as the specific buprenorphine antagonist": "Flumazenil targets benzodiazepine effects, not opioid receptors.",
+      "Give a full opioid agonist to displace buprenorphine": "This is not appropriate reversal therapy and can worsen toxicity.",
+      "Assume a single ineffective dose proves there is no opioid toxicity": "Limited response to one dose does not exclude buprenorphine toxicity."
+    },
+    "references": [
+      {
+        "title": "DailyMed — buprenorphine prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fe023dbf-e165-4b7f-a211-bd14696f1e2c"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-buprenorphine-5",
+    "lectureId": "nHYvCKW33TA",
+    "category": "Pharmacology",
+    "title": "Symptoms after an unplanned interruption",
+    "prompt": "A 38-year-old woman stable on buprenorphine treatment abruptly stops taking it. She later develops sweating, abdominal cramps, and restlessness. There is no fever or recent infectious exposure. Which pharmacologic principle best explains this presentation?",
+    "answer": "Chronic partial agonist exposure can produce physical dependence",
+    "options": [
+      "Chronic partial agonist exposure can produce physical dependence",
+      "Partial agonists never produce physical dependence",
+      "Withdrawal proves that prescribed treatment was ineffective",
+      "Physical dependence is identical to compulsive drug use",
+      "Abrupt cessation increases continuing mu-receptor activation"
+    ],
+    "explanation": "Buprenorphine can produce dependence and withdrawal after abrupt cessation.",
+    "distractorExplanations": {
+      "Chronic partial agonist exposure can produce physical dependence": "Buprenorphine can produce dependence and withdrawal after abrupt cessation.",
+      "Partial agonists never produce physical dependence": "Partial agonist activity does not rule out dependence.",
+      "Withdrawal proves that prescribed treatment was ineffective": "Withdrawal reflects adaptation, not necessarily failure of treatment.",
+      "Physical dependence is identical to compulsive drug use": "Dependence and the behavioral disorder of addiction are distinct concepts.",
+      "Abrupt cessation increases continuing mu-receptor activation": "Stopping exposure reduces, rather than increases, ongoing agonist activation."
+    },
+    "references": [
+      {
+        "title": "DailyMed — buprenorphine prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fe023dbf-e165-4b7f-a211-bd14696f1e2c"
+      }
+    ]
+  }
+]

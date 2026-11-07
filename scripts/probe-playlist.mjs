@@ -1,0 +1,1 @@
+import fs from 'node:fs';const r=await fetch('https://www.youtube.com/playlist?list=PLllTTKSgGCnkX3-1pudkLqmRD_TnwuF0Y&hl=en',{headers:{'User-Agent':'Mozilla/5.0'}});const h=await r.text();const d=JSON.parse(h.match(/var ytInitialData = (.*?);<\/script>/s)[1]);fs.writeFileSync('playlist-detail-data.json',JSON.stringify(d,null,2));console.log(JSON.stringify(d).slice(0,1500));

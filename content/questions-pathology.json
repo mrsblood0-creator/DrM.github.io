@@ -1,0 +1,727 @@
+[
+  {
+    "id": "path-original-01",
+    "lectureId": "kHhJRk4qxPQ",
+    "category": "Pathology",
+    "prompt": "A kidney biopsy from a patient recovering from a brief episode of hypotension shows enlarged tubular epithelial cells with small clear cytoplasmic vacuoles. Their nuclei and plasma membranes remain intact. Which change most directly explains this early reversible finding?",
+    "options": [
+      "Failure of ATP-dependent ion transport",
+      "Activation of executioner caspases",
+      "Calcium deposition in dead tissue",
+      "Replacement of epithelium by fibroblasts",
+      "Complete lysosomal membrane rupture"
+    ],
+    "answer": "Failure of ATP-dependent ion transport",
+    "explanation": "Reduced ATP impairs ion pumps, allowing intracellular sodium and water accumulation. Swelling with preserved nuclei and membrane integrity is compatible with reversible injury.",
+    "distractorExplanations": {
+      "Failure of ATP-dependent ion transport": "Correct: pump failure causes hydropic swelling.",
+      "Activation of executioner caspases": "Caspases mediate apoptosis, which more typically causes shrinkage and fragmentation.",
+      "Calcium deposition in dead tissue": "Calcification is not the mechanism of acute reversible swelling.",
+      "Replacement of epithelium by fibroblasts": "Fibrosis is a later tissue response, not acute cellular swelling.",
+      "Complete lysosomal membrane rupture": "Severe lysosomal rupture promotes irreversible destruction."
+    },
+    "references": [
+      {
+        "title": "NIEHS — Basic cellular and tissue responses to toxicity",
+        "url": "https://www.niehs.nih.gov/sites/default/files/2026-02/Basic_Path_Responses_long_508.pdf"
+      }
+    ],
+    "title": "Reversible tubular cell injury after hypotension — pathology practice question"
+  },
+  {
+    "id": "path-original-02",
+    "lectureId": "kHhJRk4qxPQ",
+    "category": "Pathology",
+    "prompt": "A patient with profound anemia has normal arterial oxygen tension but develops tissue hypoxia. Which variable most directly accounts for reduced oxygen delivery?",
+    "options": [
+      "Reduced inspired oxygen fraction",
+      "Failure of alveolar diffusion",
+      "Obstruction of every systemic artery",
+      "Increased mitochondrial oxygen production",
+      "Reduced hemoglobin concentration"
+    ],
+    "answer": "Reduced hemoglobin concentration",
+    "explanation": "Oxygen tension reflects dissolved oxygen and may remain normal despite markedly reduced hemoglobin-bound oxygen. Anemia lowers arterial oxygen content.",
+    "distractorExplanations": {
+      "Reduced hemoglobin concentration": "Correct: less hemoglobin reduces oxygen-carrying capacity.",
+      "Reduced inspired oxygen fraction": "Low inspired oxygen typically lowers arterial oxygen tension.",
+      "Failure of alveolar diffusion": "Diffusion failure would commonly impair arterial oxygenation.",
+      "Obstruction of every systemic artery": "Anemia does not imply widespread arterial occlusion.",
+      "Increased mitochondrial oxygen production": "Mitochondria consume oxygen rather than produce it."
+    },
+    "references": [
+      {
+        "title": "NIEHS — Basic cellular and tissue responses to toxicity",
+        "url": "https://www.niehs.nih.gov/sites/default/files/2026-02/Basic_Path_Responses_long_508.pdf"
+      }
+    ],
+    "title": "Tissue oxygen delivery in severe anemia — pathology practice question"
+  },
+  {
+    "id": "path-original-03",
+    "lectureId": "I-_HV25j_9s",
+    "category": "Pathology",
+    "prompt": "Several days after an acute coronary occlusion, myocardial tissue contains intensely eosinophilic cells whose outlines remain recognizable but whose nuclei have disappeared. Which process best explains this pattern?",
+    "options": [
+      "Caseous necrosis",
+      "Metaplasia",
+      "Physiological hyperplasia",
+      "Coagulative necrosis",
+      "Liquefactive necrosis"
+    ],
+    "answer": "Coagulative necrosis",
+    "explanation": "Ischemic death in most solid organs produces coagulative necrosis, with temporary preservation of tissue architecture despite loss of viable cells.",
+    "distractorExplanations": {
+      "Coagulative necrosis": "Correct: preserved outlines after ischemia are characteristic.",
+      "Liquefactive necrosis": "Liquefaction digests and destroys architecture.",
+      "Caseous necrosis": "Caseation is granular necrotic debris in settings such as granulomatous infection.",
+      "Metaplasia": "Metaplasia changes differentiation in viable cells.",
+      "Physiological hyperplasia": "Hyperplasia increases viable cell number."
+    },
+    "references": [
+      {
+        "title": "NIEHS — Basic cellular and tissue responses to toxicity",
+        "url": "https://www.niehs.nih.gov/sites/default/files/2026-02/Basic_Path_Responses_long_508.pdf"
+      }
+    ],
+    "title": "Myocardial tissue after coronary occlusion — pathology practice question"
+  },
+  {
+    "id": "path-original-04",
+    "lectureId": "ARd1AOM8sxk",
+    "category": "Pathology",
+    "prompt": "A patient develops a cerebral infarct. Weeks later, imaging shows a fluid-filled cavity in the affected area. Which tissue process most directly produced the cavity?",
+    "options": [
+      "Calcium binding to pancreatic fatty acids",
+      "Expansion of surviving neurons by mitosis",
+      "Enzymatic digestion of dead tissue",
+      "Preservation of denatured structural proteins",
+      "Replacement by keratinizing squamous epithelium"
+    ],
+    "answer": "Enzymatic digestion of dead tissue",
+    "explanation": "Brain infarction classically undergoes liquefactive necrosis. Enzymatic digestion removes dead tissue and can leave a cystic space.",
+    "distractorExplanations": {
+      "Enzymatic digestion of dead tissue": "Correct: digestion produces liquefaction.",
+      "Preservation of denatured structural proteins": "Preserved architecture characterizes coagulative change rather than the cavity described.",
+      "Replacement by keratinizing squamous epithelium": "Squamous metaplasia does not explain an infarct cavity.",
+      "Calcium binding to pancreatic fatty acids": "Saponification occurs in fat necrosis, not typical cerebral infarction.",
+      "Expansion of surviving neurons by mitosis": "Mature neurons do not restore the infarct by substantial mitotic expansion."
+    },
+    "references": [
+      {
+        "title": "NIEHS — Basic cellular and tissue responses to toxicity",
+        "url": "https://www.niehs.nih.gov/sites/default/files/2026-02/Basic_Path_Responses_long_508.pdf"
+      }
+    ],
+    "title": "Cavity formation after cerebral infarction — pathology practice question"
+  },
+  {
+    "id": "path-original-05",
+    "lectureId": "ARd1AOM8sxk",
+    "category": "Pathology",
+    "prompt": "A pancreatic inflammatory episode is accompanied by chalky white deposits in adjacent adipose tissue. Microscopy shows damaged adipocytes and basophilic deposits. Which chemical interaction explains the deposits?",
+    "options": [
+      "Bilirubin conjugation with glucuronic acid",
+      "Calcium binding to liberated fatty acids",
+      "Iron binding to ferritin",
+      "Oxidized lipids binding to melanin",
+      "Immunoglobulin binding to erythrocytes"
+    ],
+    "answer": "Calcium binding to liberated fatty acids",
+    "explanation": "Pancreatic enzymes release fatty acids from damaged fat. These combine with calcium to form soaps, producing the chalky appearance of enzymatic fat necrosis.",
+    "distractorExplanations": {
+      "Calcium binding to liberated fatty acids": "Correct: saponification forms calcium soaps.",
+      "Iron binding to ferritin": "Ferritin stores iron and does not explain pancreatic fat deposits.",
+      "Oxidized lipids binding to melanin": "Melanin is not the relevant pigment or binding partner.",
+      "Immunoglobulin binding to erythrocytes": "Antibody binding to erythrocytes relates to immune hemolysis.",
+      "Bilirubin conjugation with glucuronic acid": "Bilirubin conjugation occurs in hepatic metabolism."
+    },
+    "references": [
+      {
+        "title": "NIEHS — Basic cellular and tissue responses to toxicity",
+        "url": "https://www.niehs.nih.gov/sites/default/files/2026-02/Basic_Path_Responses_long_508.pdf"
+      }
+    ],
+    "title": "Adipose tissue changes in pancreatitis — pathology practice question"
+  },
+  {
+    "id": "path-original-06",
+    "lectureId": "ARd1AOM8sxk",
+    "category": "Pathology",
+    "prompt": "A lung biopsy contains granulomas with central acellular granular debris. The patient has a prolonged cough and exposure to tuberculosis. Which necrosis pattern is most consistent with the central material?",
+    "options": [
+      "Caseous",
+      "Coagulative",
+      "Fibrinoid",
+      "Traumatic fat",
+      "Apoptotic"
+    ],
+    "answer": "Caseous",
+    "explanation": "Granulomas with granular caseous debris are characteristic of tuberculosis, although etiological confirmation requires appropriate microbiological testing.",
+    "distractorExplanations": {
+      "Caseous": "Correct: caseation is the characteristic morphological pattern.",
+      "Coagulative": "Coagulative necrosis preserves tissue outlines initially.",
+      "Fibrinoid": "Fibrinoid injury primarily describes vessel walls.",
+      "Traumatic fat": "Traumatic fat necrosis affects adipose tissue.",
+      "Apoptotic": "Apoptosis involves individual cell fragmentation rather than a caseous center."
+    },
+    "references": [
+      {
+        "title": "NIEHS — Basic cellular and tissue responses to toxicity",
+        "url": "https://www.niehs.nih.gov/sites/default/files/2026-02/Basic_Path_Responses_long_508.pdf"
+      }
+    ],
+    "title": "Granulomatous lung disease — pathology practice question"
+  },
+  {
+    "id": "path-original-07",
+    "lectureId": "I-_HV25j_9s",
+    "category": "Pathology",
+    "prompt": "After exposure to a DNA-damaging agent, a cell releases cytochrome c from mitochondria and activates caspases. The cell shrinks and forms membrane-bound fragments. Which pathway is operating?",
+    "options": [
+      "Extrinsic death-receptor initiation",
+      "Uncontrolled osmotic lysis",
+      "Coagulative necrosis from vascular occlusion",
+      "Squamous metaplasia",
+      "Intrinsic apoptosis"
+    ],
+    "answer": "Intrinsic apoptosis",
+    "explanation": "Mitochondrial cytochrome-c release identifies the intrinsic apoptotic pathway. Caspases then execute controlled cellular dismantling.",
+    "distractorExplanations": {
+      "Intrinsic apoptosis": "Correct: mitochondrial signaling defines the intrinsic pathway.",
+      "Extrinsic death-receptor initiation": "Extrinsic initiation begins with a cell-surface death receptor.",
+      "Uncontrolled osmotic lysis": "Osmotic lysis causes swelling and membrane disruption.",
+      "Coagulative necrosis from vascular occlusion": "Vascular occlusion is not the mechanism described.",
+      "Squamous metaplasia": "Metaplasia changes cell differentiation rather than causing apoptotic fragmentation."
+    },
+    "references": [
+      {
+        "title": "NIEHS — Basic cellular and tissue responses to toxicity",
+        "url": "https://www.niehs.nih.gov/sites/default/files/2026-02/Basic_Path_Responses_long_508.pdf"
+      }
+    ],
+    "title": "Mitochondrial signaling after DNA damage — pathology practice question"
+  },
+  {
+    "id": "path-original-08",
+    "lectureId": "I-_HV25j_9s",
+    "category": "Pathology",
+    "prompt": "During normal tissue remodeling, individual cells form small membrane-bound fragments that are promptly engulfed. Nearby tissue shows little inflammatory reaction. Which feature most directly limits inflammation?",
+    "options": [
+      "Rupture of the plasma membrane before phagocytosis",
+      "Large-scale deposition of extracellular DNA",
+      "Persistent leakage of intracellular ATP",
+      "Containment of cellular contents during clearance",
+      "Release of lysosomal enzymes into interstitium"
+    ],
+    "answer": "Containment of cellular contents during clearance",
+    "explanation": "Apoptotic packaging and rapid phagocytic removal limit exposure to intracellular contents that would otherwise promote inflammation.",
+    "distractorExplanations": {
+      "Containment of cellular contents during clearance": "Correct: containment and efficient clearance reduce inflammatory signaling.",
+      "Release of lysosomal enzymes into interstitium": "Extracellular enzymes can damage neighboring tissue.",
+      "Rupture of the plasma membrane before phagocytosis": "Membrane rupture favors inflammatory leakage.",
+      "Large-scale deposition of extracellular DNA": "Extracellular nuclear material can stimulate immune responses.",
+      "Persistent leakage of intracellular ATP": "Extracellular ATP can function as a danger signal."
+    },
+    "references": [
+      {
+        "title": "NIEHS — Basic cellular and tissue responses to toxicity",
+        "url": "https://www.niehs.nih.gov/sites/default/files/2026-02/Basic_Path_Responses_long_508.pdf"
+      }
+    ],
+    "title": "Cell clearance during tissue remodeling — pathology practice question"
+  },
+  {
+    "id": "path-original-09",
+    "lectureId": "n9brM9pTw6I",
+    "category": "Pathology",
+    "prompt": "A laboratory enzyme converts superoxide anions into hydrogen peroxide. Which enzyme is being measured?",
+    "options": [
+      "Caspase-3",
+      "Phospholipase A2",
+      "Superoxide dismutase",
+      "Catalase",
+      "Glutathione peroxidase"
+    ],
+    "answer": "Superoxide dismutase",
+    "explanation": "Superoxide dismutase converts superoxide to peroxide, which can then be removed by catalase or glutathione peroxidase.",
+    "distractorExplanations": {
+      "Superoxide dismutase": "Correct: this is the substrate-product relationship of superoxide dismutase.",
+      "Catalase": "Catalase removes hydrogen peroxide.",
+      "Glutathione peroxidase": "Glutathione peroxidase reduces peroxides using glutathione.",
+      "Caspase-3": "Caspase-3 is an apoptosis executioner protease.",
+      "Phospholipase A2": "Phospholipase A2 cleaves membrane phospholipids."
+    },
+    "references": [
+      {
+        "title": "NIEHS — Basic cellular and tissue responses to toxicity",
+        "url": "https://www.niehs.nih.gov/sites/default/files/2026-02/Basic_Path_Responses_long_508.pdf"
+      }
+    ],
+    "title": "Enzymatic defenses against reactive oxygen species — pathology practice question"
+  },
+  {
+    "id": "path-original-10",
+    "lectureId": "n9brM9pTw6I",
+    "category": "Pathology",
+    "prompt": "After blood flow is restored to ischemic tissue, a subset of cells sustains additional injury associated with oxidant generation and leukocyte recruitment. Which statement best explains this observation?",
+    "options": [
+      "The process requires bacterial infection",
+      "Reperfusion can add oxidative and inflammatory injury",
+      "Oxygen is unnecessary for viable tissue",
+      "Restoring blood flow inevitably worsens every infarct",
+      "Reperfusion converts all necrotic cells back to viability"
+    ],
+    "answer": "Reperfusion can add oxidative and inflammatory injury",
+    "explanation": "Reperfusion rescues threatened tissue but can also generate reactive species and inflammatory injury. This mechanism does not negate the overall clinical value of appropriate reperfusion.",
+    "distractorExplanations": {
+      "Reperfusion can add oxidative and inflammatory injury": "Correct: oxidant and inflammatory mechanisms can add injury.",
+      "Oxygen is unnecessary for viable tissue": "Viable aerobic tissues require oxygen.",
+      "Restoring blood flow inevitably worsens every infarct": "The word inevitably is incorrect; benefit commonly outweighs this risk.",
+      "Reperfusion converts all necrotic cells back to viability": "Already dead cells cannot be restored to viability.",
+      "The process requires bacterial infection": "Sterile reperfusion injury does not require infection."
+    },
+    "references": [
+      {
+        "title": "NIEHS — Basic cellular and tissue responses to toxicity",
+        "url": "https://www.niehs.nih.gov/sites/default/files/2026-02/Basic_Path_Responses_long_508.pdf"
+      }
+    ],
+    "title": "Injury after restoration of blood flow — pathology practice question"
+  },
+  {
+    "id": "path-original-11",
+    "lectureId": "DHphsnW-nYo",
+    "category": "Pathology",
+    "prompt": "A patient with longstanding hypertension develops an enlarged left ventricle. Histology shows enlarged cardiomyocytes without a proportionate increase in their number. Which adaptation is present?",
+    "options": [
+      "Hypertrophy",
+      "Hyperplasia",
+      "Metaplasia",
+      "Dysplasia",
+      "Liquefactive necrosis"
+    ],
+    "answer": "Hypertrophy",
+    "explanation": "Cardiomyocytes respond to increased workload predominantly by increasing cell size. This compensatory hypertrophy can later become maladaptive.",
+    "distractorExplanations": {
+      "Hypertrophy": "Correct: cell size increases.",
+      "Hyperplasia": "Hyperplasia requires increased cell number.",
+      "Metaplasia": "Metaplasia changes the differentiated cell program.",
+      "Dysplasia": "Dysplasia is disordered growth with atypia.",
+      "Liquefactive necrosis": "Necrosis is cell death, not compensatory enlargement."
+    },
+    "references": [
+      {
+        "title": "NIEHS — Basic cellular and tissue responses to toxicity",
+        "url": "https://www.niehs.nih.gov/sites/default/files/2026-02/Basic_Path_Responses_long_508.pdf"
+      }
+    ],
+    "title": "Cardiac adaptation to hypertension — pathology practice question"
+  },
+  {
+    "id": "path-original-12",
+    "lectureId": "DHphsnW-nYo",
+    "category": "Pathology",
+    "prompt": "After a limb has been immobilized for several weeks, its skeletal muscles become smaller. Which combination best explains the cellular change?",
+    "options": [
+      "Uncontrolled proliferation and angiogenesis",
+      "Replacement by a different mature epithelial type",
+      "Increased cell volume from ion-pump failure",
+      "Extracellular deposition of immunoglobulin light chains",
+      "Reduced protein synthesis and increased protein degradation"
+    ],
+    "answer": "Reduced protein synthesis and increased protein degradation",
+    "explanation": "Disuse atrophy involves reduced synthesis and increased degradation of cellular components, leading to smaller muscle fibers.",
+    "distractorExplanations": {
+      "Reduced protein synthesis and increased protein degradation": "Correct: this is the protein-balance basis of atrophy.",
+      "Uncontrolled proliferation and angiogenesis": "Proliferation does not explain loss of muscle mass.",
+      "Replacement by a different mature epithelial type": "Metaplasia is not the usual mechanism of disuse muscle wasting.",
+      "Increased cell volume from ion-pump failure": "Pump failure produces swelling rather than chronic shrinkage.",
+      "Extracellular deposition of immunoglobulin light chains": "AL amyloid is an unrelated extracellular deposition process."
+    },
+    "references": [
+      {
+        "title": "NIEHS — Basic cellular and tissue responses to toxicity",
+        "url": "https://www.niehs.nih.gov/sites/default/files/2026-02/Basic_Path_Responses_long_508.pdf"
+      }
+    ],
+    "title": "Skeletal muscle changes after immobilization — pathology practice question"
+  },
+  {
+    "id": "path-original-13",
+    "lectureId": "DHphsnW-nYo",
+    "category": "Pathology",
+    "prompt": "A bronchial biopsy from a person with chronic smoke exposure shows replacement of ciliated columnar epithelium by stratified squamous epithelium without atypia. Which term best describes this change?",
+    "options": [
+      "Hypertrophy",
+      "Coagulative necrosis",
+      "Anaplasia",
+      "Metaplasia",
+      "Invasive carcinoma"
+    ],
+    "answer": "Metaplasia",
+    "explanation": "The replacement of one mature epithelial program by another under chronic irritation is metaplasia. It is not itself invasive malignancy.",
+    "distractorExplanations": {
+      "Metaplasia": "Correct: the differentiated epithelial type has changed.",
+      "Invasive carcinoma": "Invasion and malignant features are not described.",
+      "Hypertrophy": "Hypertrophy increases cell size without changing cell type.",
+      "Coagulative necrosis": "Necrosis involves dead tissue.",
+      "Anaplasia": "Anaplasia indicates loss of differentiation in malignant cells."
+    },
+    "references": [
+      {
+        "title": "NIEHS — Basic cellular and tissue responses to toxicity",
+        "url": "https://www.niehs.nih.gov/sites/default/files/2026-02/Basic_Path_Responses_long_508.pdf"
+      }
+    ],
+    "title": "Airway epithelial adaptation to smoke — pathology practice question"
+  },
+  {
+    "id": "path-original-14",
+    "lectureId": "DHphsnW-nYo",
+    "category": "Pathology",
+    "prompt": "A hormonally responsive tissue expands because its cells undergo regulated proliferation. The expansion regresses when the hormonal stimulus is withdrawn. Which process best fits?",
+    "options": [
+      "Fat necrosis",
+      "Intracellular lipid storage",
+      "Hyperplasia",
+      "Autonomous malignant growth",
+      "Atrophy"
+    ],
+    "answer": "Hyperplasia",
+    "explanation": "A stimulus-dependent increase in cell number is hyperplasia. Regression after withdrawal supports retained physiological regulation.",
+    "distractorExplanations": {
+      "Hyperplasia": "Correct: regulated cell proliferation increases cell number.",
+      "Autonomous malignant growth": "Autonomous malignancy is not defined by dependence on this reversible stimulus.",
+      "Atrophy": "Atrophy is reduced tissue mass.",
+      "Fat necrosis": "Fat necrosis is adipose-tissue death.",
+      "Intracellular lipid storage": "Storage causes accumulation within cells rather than proliferation."
+    },
+    "references": [
+      {
+        "title": "NIEHS — Basic cellular and tissue responses to toxicity",
+        "url": "https://www.niehs.nih.gov/sites/default/files/2026-02/Basic_Path_Responses_long_508.pdf"
+      }
+    ],
+    "title": "Regulated proliferation in hormone-responsive tissue — pathology practice question"
+  },
+  {
+    "id": "path-original-15",
+    "lectureId": "iFo2ROztdGs",
+    "category": "Pathology",
+    "prompt": "A liver biopsy from a patient with metabolic risk factors shows large clear vacuoles displacing hepatocyte nuclei. Lipid has been removed during routine tissue processing. What accumulated in these cells?",
+    "options": [
+      "Bacterial colonies",
+      "Triglycerides",
+      "Extracellular amyloid fibrils",
+      "Calcium soaps",
+      "Inhaled carbon"
+    ],
+    "answer": "Triglycerides",
+    "explanation": "Macrovesicular steatosis represents intracellular triglyceride accumulation. Routine processing removes lipid, leaving clear spaces.",
+    "distractorExplanations": {
+      "Triglycerides": "Correct: triglyceride is the stored material in steatosis.",
+      "Extracellular amyloid fibrils": "Amyloid is extracellular and does not explain these vacuoles.",
+      "Calcium soaps": "Calcium soaps occur in fat necrosis.",
+      "Inhaled carbon": "Carbon typically resides in macrophages after inhalation.",
+      "Bacterial colonies": "Bacterial colonies would not produce this classic lipid-vacuole pattern."
+    },
+    "references": [
+      {
+        "title": "NIEHS — Basic cellular and tissue responses to toxicity",
+        "url": "https://www.niehs.nih.gov/sites/default/files/2026-02/Basic_Path_Responses_long_508.pdf"
+      }
+    ],
+    "title": "Hepatocyte vacuoles and metabolic risk — pathology practice question"
+  },
+  {
+    "id": "path-original-16",
+    "lectureId": "iFo2ROztdGs",
+    "category": "Pathology",
+    "prompt": "A lung specimen from an older city resident contains black pigment within macrophages and hilar lymph nodes. No destructive fibrosis is identified. Which substance most likely accounts for the pigment?",
+    "options": [
+      "Carbon",
+      "Bilirubin",
+      "Hemosiderin",
+      "Melanin",
+      "Calcium"
+    ],
+    "answer": "Carbon",
+    "explanation": "Inhaled carbon can be taken up by macrophages and transported to regional lymph nodes. Pigment alone does not establish destructive pneumoconiosis.",
+    "distractorExplanations": {
+      "Carbon": "Correct: carbon causes anthracotic pigmentation.",
+      "Bilirubin": "Bilirubin produces yellow-green pigmentation in different contexts.",
+      "Hemosiderin": "Hemosiderin is typically golden-brown iron-containing pigment.",
+      "Melanin": "Melanin is not the usual inhaled pigment in pulmonary macrophages.",
+      "Calcium": "Calcium deposits are not black carbon-like pigment."
+    },
+    "references": [
+      {
+        "title": "NIEHS — Basic cellular and tissue responses to toxicity",
+        "url": "https://www.niehs.nih.gov/sites/default/files/2026-02/Basic_Path_Responses_long_508.pdf"
+      }
+    ],
+    "title": "Pigment in urban lung macrophages — pathology practice question"
+  },
+  {
+    "id": "path-original-17",
+    "lectureId": "iFo2ROztdGs",
+    "category": "Pathology",
+    "prompt": "Macrophages in an old hematoma contain golden-brown granules that stain positively for iron. Which pigment is present?",
+    "options": [
+      "Lipofuscin",
+      "Melanin",
+      "Carbon",
+      "Bilirubin",
+      "Hemosiderin"
+    ],
+    "answer": "Hemosiderin",
+    "explanation": "Breakdown of blood can leave iron stored as hemosiderin in macrophages. An iron stain helps identify it.",
+    "distractorExplanations": {
+      "Hemosiderin": "Correct: hemosiderin contains stored iron.",
+      "Lipofuscin": "Lipofuscin is residual lipid-protein pigment and is not identified by an iron stain.",
+      "Melanin": "Melanin is not an iron-storage pigment.",
+      "Carbon": "Carbon is exogenous particulate pigment.",
+      "Bilirubin": "Bilirubin is a heme-breakdown pigment but is not stored iron."
+    },
+    "references": [
+      {
+        "title": "NIEHS — Basic cellular and tissue responses to toxicity",
+        "url": "https://www.niehs.nih.gov/sites/default/files/2026-02/Basic_Path_Responses_long_508.pdf"
+      }
+    ],
+    "title": "Iron-containing pigment in an old hematoma — pathology practice question"
+  },
+  {
+    "id": "path-original-18",
+    "lectureId": "iFo2ROztdGs",
+    "category": "Pathology",
+    "prompt": "Small yellow-brown perinuclear granules are identified in cardiomyocytes of an older adult. They represent residual material associated with lipid peroxidation and lysosomal processing. Which pigment is most likely?",
+    "options": [
+      "Melanin",
+      "Carbon",
+      "Amyloid",
+      "Lipofuscin",
+      "Hemosiderin"
+    ],
+    "answer": "Lipofuscin",
+    "explanation": "Lipofuscin is a residual wear-and-tear pigment that accumulates with age and oxidative processing of cellular components.",
+    "distractorExplanations": {
+      "Lipofuscin": "Correct: the location and residual-material description fit lipofuscin.",
+      "Hemosiderin": "Hemosiderin contains iron and would need a different context or stain.",
+      "Melanin": "Melanin is produced in specialized pigment cells.",
+      "Carbon": "Carbon is inhaled exogenous material commonly in macrophages.",
+      "Amyloid": "Amyloid is extracellular protein deposition, not this intracellular pigment."
+    },
+    "references": [
+      {
+        "title": "NIEHS — Basic cellular and tissue responses to toxicity",
+        "url": "https://www.niehs.nih.gov/sites/default/files/2026-02/Basic_Path_Responses_long_508.pdf"
+      }
+    ],
+    "title": "Age-related pigment in cardiomyocytes — pathology practice question"
+  },
+  {
+    "id": "path-original-19",
+    "lectureId": "I0ygFfqwhHw",
+    "category": "Pathology",
+    "prompt": "A patient with a plasma-cell clone develops nephrotic-range proteinuria. Biopsy confirms amyloid derived from immunoglobulin light chains. What is the correct amyloid designation?",
+    "options": [
+      "Beta-2 microglobulin",
+      "Amyloid beta",
+      "AL",
+      "AA",
+      "ATTR"
+    ],
+    "answer": "AL",
+    "explanation": "AL designates immunoglobulin light-chain amyloid. Protein typing connects the tissue deposit with the underlying precursor process.",
+    "distractorExplanations": {
+      "AL": "Correct: L refers to light-chain origin.",
+      "AA": "AA derives from serum amyloid A associated with sustained inflammation.",
+      "ATTR": "ATTR derives from transthyretin.",
+      "Beta-2 microglobulin": "Beta-2 microglobulin deposition is associated with dialysis-related disease.",
+      "Amyloid beta": "Amyloid beta is associated with cerebral deposits rather than this light-chain process."
+    },
+    "references": [
+      {
+        "title": "NIDDK — Amyloidosis and kidney disease",
+        "url": "https://www.niddk.nih.gov/health-information/kidney-disease/amyloidosis"
+      }
+    ],
+    "title": "Amyloid associated with a plasma-cell clone — pathology practice question"
+  },
+  {
+    "id": "path-original-20",
+    "lectureId": "I0ygFfqwhHw",
+    "category": "Pathology",
+    "prompt": "A patient with longstanding poorly controlled inflammatory arthritis develops proteinuria. Amyloid typing identifies a precursor related to the acute-phase response. Which precursor is most likely?",
+    "options": [
+      "Hemoglobin",
+      "Serum amyloid A",
+      "Immunoglobulin light chain",
+      "Transthyretin",
+      "Keratin"
+    ],
+    "answer": "Serum amyloid A",
+    "explanation": "Sustained inflammation can increase serum amyloid A, whose fragments form AA amyloid. Typing is still required rather than inferring the deposit solely from history.",
+    "distractorExplanations": {
+      "Serum amyloid A": "Correct: serum amyloid A is the AA precursor.",
+      "Immunoglobulin light chain": "Light chains produce AL amyloid.",
+      "Transthyretin": "Transthyretin produces ATTR amyloid.",
+      "Keratin": "Keratin is not the precursor in this systemic inflammatory pattern.",
+      "Hemoglobin": "Hemoglobin is not the AA amyloid precursor."
+    },
+    "references": [
+      {
+        "title": "NIDDK — Amyloidosis and kidney disease",
+        "url": "https://www.niddk.nih.gov/health-information/kidney-disease/amyloidosis"
+      }
+    ],
+    "title": "Amyloid in chronic inflammatory disease — pathology practice question"
+  },
+  {
+    "id": "path-original-21",
+    "lectureId": "I0ygFfqwhHw",
+    "category": "Pathology",
+    "prompt": "An older patient has cardiac amyloid and a small monoclonal protein detected in serum. Which next principle is most important before selecting subtype-specific treatment?",
+    "options": [
+      "Establish the amyloid precursor with appropriate typing",
+      "Assume every deposit is AL because a monoclonal protein is present",
+      "Treat all amyloid types with the same regimen",
+      "Exclude amyloid because it cannot affect the heart",
+      "Classify the deposit from eosinophilia on routine stain alone"
+    ],
+    "answer": "Establish the amyloid precursor with appropriate typing",
+    "explanation": "A monoclonal protein may coexist with a different amyloid type. Reliable typing prevents attributing all deposits to the plasma-cell clone without evidence.",
+    "distractorExplanations": {
+      "Establish the amyloid precursor with appropriate typing": "Correct: precursor identification determines subtype-specific care.",
+      "Assume every deposit is AL because a monoclonal protein is present": "An association alone does not prove AL deposition.",
+      "Treat all amyloid types with the same regimen": "Different precursor diseases require different treatments.",
+      "Exclude amyloid because it cannot affect the heart": "The heart is a recognized target of amyloid deposition.",
+      "Classify the deposit from eosinophilia on routine stain alone": "Routine morphology does not reliably identify the precursor."
+    },
+    "references": [
+      {
+        "title": "NIDDK — Amyloidosis and kidney disease",
+        "url": "https://www.niddk.nih.gov/health-information/kidney-disease/amyloidosis"
+      }
+    ],
+    "title": "Amyloid typing before treatment — pathology practice question"
+  },
+  {
+    "id": "path-original-22",
+    "lectureId": "eFmMnrv5gHA",
+    "category": "Pathology",
+    "prompt": "A toxin is converted by hepatic metabolism into a reactive intermediate that damages membranes. Which factor best explains why two exposed patients may sustain different degrees of injury despite the same nominal dose?",
+    "options": [
+      "All chemicals produce identical injury at identical doses",
+      "Cell injury is independent of exposure duration",
+      "Genetic variation cannot affect metabolism",
+      "Only the chemical name determines toxicity",
+      "Differences in activation, detoxification and cellular susceptibility"
+    ],
+    "answer": "Differences in activation, detoxification and cellular susceptibility",
+    "explanation": "Host metabolism, detoxification capacity, exposure conditions and cellular susceptibility influence toxicity. The nominal dose alone does not specify tissue exposure to the active intermediate.",
+    "distractorExplanations": {
+      "Differences in activation, detoxification and cellular susceptibility": "Correct: these factors change effective toxic exposure and response.",
+      "All chemicals produce identical injury at identical doses": "Identical dose does not guarantee identical metabolism or injury.",
+      "Cell injury is independent of exposure duration": "Exposure duration can affect toxicity.",
+      "Genetic variation cannot affect metabolism": "Genetic variation can influence metabolic enzymes.",
+      "Only the chemical name determines toxicity": "Chemical identity is important but not sufficient to predict every outcome."
+    },
+    "references": [
+      {
+        "title": "NIEHS — Basic cellular and tissue responses to toxicity",
+        "url": "https://www.niehs.nih.gov/sites/default/files/2026-02/Basic_Path_Responses_long_508.pdf"
+      }
+    ],
+    "title": "Metabolic activation of a hepatotoxic agent — pathology practice question"
+  },
+  {
+    "id": "path-original-23",
+    "lectureId": "n9brM9pTw6I",
+    "category": "Pathology",
+    "prompt": "In an experimental tissue, oxidants initiate a chain reaction that progressively damages membrane lipids. Which downstream consequence most directly follows?",
+    "options": [
+      "Selective increase in chromosome number without injury",
+      "Formation of a normal growth plate",
+      "Permanent protection from further oxidation",
+      "Loss of membrane integrity",
+      "Conversion of all cells into stem cells"
+    ],
+    "answer": "Loss of membrane integrity",
+    "explanation": "Lipid peroxidation compromises membranes and can disrupt cellular and organelle integrity. The chain reaction can propagate damage rather than protect the tissue.",
+    "distractorExplanations": {
+      "Loss of membrane integrity": "Correct: membrane lipids are structural targets.",
+      "Conversion of all cells into stem cells": "Oxidation does not normally reprogram every cell into a stem cell.",
+      "Selective increase in chromosome number without injury": "Chromosome-number change is not the direct consequence described.",
+      "Formation of a normal growth plate": "A growth plate is an organized developmental structure.",
+      "Permanent protection from further oxidation": "Peroxidation propagates injury rather than conferring permanent protection."
+    },
+    "references": [
+      {
+        "title": "NIEHS — Basic cellular and tissue responses to toxicity",
+        "url": "https://www.niehs.nih.gov/sites/default/files/2026-02/Basic_Path_Responses_long_508.pdf"
+      }
+    ],
+    "title": "Oxidative membrane injury — pathology practice question"
+  },
+  {
+    "id": "path-original-24",
+    "lectureId": "IdO0f5klcXI",
+    "category": "Pathology",
+    "prompt": "A pathology report describes extracellular amorphous eosinophilic deposits. A student identifies them as intracellular lipid solely because the patient has an enlarged organ. What is the most important flaw in that interpretation?",
+    "options": [
+      "Extracellular deposits cannot affect function",
+      "Histological location is irrelevant to diagnosis",
+      "The compartment of deposition was ignored",
+      "Organ enlargement proves lipid storage",
+      "All eosinophilic deposits are triglycerides"
+    ],
+    "answer": "The compartment of deposition was ignored",
+    "explanation": "The extracellular compartment argues against intracellular steatosis. Morphology, special stains and protein typing may establish amyloid or another extracellular process; organ size alone is nonspecific.",
+    "distractorExplanations": {
+      "The compartment of deposition was ignored": "Correct: intracellular versus extracellular location is a fundamental distinction.",
+      "Organ enlargement proves lipid storage": "Many processes enlarge an organ.",
+      "All eosinophilic deposits are triglycerides": "Eosinophilia is not specific for triglyceride.",
+      "Extracellular deposits cannot affect function": "Extracellular deposition can impair organ function.",
+      "Histological location is irrelevant to diagnosis": "Location is a key diagnostic clue."
+    },
+    "references": [
+      {
+        "title": "NIEHS — Basic cellular and tissue responses to toxicity",
+        "url": "https://www.niehs.nih.gov/sites/default/files/2026-02/Basic_Path_Responses_long_508.pdf"
+      }
+    ],
+    "title": "Recognizing extracellular tissue deposits — pathology practice question"
+  },
+  {
+    "id": "path-original-25",
+    "lectureId": "I-_HV25j_9s",
+    "category": "Pathology",
+    "prompt": "A tissue section shows a dead cell nucleus breaking into several dense fragments. Which descriptive term should be used?",
+    "options": [
+      "Metaplasia",
+      "Karyorrhexis",
+      "Karyolysis",
+      "Hypertrophy",
+      "Hyperplasia"
+    ],
+    "answer": "Karyorrhexis",
+    "explanation": "Karyorrhexis describes nuclear fragmentation. Karyolysis describes fading or dissolution, while pyknosis describes nuclear shrinkage and condensation.",
+    "distractorExplanations": {
+      "Karyorrhexis": "Correct: the nucleus has fragmented.",
+      "Karyolysis": "Karyolysis is dissolution rather than fragmentation.",
+      "Hypertrophy": "Hypertrophy is increased cell size.",
+      "Hyperplasia": "Hyperplasia is increased cell number.",
+      "Metaplasia": "Metaplasia is altered mature differentiation."
+    },
+    "references": [
+      {
+        "title": "NIEHS — Basic cellular and tissue responses to toxicity",
+        "url": "https://www.niehs.nih.gov/sites/default/files/2026-02/Basic_Path_Responses_long_508.pdf"
+      }
+    ],
+    "title": "Nuclear fragmentation in cell death — pathology practice question"
+  }
+]

@@ -1,0 +1,752 @@
+[
+  {
+    "id": "reviewed-clin2-fc-SlETVFSIn8A-1",
+    "lectureId": "SlETVFSIn8A",
+    "front": "What makes a slow pulse sinus bradycardia on ECG?",
+    "back": "Sinus P waves precede each QRS with consistent atrioventricular conduction, at a slow rate.",
+    "explanation": "Rate alone cannot determine the pacemaker origin; inspect the P waves and their relationship to QRS complexes."
+  },
+  {
+    "id": "reviewed-clin2-fc-SlETVFSIn8A-2",
+    "lectureId": "SlETVFSIn8A",
+    "front": "Which findings make bradycardia clinically unstable?",
+    "back": "Hypotension, shock, acute altered mental status, ischemic discomfort or acute heart failure attributable to the slow rhythm.",
+    "explanation": "Treat the patient's perfusion and symptoms rather than applying an intervention solely because of a numerical heart rate."
+  },
+  {
+    "id": "reviewed-clin2-fc-SlETVFSIn8A-3",
+    "lectureId": "SlETVFSIn8A",
+    "front": "What can bridge unstable bradycardia that is unresponsive to atropine?",
+    "back": "Transcutaneous pacing or a rate-accelerating epinephrine or dopamine infusion, with expert help.",
+    "explanation": "Persistent instability may require temporary transvenous pacing; supportive treatment continues while arranging it."
+  },
+  {
+    "id": "reviewed-clin2-fc-SlETVFSIn8A-4",
+    "lectureId": "SlETVFSIn8A",
+    "front": "Which medication classes commonly cause sinus bradycardia?",
+    "back": "Beta blockers and non-dihydropyridine calcium-channel blockers are important examples.",
+    "explanation": "A medication history can identify reversible nodal suppression; drug effects must be considered before permanent pacing decisions."
+  },
+  {
+    "id": "reviewed-clin2-fc-SlETVFSIn8A-5",
+    "lectureId": "SlETVFSIn8A",
+    "front": "Which endocrine disorder can cause sinus bradycardia with cold intolerance?",
+    "back": "Hypothyroidism.",
+    "explanation": "Recognizing associated systemic findings helps distinguish a reversible extrinsic cause from intrinsic sinus-node disease."
+  },
+  {
+    "id": "reviewed-clin2-fc-SlETVFSIn8A-6",
+    "lectureId": "SlETVFSIn8A",
+    "front": "Does isolated nocturnal sinus bradycardia automatically require a pacemaker?",
+    "back": "No; evaluate sleep apnea and other causes in context.",
+    "explanation": "The timing and symptom relationship matter, and treatment of sleep-disordered breathing can improve nocturnal rhythm disturbances."
+  },
+  {
+    "id": "reviewed-clin2-fc-SlETVFSIn8A-7",
+    "lectureId": "SlETVFSIn8A",
+    "front": "Why is symptom-rhythm correlation important in sinus-node dysfunction?",
+    "back": "It helps show that the slow rhythm or pauses actually cause the patient's symptoms.",
+    "explanation": "An asymptomatic office tracing may miss intermittent events or reveal an incidental resting rate."
+  },
+  {
+    "id": "reviewed-clin2-fc-SlETVFSIn8A-8",
+    "lectureId": "SlETVFSIn8A",
+    "front": "Why must P-wave frequency be counted when evaluating a slow ventricular rate?",
+    "back": "A normal atrial rate with blocked P waves indicates AV block rather than simple sinus slowing.",
+    "explanation": "A slow pulse can reflect failure of impulse formation or failure of conduction; management depends on the mechanism."
+  },
+  {
+    "id": "reviewed-clin2-fc-SlETVFSIn8A-9",
+    "lectureId": "SlETVFSIn8A",
+    "front": "How can a vasovagal episode slow the heart?",
+    "back": "Transient parasympathetic activation reduces sinus-node firing.",
+    "explanation": "Associated vasodilation can also lower blood pressure, so syncope is not explained by heart rate alone."
+  },
+  {
+    "id": "reviewed-clin2-fc-SlETVFSIn8A-10",
+    "lectureId": "SlETVFSIn8A",
+    "front": "What is chronotropic incompetence?",
+    "back": "Failure to increase heart rate appropriately with physiologic demand.",
+    "explanation": "It can cause exertional intolerance even without profound resting bradycardia and requires clinical assessment."
+  },
+  {
+    "id": "reviewed-clin2-fc-3LKa8IO0QaE-1",
+    "lectureId": "3LKa8IO0QaE",
+    "front": "What ECG pattern typically identifies a PVC?",
+    "back": "An early, wide QRS without a preceding sinus P wave, often with discordant repolarization.",
+    "explanation": "Ventricular activation begins outside the usual rapid conduction pathway, widening the complex."
+  },
+  {
+    "id": "reviewed-clin2-fc-3LKa8IO0QaE-2",
+    "lectureId": "3LKa8IO0QaE",
+    "front": "Why can a PVC be perceived as a skipped beat followed by a thump?",
+    "back": "The early beat may eject weakly, while the following post-pause beat is stronger.",
+    "explanation": "Patients often notice the recovery beat more than the premature contraction itself."
+  },
+  {
+    "id": "reviewed-clin2-fc-3LKa8IO0QaE-3",
+    "lectureId": "3LKa8IO0QaE",
+    "front": "What is a pulse deficit during frequent PVCs?",
+    "back": "The ECG rate exceeds the palpable pulse rate because some ectopic beats have inadequate stroke volume.",
+    "explanation": "Assess the patient and mechanical perfusion rather than relying on the monitor number alone."
+  },
+  {
+    "id": "reviewed-clin2-fc-3LKa8IO0QaE-4",
+    "lectureId": "3LKa8IO0QaE",
+    "front": "What does PVC burden measure?",
+    "back": "The proportion of recorded heartbeats that are PVCs.",
+    "explanation": "Ambulatory monitoring is useful because a short ECG can underrepresent or overrepresent daily ectopy."
+  },
+  {
+    "id": "reviewed-clin2-fc-3LKa8IO0QaE-5",
+    "lectureId": "3LKa8IO0QaE",
+    "front": "Why assess ventricular function in a patient with frequent PVCs?",
+    "back": "A substantial burden can cause or worsen cardiomyopathy.",
+    "explanation": "There is no single threshold proving causation; assess burden, competing causes and response to treatment."
+  },
+  {
+    "id": "reviewed-clin2-fc-3LKa8IO0QaE-6",
+    "lectureId": "3LKa8IO0QaE",
+    "front": "What is the purpose of echocardiography when evaluating frequent PVCs?",
+    "back": "To identify structural heart disease and assess ventricular function.",
+    "explanation": "The same ECG ectopy can have different implications in a normal heart and a diseased heart."
+  },
+  {
+    "id": "reviewed-clin2-fc-3LKa8IO0QaE-7",
+    "lectureId": "3LKa8IO0QaE",
+    "front": "Which electrolyte deficiencies can promote ventricular ectopy?",
+    "back": "Hypokalemia and hypomagnesemia.",
+    "explanation": "Look for losses and medication effects; restoring electrolytes addresses a reversible arrhythmogenic influence."
+  },
+  {
+    "id": "reviewed-clin2-fc-3LKa8IO0QaE-8",
+    "lectureId": "3LKa8IO0QaE",
+    "front": "Which accompanying features make PVCs more concerning?",
+    "back": "Syncope, relevant family history, structural abnormalities or complex ectopy that increases with exercise.",
+    "explanation": "Risk assessment depends on the clinical context and morphology, not just whether a PVC is present."
+  },
+  {
+    "id": "reviewed-clin2-fc-3LKa8IO0QaE-9",
+    "lectureId": "3LKa8IO0QaE",
+    "front": "What is ventricular bigeminy?",
+    "back": "Alternation of a normal beat and a PVC.",
+    "explanation": "It describes the pattern, not by itself the cause or the patient's hemodynamic stability."
+  },
+  {
+    "id": "reviewed-clin2-fc-3LKa8IO0QaE-10",
+    "lectureId": "3LKa8IO0QaE",
+    "front": "Can occasional PVCs be managed conservatively?",
+    "back": "Yes, after assessing symptoms, burden and underlying cardiac disease.",
+    "explanation": "Reassurance is most useful when grounded in an appropriate evaluation rather than a blanket claim that all ectopy is harmless."
+  },
+  {
+    "id": "reviewed-clin2-fc-Lht-xTYLiCs-1",
+    "lectureId": "Lht-xTYLiCs",
+    "front": "What is the principal purpose of preoxygenation before RSI?",
+    "back": "To increase oxygen reserves and delay desaturation during apnea.",
+    "explanation": "A satisfactory initial saturation does not mean the patient has a large reserve, especially with severe lung disease."
+  },
+  {
+    "id": "reviewed-clin2-fc-Lht-xTYLiCs-2",
+    "lectureId": "Lht-xTYLiCs",
+    "front": "Which preoxygenation approach may help a severely hypoxemic patient before RSI?",
+    "back": "Noninvasive positive-pressure ventilation when feasible and appropriate.",
+    "explanation": "Positive pressure can recruit lung units and improve the oxygen reserve before apnea."
+  },
+  {
+    "id": "reviewed-clin2-fc-Lht-xTYLiCs-3",
+    "lectureId": "Lht-xTYLiCs",
+    "front": "Does a neuromuscular blocker provide sedation or analgesia?",
+    "back": "No.",
+    "explanation": "A paralyzed patient may remain conscious unless appropriate induction and continuing sedation/analgesia are provided."
+  },
+  {
+    "id": "reviewed-clin2-fc-Lht-xTYLiCs-4",
+    "lectureId": "Lht-xTYLiCs",
+    "front": "Why can succinylcholine be dangerous after the acute phase of major burns or denervation?",
+    "back": "It can trigger severe hyperkalemia.",
+    "explanation": "Upregulated extrajunctional acetylcholine receptors increase potassium release during depolarization."
+  },
+  {
+    "id": "reviewed-clin2-fc-Lht-xTYLiCs-5",
+    "lectureId": "Lht-xTYLiCs",
+    "front": "When should an awake intubation strategy be considered?",
+    "back": "When difficult intubation is anticipated together with difficult ventilation, poor apnea tolerance, aspiration risk or difficult invasive rescue.",
+    "explanation": "The airway plan should preserve safety before induction removes spontaneous breathing."
+  },
+  {
+    "id": "reviewed-clin2-fc-Lht-xTYLiCs-6",
+    "lectureId": "Lht-xTYLiCs",
+    "front": "Why assess hemodynamic risk before RSI?",
+    "back": "Induction and positive-pressure ventilation can precipitate hypotension in a patient with limited reserve.",
+    "explanation": "Resuscitation, drug selection and a plan for cardiovascular deterioration should accompany the airway plan."
+  },
+  {
+    "id": "reviewed-clin2-fc-Lht-xTYLiCs-7",
+    "lectureId": "Lht-xTYLiCs",
+    "front": "Should corticosteroids routinely follow etomidate solely to counter adrenal suppression?",
+    "back": "No.",
+    "explanation": "A separate clinical indication for steroids must be considered independently from the induction drug choice."
+  },
+  {
+    "id": "reviewed-clin2-fc-Lht-xTYLiCs-8",
+    "lectureId": "Lht-xTYLiCs",
+    "front": "What objective method should confirm and monitor tracheal tube placement?",
+    "back": "Sustained waveform capnography, interpreted with the clinical examination.",
+    "explanation": "A fleeting carbon dioxide signal or tube mist is insufficient; continued monitoring can detect displacement."
+  },
+  {
+    "id": "reviewed-clin2-fc-Lht-xTYLiCs-9",
+    "lectureId": "Lht-xTYLiCs",
+    "front": "Why must post-intubation sedation be planned before RSI?",
+    "back": "The induction drug can wear off while paralysis persists.",
+    "explanation": "An immobile patient can still experience awareness and pain; reassessment and ongoing care are essential."
+  },
+  {
+    "id": "reviewed-clin2-fc-Lht-xTYLiCs-10",
+    "lectureId": "Lht-xTYLiCs",
+    "front": "What takes priority after a failed intubation attempt with desaturation?",
+    "back": "Restoring oxygenation.",
+    "explanation": "Use the prepared rescue strategy, limit repeated traumatic attempts and escalate early when oxygenation cannot be maintained."
+  },
+  {
+    "id": "reviewed-clin2-fc-dmRp5H85WMs-1",
+    "lectureId": "dmRp5H85WMs",
+    "front": "What is the defining ECG clue of a PAC?",
+    "back": "An early P wave arising outside the sinus node, usually with a different morphology.",
+    "explanation": "The QRS is often narrow if ventricular conduction proceeds normally."
+  },
+  {
+    "id": "reviewed-clin2-fc-dmRp5H85WMs-2",
+    "lectureId": "dmRp5H85WMs",
+    "front": "How can a blocked PAC mimic a pause?",
+    "back": "An early atrial impulse is not conducted through the refractory AV node.",
+    "explanation": "Look for a premature P wave superimposed on the preceding T wave before diagnosing sinus arrest."
+  },
+  {
+    "id": "reviewed-clin2-fc-dmRp5H85WMs-3",
+    "lectureId": "dmRp5H85WMs",
+    "front": "Can a PAC produce a wide QRS?",
+    "back": "Yes, through aberrant intraventricular conduction.",
+    "explanation": "An early abnormal P wave and the timing of the beat help distinguish an aberrantly conducted PAC from a PVC."
+  },
+  {
+    "id": "reviewed-clin2-fc-dmRp5H85WMs-4",
+    "lectureId": "dmRp5H85WMs",
+    "front": "Why use ambulatory ECG monitoring for suspected PACs?",
+    "back": "To capture intermittent beats and correlate them with symptoms.",
+    "explanation": "A normal brief office tracing does not exclude episodic atrial ectopy."
+  },
+  {
+    "id": "reviewed-clin2-fc-dmRp5H85WMs-5",
+    "lectureId": "dmRp5H85WMs",
+    "front": "Do isolated low-risk PACs necessarily need antiarrhythmic treatment?",
+    "back": "No.",
+    "explanation": "Management depends on symptoms and associated disease; reassurance can be sufficient after appropriate assessment."
+  },
+  {
+    "id": "reviewed-clin2-fc-dmRp5H85WMs-6",
+    "lectureId": "dmRp5H85WMs",
+    "front": "Does a PAC diagnosis equal atrial fibrillation?",
+    "back": "No.",
+    "explanation": "Frequent PACs may warrant assessment for associated atrial disease or future arrhythmia, but they are not equivalent to documented AF."
+  },
+  {
+    "id": "reviewed-clin2-fc-dmRp5H85WMs-7",
+    "lectureId": "dmRp5H85WMs",
+    "front": "What can different PAC P-wave morphologies indicate?",
+    "back": "Multiple ectopic atrial origins.",
+    "explanation": "P-wave shape reflects the direction of atrial activation; compare premature beats across several leads."
+  },
+  {
+    "id": "reviewed-clin2-fc-dmRp5H85WMs-8",
+    "lectureId": "dmRp5H85WMs",
+    "front": "Which basic laboratory issue should be considered with new frequent atrial ectopy?",
+    "back": "An electrolyte disturbance.",
+    "explanation": "Assess illness, losses and medications rather than assuming every premature beat is an isolated primary electrical disorder."
+  },
+  {
+    "id": "reviewed-clin2-fc-dmRp5H85WMs-9",
+    "lectureId": "dmRp5H85WMs",
+    "front": "Is a PAC an early beat or an escape beat?",
+    "back": "An early beat.",
+    "explanation": "An escape beat is a delayed backup impulse after a pause; timing is central to distinguishing them."
+  },
+  {
+    "id": "reviewed-clin2-fc-dmRp5H85WMs-10",
+    "lectureId": "dmRp5H85WMs",
+    "front": "Which symptoms should prompt renewed assessment in someone known to have PACs?",
+    "back": "Syncope, exertional symptoms or sustained rapid palpitations.",
+    "explanation": "Do not let an earlier benign label obscure a new or different cardiac problem."
+  },
+  {
+    "id": "reviewed-clin2-fc-_q0giMKf5Vc-1",
+    "lectureId": "_q0giMKf5Vc",
+    "front": "What is the benefit of two-person bag-mask ventilation?",
+    "back": "One rescuer can maintain a two-handed seal and jaw lift while the other compresses the bag.",
+    "explanation": "It can improve ventilation when a one-handed seal is inadequate.",
+    "references": [
+      {
+        "title": "AHA 2025 — adult basic life support",
+        "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+      },
+      {
+        "title": "SAEM — airway assessment and adjuncts",
+        "url": "https://www.saem.org/about-saem/academies-interest-groups-affiliates2/cdem/for-students/online-education/m3-curriculum/group-basic-and-advanced-life-support-techniques/airway"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clin2-fc-_q0giMKf5Vc-2",
+    "lectureId": "_q0giMKf5Vc",
+    "front": "How can overventilation impair CPR circulation?",
+    "back": "Excess intrathoracic pressure reduces venous return.",
+    "explanation": "Avoid excessive rate and volume.",
+    "references": [
+      {
+        "title": "AHA 2025 — adult basic life support",
+        "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+      },
+      {
+        "title": "SAEM — airway assessment and adjuncts",
+        "url": "https://www.saem.org/about-saem/academies-interest-groups-affiliates2/cdem/for-students/online-education/m3-curriculum/group-basic-and-advanced-life-support-techniques/airway"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clin2-fc-_q0giMKf5Vc-3",
+    "lectureId": "_q0giMKf5Vc",
+    "front": "What initial rescue-breathing rate is used for an apneic adult with a definite pulse?",
+    "back": "One breath every 6 seconds, with visible chest rise.",
+    "explanation": "Reassess pulse and ventilation rather than assuming medication alone will restore breathing.",
+    "references": [
+      {
+        "title": "AHA 2025 — adult basic life support",
+        "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+      },
+      {
+        "title": "SAEM — airway assessment and adjuncts",
+        "url": "https://www.saem.org/about-saem/academies-interest-groups-affiliates2/cdem/for-students/online-education/m3-curriculum/group-basic-and-advanced-life-support-techniques/airway"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clin2-fc-_q0giMKf5Vc-4",
+    "lectureId": "_q0giMKf5Vc",
+    "front": "Does oxygen flowing into the bag prove the patient is being ventilated?",
+    "back": "No. Confirm airway patency, seal and chest rise.",
+    "explanation": "Obstruction or a leak can prevent effective lung inflation.",
+    "references": [
+      {
+        "title": "AHA 2025 — adult basic life support",
+        "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+      },
+      {
+        "title": "SAEM — airway assessment and adjuncts",
+        "url": "https://www.saem.org/about-saem/academies-interest-groups-affiliates2/cdem/for-students/online-education/m3-curriculum/group-basic-and-advanced-life-support-techniques/airway"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clin2-fc-_q0giMKf5Vc-5",
+    "lectureId": "_q0giMKf5Vc",
+    "front": "What is the adult CPR ratio before an advanced airway is placed?",
+    "back": "30 compressions to 2 breaths.",
+    "explanation": "Avoid prolonged interruptions for ventilation.",
+    "references": [
+      {
+        "title": "AHA 2025 — adult basic life support",
+        "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+      },
+      {
+        "title": "SAEM — airway assessment and adjuncts",
+        "url": "https://www.saem.org/about-saem/academies-interest-groups-affiliates2/cdem/for-students/online-education/m3-curriculum/group-basic-and-advanced-life-support-techniques/airway"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clin2-fc-xSrRSHHfLoU-1",
+    "lectureId": "xSrRSHHfLoU",
+    "front": "What finding makes an oropharyngeal airway poorly tolerated?",
+    "back": "An intact gag reflex.",
+    "explanation": "Insertion can provoke gagging or vomiting.",
+    "references": [
+      {
+        "title": "AHA 2025 — adult basic life support",
+        "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+      },
+      {
+        "title": "SAEM — airway assessment and adjuncts",
+        "url": "https://www.saem.org/about-saem/academies-interest-groups-affiliates2/cdem/for-students/online-education/m3-curriculum/group-basic-and-advanced-life-support-techniques/airway"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clin2-fc-xSrRSHHfLoU-2",
+    "lectureId": "xSrRSHHfLoU",
+    "front": "Which pharyngeal adjunct may be tolerated when gag reflexes persist?",
+    "back": "A nasopharyngeal airway, if no contraindication is present.",
+    "explanation": "Assess trauma and nasal conditions before insertion.",
+    "references": [
+      {
+        "title": "AHA 2025 — adult basic life support",
+        "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+      },
+      {
+        "title": "SAEM — airway assessment and adjuncts",
+        "url": "https://www.saem.org/about-saem/academies-interest-groups-affiliates2/cdem/for-students/online-education/m3-curriculum/group-basic-and-advanced-life-support-techniques/airway"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clin2-fc-xSrRSHHfLoU-3",
+    "lectureId": "xSrRSHHfLoU",
+    "front": "Which manual airway maneuver is preferred initially when cervical injury is suspected?",
+    "back": "Jaw thrust without head extension.",
+    "explanation": "Airway patency remains the priority while minimizing movement.",
+    "references": [
+      {
+        "title": "AHA 2025 — adult basic life support",
+        "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+      },
+      {
+        "title": "SAEM — airway assessment and adjuncts",
+        "url": "https://www.saem.org/about-saem/academies-interest-groups-affiliates2/cdem/for-students/online-education/m3-curriculum/group-basic-and-advanced-life-support-techniques/airway"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clin2-fc-xSrRSHHfLoU-4",
+    "lectureId": "xSrRSHHfLoU",
+    "front": "What does head tilt–chin lift accomplish?",
+    "back": "It moves the tongue away from the posterior pharynx to improve patency.",
+    "explanation": "It is used when cervical injury is not suspected.",
+    "references": [
+      {
+        "title": "AHA 2025 — adult basic life support",
+        "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+      },
+      {
+        "title": "SAEM — airway assessment and adjuncts",
+        "url": "https://www.saem.org/about-saem/academies-interest-groups-affiliates2/cdem/for-students/online-education/m3-curriculum/group-basic-and-advanced-life-support-techniques/airway"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clin2-fc-xSrRSHHfLoU-5",
+    "lectureId": "xSrRSHHfLoU",
+    "front": "Do oral or nasal pharyngeal airways protect completely against aspiration?",
+    "back": "No. They do not create a tracheal seal.",
+    "explanation": "Improved ventilation and airway protection are distinct concepts.",
+    "references": [
+      {
+        "title": "AHA 2025 — adult basic life support",
+        "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+      },
+      {
+        "title": "SAEM — airway assessment and adjuncts",
+        "url": "https://www.saem.org/about-saem/academies-interest-groups-affiliates2/cdem/for-students/online-education/m3-curriculum/group-basic-and-advanced-life-support-techniques/airway"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clin2-fc-qfSpLNr9S44-1",
+    "lectureId": "qfSpLNr9S44",
+    "front": "What gas-exchange pattern supports bilevel NIV in an appropriate COPD exacerbation?",
+    "back": "Acute or acute-on-chronic respiratory acidosis with hypercapnia.",
+    "explanation": "Clinical suitability and monitoring matter; a blood gas alone is not the complete decision.",
+    "references": [
+      {
+        "title": "ERS/ATS — noninvasive ventilation in acute respiratory failure",
+        "url": "https://www.thoracic.org/statements/resources/cc/niv-guidelines.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clin2-fc-qfSpLNr9S44-2",
+    "lectureId": "qfSpLNr9S44",
+    "front": "How is pressure support calculated on bilevel NIV?",
+    "back": "IPAP minus EPAP.",
+    "explanation": "For example, 14/6 cm H2O provides a difference of 8 cm H2O.",
+    "references": [
+      {
+        "title": "ERS/ATS — noninvasive ventilation in acute respiratory failure",
+        "url": "https://www.thoracic.org/statements/resources/cc/niv-guidelines.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clin2-fc-qfSpLNr9S44-3",
+    "lectureId": "qfSpLNr9S44",
+    "front": "Why is active vomiting with impaired airway protection a major problem for NIV?",
+    "back": "A mask does not protect the trachea from aspiration.",
+    "explanation": "An invasive airway strategy may be required.",
+    "references": [
+      {
+        "title": "ERS/ATS — noninvasive ventilation in acute respiratory failure",
+        "url": "https://www.thoracic.org/statements/resources/cc/niv-guidelines.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clin2-fc-qfSpLNr9S44-4",
+    "lectureId": "qfSpLNr9S44",
+    "front": "What does worsening acidosis and drowsiness despite NIV suggest?",
+    "back": "Likely NIV failure requiring urgent reassessment and possible intubation.",
+    "explanation": "Do not let a prolonged mask trial delay escalation.",
+    "references": [
+      {
+        "title": "ERS/ATS — noninvasive ventilation in acute respiratory failure",
+        "url": "https://www.thoracic.org/statements/resources/cc/niv-guidelines.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clin2-fc-qfSpLNr9S44-5",
+    "lectureId": "qfSpLNr9S44",
+    "front": "Which noninvasive positive-pressure approaches can support selected cardiogenic pulmonary edema patients?",
+    "back": "CPAP or bilevel NIV.",
+    "explanation": "Continue treatment of the cause and monitor clinical response.",
+    "references": [
+      {
+        "title": "ERS/ATS — noninvasive ventilation in acute respiratory failure",
+        "url": "https://www.thoracic.org/statements/resources/cc/niv-guidelines.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clin2-fc-flB-sPYNJ34-1",
+    "lectureId": "flB-sPYNJ34",
+    "front": "How does heart rate usually change during inspiration in respiratory sinus arrhythmia?",
+    "back": "It increases; the R-R interval shortens.",
+    "explanation": "Expiration usually produces the opposite pattern.",
+    "references": [
+      {
+        "title": "Cleveland Clinic — sinus arrhythmia",
+        "url": "https://my.clevelandclinic.org/health/diseases/21666-sinus-arrhythmia"
+      },
+      {
+        "title": "Children's Hospital of The King's Daughters — sinus arrhythmia",
+        "url": "https://www.chkd.org/media/dfinp1p3/sinus-arrythmia-handout.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clin2-fc-flB-sPYNJ34-2",
+    "lectureId": "flB-sPYNJ34",
+    "front": "What P-wave finding supports a sinus origin despite respiratory irregularity?",
+    "back": "Consistent sinus P waves before each QRS.",
+    "explanation": "The rhythm origin remains sinus even though its timing varies.",
+    "references": [
+      {
+        "title": "Cleveland Clinic — sinus arrhythmia",
+        "url": "https://my.clevelandclinic.org/health/diseases/21666-sinus-arrhythmia"
+      },
+      {
+        "title": "Children's Hospital of The King's Daughters — sinus arrhythmia",
+        "url": "https://www.chkd.org/media/dfinp1p3/sinus-arrythmia-handout.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clin2-fc-flB-sPYNJ34-3",
+    "lectureId": "flB-sPYNJ34",
+    "front": "Does asymptomatic physiologic respiratory sinus arrhythmia require an antiarrhythmic?",
+    "back": "No.",
+    "explanation": "Treating a normal variant provides no rhythm benefit and adds drug risk.",
+    "references": [
+      {
+        "title": "Cleveland Clinic — sinus arrhythmia",
+        "url": "https://my.clevelandclinic.org/health/diseases/21666-sinus-arrhythmia"
+      },
+      {
+        "title": "Children's Hospital of The King's Daughters — sinus arrhythmia",
+        "url": "https://www.chkd.org/media/dfinp1p3/sinus-arrythmia-handout.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clin2-fc-flB-sPYNJ34-4",
+    "lectureId": "flB-sPYNJ34",
+    "front": "What distinguishes atrial fibrillation from a respiratory sinus rhythm on ECG?",
+    "back": "Atrial fibrillation lacks consistent organized sinus P waves.",
+    "explanation": "Irregularity alone is not enough to name the rhythm.",
+    "references": [
+      {
+        "title": "Cleveland Clinic — sinus arrhythmia",
+        "url": "https://my.clevelandclinic.org/health/diseases/21666-sinus-arrhythmia"
+      },
+      {
+        "title": "Children's Hospital of The King's Daughters — sinus arrhythmia",
+        "url": "https://www.chkd.org/media/dfinp1p3/sinus-arrythmia-handout.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clin2-fc-flB-sPYNJ34-5",
+    "lectureId": "flB-sPYNJ34",
+    "front": "Does respiratory sinus arrhythmia exclude a serious cause of exertional syncope?",
+    "back": "No.",
+    "explanation": "Assess warning symptoms and family history independently.",
+    "references": [
+      {
+        "title": "Cleveland Clinic — sinus arrhythmia",
+        "url": "https://my.clevelandclinic.org/health/diseases/21666-sinus-arrhythmia"
+      },
+      {
+        "title": "Children's Hospital of The King's Daughters — sinus arrhythmia",
+        "url": "https://www.chkd.org/media/dfinp1p3/sinus-arrythmia-handout.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clin2-fc-3ZM6nOx4hpw-1",
+    "lectureId": "3ZM6nOx4hpw",
+    "front": "Which blunt-trauma findings support spinal motion restriction?",
+    "back": "Midline pain/tenderness or focal neurologic symptoms, among other risk findings.",
+    "explanation": "Preserved consciousness does not exclude injury.",
+    "references": [
+      {
+        "title": "American College of Surgeons — Spine Injury Best Practices Guidelines",
+        "url": "https://www.facs.org/media/k45gikqv/spine_injury_guidelines.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clin2-fc-3ZM6nOx4hpw-2",
+    "lectureId": "3ZM6nOx4hpw",
+    "front": "Why does intoxication limit clinical spine clearance?",
+    "back": "It can make symptom reporting and examination unreliable.",
+    "explanation": "A negative history alone is insufficient.",
+    "references": [
+      {
+        "title": "American College of Surgeons — Spine Injury Best Practices Guidelines",
+        "url": "https://www.facs.org/media/k45gikqv/spine_injury_guidelines.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clin2-fc-3ZM6nOx4hpw-3",
+    "lectureId": "3ZM6nOx4hpw",
+    "front": "Is routine immobilization required for every isolated penetrating injury without neurologic signs?",
+    "back": "No. Do not delay lifesaving care for routine packaging.",
+    "explanation": "Assess mechanism and findings rather than applying a blanket rule.",
+    "references": [
+      {
+        "title": "American College of Surgeons — Spine Injury Best Practices Guidelines",
+        "url": "https://www.facs.org/media/k45gikqv/spine_injury_guidelines.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clin2-fc-3ZM6nOx4hpw-4",
+    "lectureId": "3ZM6nOx4hpw",
+    "front": "Should a long backboard remain in place indefinitely after arrival?",
+    "back": "No. Arrange timely supported transfer when safe.",
+    "explanation": "An extrication device and ongoing spinal precautions are not the same thing.",
+    "references": [
+      {
+        "title": "American College of Surgeons — Spine Injury Best Practices Guidelines",
+        "url": "https://www.facs.org/media/k45gikqv/spine_injury_guidelines.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clin2-fc-3ZM6nOx4hpw-5",
+    "lectureId": "3ZM6nOx4hpw",
+    "front": "What takes priority when airway obstruction occurs in suspected cervical injury?",
+    "back": "Restoring oxygenation while minimizing neck movement.",
+    "explanation": "Use trained assistance and appropriate airway techniques.",
+    "references": [
+      {
+        "title": "American College of Surgeons — Spine Injury Best Practices Guidelines",
+        "url": "https://www.facs.org/media/k45gikqv/spine_injury_guidelines.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clin2-fc-x7i4lCVPhF0-1",
+    "lectureId": "x7i4lCVPhF0",
+    "front": "Where does a laryngeal mask airway seal?",
+    "back": "Around the laryngeal inlet, above the vocal cords.",
+    "explanation": "It is a supraglottic rather than intratracheal device.",
+    "references": [
+      {
+        "title": "ASA 2022 — difficult airway guidance",
+        "url": "https://doi.org/10.1097/ALN.0000000000004002"
+      },
+      {
+        "title": "AHA 2025 — advanced airway strategy during CPR",
+        "url": "https://cpr.heart.org/-/media/CPR-Files/CPR-Guidelines-Files/2025-Algorithms/ALS-Schematic-representation-of-ALS-recommendations.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clin2-fc-x7i4lCVPhF0-2",
+    "lectureId": "x7i4lCVPhF0",
+    "front": "What is the immediate purpose of a supraglottic rescue airway after failed intubation?",
+    "back": "Restore oxygenation and ventilation.",
+    "explanation": "Definitive planning follows once oxygen delivery is stabilized.",
+    "references": [
+      {
+        "title": "ASA 2022 — difficult airway guidance",
+        "url": "https://doi.org/10.1097/ALN.0000000000004002"
+      },
+      {
+        "title": "AHA 2025 — advanced airway strategy during CPR",
+        "url": "https://cpr.heart.org/-/media/CPR-Files/CPR-Guidelines-Files/2025-Algorithms/ALS-Schematic-representation-of-ALS-recommendations.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clin2-fc-x7i4lCVPhF0-3",
+    "lectureId": "x7i4lCVPhF0",
+    "front": "Does successful supraglottic rescue automatically justify continuing an elective procedure?",
+    "back": "No. Reassess the airway plan and whether to awaken the patient.",
+    "explanation": "The next step depends on the clinical context and available expertise.",
+    "references": [
+      {
+        "title": "ASA 2022 — difficult airway guidance",
+        "url": "https://doi.org/10.1097/ALN.0000000000004002"
+      },
+      {
+        "title": "AHA 2025 — advanced airway strategy during CPR",
+        "url": "https://cpr.heart.org/-/media/CPR-Files/CPR-Guidelines-Files/2025-Algorithms/ALS-Schematic-representation-of-ALS-recommendations.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clin2-fc-x7i4lCVPhF0-4",
+    "lectureId": "x7i4lCVPhF0",
+    "front": "What is required when mask ventilation, supraglottic rescue and intubation all fail to oxygenate?",
+    "back": "Timely escalation to an emergency invasive-airway pathway.",
+    "explanation": "Avoid repeated ineffective attempts that prolong hypoxemia.",
+    "references": [
+      {
+        "title": "ASA 2022 — difficult airway guidance",
+        "url": "https://doi.org/10.1097/ALN.0000000000004002"
+      },
+      {
+        "title": "AHA 2025 — advanced airway strategy during CPR",
+        "url": "https://cpr.heart.org/-/media/CPR-Files/CPR-Guidelines-Files/2025-Algorithms/ALS-Schematic-representation-of-ALS-recommendations.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clin2-fc-x7i4lCVPhF0-5",
+    "lectureId": "x7i4lCVPhF0",
+    "front": "How should local intubation skill affect advanced-airway choice in cardiac arrest?",
+    "back": "Use a strategy the team can perform reliably; a supraglottic airway is reasonable with limited intubation proficiency.",
+    "explanation": "Protect compression quality and verify ventilation.",
+    "references": [
+      {
+        "title": "ASA 2022 — difficult airway guidance",
+        "url": "https://doi.org/10.1097/ALN.0000000000004002"
+      },
+      {
+        "title": "AHA 2025 — advanced airway strategy during CPR",
+        "url": "https://cpr.heart.org/-/media/CPR-Files/CPR-Guidelines-Files/2025-Algorithms/ALS-Schematic-representation-of-ALS-recommendations.pdf"
+      }
+    ]
+  }
+]

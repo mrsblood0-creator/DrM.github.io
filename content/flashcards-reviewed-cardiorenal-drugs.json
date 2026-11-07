@@ -1,0 +1,887 @@
+[
+  {
+    "id": "reviewed-cardiorenal-drugs-aA80ZoAvz18-1-fc",
+    "lectureId": "aA80ZoAvz18",
+    "front": "Where do loop diuretics inhibit sodium transport?",
+    "back": "NKCC2 inhibition in the thick ascending limb",
+    "explanation": "Loop diuretics inhibit sodium-potassium-chloride transport in the thick ascending limb.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=aA80ZoAvz18"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-aA80ZoAvz18-2-fc",
+    "lectureId": "aA80ZoAvz18",
+    "front": "Which potassium abnormality can loop diuretics cause?",
+    "back": "Hypokalemia",
+    "explanation": "Loop and thiazide diuretics can increase distal potassium loss.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=aA80ZoAvz18"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-aA80ZoAvz18-3-fc",
+    "lectureId": "aA80ZoAvz18",
+    "front": "What auditory toxicity is associated with high-risk furosemide exposure?",
+    "back": "Ototoxicity",
+    "explanation": "High exposure or rapid IV administration of loop diuretics can injure hearing, especially with other ototoxic agents.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=aA80ZoAvz18"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-aA80ZoAvz18-4-fc",
+    "lectureId": "aA80ZoAvz18",
+    "front": "How do loop diuretics affect urinary calcium?",
+    "back": "Increased urinary calcium excretion",
+    "explanation": "Loop blockade reduces the lumen-positive driving force for paracellular calcium reabsorption.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=aA80ZoAvz18"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-aA80ZoAvz18-5-fc",
+    "lectureId": "aA80ZoAvz18",
+    "front": "What complication can excessive loop diuresis produce?",
+    "back": "Intravascular volume depletion",
+    "explanation": "Excessive diuresis can cause hypotension, prerenal dysfunction and electrolyte loss.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=aA80ZoAvz18"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-m5txre8vTpA-1-fc",
+    "lectureId": "m5txre8vTpA",
+    "front": "What transporter is inhibited by thiazides?",
+    "back": "NCC inhibition in the distal convoluted tubule",
+    "explanation": "Thiazides inhibit the distal sodium-chloride cotransporter.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=m5txre8vTpA"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-m5txre8vTpA-2-fc",
+    "lectureId": "m5txre8vTpA",
+    "front": "What sodium disturbance can thiazides cause?",
+    "back": "Hyponatremia",
+    "explanation": "Thiazides can impair urinary dilution and cause clinically important hyponatremia.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=m5txre8vTpA"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-m5txre8vTpA-3-fc",
+    "lectureId": "m5txre8vTpA",
+    "front": "What urate effect can make thiazides problematic in gout?",
+    "back": "Hyperuricemia",
+    "explanation": "Loop and thiazide treatment can reduce urate elimination and precipitate gout.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=m5txre8vTpA"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-m5txre8vTpA-4-fc",
+    "lectureId": "m5txre8vTpA",
+    "front": "How do thiazides affect urinary calcium excretion?",
+    "back": "Reduced urinary calcium excretion",
+    "explanation": "Thiazides increase calcium reabsorption and lower urine calcium.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=m5txre8vTpA"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-m5txre8vTpA-5-fc",
+    "lectureId": "m5txre8vTpA",
+    "front": "What potassium disturbance may develop during thiazide treatment?",
+    "back": "Hypokalemia",
+    "explanation": "Loop and thiazide diuretics can increase distal potassium loss.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=m5txre8vTpA"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-8y8xLTZdAzU-1-fc",
+    "lectureId": "8y8xLTZdAzU",
+    "front": "What receptor is blocked by spironolactone?",
+    "back": "Mineralocorticoid receptor antagonism",
+    "explanation": "Spironolactone and eplerenone block aldosterone signaling and reduce potassium secretion.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=8y8xLTZdAzU"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8f0291a9-c8a6-4298-a540-23abc01fae09"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-8y8xLTZdAzU-2-fc",
+    "lectureId": "8y8xLTZdAzU",
+    "front": "What channel is directly blocked by amiloride?",
+    "back": "ENaC blockade in the collecting system",
+    "explanation": "Amiloride and triamterene directly block epithelial sodium channels.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=8y8xLTZdAzU"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8f0291a9-c8a6-4298-a540-23abc01fae09"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-8y8xLTZdAzU-3-fc",
+    "lectureId": "8y8xLTZdAzU",
+    "front": "What major electrolyte danger accompanies potassium-sparing diuretics?",
+    "back": "Hyperkalemia",
+    "explanation": "Potassium-sparing diuretics can raise potassium, especially with renal impairment or other potassium-raising medicines.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=8y8xLTZdAzU"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8f0291a9-c8a6-4298-a540-23abc01fae09"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-8y8xLTZdAzU-4-fc",
+    "lectureId": "8y8xLTZdAzU",
+    "front": "What breast-related adverse effect can spironolactone cause?",
+    "back": "Gynecomastia",
+    "explanation": "Spironolactone’s additional hormonal effects can cause breast enlargement or tenderness.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=8y8xLTZdAzU"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8f0291a9-c8a6-4298-a540-23abc01fae09"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-8y8xLTZdAzU-5-fc",
+    "lectureId": "8y8xLTZdAzU",
+    "front": "Which therapeutic mechanism is shared by eplerenone and spironolactone?",
+    "back": "Mineralocorticoid receptor antagonism",
+    "explanation": "Spironolactone and eplerenone block aldosterone signaling and reduce potassium secretion.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=8y8xLTZdAzU"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8f0291a9-c8a6-4298-a540-23abc01fae09"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-y_QNg88uHLU-1-fc",
+    "lectureId": "y_QNg88uHLU",
+    "front": "What enzyme is inhibited by acetazolamide?",
+    "back": "Carbonic anhydrase inhibition",
+    "explanation": "Acetazolamide reduces bicarbonate reabsorption, predominantly in the proximal tubule.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=y_QNg88uHLU"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d6fba129-ac6e-4d04-bd09-8470be4e7ecc"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-y_QNg88uHLU-2-fc",
+    "lectureId": "y_QNg88uHLU",
+    "front": "What acid-base disturbance can acetazolamide cause?",
+    "back": "Metabolic acidosis from bicarbonate loss",
+    "explanation": "Acetazolamide promotes bicarbonaturia and can cause hyperchloremic metabolic acidosis.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=y_QNg88uHLU"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d6fba129-ac6e-4d04-bd09-8470be4e7ecc"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-y_QNg88uHLU-3-fc",
+    "lectureId": "y_QNg88uHLU",
+    "front": "Which potassium abnormality can accompany acetazolamide therapy?",
+    "back": "Hypokalemia",
+    "explanation": "Loop and thiazide diuretics can increase distal potassium loss.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=y_QNg88uHLU"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d6fba129-ac6e-4d04-bd09-8470be4e7ecc"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-y_QNg88uHLU-4-fc",
+    "lectureId": "y_QNg88uHLU",
+    "front": "Why is pre-existing hyperchloremic acidosis a concern with acetazolamide?",
+    "back": "Metabolic acidosis from bicarbonate loss",
+    "explanation": "Acetazolamide promotes bicarbonaturia and can cause hyperchloremic metabolic acidosis.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=y_QNg88uHLU"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d6fba129-ac6e-4d04-bd09-8470be4e7ecc"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-y_QNg88uHLU-5-fc",
+    "lectureId": "y_QNg88uHLU",
+    "front": "Which mechanism links acetazolamide’s ocular and renal actions?",
+    "back": "Carbonic anhydrase inhibition",
+    "explanation": "Acetazolamide reduces bicarbonate reabsorption, predominantly in the proximal tubule.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=y_QNg88uHLU"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d6fba129-ac6e-4d04-bd09-8470be4e7ecc"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-OHP-TllOYjk-1-fc",
+    "lectureId": "OHP-TllOYjk",
+    "front": "How does mannitol produce osmotic diuresis?",
+    "back": "Increased tubular fluid osmolality",
+    "explanation": "Filtered mannitol retains water in the tubular lumen without directly blocking a sodium transporter.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=OHP-TllOYjk"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-OHP-TllOYjk-2-fc",
+    "lectureId": "OHP-TllOYjk",
+    "front": "Why can mannitol worsen pulmonary edema initially?",
+    "back": "Expansion of intravascular volume",
+    "explanation": "Mannitol can initially draw water into the circulation and worsen pulmonary edema in susceptible patients.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=OHP-TllOYjk"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-OHP-TllOYjk-3-fc",
+    "lectureId": "OHP-TllOYjk",
+    "front": "What volume complication can follow excessive osmotic diuresis?",
+    "back": "Intravascular volume depletion",
+    "explanation": "Excessive diuresis can cause hypotension, prerenal dysfunction and electrolyte loss.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=OHP-TllOYjk"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-OHP-TllOYjk-4-fc",
+    "lectureId": "OHP-TllOYjk",
+    "front": "What distinguishes mannitol from an aldosterone antagonist?",
+    "back": "Increased tubular fluid osmolality",
+    "explanation": "Filtered mannitol retains water in the tubular lumen without directly blocking a sodium transporter.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=OHP-TllOYjk"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-OHP-TllOYjk-5-fc",
+    "lectureId": "OHP-TllOYjk",
+    "front": "What volume risk arises when mannitol accumulates rather than being excreted?",
+    "back": "Expansion of intravascular volume",
+    "explanation": "Mannitol can initially draw water into the circulation and worsen pulmonary edema in susceptible patients.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=OHP-TllOYjk"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-itlm6w0M2W0-1-fc",
+    "lectureId": "itlm6w0M2W0",
+    "front": "Which diuretic class acts at NKCC2?",
+    "back": "NKCC2 inhibition in the thick ascending limb",
+    "explanation": "Loop diuretics inhibit sodium-potassium-chloride transport in the thick ascending limb.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=itlm6w0M2W0"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-itlm6w0M2W0-2-fc",
+    "lectureId": "itlm6w0M2W0",
+    "front": "Which diuretic mechanism targets the distal sodium-chloride cotransporter?",
+    "back": "NCC inhibition in the distal convoluted tubule",
+    "explanation": "Thiazides inhibit the distal sodium-chloride cotransporter.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=itlm6w0M2W0"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-itlm6w0M2W0-3-fc",
+    "lectureId": "itlm6w0M2W0",
+    "front": "Which diuretic mechanism opposes aldosterone signaling?",
+    "back": "Mineralocorticoid receptor antagonism",
+    "explanation": "Spironolactone and eplerenone block aldosterone signaling and reduce potassium secretion.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=itlm6w0M2W0"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-itlm6w0M2W0-4-fc",
+    "lectureId": "itlm6w0M2W0",
+    "front": "Why can excessive diuresis cause postural dizziness?",
+    "back": "Intravascular volume depletion",
+    "explanation": "Excessive diuresis can cause hypotension, prerenal dysfunction and electrolyte loss.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=itlm6w0M2W0"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-itlm6w0M2W0-5-fc",
+    "lectureId": "itlm6w0M2W0",
+    "front": "What risk is created by combining potassium-sparing drugs with potassium supplements?",
+    "back": "Hyperkalemia",
+    "explanation": "Potassium-sparing diuretics can raise potassium, especially with renal impairment or other potassium-raising medicines.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=itlm6w0M2W0"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-AMlntTP1YQA-1-fc",
+    "lectureId": "AMlntTP1YQA",
+    "front": "Which alpha1 blocker is classically associated with first-dose syncope?",
+    "back": "Prazosin",
+    "explanation": "Prazosin blocks alpha1 receptors and can produce marked first-dose orthostatic hypotension.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=AMlntTP1YQA"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-AMlntTP1YQA-2-fc",
+    "lectureId": "AMlntTP1YQA",
+    "front": "Which alpha blocker preferentially targets lower urinary tract alpha1A effects?",
+    "back": "Tamsulosin",
+    "explanation": "Tamsulosin preferentially targets alpha1A-mediated lower urinary tract smooth-muscle tone.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=AMlntTP1YQA"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-AMlntTP1YQA-3-fc",
+    "lectureId": "AMlntTP1YQA",
+    "front": "Why can selective alpha1 blockers cause orthostatic symptoms?",
+    "back": "Orthostatic hypotension",
+    "explanation": "Alpha1 blockade reduces the vasoconstrictor response to standing.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=AMlntTP1YQA"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-AMlntTP1YQA-4-fc",
+    "lectureId": "AMlntTP1YQA",
+    "front": "What cataract-surgery complication is associated with tamsulosin?",
+    "back": "Intraoperative floppy iris syndrome",
+    "explanation": "Alpha1 antagonists, especially tamsulosin, are associated with floppy iris during cataract surgery.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=AMlntTP1YQA"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-AMlntTP1YQA-5-fc",
+    "lectureId": "AMlntTP1YQA",
+    "front": "What hemodynamic risk increases when terazosin is combined with other pressure-lowering drugs?",
+    "back": "Orthostatic hypotension",
+    "explanation": "Alpha1 blockade reduces the vasoconstrictor response to standing.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=AMlntTP1YQA"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-Y6Qf_lb3oKc-1-fc",
+    "lectureId": "Y6Qf_lb3oKc",
+    "front": "Which nonselective alpha blocker acts irreversibly?",
+    "back": "Phenoxybenzamine",
+    "explanation": "Phenoxybenzamine irreversibly blocks alpha receptors and is used in selected pheochromocytoma preparations.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Y6Qf_lb3oKc"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-Y6Qf_lb3oKc-2-fc",
+    "lectureId": "Y6Qf_lb3oKc",
+    "front": "Which nonselective alpha blocker is reversible?",
+    "back": "Phentolamine",
+    "explanation": "Phentolamine is a reversible nonselective alpha antagonist with selected acute uses.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Y6Qf_lb3oKc"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-Y6Qf_lb3oKc-3-fc",
+    "lectureId": "Y6Qf_lb3oKc",
+    "front": "What blockade must precede beta blockade in pheochromocytoma?",
+    "back": "Establish alpha blockade before adding beta blockade",
+    "explanation": "In pheochromocytoma, beta blockade before adequate alpha blockade can worsen vasoconstriction.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Y6Qf_lb3oKc"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-Y6Qf_lb3oKc-4-fc",
+    "lectureId": "Y6Qf_lb3oKc",
+    "front": "How can nonselective alpha blockade increase norepinephrine release?",
+    "back": "Presynaptic alpha2 blockade",
+    "explanation": "Blocking alpha2 feedback can increase norepinephrine release and contribute to tachycardia with nonselective alpha antagonists.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Y6Qf_lb3oKc"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-Y6Qf_lb3oKc-5-fc",
+    "lectureId": "Y6Qf_lb3oKc",
+    "front": "What posture-related adverse effect can occur with phenoxybenzamine?",
+    "back": "Orthostatic hypotension",
+    "explanation": "Alpha1 blockade reduces the vasoconstrictor response to standing.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Y6Qf_lb3oKc"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-3cDJbezsavY-1-fc",
+    "lectureId": "3cDJbezsavY",
+    "front": "Which listed adrenergic antagonist blocks both beta1 and beta2 receptors?",
+    "back": "Propranolol",
+    "explanation": "Propranolol blocks both beta1 and beta2 receptors.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=3cDJbezsavY"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-3cDJbezsavY-2-fc",
+    "lectureId": "3cDJbezsavY",
+    "front": "Why can propranolol worsen bronchospasm?",
+    "back": "Beta2 blockade causing bronchoconstriction",
+    "explanation": "Nonselective beta blockers can aggravate bronchospasm in susceptible patients.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=3cDJbezsavY"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-3cDJbezsavY-3-fc",
+    "lectureId": "3cDJbezsavY",
+    "front": "What receptor action explains propranolol-associated bradycardia?",
+    "back": "Beta1 blockade reducing heart rate",
+    "explanation": "Cardiac beta1 blockade slows rate and can worsen bradycardia or conduction disease.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=3cDJbezsavY"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-3cDJbezsavY-4-fc",
+    "lectureId": "3cDJbezsavY",
+    "front": "How can propranolol alter awareness of hypoglycemia?",
+    "back": "Masking adrenergic hypoglycemia symptoms",
+    "explanation": "Beta blockade can blunt warning signs such as tremor and tachycardia.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=3cDJbezsavY"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-3cDJbezsavY-5-fc",
+    "lectureId": "3cDJbezsavY",
+    "front": "Why should long-term propranolol not be stopped abruptly without a plan?",
+    "back": "Rebound adrenergic effects after abrupt withdrawal",
+    "explanation": "Abrupt cessation of long-term beta blockade can exacerbate angina or tachycardia.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=3cDJbezsavY"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-bHg14k22JqQ-1-fc",
+    "lectureId": "bHg14k22JqQ",
+    "front": "What enzyme is inhibited by statins?",
+    "back": "HMG-CoA reductase inhibition",
+    "explanation": "Statins inhibit the rate-limiting enzyme in hepatic cholesterol synthesis.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=bHg14k22JqQ"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-bHg14k22JqQ-2-fc",
+    "lectureId": "bHg14k22JqQ",
+    "front": "How does reduced hepatic cholesterol synthesis increase LDL clearance?",
+    "back": "Increased hepatic LDL receptor expression",
+    "explanation": "Reduced hepatic cholesterol promotes LDL receptor expression and circulating LDL clearance.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=bHg14k22JqQ"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-bHg14k22JqQ-3-fc",
+    "lectureId": "bHg14k22JqQ",
+    "front": "What statin complication is suggested by muscle symptoms and markedly elevated CK?",
+    "back": "Statin-associated muscle injury",
+    "explanation": "New muscle pain with marked CK elevation requires assessment for myopathy or rhabdomyolysis.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=bHg14k22JqQ"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-bHg14k22JqQ-4-fc",
+    "lectureId": "bHg14k22JqQ",
+    "front": "Why can a CYP3A4 inhibitor increase simvastatin toxicity?",
+    "back": "Increased statin exposure through a drug interaction",
+    "explanation": "CYP3A4 inhibitors can increase exposure to susceptible statins such as simvastatin.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=bHg14k22JqQ"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-bHg14k22JqQ-5-fc",
+    "lectureId": "bHg14k22JqQ",
+    "front": "What clinical outcome motivates appropriate statin therapy beyond lowering LDL?",
+    "back": "Reduction of atherosclerotic cardiovascular risk",
+    "explanation": "Appropriate statin therapy reduces cardiovascular events, not merely the laboratory LDL number.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=bHg14k22JqQ"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs--ekVYKeK_OY-1-fc",
+    "lectureId": "-ekVYKeK_OY",
+    "front": "What mechanism commonly causes amlodipine ankle edema?",
+    "back": "Precapillary arteriolar dilation",
+    "explanation": "Preferential arteriolar dilation increases capillary hydrostatic pressure and can cause dependent edema without primary fluid overload.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=-ekVYKeK_OY"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs--ekVYKeK_OY-2-fc",
+    "lectureId": "-ekVYKeK_OY",
+    "front": "What explains facial warmth and redness during amlodipine treatment?",
+    "back": "Vasodilatory flushing",
+    "explanation": "Cutaneous vasodilation can cause warmth and flushing.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=-ekVYKeK_OY"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs--ekVYKeK_OY-3-fc",
+    "lectureId": "-ekVYKeK_OY",
+    "front": "What common pain symptom can accompany amlodipine vasodilation?",
+    "back": "Vasodilatory headache",
+    "explanation": "Headache can occur with vasodilator therapy and must be interpreted in clinical context.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=-ekVYKeK_OY"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs--ekVYKeK_OY-4-fc",
+    "lectureId": "-ekVYKeK_OY",
+    "front": "What heartbeat-related symptom can occur with amlodipine?",
+    "back": "Palpitations",
+    "explanation": "A patient may notice a forceful or rapid heartbeat during vasodilator treatment; persistent symptoms need assessment.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=-ekVYKeK_OY"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs--ekVYKeK_OY-5-fc",
+    "lectureId": "-ekVYKeK_OY",
+    "front": "What vascular action links amlodipine benefit with several common adverse effects?",
+    "back": "Arteriolar L-type calcium-channel blockade",
+    "explanation": "Amlodipine predominantly relaxes vascular smooth muscle and lowers systemic resistance.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=-ekVYKeK_OY"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-NzkVcA6xfEY-1-fc",
+    "lectureId": "NzkVcA6xfEY",
+    "front": "What dangerous hemodynamic effect can excessive amlodipine produce?",
+    "back": "Symptomatic hypotension",
+    "explanation": "Excessive blood-pressure reduction can cause dizziness, syncope or impaired perfusion.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=NzkVcA6xfEY"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-NzkVcA6xfEY-2-fc",
+    "lectureId": "NzkVcA6xfEY",
+    "front": "What serious reaction is suggested by swelling and breathing difficulty after amlodipine?",
+    "back": "Serious hypersensitivity",
+    "explanation": "A prior serious hypersensitivity reaction to amlodipine is a contraindication to re-exposure.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=NzkVcA6xfEY"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-NzkVcA6xfEY-3-fc",
+    "lectureId": "NzkVcA6xfEY",
+    "front": "What coronary symptom can rarely worsen after amlodipine initiation or escalation?",
+    "back": "Worsening angina after initiation or dose increase",
+    "explanation": "Rarely, worsening angina or infarction can occur, particularly with severe obstructive coronary disease; new chest pain needs urgent evaluation.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=NzkVcA6xfEY"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-NzkVcA6xfEY-4-fc",
+    "lectureId": "NzkVcA6xfEY",
+    "front": "What should be assessed when syncope follows adding amlodipine to other vasodilators?",
+    "back": "Symptomatic hypotension",
+    "explanation": "Excessive blood-pressure reduction can cause dizziness, syncope or impaired perfusion.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=NzkVcA6xfEY"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-NzkVcA6xfEY-5-fc",
+    "lectureId": "NzkVcA6xfEY",
+    "front": "Why can hepatic impairment increase amlodipine adverse effects?",
+    "back": "Slower clearance in hepatic impairment",
+    "explanation": "Hepatic impairment can increase amlodipine exposure and calls for cautious dosing and titration.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=NzkVcA6xfEY"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-MH_uA2e34PY-1-fc",
+    "lectureId": "MH_uA2e34PY",
+    "front": "What prior reaction is a contraindication to amlodipine re-exposure?",
+    "back": "Serious hypersensitivity",
+    "explanation": "A prior serious hypersensitivity reaction to amlodipine is a contraindication to re-exposure.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=MH_uA2e34PY"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-MH_uA2e34PY-2-fc",
+    "lectureId": "MH_uA2e34PY",
+    "front": "Why is additional amlodipine concerning in symptomatic severe hypotension?",
+    "back": "Symptomatic hypotension",
+    "explanation": "Excessive blood-pressure reduction can cause dizziness, syncope or impaired perfusion.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=MH_uA2e34PY"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-MH_uA2e34PY-3-fc",
+    "lectureId": "MH_uA2e34PY",
+    "front": "What dosing precaution is relevant to amlodipine in hepatic impairment?",
+    "back": "Slower clearance in hepatic impairment",
+    "explanation": "Hepatic impairment can increase amlodipine exposure and calls for cautious dosing and titration.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=MH_uA2e34PY"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-MH_uA2e34PY-4-fc",
+    "lectureId": "MH_uA2e34PY",
+    "front": "What symptom warrants urgent evaluation after amlodipine initiation in severe coronary disease?",
+    "back": "Worsening angina after initiation or dose increase",
+    "explanation": "Rarely, worsening angina or infarction can occur, particularly with severe obstructive coronary disease; new chest pain needs urgent evaluation.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=MH_uA2e34PY"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-MH_uA2e34PY-5-fc",
+    "lectureId": "MH_uA2e34PY",
+    "front": "Why distinguish amlodipine warnings and precautions from absolute contraindications?",
+    "back": "Distinguish a precaution from an absolute contraindication",
+    "explanation": "Clinical cautions require individualized assessment; a lecture list should not turn every risk factor into an absolute prohibition.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=MH_uA2e34PY"
+      }
+    ]
+  }
+]

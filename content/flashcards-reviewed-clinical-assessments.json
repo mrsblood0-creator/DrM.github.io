@@ -1,0 +1,597 @@
+[
+  {
+    "id": "reviewed-clinical-assessments-2y7SaQNkKPY-1-fc",
+    "lectureId": "2y7SaQNkKPY",
+    "front": "What should persistent low mood or anhedonia with impairment prompt?",
+    "back": "Assess for a depressive episode",
+    "explanation": "Persistent low mood or loss of interest with associated symptoms and impairment requires a full diagnostic assessment, usually over at least two weeks.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=2y7SaQNkKPY"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.who.int/publications/i/item/9789240077263"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clinical-assessments-2y7SaQNkKPY-2-fc",
+    "lectureId": "2y7SaQNkKPY",
+    "front": "What past mood history must be checked when assessing depression?",
+    "back": "Assess prior mania or hypomania",
+    "explanation": "A history of elevated mood, reduced need for sleep and increased activity may indicate bipolar disorder rather than unipolar depression.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=2y7SaQNkKPY"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.who.int/publications/i/item/9789240077263"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clinical-assessments-2y7SaQNkKPY-3-fc",
+    "lectureId": "2y7SaQNkKPY",
+    "front": "What is the priority when a depressed patient has current suicidal intent and a plan?",
+    "back": "Immediate suicide-risk assessment and safety planning",
+    "explanation": "Current suicidal intent, planning or inability to stay safe requires urgent assessment and protective support.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=2y7SaQNkKPY"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.who.int/publications/i/item/9789240077263"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clinical-assessments-2y7SaQNkKPY-4-fc",
+    "lectureId": "2y7SaQNkKPY",
+    "front": "What feature is present when a depressive episode includes delusions?",
+    "back": "Depression with psychotic symptoms",
+    "explanation": "Mood episodes may include delusions or hallucinations; psychotic features change assessment and treatment urgency.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=2y7SaQNkKPY"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.who.int/publications/i/item/9789240077263"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clinical-assessments-2y7SaQNkKPY-5-fc",
+    "lectureId": "2y7SaQNkKPY",
+    "front": "What pattern is suggested by recurrent winter depression with seasonal remission?",
+    "back": "A recurrent seasonal pattern",
+    "explanation": "Repeated episodes linked to a particular season, with remission at other times, support a seasonal course pattern after alternatives are assessed.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=2y7SaQNkKPY"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.who.int/publications/i/item/9789240077263"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clinical-assessments-VGOgvCTZbWQ-1-fc",
+    "lectureId": "VGOgvCTZbWQ",
+    "front": "What does having two unprovoked seizures more than 24 hours apart support?",
+    "back": "Epilepsy after two unprovoked seizures more than 24 hours apart",
+    "explanation": "This is one route to the ILAE clinical definition; other routes include sufficiently high recurrence risk after one seizure or a defined epilepsy syndrome.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=VGOgvCTZbWQ"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.ilae.org/guidelines/guidelines-and-reports/a-practical-clinical-definition-of-epilepsy"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clinical-assessments-VGOgvCTZbWQ-2-fc",
+    "lectureId": "VGOgvCTZbWQ",
+    "front": "Does a seizure during a transient severe metabolic insult alone establish epilepsy?",
+    "back": "Acute symptomatic seizure",
+    "explanation": "A seizure during a transient acute metabolic insult does not by itself establish epilepsy.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=VGOgvCTZbWQ"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.ilae.org/guidelines/guidelines-and-reports/a-practical-clinical-definition-of-epilepsy"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clinical-assessments-VGOgvCTZbWQ-3-fc",
+    "lectureId": "VGOgvCTZbWQ",
+    "front": "What seizure onset is suggested by an initial unilateral motor march?",
+    "back": "Focal seizure onset",
+    "explanation": "Initial signs arising from a limited network in one hemisphere support focal onset, even if bilateral convulsions later occur.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=VGOgvCTZbWQ"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.ilae.org/guidelines/guidelines-and-reports/a-practical-clinical-definition-of-epilepsy"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clinical-assessments-VGOgvCTZbWQ-4-fc",
+    "lectureId": "VGOgvCTZbWQ",
+    "front": "When does ongoing bilateral tonic-clonic seizure activity require status treatment?",
+    "back": "Convulsive status epilepticus requiring emergency treatment",
+    "explanation": "An ongoing bilateral tonic-clonic seizure at five minutes warrants emergency treatment; do not wait for a prolonged historical threshold.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=VGOgvCTZbWQ"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.ilae.org/guidelines/guidelines-and-reports/a-practical-clinical-definition-of-epilepsy"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clinical-assessments-VGOgvCTZbWQ-5-fc",
+    "lectureId": "VGOgvCTZbWQ",
+    "front": "Can sufficiently high recurrence risk establish epilepsy after one unprovoked seizure?",
+    "back": "High predicted recurrence risk can establish epilepsy after one seizure",
+    "explanation": "The ILAE definition allows one unprovoked seizure with a recurrence risk of at least 60% over ten years in an appropriate assessment.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=VGOgvCTZbWQ"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.ilae.org/guidelines/guidelines-and-reports/a-practical-clinical-definition-of-epilepsy"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clinical-assessments-0_2fuz8UDCM-1-fc",
+    "lectureId": "0_2fuz8UDCM",
+    "front": "What syndrome combines pharyngitis, posterior cervical nodes and atypical lymphocytes?",
+    "back": "Epstein-Barr virus infectious mononucleosis",
+    "explanation": "Fever, pharyngitis, posterior cervical lymphadenopathy and atypical lymphocytes are a classic presentation.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=0_2fuz8UDCM"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.cdc.gov/epstein-barr/about/mononucleosis.html"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clinical-assessments-0_2fuz8UDCM-2-fc",
+    "lectureId": "0_2fuz8UDCM",
+    "front": "What are the atypical lymphocytes in EBV mononucleosis mainly?",
+    "back": "Reactive cytotoxic T lymphocytes",
+    "explanation": "The atypical lymphocytes in EBV mononucleosis are largely activated T cells responding to infected B cells.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=0_2fuz8UDCM"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.cdc.gov/epstein-barr/about/mononucleosis.html"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clinical-assessments-0_2fuz8UDCM-3-fc",
+    "lectureId": "0_2fuz8UDCM",
+    "front": "Does an early negative heterophile test exclude EBV mononucleosis?",
+    "back": "Early negative heterophile testing does not exclude EBV",
+    "explanation": "Test sensitivity depends on timing and age; EBV-specific serology may be appropriate when suspicion persists.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=0_2fuz8UDCM"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.cdc.gov/epstein-barr/about/mononucleosis.html"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clinical-assessments-0_2fuz8UDCM-4-fc",
+    "lectureId": "0_2fuz8UDCM",
+    "front": "How should an amoxicillin-associated rash during EBV infection be interpreted?",
+    "back": "An aminopenicillin-associated rash during EBV infection",
+    "explanation": "A rash after amoxicillin in EBV does not automatically establish permanent IgE-mediated penicillin allergy.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=0_2fuz8UDCM"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.cdc.gov/epstein-barr/about/mononucleosis.html"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clinical-assessments-0_2fuz8UDCM-5-fc",
+    "lectureId": "0_2fuz8UDCM",
+    "front": "Why are contact sports restricted during recovery from mononucleosis?",
+    "back": "Splenic rupture risk",
+    "explanation": "Splenic enlargement during mononucleosis makes contact sports or abdominal trauma hazardous until medically cleared.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=0_2fuz8UDCM"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.cdc.gov/epstein-barr/about/mononucleosis.html"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clinical-assessments-LRSnJiTug_U-1-fc",
+    "lectureId": "LRSnJiTug_U",
+    "front": "What lymphoma is associated with rapid growth, mature B cells and MYC rearrangement?",
+    "back": "Burkitt lymphoma",
+    "explanation": "A rapidly growing mature B-cell lymphoma with MYC rearrangement and a very high proliferative rate fits Burkitt lymphoma.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=LRSnJiTug_U"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.cancer.gov/types/lymphoma/hp/child-nhl-treatment-pdq"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clinical-assessments-LRSnJiTug_U-2-fc",
+    "lectureId": "LRSnJiTug_U",
+    "front": "What oncogene is characteristically dysregulated in Burkitt lymphoma?",
+    "back": "MYC activation",
+    "explanation": "Dysregulated MYC promotes the rapid proliferation characteristic of Burkitt lymphoma.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=LRSnJiTug_U"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.cancer.gov/types/lymphoma/hp/child-nhl-treatment-pdq"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clinical-assessments-LRSnJiTug_U-3-fc",
+    "lectureId": "LRSnJiTug_U",
+    "front": "What is the classic Burkitt lymphoma translocation?",
+    "back": "t(8;14) involving MYC and the immunoglobulin heavy-chain locus",
+    "explanation": "This is the classic translocation; variant immunoglobulin-locus translocations also occur.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=LRSnJiTug_U"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.cancer.gov/types/lymphoma/hp/child-nhl-treatment-pdq"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clinical-assessments-LRSnJiTug_U-4-fc",
+    "lectureId": "LRSnJiTug_U",
+    "front": "What creates the stars in a Burkitt starry-sky pattern?",
+    "back": "Tingible-body macrophages among proliferating tumor cells",
+    "explanation": "Macrophages containing apoptotic debris create the pale stars in the starry-sky pattern.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=LRSnJiTug_U"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.cancer.gov/types/lymphoma/hp/child-nhl-treatment-pdq"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clinical-assessments-LRSnJiTug_U-5-fc",
+    "lectureId": "LRSnJiTug_U",
+    "front": "What metabolic emergency is especially important in rapidly proliferating Burkitt lymphoma?",
+    "back": "Tumor lysis syndrome",
+    "explanation": "Rapid cell breakdown can produce hyperkalemia, hyperphosphatemia, hyperuricemia and kidney injury before or after therapy.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=LRSnJiTug_U"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.cancer.gov/types/lymphoma/hp/child-nhl-treatment-pdq"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clinical-assessments-UXESa5Dtsmo-1-fc",
+    "lectureId": "UXESa5Dtsmo",
+    "front": "CURB-65: age 42, oriented, urea 5, RR 22, BP 118/74?",
+    "back": "0",
+    "explanation": "None of the five criteria is present, so the score is 0. Clinical judgment still matters.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=UXESa5Dtsmo"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.nice.org.uk/guidance/NG250/chapter/recommendations"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clinical-assessments-UXESa5Dtsmo-2-fc",
+    "lectureId": "UXESa5Dtsmo",
+    "front": "CURB-65: age 70, oriented, urea 5, RR 24, BP 120/72?",
+    "back": "1",
+    "explanation": "Age at least 65 contributes one point; the other criteria are absent.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=UXESa5Dtsmo"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.nice.org.uk/guidance/NG250/chapter/recommendations"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clinical-assessments-UXESa5Dtsmo-3-fc",
+    "lectureId": "UXESa5Dtsmo",
+    "front": "CURB-65: age 68, oriented, urea 9, RR 24, BP 116/70?",
+    "back": "2",
+    "explanation": "Age and urea each contribute one point, for a total of 2.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=UXESa5Dtsmo"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.nice.org.uk/guidance/NG250/chapter/recommendations"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clinical-assessments-UXESa5Dtsmo-4-fc",
+    "lectureId": "UXESa5Dtsmo",
+    "front": "CURB-65: age 72, oriented, urea 10, RR 32, BP 114/70?",
+    "back": "3",
+    "explanation": "Age, elevated urea and respiratory rate each contribute one point, totaling 3.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=UXESa5Dtsmo"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.nice.org.uk/guidance/NG250/chapter/recommendations"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clinical-assessments-UXESa5Dtsmo-5-fc",
+    "lectureId": "UXESa5Dtsmo",
+    "front": "CURB-65: age 78, confused, urea 12, RR 34, BP 84/56?",
+    "back": "5",
+    "explanation": "All five criteria are present. Low systolic and diastolic pressure together still count as only one blood-pressure point.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=UXESa5Dtsmo"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.nice.org.uk/guidance/NG250/chapter/recommendations"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clinical-assessments-pS4kTCLMFj0-1-fc",
+    "lectureId": "pS4kTCLMFj0",
+    "front": "Which AIS grade has no sacral sensory or motor sparing?",
+    "back": "AIS A",
+    "explanation": "No sacral sensory or motor function is preserved at S4-S5.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=pS4kTCLMFj0"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://asia-spinalinjury.org/isncsci-resources/"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clinical-assessments-pS4kTCLMFj0-2-fc",
+    "lectureId": "pS4kTCLMFj0",
+    "front": "Which AIS grade is sensory incomplete without motor-incomplete criteria?",
+    "back": "AIS B",
+    "explanation": "Sacral sensory sparing is present, but motor-incomplete criteria are not met.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=pS4kTCLMFj0"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://asia-spinalinjury.org/isncsci-resources/"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clinical-assessments-pS4kTCLMFj0-3-fc",
+    "lectureId": "pS4kTCLMFj0",
+    "front": "Which AIS motor-incomplete grade has fewer than half of key muscles below NLI at grade 3 or higher?",
+    "back": "AIS C",
+    "explanation": "Motor-incomplete injury is present and fewer than half of key muscles below the single neurological level have grade at least 3.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=pS4kTCLMFj0"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://asia-spinalinjury.org/isncsci-resources/"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clinical-assessments-pS4kTCLMFj0-4-fc",
+    "lectureId": "pS4kTCLMFj0",
+    "front": "Which AIS motor-incomplete grade has at least half of key muscles below NLI at grade 3 or higher?",
+    "back": "AIS D",
+    "explanation": "Motor-incomplete injury is present and at least half of key muscles below the single neurological level have grade at least 3.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=pS4kTCLMFj0"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://asia-spinalinjury.org/isncsci-resources/"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clinical-assessments-pS4kTCLMFj0-5-fc",
+    "lectureId": "pS4kTCLMFj0",
+    "front": "Which AIS grade describes a normal examination after prior SCI-related deficits?",
+    "back": "AIS E",
+    "explanation": "Sensory and motor examination is normal in a patient who previously had SCI-related deficits.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=pS4kTCLMFj0"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://asia-spinalinjury.org/isncsci-resources/"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clinical-assessments-6JqmBkahN18-1-fc",
+    "lectureId": "6JqmBkahN18",
+    "front": "Which menstrual date starts conventional pregnancy dating?",
+    "back": "First day of the last menstrual period",
+    "explanation": "Conventional menstrual dating starts from the first day of the LMP, not the last bleeding day or presumed conception day.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=6JqmBkahN18"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/05/methods-for-estimating-the-due-date"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clinical-assessments-6JqmBkahN18-2-fc",
+    "lectureId": "6JqmBkahN18",
+    "front": "What interval is added to LMP in conventional 28-day-cycle dating?",
+    "back": "280 days from the first day of the LMP",
+    "explanation": "The conventional estimate assumes a 28-day cycle and ovulation around day 14.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=6JqmBkahN18"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/05/methods-for-estimating-the-due-date"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clinical-assessments-6JqmBkahN18-3-fc",
+    "lectureId": "6JqmBkahN18",
+    "front": "What is the 280-day EDD for LMP 10 January 2026?",
+    "back": "17 October 2026",
+    "explanation": "Adding 280 days to 10 January 2026 gives 17 October 2026.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=6JqmBkahN18"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/05/methods-for-estimating-the-due-date"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clinical-assessments-6JqmBkahN18-4-fc",
+    "lectureId": "6JqmBkahN18",
+    "front": "What limits an unadjusted Naegele estimate in irregular or non-28-day cycles?",
+    "back": "Account for cycle length and reliability of menstrual dating",
+    "explanation": "A non-28-day or irregular cycle limits an unadjusted LMP estimate.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=6JqmBkahN18"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/05/methods-for-estimating-the-due-date"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-clinical-assessments-6JqmBkahN18-5-fc",
+    "lectureId": "6JqmBkahN18",
+    "front": "What helps establish dating when LMP is unreliable?",
+    "back": "Use the best obstetric estimate, including early ultrasound",
+    "explanation": "First-trimester ultrasound can improve dating when menstrual history is unreliable; formal redating guidance applies.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=6JqmBkahN18"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/05/methods-for-estimating-the-due-date"
+      }
+    ]
+  }
+]

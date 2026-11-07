@@ -1,0 +1,115 @@
+﻿{
+    "lectureId":  "yMqQIE1BgAE",
+    "status":  "unreviewed-ocr",
+    "source":  "Windows OCR of low-resolution YouTube preview frames",
+    "frames":  [
+                   {
+                       "src":  "video-frames/yMqQIE1BgAE-0.jpg",
+                       "seconds":  0,
+                       "text":  "penicillin",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/yMqQIE1BgAE-10.jpg",
+                       "seconds":  100,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/yMqQIE1BgAE-23.jpg",
+                       "seconds":  230,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/yMqQIE1BgAE-35.jpg",
+                       "seconds":  350,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/yMqQIE1BgAE-41.jpg",
+                       "seconds":  410,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/yMqQIE1BgAE-48.jpg",
+                       "seconds":  480,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/yMqQIE1BgAE-52.jpg",
+                       "seconds":  520,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/yMqQIE1BgAE-61.jpg",
+                       "seconds":  610,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/yMqQIE1BgAE-67.jpg",
+                       "seconds":  670,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/yMqQIE1BgAE-71.jpg",
+                       "seconds":  710,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/yMqQIE1BgAE-73.jpg",
+                       "seconds":  730,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/yMqQIE1BgAE-81.jpg",
+                       "seconds":  810,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/yMqQIE1BgAE-86.jpg",
+                       "seconds":  860,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/yMqQIE1BgAE-95.jpg",
+                       "seconds":  950,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/yMqQIE1BgAE-100.jpg",
+                       "seconds":  1000,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/yMqQIE1BgAE-110.jpg",
+                       "seconds":  1100,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/yMqQIE1BgAE-116.jpg",
+                       "seconds":  1160,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/yMqQIE1BgAE-121.jpg",
+                       "seconds":  1210,
+                       "text":  "",
+                       "reviewed":  false
+                   }
+               ]
+}

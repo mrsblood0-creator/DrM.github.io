@@ -1,0 +1,151 @@
+﻿{
+    "lectureId":  "tJtsmSfDyP0",
+    "status":  "unreviewed-ocr",
+    "source":  "Windows OCR of low-resolution YouTube preview frames",
+    "frames":  [
+                   {
+                       "src":  "video-frames/tJtsmSfDyP0-0.jpg",
+                       "seconds":  0,
+                       "text":  "Antibiotics.\nIntroduction",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/tJtsmSfDyP0-10.jpg",
+                       "seconds":  100,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/tJtsmSfDyP0-21.jpg",
+                       "seconds":  210,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/tJtsmSfDyP0-28.jpg",
+                       "seconds":  280,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/tJtsmSfDyP0-36.jpg",
+                       "seconds":  360,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/tJtsmSfDyP0-40.jpg",
+                       "seconds":  400,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/tJtsmSfDyP0-47.jpg",
+                       "seconds":  470,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/tJtsmSfDyP0-59.jpg",
+                       "seconds":  590,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/tJtsmSfDyP0-72.jpg",
+                       "seconds":  720,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/tJtsmSfDyP0-81.jpg",
+                       "seconds":  810,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/tJtsmSfDyP0-89.jpg",
+                       "seconds":  890,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/tJtsmSfDyP0-101.jpg",
+                       "seconds":  1010,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/tJtsmSfDyP0-105.jpg",
+                       "seconds":  1050,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/tJtsmSfDyP0-106.jpg",
+                       "seconds":  1060,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/tJtsmSfDyP0-115.jpg",
+                       "seconds":  1150,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/tJtsmSfDyP0-125.jpg",
+                       "seconds":  1250,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/tJtsmSfDyP0-141.jpg",
+                       "seconds":  1410,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/tJtsmSfDyP0-152.jpg",
+                       "seconds":  1520,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/tJtsmSfDyP0-161.jpg",
+                       "seconds":  1610,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/tJtsmSfDyP0-167.jpg",
+                       "seconds":  1670,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/tJtsmSfDyP0-178.jpg",
+                       "seconds":  1780,
+                       "text":  "_ Sil",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/tJtsmSfDyP0-187.jpg",
+                       "seconds":  1870,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/tJtsmSfDyP0-190.jpg",
+                       "seconds":  1900,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/tJtsmSfDyP0-205.jpg",
+                       "seconds":  2050,
+                       "text":  "",
+                       "reviewed":  false
+                   }
+               ]
+}

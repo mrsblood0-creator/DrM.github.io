@@ -1,0 +1,679 @@
+﻿{
+    "lectureId":  "s-FAbPatgwI",
+    "status":  "unreviewed-ocr",
+    "source":  "Windows OCR of low-resolution YouTube preview frames",
+    "frames":  [
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-0.jpg",
+                       "seconds":  0,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-4.jpg",
+                       "seconds":  40,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-5.jpg",
+                       "seconds":  50,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-6.jpg",
+                       "seconds":  60,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-7.jpg",
+                       "seconds":  70,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-8.jpg",
+                       "seconds":  80,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-9.jpg",
+                       "seconds":  90,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-10.jpg",
+                       "seconds":  100,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-11.jpg",
+                       "seconds":  110,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-12.jpg",
+                       "seconds":  120,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-13.jpg",
+                       "seconds":  130,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-14.jpg",
+                       "seconds":  140,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-15.jpg",
+                       "seconds":  150,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-16.jpg",
+                       "seconds":  160,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-17.jpg",
+                       "seconds":  170,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-18.jpg",
+                       "seconds":  180,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-19.jpg",
+                       "seconds":  190,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-20.jpg",
+                       "seconds":  200,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-21.jpg",
+                       "seconds":  210,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-22.jpg",
+                       "seconds":  220,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-23.jpg",
+                       "seconds":  230,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-24.jpg",
+                       "seconds":  240,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-25.jpg",
+                       "seconds":  250,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-26.jpg",
+                       "seconds":  260,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-27.jpg",
+                       "seconds":  270,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-28.jpg",
+                       "seconds":  280,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-29.jpg",
+                       "seconds":  290,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-30.jpg",
+                       "seconds":  300,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-31.jpg",
+                       "seconds":  310,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-32.jpg",
+                       "seconds":  320,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-33.jpg",
+                       "seconds":  330,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-34.jpg",
+                       "seconds":  340,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-35.jpg",
+                       "seconds":  350,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-36.jpg",
+                       "seconds":  360,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-37.jpg",
+                       "seconds":  370,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-38.jpg",
+                       "seconds":  380,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-39.jpg",
+                       "seconds":  390,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-40.jpg",
+                       "seconds":  400,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-41.jpg",
+                       "seconds":  410,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-42.jpg",
+                       "seconds":  420,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-43.jpg",
+                       "seconds":  430,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-44.jpg",
+                       "seconds":  440,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-45.jpg",
+                       "seconds":  450,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-46.jpg",
+                       "seconds":  460,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-47.jpg",
+                       "seconds":  470,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-48.jpg",
+                       "seconds":  480,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-49.jpg",
+                       "seconds":  490,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-50.jpg",
+                       "seconds":  500,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-51.jpg",
+                       "seconds":  510,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-52.jpg",
+                       "seconds":  520,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-53.jpg",
+                       "seconds":  530,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-54.jpg",
+                       "seconds":  540,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-55.jpg",
+                       "seconds":  550,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-56.jpg",
+                       "seconds":  560,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-57.jpg",
+                       "seconds":  570,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-58.jpg",
+                       "seconds":  580,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-59.jpg",
+                       "seconds":  590,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-60.jpg",
+                       "seconds":  600,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-61.jpg",
+                       "seconds":  610,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-62.jpg",
+                       "seconds":  620,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-63.jpg",
+                       "seconds":  630,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-64.jpg",
+                       "seconds":  640,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-65.jpg",
+                       "seconds":  650,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-66.jpg",
+                       "seconds":  660,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-67.jpg",
+                       "seconds":  670,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-68.jpg",
+                       "seconds":  680,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-69.jpg",
+                       "seconds":  690,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-70.jpg",
+                       "seconds":  700,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-71.jpg",
+                       "seconds":  710,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-72.jpg",
+                       "seconds":  720,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-73.jpg",
+                       "seconds":  730,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-74.jpg",
+                       "seconds":  740,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-75.jpg",
+                       "seconds":  750,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-76.jpg",
+                       "seconds":  760,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-77.jpg",
+                       "seconds":  770,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-78.jpg",
+                       "seconds":  780,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-79.jpg",
+                       "seconds":  790,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-80.jpg",
+                       "seconds":  800,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-81.jpg",
+                       "seconds":  810,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-82.jpg",
+                       "seconds":  820,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-83.jpg",
+                       "seconds":  830,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-84.jpg",
+                       "seconds":  840,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-85.jpg",
+                       "seconds":  850,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-86.jpg",
+                       "seconds":  860,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-87.jpg",
+                       "seconds":  870,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-88.jpg",
+                       "seconds":  880,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-89.jpg",
+                       "seconds":  890,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-90.jpg",
+                       "seconds":  900,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-91.jpg",
+                       "seconds":  910,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-92.jpg",
+                       "seconds":  920,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-93.jpg",
+                       "seconds":  930,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-94.jpg",
+                       "seconds":  940,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-95.jpg",
+                       "seconds":  950,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-96.jpg",
+                       "seconds":  960,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-97.jpg",
+                       "seconds":  970,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-98.jpg",
+                       "seconds":  980,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-99.jpg",
+                       "seconds":  990,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-100.jpg",
+                       "seconds":  1000,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-101.jpg",
+                       "seconds":  1010,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-102.jpg",
+                       "seconds":  1020,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-103.jpg",
+                       "seconds":  1030,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-104.jpg",
+                       "seconds":  1040,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-105.jpg",
+                       "seconds":  1050,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-106.jpg",
+                       "seconds":  1060,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-107.jpg",
+                       "seconds":  1070,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-108.jpg",
+                       "seconds":  1080,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-109.jpg",
+                       "seconds":  1090,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-110.jpg",
+                       "seconds":  1100,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-111.jpg",
+                       "seconds":  1110,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-112.jpg",
+                       "seconds":  1120,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-113.jpg",
+                       "seconds":  1130,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/s-FAbPatgwI-114.jpg",
+                       "seconds":  1140,
+                       "text":  "",
+                       "reviewed":  false
+                   }
+               ]
+}

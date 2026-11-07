@@ -1,0 +1,103 @@
+﻿{
+    "lectureId":  "ornBG-kfd_w",
+    "status":  "unreviewed-ocr",
+    "source":  "Windows OCR of low-resolution YouTube preview frames",
+    "frames":  [
+                   {
+                       "src":  "video-frames/ornBG-kfd_w-0.jpg",
+                       "seconds":  0,
+                       "text":  "Types of penicillin",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/ornBG-kfd_w-9.jpg",
+                       "seconds":  90,
+                       "text":  "Classification",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/ornBG-kfd_w-29.jpg",
+                       "seconds":  290,
+                       "text":  "Benzyl {penc\"iirt G)",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/ornBG-kfd_w-34.jpg",
+                       "seconds":  340,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/ornBG-kfd_w-36.jpg",
+                       "seconds":  360,
+                       "text":  "Modifications to Penicillin G",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/ornBG-kfd_w-52.jpg",
+                       "seconds":  520,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/ornBG-kfd_w-53.jpg",
+                       "seconds":  530,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/ornBG-kfd_w-54.jpg",
+                       "seconds":  540,
+                       "text":  "Antistaphven.ciii)n/heta jartama.sr: resistant\npeno:illini",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/ornBG-kfd_w-67.jpg",
+                       "seconds":  670,
+                       "text":  "Amino spectrum\npervcillin•4",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/ornBG-kfd_w-90.jpg",
+                       "seconds":  900,
+                       "text":  "spectrum",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/ornBG-kfd_w-95.jpg",
+                       "seconds":  950,
+                       "text":  "Amino penili\"in",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/ornBG-kfd_w-102.jpg",
+                       "seconds":  1020,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/ornBG-kfd_w-103.jpg",
+                       "seconds":  1030,
+                       "text":  "anti pSeudornonal penilillin\n••„•.l.ii..",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/ornBG-kfd_w-118.jpg",
+                       "seconds":  1180,
+                       "text":  "Anti pseudomonal penicillin",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/ornBG-kfd_w-119.jpg",
+                       "seconds":  1190,
+                       "text":  "Anti",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/ornBG-kfd_w-120.jpg",
+                       "seconds":  1200,
+                       "text":  "Anti pseudomonal penicillin",
+                       "reviewed":  false
+                   }
+               ]
+}

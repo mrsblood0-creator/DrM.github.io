@@ -1,0 +1,85 @@
+﻿{
+    "lectureId":  "iFo2ROztdGs",
+    "status":  "unreviewed-ocr",
+    "source":  "Windows OCR of low-resolution YouTube preview frames",
+    "frames":  [
+                   {
+                       "src":  "video-frames/iFo2ROztdGs-0.jpg",
+                       "seconds":  0,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/iFo2ROztdGs-1.jpg",
+                       "seconds":  5,
+                       "text":  "INTRACELLULAR\nACCUMULATIONS\n01\n.1",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/iFo2ROztdGs-10.jpg",
+                       "seconds":  50,
+                       "text":  "Mechanism of Intracellular Accumulations\ngri\nproductid/\u0027",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/iFo2ROztdGs-23.jpg",
+                       "seconds":  115,
+                       "text":  "Fatty Chenge (Steatosis)\n•i Of\nWibiiri teas\ngeeri\nO•abetes",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/iFo2ROztdGs-42.jpg",
+                       "seconds":  210,
+                       "text":  "Cholesterol \u0026 Cholesteryl Esters\nCal.l.ulzf is\n• —elk triayheC01tie\nwitn in pottli\u003elosic\not",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/iFo2ROztdGs-54.jpg",
+                       "seconds":  270,
+                       "text":  "Proteins\nLet lipid\nirnOL\"1tsa\u0027\nalbur\u0027ilin in in the",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/iFo2ROztdGs-75.jpg",
+                       "seconds":  375,
+                       "text":  "Glycogen\nAssociated witi\u0027i in lhe\nmetabolism gf eithetgiikOse ot\n$15fag,e",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/iFo2ROztdGs-85.jpg",
+                       "seconds":  425,
+                       "text":  "Pigments\nPigtnet\u0027its eoufd\n• Cybo•n\n• U pofuwn.",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/iFo2ROztdGs-89.jpg",
+                       "seconds":  445,
+                       "text":  "Carbon\nactun\u0027iult\"ed\nViheti ilthaLed, it ig\nand transported\nto to ttv",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/iFo2ROztdGs-101.jpg",
+                       "seconds":  505,
+                       "text":  "Lipofuscin\ngranui.ar\nit*raeeii.u/zf Pigment\nin and brain\n*ing",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/iFo2ROztdGs-111.jpg",
+                       "seconds":  555,
+                       "text":  "Melanin\ngrawr\u0027l-LCbt;k",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/iFo2ROztdGs-120.jpg",
+                       "seconds":  600,
+                       "text":  "Hemosiderin\n• Yel.lawtå brown\nderived •rarit\niron\npat\"oioejc in\nsg\u0027een aM\non agocy\u0027te:B",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/iFo2ROztdGs-135.jpg",
+                       "seconds":  675,
+                       "text":  "",
+                       "reviewed":  false
+                   }
+               ]
+}

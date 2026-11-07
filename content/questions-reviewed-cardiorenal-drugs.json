@@ -1,0 +1,1927 @@
+[
+  {
+    "id": "reviewed-cardiorenal-drugs-aA80ZoAvz18-1",
+    "lectureId": "aA80ZoAvz18",
+    "title": "Loop diuretics: 1",
+    "prompt": "A patient with congestive edema receives furosemide and has increased urinary sodium excretion. The drug acts in the thick ascending limb rather than the distal convoluted tubule. Which transporter is its principal target?",
+    "options": [
+      "Mineralocorticoid receptor antagonism",
+      "ENaC blockade in the collecting system",
+      "Carbonic anhydrase inhibition",
+      "NKCC2 inhibition in the thick ascending limb",
+      "NCC inhibition in the distal convoluted tubule"
+    ],
+    "answer": "NKCC2 inhibition in the thick ascending limb",
+    "explanation": "Loop diuretics inhibit sodium-potassium-chloride transport in the thick ascending limb.",
+    "distractorExplanations": {
+      "NKCC2 inhibition in the thick ascending limb": "Loop diuretics inhibit sodium-potassium-chloride transport in the thick ascending limb.",
+      "NCC inhibition in the distal convoluted tubule": "Thiazides inhibit the distal sodium-chloride cotransporter. This does not best answer the specific question in this case.",
+      "Mineralocorticoid receptor antagonism": "Spironolactone and eplerenone block aldosterone signaling and reduce potassium secretion. This does not best answer the specific question in this case.",
+      "ENaC blockade in the collecting system": "Amiloride and triamterene directly block epithelial sodium channels. This does not best answer the specific question in this case.",
+      "Carbonic anhydrase inhibition": "Acetazolamide reduces bicarbonate reabsorption, predominantly in the proximal tubule. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=aA80ZoAvz18"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-aA80ZoAvz18-2",
+    "lectureId": "aA80ZoAvz18",
+    "title": "Loop diuretics: 2",
+    "prompt": "After several days of increased furosemide dosing, a patient develops muscle weakness and a low serum potassium concentration. Which electrolyte adverse effect best explains the laboratory and clinical findings following enhanced distal sodium delivery?",
+    "options": [
+      "Metabolic acidosis from bicarbonate loss",
+      "Contraction-associated metabolic alkalosis",
+      "Hypokalemia",
+      "Hyperkalemia",
+      "Hyponatremia"
+    ],
+    "answer": "Hypokalemia",
+    "explanation": "Loop and thiazide diuretics can increase distal potassium loss.",
+    "distractorExplanations": {
+      "Hypokalemia": "Loop and thiazide diuretics can increase distal potassium loss.",
+      "Hyperkalemia": "Potassium-sparing diuretics can raise potassium, especially with renal impairment or other potassium-raising medicines. This does not best answer the specific question in this case.",
+      "Hyponatremia": "Thiazides can impair urinary dilution and cause clinically important hyponatremia. This does not best answer the specific question in this case.",
+      "Metabolic acidosis from bicarbonate loss": "Acetazolamide promotes bicarbonaturia and can cause hyperchloremic metabolic acidosis. This does not best answer the specific question in this case.",
+      "Contraction-associated metabolic alkalosis": "Volume and chloride depletion with loop or thiazide treatment can promote metabolic alkalosis. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=aA80ZoAvz18"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-aA80ZoAvz18-3",
+    "lectureId": "aA80ZoAvz18",
+    "title": "Loop diuretics: 3",
+    "prompt": "A patient develops tinnitus after rapid intravenous administration of a high furosemide dose while also receiving another ototoxic medicine. Which recognized loop-diuretic adverse effect best explains the new sensory symptom in this setting?",
+    "options": [
+      "Metabolic acidosis from bicarbonate loss",
+      "Ototoxicity",
+      "Hypokalemia",
+      "Hyperkalemia",
+      "Hyponatremia"
+    ],
+    "answer": "Ototoxicity",
+    "explanation": "High exposure or rapid IV administration of loop diuretics can injure hearing, especially with other ototoxic agents.",
+    "distractorExplanations": {
+      "Ototoxicity": "High exposure or rapid IV administration of loop diuretics can injure hearing, especially with other ototoxic agents.",
+      "Hypokalemia": "Loop and thiazide diuretics can increase distal potassium loss. This does not best answer the specific question in this case.",
+      "Hyperkalemia": "Potassium-sparing diuretics can raise potassium, especially with renal impairment or other potassium-raising medicines. This does not best answer the specific question in this case.",
+      "Hyponatremia": "Thiazides can impair urinary dilution and cause clinically important hyponatremia. This does not best answer the specific question in this case.",
+      "Metabolic acidosis from bicarbonate loss": "Acetazolamide promotes bicarbonaturia and can cause hyperchloremic metabolic acidosis. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=aA80ZoAvz18"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-aA80ZoAvz18-4",
+    "lectureId": "aA80ZoAvz18",
+    "title": "Loop diuretics: 4",
+    "prompt": "A patient receiving a loop diuretic has reduced lumen-positive voltage in the thick ascending limb. Which change in urinary calcium handling follows from reduced paracellular calcium reabsorption at this nephron segment during treatment?",
+    "options": [
+      "Increased urinary calcium excretion",
+      "Hypokalemia",
+      "Hyperkalemia",
+      "Hyponatremia",
+      "Metabolic acidosis from bicarbonate loss"
+    ],
+    "answer": "Increased urinary calcium excretion",
+    "explanation": "Loop blockade reduces the lumen-positive driving force for paracellular calcium reabsorption.",
+    "distractorExplanations": {
+      "Increased urinary calcium excretion": "Loop blockade reduces the lumen-positive driving force for paracellular calcium reabsorption.",
+      "Hypokalemia": "Loop and thiazide diuretics can increase distal potassium loss. This does not best answer the specific question in this case.",
+      "Hyperkalemia": "Potassium-sparing diuretics can raise potassium, especially with renal impairment or other potassium-raising medicines. This does not best answer the specific question in this case.",
+      "Hyponatremia": "Thiazides can impair urinary dilution and cause clinically important hyponatremia. This does not best answer the specific question in this case.",
+      "Metabolic acidosis from bicarbonate loss": "Acetazolamide promotes bicarbonaturia and can cause hyperchloremic metabolic acidosis. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=aA80ZoAvz18"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-aA80ZoAvz18-5",
+    "lectureId": "aA80ZoAvz18",
+    "title": "Loop diuretics: 5",
+    "prompt": "A patient’s edema improves after intensive diuresis, but orthostatic dizziness and a rising creatinine develop. Examination suggests low circulating volume rather than persistent congestion. Which adverse physiological state should prompt reassessment of the diuretic regimen?",
+    "options": [
+      "Hypokalemia",
+      "Hyperkalemia",
+      "Hyponatremia",
+      "Metabolic acidosis from bicarbonate loss",
+      "Intravascular volume depletion"
+    ],
+    "answer": "Intravascular volume depletion",
+    "explanation": "Excessive diuresis can cause hypotension, prerenal dysfunction and electrolyte loss.",
+    "distractorExplanations": {
+      "Intravascular volume depletion": "Excessive diuresis can cause hypotension, prerenal dysfunction and electrolyte loss.",
+      "Hypokalemia": "Loop and thiazide diuretics can increase distal potassium loss. This does not best answer the specific question in this case.",
+      "Hyperkalemia": "Potassium-sparing diuretics can raise potassium, especially with renal impairment or other potassium-raising medicines. This does not best answer the specific question in this case.",
+      "Hyponatremia": "Thiazides can impair urinary dilution and cause clinically important hyponatremia. This does not best answer the specific question in this case.",
+      "Metabolic acidosis from bicarbonate loss": "Acetazolamide promotes bicarbonaturia and can cause hyperchloremic metabolic acidosis. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=aA80ZoAvz18"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-m5txre8vTpA-1",
+    "lectureId": "m5txre8vTpA",
+    "title": "Thiazide diuretics: 1",
+    "prompt": "A patient with hypertension starts hydrochlorothiazide. The medication reduces sodium reabsorption in the distal convoluted tubule rather than the loop of Henle. Which transport target best explains the renal action of this diuretic?",
+    "options": [
+      "Carbonic anhydrase inhibition",
+      "NCC inhibition in the distal convoluted tubule",
+      "NKCC2 inhibition in the thick ascending limb",
+      "Mineralocorticoid receptor antagonism",
+      "ENaC blockade in the collecting system"
+    ],
+    "answer": "NCC inhibition in the distal convoluted tubule",
+    "explanation": "Thiazides inhibit the distal sodium-chloride cotransporter.",
+    "distractorExplanations": {
+      "NCC inhibition in the distal convoluted tubule": "Thiazides inhibit the distal sodium-chloride cotransporter.",
+      "NKCC2 inhibition in the thick ascending limb": "Loop diuretics inhibit sodium-potassium-chloride transport in the thick ascending limb. This does not best answer the specific question in this case.",
+      "Mineralocorticoid receptor antagonism": "Spironolactone and eplerenone block aldosterone signaling and reduce potassium secretion. This does not best answer the specific question in this case.",
+      "ENaC blockade in the collecting system": "Amiloride and triamterene directly block epithelial sodium channels. This does not best answer the specific question in this case.",
+      "Carbonic anhydrase inhibition": "Acetazolamide reduces bicarbonate reabsorption, predominantly in the proximal tubule. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=m5txre8vTpA"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-m5txre8vTpA-2",
+    "lectureId": "m5txre8vTpA",
+    "title": "Thiazide diuretics: 2",
+    "prompt": "An older patient develops confusion after starting a thiazide. Laboratory testing shows markedly reduced serum sodium, and the clinical assessment excludes another clear cause. Which recognized electrolyte complication of this drug class should be considered?",
+    "options": [
+      "Hyponatremia",
+      "Hypokalemia",
+      "Hyperkalemia",
+      "Metabolic acidosis from bicarbonate loss",
+      "Contraction-associated metabolic alkalosis"
+    ],
+    "answer": "Hyponatremia",
+    "explanation": "Thiazides can impair urinary dilution and cause clinically important hyponatremia.",
+    "distractorExplanations": {
+      "Hyponatremia": "Thiazides can impair urinary dilution and cause clinically important hyponatremia.",
+      "Hypokalemia": "Loop and thiazide diuretics can increase distal potassium loss. This does not best answer the specific question in this case.",
+      "Hyperkalemia": "Potassium-sparing diuretics can raise potassium, especially with renal impairment or other potassium-raising medicines. This does not best answer the specific question in this case.",
+      "Metabolic acidosis from bicarbonate loss": "Acetazolamide promotes bicarbonaturia and can cause hyperchloremic metabolic acidosis. This does not best answer the specific question in this case.",
+      "Contraction-associated metabolic alkalosis": "Volume and chloride depletion with loop or thiazide treatment can promote metabolic alkalosis. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=m5txre8vTpA"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-m5txre8vTpA-3",
+    "lectureId": "m5txre8vTpA",
+    "title": "Thiazide diuretics: 3",
+    "prompt": "A patient treated with a thiazide develops an acutely painful red first metatarsophalangeal joint and an elevated serum urate. Which drug-related metabolic effect can contribute to this gout presentation after treatment begins?",
+    "options": [
+      "Hypokalemia",
+      "Hyperkalemia",
+      "Hyponatremia",
+      "Metabolic acidosis from bicarbonate loss",
+      "Hyperuricemia"
+    ],
+    "answer": "Hyperuricemia",
+    "explanation": "Loop and thiazide treatment can reduce urate elimination and precipitate gout.",
+    "distractorExplanations": {
+      "Hyperuricemia": "Loop and thiazide treatment can reduce urate elimination and precipitate gout.",
+      "Hypokalemia": "Loop and thiazide diuretics can increase distal potassium loss. This does not best answer the specific question in this case.",
+      "Hyperkalemia": "Potassium-sparing diuretics can raise potassium, especially with renal impairment or other potassium-raising medicines. This does not best answer the specific question in this case.",
+      "Hyponatremia": "Thiazides can impair urinary dilution and cause clinically important hyponatremia. This does not best answer the specific question in this case.",
+      "Metabolic acidosis from bicarbonate loss": "Acetazolamide promotes bicarbonaturia and can cause hyperchloremic metabolic acidosis. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=m5txre8vTpA"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-m5txre8vTpA-4",
+    "lectureId": "m5txre8vTpA",
+    "title": "Thiazide diuretics: 4",
+    "prompt": "A patient with recurrent calcium stones and hypercalciuria is considered for a thiazide when appropriate. Which change in renal calcium handling explains the rationale for using this diuretic in selected stone-prevention regimens?",
+    "options": [
+      "Hyperkalemia",
+      "Hyponatremia",
+      "Metabolic acidosis from bicarbonate loss",
+      "Reduced urinary calcium excretion",
+      "Hypokalemia"
+    ],
+    "answer": "Reduced urinary calcium excretion",
+    "explanation": "Thiazides increase calcium reabsorption and lower urine calcium.",
+    "distractorExplanations": {
+      "Reduced urinary calcium excretion": "Thiazides increase calcium reabsorption and lower urine calcium.",
+      "Hypokalemia": "Loop and thiazide diuretics can increase distal potassium loss. This does not best answer the specific question in this case.",
+      "Hyperkalemia": "Potassium-sparing diuretics can raise potassium, especially with renal impairment or other potassium-raising medicines. This does not best answer the specific question in this case.",
+      "Hyponatremia": "Thiazides can impair urinary dilution and cause clinically important hyponatremia. This does not best answer the specific question in this case.",
+      "Metabolic acidosis from bicarbonate loss": "Acetazolamide promotes bicarbonaturia and can cause hyperchloremic metabolic acidosis. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=m5txre8vTpA"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-m5txre8vTpA-5",
+    "lectureId": "m5txre8vTpA",
+    "title": "Thiazide diuretics: 5",
+    "prompt": "A patient taking hydrochlorothiazide develops muscle cramps and a potassium concentration below the reference range. Which recognized electrolyte effect of the medication best accounts for these findings through increased distal potassium secretion?",
+    "options": [
+      "Metabolic acidosis from bicarbonate loss",
+      "Contraction-associated metabolic alkalosis",
+      "Hypokalemia",
+      "Hyperkalemia",
+      "Hyponatremia"
+    ],
+    "answer": "Hypokalemia",
+    "explanation": "Loop and thiazide diuretics can increase distal potassium loss.",
+    "distractorExplanations": {
+      "Hypokalemia": "Loop and thiazide diuretics can increase distal potassium loss.",
+      "Hyperkalemia": "Potassium-sparing diuretics can raise potassium, especially with renal impairment or other potassium-raising medicines. This does not best answer the specific question in this case.",
+      "Hyponatremia": "Thiazides can impair urinary dilution and cause clinically important hyponatremia. This does not best answer the specific question in this case.",
+      "Metabolic acidosis from bicarbonate loss": "Acetazolamide promotes bicarbonaturia and can cause hyperchloremic metabolic acidosis. This does not best answer the specific question in this case.",
+      "Contraction-associated metabolic alkalosis": "Volume and chloride depletion with loop or thiazide treatment can promote metabolic alkalosis. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=m5txre8vTpA"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-8y8xLTZdAzU-1",
+    "lectureId": "8y8xLTZdAzU",
+    "title": "Potassium-sparing diuretics: 1",
+    "prompt": "A patient receives spironolactone for an appropriate indication. The drug reduces aldosterone-driven sodium retention and potassium secretion through a receptor-mediated action rather than direct loop-transporter blockade. Which mechanism best describes this treatment?",
+    "options": [
+      "NKCC2 inhibition in the thick ascending limb",
+      "NCC inhibition in the distal convoluted tubule",
+      "ENaC blockade in the collecting system",
+      "Carbonic anhydrase inhibition",
+      "Mineralocorticoid receptor antagonism"
+    ],
+    "answer": "Mineralocorticoid receptor antagonism",
+    "explanation": "Spironolactone and eplerenone block aldosterone signaling and reduce potassium secretion.",
+    "distractorExplanations": {
+      "Mineralocorticoid receptor antagonism": "Spironolactone and eplerenone block aldosterone signaling and reduce potassium secretion.",
+      "NKCC2 inhibition in the thick ascending limb": "Loop diuretics inhibit sodium-potassium-chloride transport in the thick ascending limb. This does not best answer the specific question in this case.",
+      "NCC inhibition in the distal convoluted tubule": "Thiazides inhibit the distal sodium-chloride cotransporter. This does not best answer the specific question in this case.",
+      "ENaC blockade in the collecting system": "Amiloride and triamterene directly block epithelial sodium channels. This does not best answer the specific question in this case.",
+      "Carbonic anhydrase inhibition": "Acetazolamide reduces bicarbonate reabsorption, predominantly in the proximal tubule. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=8y8xLTZdAzU"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8f0291a9-c8a6-4298-a540-23abc01fae09"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-8y8xLTZdAzU-2",
+    "lectureId": "8y8xLTZdAzU",
+    "title": "Potassium-sparing diuretics: 2",
+    "prompt": "A patient receives amiloride, which acts directly on sodium entry in the collecting system without blocking the aldosterone receptor. Which transport mechanism distinguishes this potassium-sparing diuretic from spironolactone in the same broad class?",
+    "options": [
+      "NCC inhibition in the distal convoluted tubule",
+      "Mineralocorticoid receptor antagonism",
+      "Carbonic anhydrase inhibition",
+      "ENaC blockade in the collecting system",
+      "NKCC2 inhibition in the thick ascending limb"
+    ],
+    "answer": "ENaC blockade in the collecting system",
+    "explanation": "Amiloride and triamterene directly block epithelial sodium channels.",
+    "distractorExplanations": {
+      "ENaC blockade in the collecting system": "Amiloride and triamterene directly block epithelial sodium channels.",
+      "NKCC2 inhibition in the thick ascending limb": "Loop diuretics inhibit sodium-potassium-chloride transport in the thick ascending limb. This does not best answer the specific question in this case.",
+      "NCC inhibition in the distal convoluted tubule": "Thiazides inhibit the distal sodium-chloride cotransporter. This does not best answer the specific question in this case.",
+      "Mineralocorticoid receptor antagonism": "Spironolactone and eplerenone block aldosterone signaling and reduce potassium secretion. This does not best answer the specific question in this case.",
+      "Carbonic anhydrase inhibition": "Acetazolamide reduces bicarbonate reabsorption, predominantly in the proximal tubule. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=8y8xLTZdAzU"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8f0291a9-c8a6-4298-a540-23abc01fae09"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-8y8xLTZdAzU-3",
+    "lectureId": "8y8xLTZdAzU",
+    "title": "Potassium-sparing diuretics: 3",
+    "prompt": "A patient with renal impairment takes an ACE inhibitor and begins spironolactone. Weakness develops and the ECG shows peaked T waves. Which electrolyte complication is especially concerning with this combination of medications and impaired renal function?",
+    "options": [
+      "Metabolic acidosis from bicarbonate loss",
+      "Contraction-associated metabolic alkalosis",
+      "Hyperkalemia",
+      "Hypokalemia",
+      "Hyponatremia"
+    ],
+    "answer": "Hyperkalemia",
+    "explanation": "Potassium-sparing diuretics can raise potassium, especially with renal impairment or other potassium-raising medicines.",
+    "distractorExplanations": {
+      "Hyperkalemia": "Potassium-sparing diuretics can raise potassium, especially with renal impairment or other potassium-raising medicines.",
+      "Hypokalemia": "Loop and thiazide diuretics can increase distal potassium loss. This does not best answer the specific question in this case.",
+      "Hyponatremia": "Thiazides can impair urinary dilution and cause clinically important hyponatremia. This does not best answer the specific question in this case.",
+      "Metabolic acidosis from bicarbonate loss": "Acetazolamide promotes bicarbonaturia and can cause hyperchloremic metabolic acidosis. This does not best answer the specific question in this case.",
+      "Contraction-associated metabolic alkalosis": "Volume and chloride depletion with loop or thiazide treatment can promote metabolic alkalosis. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=8y8xLTZdAzU"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8f0291a9-c8a6-4298-a540-23abc01fae09"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-8y8xLTZdAzU-4",
+    "lectureId": "8y8xLTZdAzU",
+    "title": "Potassium-sparing diuretics: 4",
+    "prompt": "A man taking spironolactone develops bilateral breast tenderness and enlargement. Examination and history support a medication-related hormonal effect. Which recognized adverse effect best explains the breast changes during this particular diuretic therapy?",
+    "options": [
+      "Metabolic acidosis from bicarbonate loss",
+      "Gynecomastia",
+      "Hypokalemia",
+      "Hyperkalemia",
+      "Hyponatremia"
+    ],
+    "answer": "Gynecomastia",
+    "explanation": "Spironolactone’s additional hormonal effects can cause breast enlargement or tenderness.",
+    "distractorExplanations": {
+      "Gynecomastia": "Spironolactone’s additional hormonal effects can cause breast enlargement or tenderness.",
+      "Hypokalemia": "Loop and thiazide diuretics can increase distal potassium loss. This does not best answer the specific question in this case.",
+      "Hyperkalemia": "Potassium-sparing diuretics can raise potassium, especially with renal impairment or other potassium-raising medicines. This does not best answer the specific question in this case.",
+      "Hyponatremia": "Thiazides can impair urinary dilution and cause clinically important hyponatremia. This does not best answer the specific question in this case.",
+      "Metabolic acidosis from bicarbonate loss": "Acetazolamide promotes bicarbonaturia and can cause hyperchloremic metabolic acidosis. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=8y8xLTZdAzU"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8f0291a9-c8a6-4298-a540-23abc01fae09"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-8y8xLTZdAzU-5",
+    "lectureId": "8y8xLTZdAzU",
+    "title": "Potassium-sparing diuretics: 5",
+    "prompt": "A specialist chooses eplerenone for a patient who needs mineralocorticoid blockade but had troublesome hormonal effects on spironolactone. Which therapeutic receptor action is retained by the substitute medication despite its more selective profile?",
+    "options": [
+      "Mineralocorticoid receptor antagonism",
+      "NKCC2 inhibition in the thick ascending limb",
+      "NCC inhibition in the distal convoluted tubule",
+      "ENaC blockade in the collecting system",
+      "Carbonic anhydrase inhibition"
+    ],
+    "answer": "Mineralocorticoid receptor antagonism",
+    "explanation": "Spironolactone and eplerenone block aldosterone signaling and reduce potassium secretion.",
+    "distractorExplanations": {
+      "Mineralocorticoid receptor antagonism": "Spironolactone and eplerenone block aldosterone signaling and reduce potassium secretion.",
+      "NKCC2 inhibition in the thick ascending limb": "Loop diuretics inhibit sodium-potassium-chloride transport in the thick ascending limb. This does not best answer the specific question in this case.",
+      "NCC inhibition in the distal convoluted tubule": "Thiazides inhibit the distal sodium-chloride cotransporter. This does not best answer the specific question in this case.",
+      "ENaC blockade in the collecting system": "Amiloride and triamterene directly block epithelial sodium channels. This does not best answer the specific question in this case.",
+      "Carbonic anhydrase inhibition": "Acetazolamide reduces bicarbonate reabsorption, predominantly in the proximal tubule. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=8y8xLTZdAzU"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8f0291a9-c8a6-4298-a540-23abc01fae09"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-y_QNg88uHLU-1",
+    "lectureId": "y_QNg88uHLU",
+    "title": "Carbonic anhydrase inhibitors: 1",
+    "prompt": "A patient receives acetazolamide and develops increased urinary bicarbonate loss. The drug acts on an enzyme involved in proximal tubular acid-base transport rather than the sodium-chloride cotransporter. Which mechanism best describes its action?",
+    "options": [
+      "NKCC2 inhibition in the thick ascending limb",
+      "NCC inhibition in the distal convoluted tubule",
+      "Mineralocorticoid receptor antagonism",
+      "ENaC blockade in the collecting system",
+      "Carbonic anhydrase inhibition"
+    ],
+    "answer": "Carbonic anhydrase inhibition",
+    "explanation": "Acetazolamide reduces bicarbonate reabsorption, predominantly in the proximal tubule.",
+    "distractorExplanations": {
+      "Carbonic anhydrase inhibition": "Acetazolamide reduces bicarbonate reabsorption, predominantly in the proximal tubule.",
+      "NKCC2 inhibition in the thick ascending limb": "Loop diuretics inhibit sodium-potassium-chloride transport in the thick ascending limb. This does not best answer the specific question in this case.",
+      "NCC inhibition in the distal convoluted tubule": "Thiazides inhibit the distal sodium-chloride cotransporter. This does not best answer the specific question in this case.",
+      "Mineralocorticoid receptor antagonism": "Spironolactone and eplerenone block aldosterone signaling and reduce potassium secretion. This does not best answer the specific question in this case.",
+      "ENaC blockade in the collecting system": "Amiloride and triamterene directly block epithelial sodium channels. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=y_QNg88uHLU"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d6fba129-ac6e-4d04-bd09-8470be4e7ecc"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-y_QNg88uHLU-2",
+    "lectureId": "y_QNg88uHLU",
+    "title": "Carbonic anhydrase inhibitors: 2",
+    "prompt": "During acetazolamide treatment, serum bicarbonate falls and chloride rises without a raised anion gap. Which acid-base effect best explains the laboratory pattern through the medication’s renal action on bicarbonate reabsorption in this patient?",
+    "options": [
+      "Hyperkalemia",
+      "Hyponatremia",
+      "Contraction-associated metabolic alkalosis",
+      "Metabolic acidosis from bicarbonate loss",
+      "Hypokalemia"
+    ],
+    "answer": "Metabolic acidosis from bicarbonate loss",
+    "explanation": "Acetazolamide promotes bicarbonaturia and can cause hyperchloremic metabolic acidosis.",
+    "distractorExplanations": {
+      "Metabolic acidosis from bicarbonate loss": "Acetazolamide promotes bicarbonaturia and can cause hyperchloremic metabolic acidosis.",
+      "Hypokalemia": "Loop and thiazide diuretics can increase distal potassium loss. This does not best answer the specific question in this case.",
+      "Hyperkalemia": "Potassium-sparing diuretics can raise potassium, especially with renal impairment or other potassium-raising medicines. This does not best answer the specific question in this case.",
+      "Hyponatremia": "Thiazides can impair urinary dilution and cause clinically important hyponatremia. This does not best answer the specific question in this case.",
+      "Contraction-associated metabolic alkalosis": "Volume and chloride depletion with loop or thiazide treatment can promote metabolic alkalosis. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=y_QNg88uHLU"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d6fba129-ac6e-4d04-bd09-8470be4e7ecc"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-y_QNg88uHLU-3",
+    "lectureId": "y_QNg88uHLU",
+    "title": "Carbonic anhydrase inhibitors: 3",
+    "prompt": "A patient taking acetazolamide develops weakness and a reduced potassium concentration during follow-up. The clinician reviews urinary electrolyte losses and treatment suitability. Which recognized electrolyte complication best matches the abnormal result found in this case?",
+    "options": [
+      "Metabolic acidosis from bicarbonate loss",
+      "Contraction-associated metabolic alkalosis",
+      "Hypokalemia",
+      "Hyperkalemia",
+      "Hyponatremia"
+    ],
+    "answer": "Hypokalemia",
+    "explanation": "Loop and thiazide diuretics can increase distal potassium loss.",
+    "distractorExplanations": {
+      "Hypokalemia": "Loop and thiazide diuretics can increase distal potassium loss.",
+      "Hyperkalemia": "Potassium-sparing diuretics can raise potassium, especially with renal impairment or other potassium-raising medicines. This does not best answer the specific question in this case.",
+      "Hyponatremia": "Thiazides can impair urinary dilution and cause clinically important hyponatremia. This does not best answer the specific question in this case.",
+      "Metabolic acidosis from bicarbonate loss": "Acetazolamide promotes bicarbonaturia and can cause hyperchloremic metabolic acidosis. This does not best answer the specific question in this case.",
+      "Contraction-associated metabolic alkalosis": "Volume and chloride depletion with loop or thiazide treatment can promote metabolic alkalosis. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=y_QNg88uHLU"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d6fba129-ac6e-4d04-bd09-8470be4e7ecc"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-y_QNg88uHLU-4",
+    "lectureId": "y_QNg88uHLU",
+    "title": "Carbonic anhydrase inhibitors: 4",
+    "prompt": "A clinician avoids acetazolamide in a patient who already has hyperchloremic acidosis. Which drug effect would tend to worsen the existing acid-base problem rather than correct it if the medication were prescribed?",
+    "options": [
+      "Contraction-associated metabolic alkalosis",
+      "Metabolic acidosis from bicarbonate loss",
+      "Hypokalemia",
+      "Hyperkalemia",
+      "Hyponatremia"
+    ],
+    "answer": "Metabolic acidosis from bicarbonate loss",
+    "explanation": "Acetazolamide promotes bicarbonaturia and can cause hyperchloremic metabolic acidosis.",
+    "distractorExplanations": {
+      "Metabolic acidosis from bicarbonate loss": "Acetazolamide promotes bicarbonaturia and can cause hyperchloremic metabolic acidosis.",
+      "Hypokalemia": "Loop and thiazide diuretics can increase distal potassium loss. This does not best answer the specific question in this case.",
+      "Hyperkalemia": "Potassium-sparing diuretics can raise potassium, especially with renal impairment or other potassium-raising medicines. This does not best answer the specific question in this case.",
+      "Hyponatremia": "Thiazides can impair urinary dilution and cause clinically important hyponatremia. This does not best answer the specific question in this case.",
+      "Contraction-associated metabolic alkalosis": "Volume and chloride depletion with loop or thiazide treatment can promote metabolic alkalosis. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=y_QNg88uHLU"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d6fba129-ac6e-4d04-bd09-8470be4e7ecc"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-y_QNg88uHLU-5",
+    "lectureId": "y_QNg88uHLU",
+    "title": "Carbonic anhydrase inhibitors: 5",
+    "prompt": "An ophthalmology patient receives a carbonic anhydrase inhibitor to reduce aqueous humor production. The same enzyme family also participates in renal bicarbonate handling. Which pharmacologic mechanism links the ocular and renal effects described?",
+    "options": [
+      "Carbonic anhydrase inhibition",
+      "NKCC2 inhibition in the thick ascending limb",
+      "NCC inhibition in the distal convoluted tubule",
+      "Mineralocorticoid receptor antagonism",
+      "ENaC blockade in the collecting system"
+    ],
+    "answer": "Carbonic anhydrase inhibition",
+    "explanation": "Acetazolamide reduces bicarbonate reabsorption, predominantly in the proximal tubule.",
+    "distractorExplanations": {
+      "Carbonic anhydrase inhibition": "Acetazolamide reduces bicarbonate reabsorption, predominantly in the proximal tubule.",
+      "NKCC2 inhibition in the thick ascending limb": "Loop diuretics inhibit sodium-potassium-chloride transport in the thick ascending limb. This does not best answer the specific question in this case.",
+      "NCC inhibition in the distal convoluted tubule": "Thiazides inhibit the distal sodium-chloride cotransporter. This does not best answer the specific question in this case.",
+      "Mineralocorticoid receptor antagonism": "Spironolactone and eplerenone block aldosterone signaling and reduce potassium secretion. This does not best answer the specific question in this case.",
+      "ENaC blockade in the collecting system": "Amiloride and triamterene directly block epithelial sodium channels. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=y_QNg88uHLU"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d6fba129-ac6e-4d04-bd09-8470be4e7ecc"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-OHP-TllOYjk-1",
+    "lectureId": "OHP-TllOYjk",
+    "title": "Osmotic diuretics: 1",
+    "prompt": "A patient receives mannitol for a selected specialist indication. The filtered solute remains in the tubular lumen and limits water reabsorption without directly inhibiting a sodium transporter. Which mechanism best describes this osmotic diuretic?",
+    "options": [
+      "ENaC blockade in the collecting system",
+      "Increased tubular fluid osmolality",
+      "NKCC2 inhibition in the thick ascending limb",
+      "NCC inhibition in the distal convoluted tubule",
+      "Mineralocorticoid receptor antagonism"
+    ],
+    "answer": "Increased tubular fluid osmolality",
+    "explanation": "Filtered mannitol retains water in the tubular lumen without directly blocking a sodium transporter.",
+    "distractorExplanations": {
+      "Increased tubular fluid osmolality": "Filtered mannitol retains water in the tubular lumen without directly blocking a sodium transporter.",
+      "NKCC2 inhibition in the thick ascending limb": "Loop diuretics inhibit sodium-potassium-chloride transport in the thick ascending limb. This does not best answer the specific question in this case.",
+      "NCC inhibition in the distal convoluted tubule": "Thiazides inhibit the distal sodium-chloride cotransporter. This does not best answer the specific question in this case.",
+      "Mineralocorticoid receptor antagonism": "Spironolactone and eplerenone block aldosterone signaling and reduce potassium secretion. This does not best answer the specific question in this case.",
+      "ENaC blockade in the collecting system": "Amiloride and triamterene directly block epithelial sodium channels. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=OHP-TllOYjk"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-OHP-TllOYjk-2",
+    "lectureId": "OHP-TllOYjk",
+    "title": "Osmotic diuretics: 2",
+    "prompt": "Soon after mannitol administration, a patient with poor cardiac reserve develops worsening breathlessness and pulmonary congestion. Which initial fluid shift can explain deterioration before the later urinary water loss becomes the dominant effect?",
+    "options": [
+      "Expansion of intravascular volume",
+      "Hypokalemia",
+      "Hyperkalemia",
+      "Hyponatremia",
+      "Metabolic acidosis from bicarbonate loss"
+    ],
+    "answer": "Expansion of intravascular volume",
+    "explanation": "Mannitol can initially draw water into the circulation and worsen pulmonary edema in susceptible patients.",
+    "distractorExplanations": {
+      "Expansion of intravascular volume": "Mannitol can initially draw water into the circulation and worsen pulmonary edema in susceptible patients.",
+      "Hypokalemia": "Loop and thiazide diuretics can increase distal potassium loss. This does not best answer the specific question in this case.",
+      "Hyperkalemia": "Potassium-sparing diuretics can raise potassium, especially with renal impairment or other potassium-raising medicines. This does not best answer the specific question in this case.",
+      "Hyponatremia": "Thiazides can impair urinary dilution and cause clinically important hyponatremia. This does not best answer the specific question in this case.",
+      "Metabolic acidosis from bicarbonate loss": "Acetazolamide promotes bicarbonaturia and can cause hyperchloremic metabolic acidosis. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=OHP-TllOYjk"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-OHP-TllOYjk-3",
+    "lectureId": "OHP-TllOYjk",
+    "title": "Osmotic diuretics: 3",
+    "prompt": "After substantial osmotic diuresis, a patient has thirst, hypotension and a rising creatinine consistent with reduced circulating volume. Which complication should prompt review of fluid balance and continued mannitol exposure in this patient?",
+    "options": [
+      "Hypokalemia",
+      "Hyperkalemia",
+      "Hyponatremia",
+      "Metabolic acidosis from bicarbonate loss",
+      "Intravascular volume depletion"
+    ],
+    "answer": "Intravascular volume depletion",
+    "explanation": "Excessive diuresis can cause hypotension, prerenal dysfunction and electrolyte loss.",
+    "distractorExplanations": {
+      "Intravascular volume depletion": "Excessive diuresis can cause hypotension, prerenal dysfunction and electrolyte loss.",
+      "Hypokalemia": "Loop and thiazide diuretics can increase distal potassium loss. This does not best answer the specific question in this case.",
+      "Hyperkalemia": "Potassium-sparing diuretics can raise potassium, especially with renal impairment or other potassium-raising medicines. This does not best answer the specific question in this case.",
+      "Hyponatremia": "Thiazides can impair urinary dilution and cause clinically important hyponatremia. This does not best answer the specific question in this case.",
+      "Metabolic acidosis from bicarbonate loss": "Acetazolamide promotes bicarbonaturia and can cause hyperchloremic metabolic acidosis. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=OHP-TllOYjk"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-OHP-TllOYjk-4",
+    "lectureId": "OHP-TllOYjk",
+    "title": "Osmotic diuretics: 4",
+    "prompt": "A trainee assumes that mannitol acts by antagonizing aldosterone because both agents increase urine output. The supervisor explains that mannitol instead raises luminal solute concentration. Which mechanism correctly distinguishes it from potassium-sparing receptor antagonists?",
+    "options": [
+      "NCC inhibition in the distal convoluted tubule",
+      "Mineralocorticoid receptor antagonism",
+      "ENaC blockade in the collecting system",
+      "Increased tubular fluid osmolality",
+      "NKCC2 inhibition in the thick ascending limb"
+    ],
+    "answer": "Increased tubular fluid osmolality",
+    "explanation": "Filtered mannitol retains water in the tubular lumen without directly blocking a sodium transporter.",
+    "distractorExplanations": {
+      "Increased tubular fluid osmolality": "Filtered mannitol retains water in the tubular lumen without directly blocking a sodium transporter.",
+      "NKCC2 inhibition in the thick ascending limb": "Loop diuretics inhibit sodium-potassium-chloride transport in the thick ascending limb. This does not best answer the specific question in this case.",
+      "NCC inhibition in the distal convoluted tubule": "Thiazides inhibit the distal sodium-chloride cotransporter. This does not best answer the specific question in this case.",
+      "Mineralocorticoid receptor antagonism": "Spironolactone and eplerenone block aldosterone signaling and reduce potassium secretion. This does not best answer the specific question in this case.",
+      "ENaC blockade in the collecting system": "Amiloride and triamterene directly block epithelial sodium channels. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=OHP-TllOYjk"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-OHP-TllOYjk-5",
+    "lectureId": "OHP-TllOYjk",
+    "title": "Osmotic diuretics: 5",
+    "prompt": "A patient with severe renal dysfunction cannot effectively excrete administered mannitol. The team is concerned about retained osmotic solute and worsening circulatory overload. Which physiological complication is particularly relevant to this loss of elimination?",
+    "options": [
+      "Hyponatremia",
+      "Metabolic acidosis from bicarbonate loss",
+      "Expansion of intravascular volume",
+      "Hypokalemia",
+      "Hyperkalemia"
+    ],
+    "answer": "Expansion of intravascular volume",
+    "explanation": "Mannitol can initially draw water into the circulation and worsen pulmonary edema in susceptible patients.",
+    "distractorExplanations": {
+      "Expansion of intravascular volume": "Mannitol can initially draw water into the circulation and worsen pulmonary edema in susceptible patients.",
+      "Hypokalemia": "Loop and thiazide diuretics can increase distal potassium loss. This does not best answer the specific question in this case.",
+      "Hyperkalemia": "Potassium-sparing diuretics can raise potassium, especially with renal impairment or other potassium-raising medicines. This does not best answer the specific question in this case.",
+      "Hyponatremia": "Thiazides can impair urinary dilution and cause clinically important hyponatremia. This does not best answer the specific question in this case.",
+      "Metabolic acidosis from bicarbonate loss": "Acetazolamide promotes bicarbonaturia and can cause hyperchloremic metabolic acidosis. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=OHP-TllOYjk"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-itlm6w0M2W0-1",
+    "lectureId": "itlm6w0M2W0",
+    "title": "Diuretic foundations: 1",
+    "prompt": "A patient needs a strong natriuretic effect, and a drug is selected that inhibits NKCC2 in the thick ascending limb. Which renal mechanism identifies the diuretic class being used for the patient’s congestion?",
+    "options": [
+      "NKCC2 inhibition in the thick ascending limb",
+      "NCC inhibition in the distal convoluted tubule",
+      "Mineralocorticoid receptor antagonism",
+      "ENaC blockade in the collecting system",
+      "Carbonic anhydrase inhibition"
+    ],
+    "answer": "NKCC2 inhibition in the thick ascending limb",
+    "explanation": "Loop diuretics inhibit sodium-potassium-chloride transport in the thick ascending limb.",
+    "distractorExplanations": {
+      "NKCC2 inhibition in the thick ascending limb": "Loop diuretics inhibit sodium-potassium-chloride transport in the thick ascending limb.",
+      "NCC inhibition in the distal convoluted tubule": "Thiazides inhibit the distal sodium-chloride cotransporter. This does not best answer the specific question in this case.",
+      "Mineralocorticoid receptor antagonism": "Spironolactone and eplerenone block aldosterone signaling and reduce potassium secretion. This does not best answer the specific question in this case.",
+      "ENaC blockade in the collecting system": "Amiloride and triamterene directly block epithelial sodium channels. This does not best answer the specific question in this case.",
+      "Carbonic anhydrase inhibition": "Acetazolamide reduces bicarbonate reabsorption, predominantly in the proximal tubule. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=itlm6w0M2W0"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-itlm6w0M2W0-2",
+    "lectureId": "itlm6w0M2W0",
+    "title": "Diuretic foundations: 2",
+    "prompt": "A patient’s blood pressure is treated with a diuretic that inhibits the sodium-chloride cotransporter in the distal convoluted tubule. Which site-specific mechanism distinguishes this class from loop and collecting-duct diuretics in the nephron?",
+    "options": [
+      "NKCC2 inhibition in the thick ascending limb",
+      "Mineralocorticoid receptor antagonism",
+      "ENaC blockade in the collecting system",
+      "Carbonic anhydrase inhibition",
+      "NCC inhibition in the distal convoluted tubule"
+    ],
+    "answer": "NCC inhibition in the distal convoluted tubule",
+    "explanation": "Thiazides inhibit the distal sodium-chloride cotransporter.",
+    "distractorExplanations": {
+      "NCC inhibition in the distal convoluted tubule": "Thiazides inhibit the distal sodium-chloride cotransporter.",
+      "NKCC2 inhibition in the thick ascending limb": "Loop diuretics inhibit sodium-potassium-chloride transport in the thick ascending limb. This does not best answer the specific question in this case.",
+      "Mineralocorticoid receptor antagonism": "Spironolactone and eplerenone block aldosterone signaling and reduce potassium secretion. This does not best answer the specific question in this case.",
+      "ENaC blockade in the collecting system": "Amiloride and triamterene directly block epithelial sodium channels. This does not best answer the specific question in this case.",
+      "Carbonic anhydrase inhibition": "Acetazolamide reduces bicarbonate reabsorption, predominantly in the proximal tubule. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=itlm6w0M2W0"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-itlm6w0M2W0-3",
+    "lectureId": "itlm6w0M2W0",
+    "title": "Diuretic foundations: 3",
+    "prompt": "A clinician adds a diuretic that opposes aldosterone signaling and reduces renal potassium secretion. Which mechanism explains why this agent differs from potassium-wasting loop diuretics despite both classes promoting sodium excretion?",
+    "options": [
+      "NCC inhibition in the distal convoluted tubule",
+      "ENaC blockade in the collecting system",
+      "Carbonic anhydrase inhibition",
+      "Mineralocorticoid receptor antagonism",
+      "NKCC2 inhibition in the thick ascending limb"
+    ],
+    "answer": "Mineralocorticoid receptor antagonism",
+    "explanation": "Spironolactone and eplerenone block aldosterone signaling and reduce potassium secretion.",
+    "distractorExplanations": {
+      "Mineralocorticoid receptor antagonism": "Spironolactone and eplerenone block aldosterone signaling and reduce potassium secretion.",
+      "NKCC2 inhibition in the thick ascending limb": "Loop diuretics inhibit sodium-potassium-chloride transport in the thick ascending limb. This does not best answer the specific question in this case.",
+      "NCC inhibition in the distal convoluted tubule": "Thiazides inhibit the distal sodium-chloride cotransporter. This does not best answer the specific question in this case.",
+      "ENaC blockade in the collecting system": "Amiloride and triamterene directly block epithelial sodium channels. This does not best answer the specific question in this case.",
+      "Carbonic anhydrase inhibition": "Acetazolamide reduces bicarbonate reabsorption, predominantly in the proximal tubule. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=itlm6w0M2W0"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-itlm6w0M2W0-4",
+    "lectureId": "itlm6w0M2W0",
+    "title": "Diuretic foundations: 4",
+    "prompt": "A patient continues increasing a diuretic after edema has resolved and develops dizziness with postural hypotension. Which physiological complication illustrates why urine output alone is not an adequate measure of treatment success?",
+    "options": [
+      "Hyponatremia",
+      "Metabolic acidosis from bicarbonate loss",
+      "Intravascular volume depletion",
+      "Hypokalemia",
+      "Hyperkalemia"
+    ],
+    "answer": "Intravascular volume depletion",
+    "explanation": "Excessive diuresis can cause hypotension, prerenal dysfunction and electrolyte loss.",
+    "distractorExplanations": {
+      "Intravascular volume depletion": "Excessive diuresis can cause hypotension, prerenal dysfunction and electrolyte loss.",
+      "Hypokalemia": "Loop and thiazide diuretics can increase distal potassium loss. This does not best answer the specific question in this case.",
+      "Hyperkalemia": "Potassium-sparing diuretics can raise potassium, especially with renal impairment or other potassium-raising medicines. This does not best answer the specific question in this case.",
+      "Hyponatremia": "Thiazides can impair urinary dilution and cause clinically important hyponatremia. This does not best answer the specific question in this case.",
+      "Metabolic acidosis from bicarbonate loss": "Acetazolamide promotes bicarbonaturia and can cause hyperchloremic metabolic acidosis. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=itlm6w0M2W0"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-itlm6w0M2W0-5",
+    "lectureId": "itlm6w0M2W0",
+    "title": "Diuretic foundations: 5",
+    "prompt": "A patient combines two potassium-sparing medicines and uses a potassium-containing salt substitute. The clinician orders an electrolyte check. Which abnormality is the principal concern created by these combined influences on potassium balance?",
+    "options": [
+      "Contraction-associated metabolic alkalosis",
+      "Hyperkalemia",
+      "Hypokalemia",
+      "Hyponatremia",
+      "Metabolic acidosis from bicarbonate loss"
+    ],
+    "answer": "Hyperkalemia",
+    "explanation": "Potassium-sparing diuretics can raise potassium, especially with renal impairment or other potassium-raising medicines.",
+    "distractorExplanations": {
+      "Hyperkalemia": "Potassium-sparing diuretics can raise potassium, especially with renal impairment or other potassium-raising medicines.",
+      "Hypokalemia": "Loop and thiazide diuretics can increase distal potassium loss. This does not best answer the specific question in this case.",
+      "Hyponatremia": "Thiazides can impair urinary dilution and cause clinically important hyponatremia. This does not best answer the specific question in this case.",
+      "Metabolic acidosis from bicarbonate loss": "Acetazolamide promotes bicarbonaturia and can cause hyperchloremic metabolic acidosis. This does not best answer the specific question in this case.",
+      "Contraction-associated metabolic alkalosis": "Volume and chloride depletion with loop or thiazide treatment can promote metabolic alkalosis. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=itlm6w0M2W0"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-AMlntTP1YQA-1",
+    "lectureId": "AMlntTP1YQA",
+    "title": "Selective alpha blockers: 1",
+    "prompt": "A patient starts a selective alpha1 antagonist for an appropriate indication and nearly faints after the first dose. The clinician reviews the classic first-dose effect of this agent. Which listed drug best matches that profile?",
+    "options": [
+      "Prazosin",
+      "Tamsulosin",
+      "Phenoxybenzamine",
+      "Phentolamine",
+      "Propranolol"
+    ],
+    "answer": "Prazosin",
+    "explanation": "Prazosin blocks alpha1 receptors and can produce marked first-dose orthostatic hypotension.",
+    "distractorExplanations": {
+      "Prazosin": "Prazosin blocks alpha1 receptors and can produce marked first-dose orthostatic hypotension.",
+      "Tamsulosin": "Tamsulosin preferentially targets alpha1A-mediated lower urinary tract smooth-muscle tone. This does not best answer the specific question in this case.",
+      "Phenoxybenzamine": "Phenoxybenzamine irreversibly blocks alpha receptors and is used in selected pheochromocytoma preparations. This does not best answer the specific question in this case.",
+      "Phentolamine": "Phentolamine is a reversible nonselective alpha antagonist with selected acute uses. This does not best answer the specific question in this case.",
+      "Propranolol": "Propranolol blocks both beta1 and beta2 receptors. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=AMlntTP1YQA"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-AMlntTP1YQA-2",
+    "lectureId": "AMlntTP1YQA",
+    "title": "Selective alpha blockers: 2",
+    "prompt": "A patient with lower urinary tract symptoms receives an agent that preferentially reduces alpha1A-mediated smooth-muscle tone in the prostate and bladder outlet. Which listed antagonist best matches this relatively urinary-selective pharmacologic profile?",
+    "options": [
+      "Prazosin",
+      "Phenoxybenzamine",
+      "Phentolamine",
+      "Propranolol",
+      "Tamsulosin"
+    ],
+    "answer": "Tamsulosin",
+    "explanation": "Tamsulosin preferentially targets alpha1A-mediated lower urinary tract smooth-muscle tone.",
+    "distractorExplanations": {
+      "Tamsulosin": "Tamsulosin preferentially targets alpha1A-mediated lower urinary tract smooth-muscle tone.",
+      "Prazosin": "Prazosin blocks alpha1 receptors and can produce marked first-dose orthostatic hypotension. This does not best answer the specific question in this case.",
+      "Phenoxybenzamine": "Phenoxybenzamine irreversibly blocks alpha receptors and is used in selected pheochromocytoma preparations. This does not best answer the specific question in this case.",
+      "Phentolamine": "Phentolamine is a reversible nonselective alpha antagonist with selected acute uses. This does not best answer the specific question in this case.",
+      "Propranolol": "Propranolol blocks both beta1 and beta2 receptors. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=AMlntTP1YQA"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-AMlntTP1YQA-3",
+    "lectureId": "AMlntTP1YQA",
+    "title": "Selective alpha blockers: 3",
+    "prompt": "A patient taking doxazosin becomes dizzy when rising from bed. Supine pressure is adequate but standing pressure falls. Which physiological consequence of vascular alpha1 blockade best explains this posture-dependent adverse effect?",
+    "options": [
+      "Establish alpha blockade before adding beta blockade",
+      "Beta2 blockade causing bronchoconstriction",
+      "Beta1 blockade reducing heart rate",
+      "Orthostatic hypotension",
+      "Intraoperative floppy iris syndrome"
+    ],
+    "answer": "Orthostatic hypotension",
+    "explanation": "Alpha1 blockade reduces the vasoconstrictor response to standing.",
+    "distractorExplanations": {
+      "Orthostatic hypotension": "Alpha1 blockade reduces the vasoconstrictor response to standing.",
+      "Intraoperative floppy iris syndrome": "Alpha1 antagonists, especially tamsulosin, are associated with floppy iris during cataract surgery. This does not best answer the specific question in this case.",
+      "Establish alpha blockade before adding beta blockade": "In pheochromocytoma, beta blockade before adequate alpha blockade can worsen vasoconstriction. This does not best answer the specific question in this case.",
+      "Beta2 blockade causing bronchoconstriction": "Nonselective beta blockers can aggravate bronchospasm in susceptible patients. This does not best answer the specific question in this case.",
+      "Beta1 blockade reducing heart rate": "Cardiac beta1 blockade slows rate and can worsen bradycardia or conduction disease. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=AMlntTP1YQA"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-AMlntTP1YQA-4",
+    "lectureId": "AMlntTP1YQA",
+    "title": "Selective alpha blockers: 4",
+    "prompt": "Before cataract surgery, a patient reports previous tamsulosin use. The ophthalmologist documents this history even though urinary symptoms are unrelated to the eye operation. Which operative complication explains the importance of this medication history?",
+    "options": [
+      "Beta2 blockade causing bronchoconstriction",
+      "Beta1 blockade reducing heart rate",
+      "Intraoperative floppy iris syndrome",
+      "Orthostatic hypotension",
+      "Establish alpha blockade before adding beta blockade"
+    ],
+    "answer": "Intraoperative floppy iris syndrome",
+    "explanation": "Alpha1 antagonists, especially tamsulosin, are associated with floppy iris during cataract surgery.",
+    "distractorExplanations": {
+      "Intraoperative floppy iris syndrome": "Alpha1 antagonists, especially tamsulosin, are associated with floppy iris during cataract surgery.",
+      "Orthostatic hypotension": "Alpha1 blockade reduces the vasoconstrictor response to standing. This does not best answer the specific question in this case.",
+      "Establish alpha blockade before adding beta blockade": "In pheochromocytoma, beta blockade before adequate alpha blockade can worsen vasoconstriction. This does not best answer the specific question in this case.",
+      "Beta2 blockade causing bronchoconstriction": "Nonselective beta blockers can aggravate bronchospasm in susceptible patients. This does not best answer the specific question in this case.",
+      "Beta1 blockade reducing heart rate": "Cardiac beta1 blockade slows rate and can worsen bradycardia or conduction disease. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=AMlntTP1YQA"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-AMlntTP1YQA-5",
+    "lectureId": "AMlntTP1YQA",
+    "title": "Selective alpha blockers: 5",
+    "prompt": "An older patient taking terazosin also receives another blood-pressure-lowering medicine and develops a fall soon after standing. Which class-related hemodynamic effect should be assessed when reviewing this new combination and the fall?",
+    "options": [
+      "Beta1 blockade reducing heart rate",
+      "Orthostatic hypotension",
+      "Intraoperative floppy iris syndrome",
+      "Establish alpha blockade before adding beta blockade",
+      "Beta2 blockade causing bronchoconstriction"
+    ],
+    "answer": "Orthostatic hypotension",
+    "explanation": "Alpha1 blockade reduces the vasoconstrictor response to standing.",
+    "distractorExplanations": {
+      "Orthostatic hypotension": "Alpha1 blockade reduces the vasoconstrictor response to standing.",
+      "Intraoperative floppy iris syndrome": "Alpha1 antagonists, especially tamsulosin, are associated with floppy iris during cataract surgery. This does not best answer the specific question in this case.",
+      "Establish alpha blockade before adding beta blockade": "In pheochromocytoma, beta blockade before adequate alpha blockade can worsen vasoconstriction. This does not best answer the specific question in this case.",
+      "Beta2 blockade causing bronchoconstriction": "Nonselective beta blockers can aggravate bronchospasm in susceptible patients. This does not best answer the specific question in this case.",
+      "Beta1 blockade reducing heart rate": "Cardiac beta1 blockade slows rate and can worsen bradycardia or conduction disease. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=AMlntTP1YQA"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-Y6Qf_lb3oKc-1",
+    "lectureId": "Y6Qf_lb3oKc",
+    "title": "Nonselective alpha blockers: 1",
+    "prompt": "A patient undergoing preparation for pheochromocytoma surgery receives a long-lasting irreversible alpha antagonist. Which listed agent matches this receptor-binding characteristic rather than the reversible action of the other nonselective alpha antagonist?",
+    "options": [
+      "Propranolol",
+      "Phenoxybenzamine",
+      "Prazosin",
+      "Tamsulosin",
+      "Phentolamine"
+    ],
+    "answer": "Phenoxybenzamine",
+    "explanation": "Phenoxybenzamine irreversibly blocks alpha receptors and is used in selected pheochromocytoma preparations.",
+    "distractorExplanations": {
+      "Phenoxybenzamine": "Phenoxybenzamine irreversibly blocks alpha receptors and is used in selected pheochromocytoma preparations.",
+      "Prazosin": "Prazosin blocks alpha1 receptors and can produce marked first-dose orthostatic hypotension. This does not best answer the specific question in this case.",
+      "Tamsulosin": "Tamsulosin preferentially targets alpha1A-mediated lower urinary tract smooth-muscle tone. This does not best answer the specific question in this case.",
+      "Phentolamine": "Phentolamine is a reversible nonselective alpha antagonist with selected acute uses. This does not best answer the specific question in this case.",
+      "Propranolol": "Propranolol blocks both beta1 and beta2 receptors. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Y6Qf_lb3oKc"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-Y6Qf_lb3oKc-2",
+    "lectureId": "Y6Qf_lb3oKc",
+    "title": "Nonselective alpha blockers: 2",
+    "prompt": "A clinician selects a reversible nonselective alpha antagonist for a specialist acute indication. The chosen drug differs from phenoxybenzamine’s persistent irreversible blockade. Which listed agent has the reversible alpha-blocking profile described?",
+    "options": [
+      "Phentolamine",
+      "Prazosin",
+      "Tamsulosin",
+      "Phenoxybenzamine",
+      "Propranolol"
+    ],
+    "answer": "Phentolamine",
+    "explanation": "Phentolamine is a reversible nonselective alpha antagonist with selected acute uses.",
+    "distractorExplanations": {
+      "Phentolamine": "Phentolamine is a reversible nonselective alpha antagonist with selected acute uses.",
+      "Prazosin": "Prazosin blocks alpha1 receptors and can produce marked first-dose orthostatic hypotension. This does not best answer the specific question in this case.",
+      "Tamsulosin": "Tamsulosin preferentially targets alpha1A-mediated lower urinary tract smooth-muscle tone. This does not best answer the specific question in this case.",
+      "Phenoxybenzamine": "Phenoxybenzamine irreversibly blocks alpha receptors and is used in selected pheochromocytoma preparations. This does not best answer the specific question in this case.",
+      "Propranolol": "Propranolol blocks both beta1 and beta2 receptors. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Y6Qf_lb3oKc"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-Y6Qf_lb3oKc-3",
+    "lectureId": "Y6Qf_lb3oKc",
+    "title": "Nonselective alpha blockers: 3",
+    "prompt": "A patient with pheochromocytoma has hypertension and tachycardia. The team plans adrenergic blockade before surgery. Which sequencing principle reduces the danger of worsening vasoconstriction when a beta blocker is considered for the tachycardia?",
+    "options": [
+      "Orthostatic hypotension",
+      "Intraoperative floppy iris syndrome",
+      "Beta2 blockade causing bronchoconstriction",
+      "Beta1 blockade reducing heart rate",
+      "Establish alpha blockade before adding beta blockade"
+    ],
+    "answer": "Establish alpha blockade before adding beta blockade",
+    "explanation": "In pheochromocytoma, beta blockade before adequate alpha blockade can worsen vasoconstriction.",
+    "distractorExplanations": {
+      "Establish alpha blockade before adding beta blockade": "In pheochromocytoma, beta blockade before adequate alpha blockade can worsen vasoconstriction.",
+      "Orthostatic hypotension": "Alpha1 blockade reduces the vasoconstrictor response to standing. This does not best answer the specific question in this case.",
+      "Intraoperative floppy iris syndrome": "Alpha1 antagonists, especially tamsulosin, are associated with floppy iris during cataract surgery. This does not best answer the specific question in this case.",
+      "Beta2 blockade causing bronchoconstriction": "Nonselective beta blockers can aggravate bronchospasm in susceptible patients. This does not best answer the specific question in this case.",
+      "Beta1 blockade reducing heart rate": "Cardiac beta1 blockade slows rate and can worsen bradycardia or conduction disease. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Y6Qf_lb3oKc"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-Y6Qf_lb3oKc-4",
+    "lectureId": "Y6Qf_lb3oKc",
+    "title": "Nonselective alpha blockers: 4",
+    "prompt": "A nonselective alpha antagonist blocks presynaptic feedback as well as vascular alpha1 receptors. Norepinephrine release can rise, contributing to tachycardia. Which receptor effect explains the loss of the normal presynaptic inhibitory feedback?",
+    "options": [
+      "Intraoperative floppy iris syndrome",
+      "Establish alpha blockade before adding beta blockade",
+      "Beta2 blockade causing bronchoconstriction",
+      "Presynaptic alpha2 blockade",
+      "Orthostatic hypotension"
+    ],
+    "answer": "Presynaptic alpha2 blockade",
+    "explanation": "Blocking alpha2 feedback can increase norepinephrine release and contribute to tachycardia with nonselective alpha antagonists.",
+    "distractorExplanations": {
+      "Presynaptic alpha2 blockade": "Blocking alpha2 feedback can increase norepinephrine release and contribute to tachycardia with nonselective alpha antagonists.",
+      "Orthostatic hypotension": "Alpha1 blockade reduces the vasoconstrictor response to standing. This does not best answer the specific question in this case.",
+      "Intraoperative floppy iris syndrome": "Alpha1 antagonists, especially tamsulosin, are associated with floppy iris during cataract surgery. This does not best answer the specific question in this case.",
+      "Establish alpha blockade before adding beta blockade": "In pheochromocytoma, beta blockade before adequate alpha blockade can worsen vasoconstriction. This does not best answer the specific question in this case.",
+      "Beta2 blockade causing bronchoconstriction": "Nonselective beta blockers can aggravate bronchospasm in susceptible patients. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Y6Qf_lb3oKc"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-Y6Qf_lb3oKc-5",
+    "lectureId": "Y6Qf_lb3oKc",
+    "title": "Nonselective alpha blockers: 5",
+    "prompt": "A patient receiving phenoxybenzamine becomes dizzy when standing after treatment begins. The clinician checks volume status and posture-related pressure changes. Which expected consequence of alpha blockade best explains the reduced compensatory vascular response?",
+    "options": [
+      "Beta2 blockade causing bronchoconstriction",
+      "Beta1 blockade reducing heart rate",
+      "Orthostatic hypotension",
+      "Intraoperative floppy iris syndrome",
+      "Establish alpha blockade before adding beta blockade"
+    ],
+    "answer": "Orthostatic hypotension",
+    "explanation": "Alpha1 blockade reduces the vasoconstrictor response to standing.",
+    "distractorExplanations": {
+      "Orthostatic hypotension": "Alpha1 blockade reduces the vasoconstrictor response to standing.",
+      "Intraoperative floppy iris syndrome": "Alpha1 antagonists, especially tamsulosin, are associated with floppy iris during cataract surgery. This does not best answer the specific question in this case.",
+      "Establish alpha blockade before adding beta blockade": "In pheochromocytoma, beta blockade before adequate alpha blockade can worsen vasoconstriction. This does not best answer the specific question in this case.",
+      "Beta2 blockade causing bronchoconstriction": "Nonselective beta blockers can aggravate bronchospasm in susceptible patients. This does not best answer the specific question in this case.",
+      "Beta1 blockade reducing heart rate": "Cardiac beta1 blockade slows rate and can worsen bradycardia or conduction disease. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Y6Qf_lb3oKc"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-3cDJbezsavY-1",
+    "lectureId": "3cDJbezsavY",
+    "title": "Propranolol: 1",
+    "prompt": "A patient is prescribed a beta antagonist that blocks both cardiac beta1 and bronchial beta2 receptors. The clinician reviews respiratory history before treatment. Which listed drug has this nonselective beta-blocking profile?",
+    "options": [
+      "Prazosin",
+      "Tamsulosin",
+      "Phenoxybenzamine",
+      "Phentolamine",
+      "Propranolol"
+    ],
+    "answer": "Propranolol",
+    "explanation": "Propranolol blocks both beta1 and beta2 receptors.",
+    "distractorExplanations": {
+      "Propranolol": "Propranolol blocks both beta1 and beta2 receptors.",
+      "Prazosin": "Prazosin blocks alpha1 receptors and can produce marked first-dose orthostatic hypotension. This does not best answer the specific question in this case.",
+      "Tamsulosin": "Tamsulosin preferentially targets alpha1A-mediated lower urinary tract smooth-muscle tone. This does not best answer the specific question in this case.",
+      "Phenoxybenzamine": "Phenoxybenzamine irreversibly blocks alpha receptors and is used in selected pheochromocytoma preparations. This does not best answer the specific question in this case.",
+      "Phentolamine": "Phentolamine is a reversible nonselective alpha antagonist with selected acute uses. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=3cDJbezsavY"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-3cDJbezsavY-2",
+    "lectureId": "3cDJbezsavY",
+    "title": "Propranolol: 2",
+    "prompt": "A patient with reactive airways develops wheezing after taking propranolol. The drug blocks a receptor that normally supports bronchial smooth-muscle relaxation. Which receptor-level effect best explains this respiratory adverse reaction?",
+    "options": [
+      "Intraoperative floppy iris syndrome",
+      "Establish alpha blockade before adding beta blockade",
+      "Beta1 blockade reducing heart rate",
+      "Beta2 blockade causing bronchoconstriction",
+      "Orthostatic hypotension"
+    ],
+    "answer": "Beta2 blockade causing bronchoconstriction",
+    "explanation": "Nonselective beta blockers can aggravate bronchospasm in susceptible patients.",
+    "distractorExplanations": {
+      "Beta2 blockade causing bronchoconstriction": "Nonselective beta blockers can aggravate bronchospasm in susceptible patients.",
+      "Orthostatic hypotension": "Alpha1 blockade reduces the vasoconstrictor response to standing. This does not best answer the specific question in this case.",
+      "Intraoperative floppy iris syndrome": "Alpha1 antagonists, especially tamsulosin, are associated with floppy iris during cataract surgery. This does not best answer the specific question in this case.",
+      "Establish alpha blockade before adding beta blockade": "In pheochromocytoma, beta blockade before adequate alpha blockade can worsen vasoconstriction. This does not best answer the specific question in this case.",
+      "Beta1 blockade reducing heart rate": "Cardiac beta1 blockade slows rate and can worsen bradycardia or conduction disease. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=3cDJbezsavY"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-3cDJbezsavY-3",
+    "lectureId": "3cDJbezsavY",
+    "title": "Propranolol: 3",
+    "prompt": "A patient taking propranolol develops a slow pulse and dizziness. The clinician reviews cardiac conduction and interacting rate-slowing drugs. Which direct cardiac receptor effect best explains the reduction in heart rate during treatment?",
+    "options": [
+      "Establish alpha blockade before adding beta blockade",
+      "Beta2 blockade causing bronchoconstriction",
+      "Beta1 blockade reducing heart rate",
+      "Orthostatic hypotension",
+      "Intraoperative floppy iris syndrome"
+    ],
+    "answer": "Beta1 blockade reducing heart rate",
+    "explanation": "Cardiac beta1 blockade slows rate and can worsen bradycardia or conduction disease.",
+    "distractorExplanations": {
+      "Beta1 blockade reducing heart rate": "Cardiac beta1 blockade slows rate and can worsen bradycardia or conduction disease.",
+      "Orthostatic hypotension": "Alpha1 blockade reduces the vasoconstrictor response to standing. This does not best answer the specific question in this case.",
+      "Intraoperative floppy iris syndrome": "Alpha1 antagonists, especially tamsulosin, are associated with floppy iris during cataract surgery. This does not best answer the specific question in this case.",
+      "Establish alpha blockade before adding beta blockade": "In pheochromocytoma, beta blockade before adequate alpha blockade can worsen vasoconstriction. This does not best answer the specific question in this case.",
+      "Beta2 blockade causing bronchoconstriction": "Nonselective beta blockers can aggravate bronchospasm in susceptible patients. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=3cDJbezsavY"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-3cDJbezsavY-4",
+    "lectureId": "3cDJbezsavY",
+    "title": "Propranolol: 4",
+    "prompt": "A patient with diabetes taking propranolol has low glucose without the usual tremor or racing heartbeat. Which effect of beta blockade explains why familiar warning symptoms may be less apparent during this episode?",
+    "options": [
+      "Beta2 blockade causing bronchoconstriction",
+      "Masking adrenergic hypoglycemia symptoms",
+      "Orthostatic hypotension",
+      "Intraoperative floppy iris syndrome",
+      "Establish alpha blockade before adding beta blockade"
+    ],
+    "answer": "Masking adrenergic hypoglycemia symptoms",
+    "explanation": "Beta blockade can blunt warning signs such as tremor and tachycardia.",
+    "distractorExplanations": {
+      "Masking adrenergic hypoglycemia symptoms": "Beta blockade can blunt warning signs such as tremor and tachycardia.",
+      "Orthostatic hypotension": "Alpha1 blockade reduces the vasoconstrictor response to standing. This does not best answer the specific question in this case.",
+      "Intraoperative floppy iris syndrome": "Alpha1 antagonists, especially tamsulosin, are associated with floppy iris during cataract surgery. This does not best answer the specific question in this case.",
+      "Establish alpha blockade before adding beta blockade": "In pheochromocytoma, beta blockade before adequate alpha blockade can worsen vasoconstriction. This does not best answer the specific question in this case.",
+      "Beta2 blockade causing bronchoconstriction": "Nonselective beta blockers can aggravate bronchospasm in susceptible patients. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=3cDJbezsavY"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-3cDJbezsavY-5",
+    "lectureId": "3cDJbezsavY",
+    "title": "Propranolol: 5",
+    "prompt": "A patient with coronary disease abruptly stops long-term propranolol and develops tachycardia with worsening angina. Which withdrawal-related physiological effect explains why discontinuation should be planned rather than performed suddenly without clinical review?",
+    "options": [
+      "Rebound adrenergic effects after abrupt withdrawal",
+      "Orthostatic hypotension",
+      "Intraoperative floppy iris syndrome",
+      "Establish alpha blockade before adding beta blockade",
+      "Beta2 blockade causing bronchoconstriction"
+    ],
+    "answer": "Rebound adrenergic effects after abrupt withdrawal",
+    "explanation": "Abrupt cessation of long-term beta blockade can exacerbate angina or tachycardia.",
+    "distractorExplanations": {
+      "Rebound adrenergic effects after abrupt withdrawal": "Abrupt cessation of long-term beta blockade can exacerbate angina or tachycardia.",
+      "Orthostatic hypotension": "Alpha1 blockade reduces the vasoconstrictor response to standing. This does not best answer the specific question in this case.",
+      "Intraoperative floppy iris syndrome": "Alpha1 antagonists, especially tamsulosin, are associated with floppy iris during cataract surgery. This does not best answer the specific question in this case.",
+      "Establish alpha blockade before adding beta blockade": "In pheochromocytoma, beta blockade before adequate alpha blockade can worsen vasoconstriction. This does not best answer the specific question in this case.",
+      "Beta2 blockade causing bronchoconstriction": "Nonselective beta blockers can aggravate bronchospasm in susceptible patients. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=3cDJbezsavY"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-bHg14k22JqQ-1",
+    "lectureId": "bHg14k22JqQ",
+    "title": "Statins: 1",
+    "prompt": "A patient begins a statin to lower LDL cholesterol. The medication reduces hepatic cholesterol production by inhibiting a key enzyme rather than directly trapping dietary fat in the bowel. Which mechanism best explains its primary action?",
+    "options": [
+      "Increased statin exposure through a drug interaction",
+      "Reduction of atherosclerotic cardiovascular risk",
+      "HMG-CoA reductase inhibition",
+      "Increased hepatic LDL receptor expression",
+      "Statin-associated muscle injury"
+    ],
+    "answer": "HMG-CoA reductase inhibition",
+    "explanation": "Statins inhibit the rate-limiting enzyme in hepatic cholesterol synthesis.",
+    "distractorExplanations": {
+      "HMG-CoA reductase inhibition": "Statins inhibit the rate-limiting enzyme in hepatic cholesterol synthesis.",
+      "Increased hepatic LDL receptor expression": "Reduced hepatic cholesterol promotes LDL receptor expression and circulating LDL clearance. This does not best answer the specific question in this case.",
+      "Statin-associated muscle injury": "New muscle pain with marked CK elevation requires assessment for myopathy or rhabdomyolysis. This does not best answer the specific question in this case.",
+      "Increased statin exposure through a drug interaction": "CYP3A4 inhibitors can increase exposure to susceptible statins such as simvastatin. This does not best answer the specific question in this case.",
+      "Reduction of atherosclerotic cardiovascular risk": "Appropriate statin therapy reduces cardiovascular events, not merely the laboratory LDL number. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=bHg14k22JqQ"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-bHg14k22JqQ-2",
+    "lectureId": "bHg14k22JqQ",
+    "title": "Statins: 2",
+    "prompt": "After statin treatment reduces hepatic cholesterol synthesis, liver cells remove more LDL from circulation. Which compensatory hepatic change most directly explains the fall in serum LDL concentration following inhibition of cholesterol production?",
+    "options": [
+      "Reduction of atherosclerotic cardiovascular risk",
+      "Increased hepatic LDL receptor expression",
+      "HMG-CoA reductase inhibition",
+      "Statin-associated muscle injury",
+      "Increased statin exposure through a drug interaction"
+    ],
+    "answer": "Increased hepatic LDL receptor expression",
+    "explanation": "Reduced hepatic cholesterol promotes LDL receptor expression and circulating LDL clearance.",
+    "distractorExplanations": {
+      "Increased hepatic LDL receptor expression": "Reduced hepatic cholesterol promotes LDL receptor expression and circulating LDL clearance.",
+      "HMG-CoA reductase inhibition": "Statins inhibit the rate-limiting enzyme in hepatic cholesterol synthesis. This does not best answer the specific question in this case.",
+      "Statin-associated muscle injury": "New muscle pain with marked CK elevation requires assessment for myopathy or rhabdomyolysis. This does not best answer the specific question in this case.",
+      "Increased statin exposure through a drug interaction": "CYP3A4 inhibitors can increase exposure to susceptible statins such as simvastatin. This does not best answer the specific question in this case.",
+      "Reduction of atherosclerotic cardiovascular risk": "Appropriate statin therapy reduces cardiovascular events, not merely the laboratory LDL number. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=bHg14k22JqQ"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-bHg14k22JqQ-3",
+    "lectureId": "bHg14k22JqQ",
+    "title": "Statins: 3",
+    "prompt": "A patient taking a statin develops diffuse muscle pain, weakness and dark urine with markedly elevated creatine kinase. Which serious adverse-effect category should be considered rather than treating the symptoms as routine exercise soreness?",
+    "options": [
+      "Statin-associated muscle injury",
+      "HMG-CoA reductase inhibition",
+      "Increased hepatic LDL receptor expression",
+      "Increased statin exposure through a drug interaction",
+      "Reduction of atherosclerotic cardiovascular risk"
+    ],
+    "answer": "Statin-associated muscle injury",
+    "explanation": "New muscle pain with marked CK elevation requires assessment for myopathy or rhabdomyolysis.",
+    "distractorExplanations": {
+      "Statin-associated muscle injury": "New muscle pain with marked CK elevation requires assessment for myopathy or rhabdomyolysis.",
+      "HMG-CoA reductase inhibition": "Statins inhibit the rate-limiting enzyme in hepatic cholesterol synthesis. This does not best answer the specific question in this case.",
+      "Increased hepatic LDL receptor expression": "Reduced hepatic cholesterol promotes LDL receptor expression and circulating LDL clearance. This does not best answer the specific question in this case.",
+      "Increased statin exposure through a drug interaction": "CYP3A4 inhibitors can increase exposure to susceptible statins such as simvastatin. This does not best answer the specific question in this case.",
+      "Reduction of atherosclerotic cardiovascular risk": "Appropriate statin therapy reduces cardiovascular events, not merely the laboratory LDL number. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=bHg14k22JqQ"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-bHg14k22JqQ-4",
+    "lectureId": "bHg14k22JqQ",
+    "title": "Statins: 4",
+    "prompt": "A patient stable on simvastatin develops muscle symptoms after a strong CYP3A4 inhibitor is prescribed. The statin dose was unchanged. Which pharmacokinetic explanation best accounts for the new toxicity after adding the other medicine?",
+    "options": [
+      "HMG-CoA reductase inhibition",
+      "Increased hepatic LDL receptor expression",
+      "Statin-associated muscle injury",
+      "Reduction of atherosclerotic cardiovascular risk",
+      "Increased statin exposure through a drug interaction"
+    ],
+    "answer": "Increased statin exposure through a drug interaction",
+    "explanation": "CYP3A4 inhibitors can increase exposure to susceptible statins such as simvastatin.",
+    "distractorExplanations": {
+      "Increased statin exposure through a drug interaction": "CYP3A4 inhibitors can increase exposure to susceptible statins such as simvastatin.",
+      "HMG-CoA reductase inhibition": "Statins inhibit the rate-limiting enzyme in hepatic cholesterol synthesis. This does not best answer the specific question in this case.",
+      "Increased hepatic LDL receptor expression": "Reduced hepatic cholesterol promotes LDL receptor expression and circulating LDL clearance. This does not best answer the specific question in this case.",
+      "Statin-associated muscle injury": "New muscle pain with marked CK elevation requires assessment for myopathy or rhabdomyolysis. This does not best answer the specific question in this case.",
+      "Reduction of atherosclerotic cardiovascular risk": "Appropriate statin therapy reduces cardiovascular events, not merely the laboratory LDL number. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=bHg14k22JqQ"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-bHg14k22JqQ-5",
+    "lectureId": "bHg14k22JqQ",
+    "title": "Statins: 5",
+    "prompt": "A patient asks why a statin is recommended after an atherosclerotic event even without current symptoms. The clinician explains the intended clinical benefit beyond changing a laboratory number. Which outcome is the principal therapeutic goal?",
+    "options": [
+      "Increased hepatic LDL receptor expression",
+      "Statin-associated muscle injury",
+      "Increased statin exposure through a drug interaction",
+      "Reduction of atherosclerotic cardiovascular risk",
+      "HMG-CoA reductase inhibition"
+    ],
+    "answer": "Reduction of atherosclerotic cardiovascular risk",
+    "explanation": "Appropriate statin therapy reduces cardiovascular events, not merely the laboratory LDL number.",
+    "distractorExplanations": {
+      "Reduction of atherosclerotic cardiovascular risk": "Appropriate statin therapy reduces cardiovascular events, not merely the laboratory LDL number.",
+      "HMG-CoA reductase inhibition": "Statins inhibit the rate-limiting enzyme in hepatic cholesterol synthesis. This does not best answer the specific question in this case.",
+      "Increased hepatic LDL receptor expression": "Reduced hepatic cholesterol promotes LDL receptor expression and circulating LDL clearance. This does not best answer the specific question in this case.",
+      "Statin-associated muscle injury": "New muscle pain with marked CK elevation requires assessment for myopathy or rhabdomyolysis. This does not best answer the specific question in this case.",
+      "Increased statin exposure through a drug interaction": "CYP3A4 inhibitors can increase exposure to susceptible statins such as simvastatin. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=bHg14k22JqQ"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs--ekVYKeK_OY-1",
+    "lectureId": "-ekVYKeK_OY",
+    "title": "Common amlodipine effects: 1",
+    "prompt": "A patient develops bilateral ankle swelling after an amlodipine dose increase, without breathlessness or other evidence of heart failure. Which local vascular mechanism best explains this common dependent edema associated with the medication?",
+    "options": [
+      "Precapillary arteriolar dilation",
+      "Arteriolar L-type calcium-channel blockade",
+      "Vasodilatory flushing",
+      "Vasodilatory headache",
+      "Palpitations"
+    ],
+    "answer": "Precapillary arteriolar dilation",
+    "explanation": "Preferential arteriolar dilation increases capillary hydrostatic pressure and can cause dependent edema without primary fluid overload.",
+    "distractorExplanations": {
+      "Precapillary arteriolar dilation": "Preferential arteriolar dilation increases capillary hydrostatic pressure and can cause dependent edema without primary fluid overload.",
+      "Arteriolar L-type calcium-channel blockade": "Amlodipine predominantly relaxes vascular smooth muscle and lowers systemic resistance. This does not best answer the specific question in this case.",
+      "Vasodilatory flushing": "Cutaneous vasodilation can cause warmth and flushing. This does not best answer the specific question in this case.",
+      "Vasodilatory headache": "Headache can occur with vasodilator therapy and must be interpreted in clinical context. This does not best answer the specific question in this case.",
+      "Palpitations": "A patient may notice a forceful or rapid heartbeat during vasodilator treatment; persistent symptoms need assessment. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=-ekVYKeK_OY"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs--ekVYKeK_OY-2",
+    "lectureId": "-ekVYKeK_OY",
+    "title": "Common amlodipine effects: 2",
+    "prompt": "Soon after starting amlodipine, a patient notices warmth and redness of the face without hives, wheezing or hypotension. Which common vasodilatory adverse effect best fits this isolated symptom pattern during treatment?",
+    "options": [
+      "Arteriolar L-type calcium-channel blockade",
+      "Precapillary arteriolar dilation",
+      "Vasodilatory headache",
+      "Palpitations",
+      "Vasodilatory flushing"
+    ],
+    "answer": "Vasodilatory flushing",
+    "explanation": "Cutaneous vasodilation can cause warmth and flushing.",
+    "distractorExplanations": {
+      "Vasodilatory flushing": "Cutaneous vasodilation can cause warmth and flushing.",
+      "Arteriolar L-type calcium-channel blockade": "Amlodipine predominantly relaxes vascular smooth muscle and lowers systemic resistance. This does not best answer the specific question in this case.",
+      "Precapillary arteriolar dilation": "Preferential arteriolar dilation increases capillary hydrostatic pressure and can cause dependent edema without primary fluid overload. This does not best answer the specific question in this case.",
+      "Vasodilatory headache": "Headache can occur with vasodilator therapy and must be interpreted in clinical context. This does not best answer the specific question in this case.",
+      "Palpitations": "A patient may notice a forceful or rapid heartbeat during vasodilator treatment; persistent symptoms need assessment. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=-ekVYKeK_OY"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs--ekVYKeK_OY-3",
+    "lectureId": "-ekVYKeK_OY",
+    "title": "Common amlodipine effects: 3",
+    "prompt": "A patient has a mild headache after beginning amlodipine, with no focal neurologic findings or other alarm features. Which common medication effect can account for this symptom while the clinician evaluates its severity and persistence?",
+    "options": [
+      "Precapillary arteriolar dilation",
+      "Vasodilatory flushing",
+      "Palpitations",
+      "Vasodilatory headache",
+      "Arteriolar L-type calcium-channel blockade"
+    ],
+    "answer": "Vasodilatory headache",
+    "explanation": "Headache can occur with vasodilator therapy and must be interpreted in clinical context.",
+    "distractorExplanations": {
+      "Vasodilatory headache": "Headache can occur with vasodilator therapy and must be interpreted in clinical context.",
+      "Arteriolar L-type calcium-channel blockade": "Amlodipine predominantly relaxes vascular smooth muscle and lowers systemic resistance. This does not best answer the specific question in this case.",
+      "Precapillary arteriolar dilation": "Preferential arteriolar dilation increases capillary hydrostatic pressure and can cause dependent edema without primary fluid overload. This does not best answer the specific question in this case.",
+      "Vasodilatory flushing": "Cutaneous vasodilation can cause warmth and flushing. This does not best answer the specific question in this case.",
+      "Palpitations": "A patient may notice a forceful or rapid heartbeat during vasodilator treatment; persistent symptoms need assessment. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=-ekVYKeK_OY"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs--ekVYKeK_OY-4",
+    "lectureId": "-ekVYKeK_OY",
+    "title": "Common amlodipine effects: 4",
+    "prompt": "A patient taking amlodipine reports awareness of a pounding heartbeat. The clinician assesses rhythm and other causes rather than assuming the symptom is always benign. Which reported adverse effect best labels the patient’s sensation?",
+    "options": [
+      "Vasodilatory flushing",
+      "Vasodilatory headache",
+      "Palpitations",
+      "Arteriolar L-type calcium-channel blockade",
+      "Precapillary arteriolar dilation"
+    ],
+    "answer": "Palpitations",
+    "explanation": "A patient may notice a forceful or rapid heartbeat during vasodilator treatment; persistent symptoms need assessment.",
+    "distractorExplanations": {
+      "Palpitations": "A patient may notice a forceful or rapid heartbeat during vasodilator treatment; persistent symptoms need assessment.",
+      "Arteriolar L-type calcium-channel blockade": "Amlodipine predominantly relaxes vascular smooth muscle and lowers systemic resistance. This does not best answer the specific question in this case.",
+      "Precapillary arteriolar dilation": "Preferential arteriolar dilation increases capillary hydrostatic pressure and can cause dependent edema without primary fluid overload. This does not best answer the specific question in this case.",
+      "Vasodilatory flushing": "Cutaneous vasodilation can cause warmth and flushing. This does not best answer the specific question in this case.",
+      "Vasodilatory headache": "Headache can occur with vasodilator therapy and must be interpreted in clinical context. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=-ekVYKeK_OY"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs--ekVYKeK_OY-5",
+    "lectureId": "-ekVYKeK_OY",
+    "title": "Common amlodipine effects: 5",
+    "prompt": "A patient asks why amlodipine lowers pressure yet can also produce flushing and ankle edema. Which principal vascular action connects the desired blood-pressure effect with these common adverse effects of the drug?",
+    "options": [
+      "Palpitations",
+      "Arteriolar L-type calcium-channel blockade",
+      "Precapillary arteriolar dilation",
+      "Vasodilatory flushing",
+      "Vasodilatory headache"
+    ],
+    "answer": "Arteriolar L-type calcium-channel blockade",
+    "explanation": "Amlodipine predominantly relaxes vascular smooth muscle and lowers systemic resistance.",
+    "distractorExplanations": {
+      "Arteriolar L-type calcium-channel blockade": "Amlodipine predominantly relaxes vascular smooth muscle and lowers systemic resistance.",
+      "Precapillary arteriolar dilation": "Preferential arteriolar dilation increases capillary hydrostatic pressure and can cause dependent edema without primary fluid overload. This does not best answer the specific question in this case.",
+      "Vasodilatory flushing": "Cutaneous vasodilation can cause warmth and flushing. This does not best answer the specific question in this case.",
+      "Vasodilatory headache": "Headache can occur with vasodilator therapy and must be interpreted in clinical context. This does not best answer the specific question in this case.",
+      "Palpitations": "A patient may notice a forceful or rapid heartbeat during vasodilator treatment; persistent symptoms need assessment. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=-ekVYKeK_OY"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-NzkVcA6xfEY-1",
+    "lectureId": "NzkVcA6xfEY",
+    "title": "Serious amlodipine adverse effects: 1",
+    "prompt": "A patient takes an excessive amlodipine dose and develops marked hypotension, dizziness and impaired perfusion. Which serious physiological adverse effect requires urgent assessment rather than observation as a routine mild side effect?",
+    "options": [
+      "Vasodilatory flushing",
+      "Vasodilatory headache",
+      "Symptomatic hypotension",
+      "Arteriolar L-type calcium-channel blockade",
+      "Precapillary arteriolar dilation"
+    ],
+    "answer": "Symptomatic hypotension",
+    "explanation": "Excessive blood-pressure reduction can cause dizziness, syncope or impaired perfusion.",
+    "distractorExplanations": {
+      "Symptomatic hypotension": "Excessive blood-pressure reduction can cause dizziness, syncope or impaired perfusion.",
+      "Arteriolar L-type calcium-channel blockade": "Amlodipine predominantly relaxes vascular smooth muscle and lowers systemic resistance. This does not best answer the specific question in this case.",
+      "Precapillary arteriolar dilation": "Preferential arteriolar dilation increases capillary hydrostatic pressure and can cause dependent edema without primary fluid overload. This does not best answer the specific question in this case.",
+      "Vasodilatory flushing": "Cutaneous vasodilation can cause warmth and flushing. This does not best answer the specific question in this case.",
+      "Vasodilatory headache": "Headache can occur with vasodilator therapy and must be interpreted in clinical context. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=NzkVcA6xfEY"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-NzkVcA6xfEY-2",
+    "lectureId": "NzkVcA6xfEY",
+    "title": "Serious amlodipine adverse effects: 2",
+    "prompt": "A patient develops facial swelling and breathing difficulty soon after amlodipine exposure. Emergency treatment is arranged. Which adverse-reaction category best explains why future re-exposure requires particular concern rather than ordinary dose adjustment?",
+    "options": [
+      "Vasodilatory headache",
+      "Serious hypersensitivity",
+      "Arteriolar L-type calcium-channel blockade",
+      "Precapillary arteriolar dilation",
+      "Vasodilatory flushing"
+    ],
+    "answer": "Serious hypersensitivity",
+    "explanation": "A prior serious hypersensitivity reaction to amlodipine is a contraindication to re-exposure.",
+    "distractorExplanations": {
+      "Serious hypersensitivity": "A prior serious hypersensitivity reaction to amlodipine is a contraindication to re-exposure.",
+      "Arteriolar L-type calcium-channel blockade": "Amlodipine predominantly relaxes vascular smooth muscle and lowers systemic resistance. This does not best answer the specific question in this case.",
+      "Precapillary arteriolar dilation": "Preferential arteriolar dilation increases capillary hydrostatic pressure and can cause dependent edema without primary fluid overload. This does not best answer the specific question in this case.",
+      "Vasodilatory flushing": "Cutaneous vasodilation can cause warmth and flushing. This does not best answer the specific question in this case.",
+      "Vasodilatory headache": "Headache can occur with vasodilator therapy and must be interpreted in clinical context. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=NzkVcA6xfEY"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-NzkVcA6xfEY-3",
+    "lectureId": "NzkVcA6xfEY",
+    "title": "Serious amlodipine adverse effects: 3",
+    "prompt": "A patient with severe obstructive coronary disease develops worsening chest pain after an amlodipine dose increase. Which uncommon but important warning should be considered while arranging urgent assessment rather than dismissing the symptom?",
+    "options": [
+      "Worsening angina after initiation or dose increase",
+      "Arteriolar L-type calcium-channel blockade",
+      "Precapillary arteriolar dilation",
+      "Vasodilatory flushing",
+      "Vasodilatory headache"
+    ],
+    "answer": "Worsening angina after initiation or dose increase",
+    "explanation": "Rarely, worsening angina or infarction can occur, particularly with severe obstructive coronary disease; new chest pain needs urgent evaluation.",
+    "distractorExplanations": {
+      "Worsening angina after initiation or dose increase": "Rarely, worsening angina or infarction can occur, particularly with severe obstructive coronary disease; new chest pain needs urgent evaluation.",
+      "Arteriolar L-type calcium-channel blockade": "Amlodipine predominantly relaxes vascular smooth muscle and lowers systemic resistance. This does not best answer the specific question in this case.",
+      "Precapillary arteriolar dilation": "Preferential arteriolar dilation increases capillary hydrostatic pressure and can cause dependent edema without primary fluid overload. This does not best answer the specific question in this case.",
+      "Vasodilatory flushing": "Cutaneous vasodilation can cause warmth and flushing. This does not best answer the specific question in this case.",
+      "Vasodilatory headache": "Headache can occur with vasodilator therapy and must be interpreted in clinical context. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=NzkVcA6xfEY"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-NzkVcA6xfEY-4",
+    "lectureId": "NzkVcA6xfEY",
+    "title": "Serious amlodipine adverse effects: 4",
+    "prompt": "An older patient taking several vasodilators starts amlodipine and faints on standing. The measured pressure is very low. Which serious medication effect is the immediate concern when reviewing the combined blood-pressure-lowering regimen?",
+    "options": [
+      "Arteriolar L-type calcium-channel blockade",
+      "Precapillary arteriolar dilation",
+      "Vasodilatory flushing",
+      "Vasodilatory headache",
+      "Symptomatic hypotension"
+    ],
+    "answer": "Symptomatic hypotension",
+    "explanation": "Excessive blood-pressure reduction can cause dizziness, syncope or impaired perfusion.",
+    "distractorExplanations": {
+      "Symptomatic hypotension": "Excessive blood-pressure reduction can cause dizziness, syncope or impaired perfusion.",
+      "Arteriolar L-type calcium-channel blockade": "Amlodipine predominantly relaxes vascular smooth muscle and lowers systemic resistance. This does not best answer the specific question in this case.",
+      "Precapillary arteriolar dilation": "Preferential arteriolar dilation increases capillary hydrostatic pressure and can cause dependent edema without primary fluid overload. This does not best answer the specific question in this case.",
+      "Vasodilatory flushing": "Cutaneous vasodilation can cause warmth and flushing. This does not best answer the specific question in this case.",
+      "Vasodilatory headache": "Headache can occur with vasodilator therapy and must be interpreted in clinical context. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=NzkVcA6xfEY"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-NzkVcA6xfEY-5",
+    "lectureId": "NzkVcA6xfEY",
+    "title": "Serious amlodipine adverse effects: 5",
+    "prompt": "A patient with significant hepatic impairment develops greater-than-expected effects on an ordinary amlodipine regimen. Which pharmacokinetic factor supports cautious titration and review of exposure in this patient with impaired liver function?",
+    "options": [
+      "Precapillary arteriolar dilation",
+      "Vasodilatory flushing",
+      "Vasodilatory headache",
+      "Slower clearance in hepatic impairment",
+      "Arteriolar L-type calcium-channel blockade"
+    ],
+    "answer": "Slower clearance in hepatic impairment",
+    "explanation": "Hepatic impairment can increase amlodipine exposure and calls for cautious dosing and titration.",
+    "distractorExplanations": {
+      "Slower clearance in hepatic impairment": "Hepatic impairment can increase amlodipine exposure and calls for cautious dosing and titration.",
+      "Arteriolar L-type calcium-channel blockade": "Amlodipine predominantly relaxes vascular smooth muscle and lowers systemic resistance. This does not best answer the specific question in this case.",
+      "Precapillary arteriolar dilation": "Preferential arteriolar dilation increases capillary hydrostatic pressure and can cause dependent edema without primary fluid overload. This does not best answer the specific question in this case.",
+      "Vasodilatory flushing": "Cutaneous vasodilation can cause warmth and flushing. This does not best answer the specific question in this case.",
+      "Vasodilatory headache": "Headache can occur with vasodilator therapy and must be interpreted in clinical context. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=NzkVcA6xfEY"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-MH_uA2e34PY-1",
+    "lectureId": "MH_uA2e34PY",
+    "title": "Amlodipine contraindications and precautions: 1",
+    "prompt": "A patient previously had a serious hypersensitivity reaction attributed to amlodipine and asks about restarting it. Which factor is an actual contraindication to routine re-exposure rather than merely a reason for slow titration?",
+    "options": [
+      "Precapillary arteriolar dilation",
+      "Vasodilatory flushing",
+      "Vasodilatory headache",
+      "Serious hypersensitivity",
+      "Arteriolar L-type calcium-channel blockade"
+    ],
+    "answer": "Serious hypersensitivity",
+    "explanation": "A prior serious hypersensitivity reaction to amlodipine is a contraindication to re-exposure.",
+    "distractorExplanations": {
+      "Serious hypersensitivity": "A prior serious hypersensitivity reaction to amlodipine is a contraindication to re-exposure.",
+      "Arteriolar L-type calcium-channel blockade": "Amlodipine predominantly relaxes vascular smooth muscle and lowers systemic resistance. This does not best answer the specific question in this case.",
+      "Precapillary arteriolar dilation": "Preferential arteriolar dilation increases capillary hydrostatic pressure and can cause dependent edema without primary fluid overload. This does not best answer the specific question in this case.",
+      "Vasodilatory flushing": "Cutaneous vasodilation can cause warmth and flushing. This does not best answer the specific question in this case.",
+      "Vasodilatory headache": "Headache can occur with vasodilator therapy and must be interpreted in clinical context. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=MH_uA2e34PY"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-MH_uA2e34PY-2",
+    "lectureId": "MH_uA2e34PY",
+    "title": "Amlodipine contraindications and precautions: 2",
+    "prompt": "A patient is already markedly hypotensive and symptomatic when additional amlodipine is proposed. Which immediate physiological risk should guide the decision about adding another vasodilator in this unstable blood-pressure situation?",
+    "options": [
+      "Vasodilatory flushing",
+      "Vasodilatory headache",
+      "Symptomatic hypotension",
+      "Arteriolar L-type calcium-channel blockade",
+      "Precapillary arteriolar dilation"
+    ],
+    "answer": "Symptomatic hypotension",
+    "explanation": "Excessive blood-pressure reduction can cause dizziness, syncope or impaired perfusion.",
+    "distractorExplanations": {
+      "Symptomatic hypotension": "Excessive blood-pressure reduction can cause dizziness, syncope or impaired perfusion.",
+      "Arteriolar L-type calcium-channel blockade": "Amlodipine predominantly relaxes vascular smooth muscle and lowers systemic resistance. This does not best answer the specific question in this case.",
+      "Precapillary arteriolar dilation": "Preferential arteriolar dilation increases capillary hydrostatic pressure and can cause dependent edema without primary fluid overload. This does not best answer the specific question in this case.",
+      "Vasodilatory flushing": "Cutaneous vasodilation can cause warmth and flushing. This does not best answer the specific question in this case.",
+      "Vasodilatory headache": "Headache can occur with vasodilator therapy and must be interpreted in clinical context. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=MH_uA2e34PY"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-MH_uA2e34PY-3",
+    "lectureId": "MH_uA2e34PY",
+    "title": "Amlodipine contraindications and precautions: 3",
+    "prompt": "A patient with liver dysfunction needs antihypertensive treatment. The clinician considers a lower starting exposure and slower titration of amlodipine. Which pharmacokinetic precaution explains this approach rather than assuming usual clearance?",
+    "options": [
+      "Vasodilatory headache",
+      "Slower clearance in hepatic impairment",
+      "Arteriolar L-type calcium-channel blockade",
+      "Precapillary arteriolar dilation",
+      "Vasodilatory flushing"
+    ],
+    "answer": "Slower clearance in hepatic impairment",
+    "explanation": "Hepatic impairment can increase amlodipine exposure and calls for cautious dosing and titration.",
+    "distractorExplanations": {
+      "Slower clearance in hepatic impairment": "Hepatic impairment can increase amlodipine exposure and calls for cautious dosing and titration.",
+      "Arteriolar L-type calcium-channel blockade": "Amlodipine predominantly relaxes vascular smooth muscle and lowers systemic resistance. This does not best answer the specific question in this case.",
+      "Precapillary arteriolar dilation": "Preferential arteriolar dilation increases capillary hydrostatic pressure and can cause dependent edema without primary fluid overload. This does not best answer the specific question in this case.",
+      "Vasodilatory flushing": "Cutaneous vasodilation can cause warmth and flushing. This does not best answer the specific question in this case.",
+      "Vasodilatory headache": "Headache can occur with vasodilator therapy and must be interpreted in clinical context. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=MH_uA2e34PY"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-MH_uA2e34PY-4",
+    "lectureId": "MH_uA2e34PY",
+    "title": "Amlodipine contraindications and precautions: 4",
+    "prompt": "A patient with severe coronary obstruction is starting amlodipine under supervision. Which uncommon clinical worsening should be discussed and assessed promptly if it occurs after initiation or dose escalation during treatment?",
+    "options": [
+      "Worsening angina after initiation or dose increase",
+      "Arteriolar L-type calcium-channel blockade",
+      "Precapillary arteriolar dilation",
+      "Vasodilatory flushing",
+      "Vasodilatory headache"
+    ],
+    "answer": "Worsening angina after initiation or dose increase",
+    "explanation": "Rarely, worsening angina or infarction can occur, particularly with severe obstructive coronary disease; new chest pain needs urgent evaluation.",
+    "distractorExplanations": {
+      "Worsening angina after initiation or dose increase": "Rarely, worsening angina or infarction can occur, particularly with severe obstructive coronary disease; new chest pain needs urgent evaluation.",
+      "Arteriolar L-type calcium-channel blockade": "Amlodipine predominantly relaxes vascular smooth muscle and lowers systemic resistance. This does not best answer the specific question in this case.",
+      "Precapillary arteriolar dilation": "Preferential arteriolar dilation increases capillary hydrostatic pressure and can cause dependent edema without primary fluid overload. This does not best answer the specific question in this case.",
+      "Vasodilatory flushing": "Cutaneous vasodilation can cause warmth and flushing. This does not best answer the specific question in this case.",
+      "Vasodilatory headache": "Headache can occur with vasodilator therapy and must be interpreted in clinical context. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=MH_uA2e34PY"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-cardiorenal-drugs-MH_uA2e34PY-5",
+    "lectureId": "MH_uA2e34PY",
+    "title": "Amlodipine contraindications and precautions: 5",
+    "prompt": "A student labels every condition mentioned in an amlodipine safety lecture an absolute contraindication. Some are instead circumstances requiring monitoring or dose adjustment. Which prescribing principle prevents this overgeneralization from the teaching list?",
+    "options": [
+      "Arteriolar L-type calcium-channel blockade",
+      "Precapillary arteriolar dilation",
+      "Vasodilatory flushing",
+      "Vasodilatory headache",
+      "Distinguish a precaution from an absolute contraindication"
+    ],
+    "answer": "Distinguish a precaution from an absolute contraindication",
+    "explanation": "Clinical cautions require individualized assessment; a lecture list should not turn every risk factor into an absolute prohibition.",
+    "distractorExplanations": {
+      "Distinguish a precaution from an absolute contraindication": "Clinical cautions require individualized assessment; a lecture list should not turn every risk factor into an absolute prohibition.",
+      "Arteriolar L-type calcium-channel blockade": "Amlodipine predominantly relaxes vascular smooth muscle and lowers systemic resistance. This does not best answer the specific question in this case.",
+      "Precapillary arteriolar dilation": "Preferential arteriolar dilation increases capillary hydrostatic pressure and can cause dependent edema without primary fluid overload. This does not best answer the specific question in this case.",
+      "Vasodilatory flushing": "Cutaneous vasodilation can cause warmth and flushing. This does not best answer the specific question in this case.",
+      "Vasodilatory headache": "Headache can occur with vasodilator therapy and must be interpreted in clinical context. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=MH_uA2e34PY"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  }
+]

@@ -1,0 +1,822 @@
+[
+  {
+    "id": "reviewed-fc-pharm2-brQi0DrlKDI-1",
+    "lectureId": "brQi0DrlKDI",
+    "front": "How should benzonatate capsules be taken?",
+    "back": "Swallow them whole.",
+    "explanation": "Chewing or opening a capsule can anesthetize the mouth and throat and create a choking risk."
+  },
+  {
+    "id": "reviewed-fc-pharm2-brQi0DrlKDI-2",
+    "lectureId": "brQi0DrlKDI",
+    "front": "Where does benzonatate primarily reduce the cough reflex?",
+    "back": "At peripheral sensory receptors in the respiratory tract.",
+    "explanation": "Reducing afferent input differs from central suppression by opioid antitussives."
+  },
+  {
+    "id": "reviewed-fc-pharm2-brQi0DrlKDI-3",
+    "lectureId": "brQi0DrlKDI",
+    "front": "Why can CYP2D6 ultrarapid metabolism make codeine dangerous?",
+    "back": "It can produce excessive morphine exposure.",
+    "explanation": "Codeine is metabolically activated; a usual dose may cause unexpectedly severe respiratory depression."
+  },
+  {
+    "id": "reviewed-fc-pharm2-brQi0DrlKDI-4",
+    "lectureId": "brQi0DrlKDI",
+    "front": "What major risk increases when codeine is combined with alcohol or benzodiazepines?",
+    "back": "Sedation and respiratory depression.",
+    "explanation": "These agents depress central nervous system function through different but additive pathways."
+  },
+  {
+    "id": "reviewed-fc-pharm2-brQi0DrlKDI-5",
+    "lectureId": "brQi0DrlKDI",
+    "front": "Why are opioid cough medicines inappropriate for children under current U.S. restrictions?",
+    "back": "Their respiratory-depression risks outweigh the benefits.",
+    "explanation": "Age restrictions reflect serious and sometimes fatal opioid toxicity, not simply a need to use a smaller adult dose."
+  },
+  {
+    "id": "reviewed-fc-pharm2-brQi0DrlKDI-6",
+    "lectureId": "brQi0DrlKDI",
+    "front": "Why must benzonatate be stored securely away from children?",
+    "back": "Accidental ingestion can rapidly cause life-threatening toxicity.",
+    "explanation": "An initially well appearance does not exclude a dangerous ingestion."
+  },
+  {
+    "id": "reviewed-fc-pharm2-brQi0DrlKDI-7",
+    "lectureId": "brQi0DrlKDI",
+    "front": "How does an expectorant differ conceptually from an antitussive?",
+    "back": "An expectorant supports secretion clearance; an antitussive suppresses cough signaling.",
+    "explanation": "These treatment goals are different, so product names should not be treated as interchangeable."
+  },
+  {
+    "id": "reviewed-fc-pharm2-brQi0DrlKDI-8",
+    "lectureId": "brQi0DrlKDI",
+    "front": "What is the limitation of symptomatic cough suppression?",
+    "back": "It does not diagnose or treat every cause of cough.",
+    "explanation": "Persistent symptoms or red flags require evaluation even if a suppressant offers temporary relief."
+  },
+  {
+    "id": "reviewed-fc-pharm2-brQi0DrlKDI-9",
+    "lectureId": "brQi0DrlKDI",
+    "front": "What serious airway reactions can follow chewing or sucking benzonatate?",
+    "back": "Laryngospasm or bronchospasm.",
+    "explanation": "Release of the anesthetic in the mouth can compromise protective airway function."
+  },
+  {
+    "id": "reviewed-fc-pharm2-brQi0DrlKDI-10",
+    "lectureId": "brQi0DrlKDI",
+    "front": "Why can codeine cause constipation?",
+    "back": "Opioid effects reduce gastrointestinal propulsive motility.",
+    "explanation": "The same drug used for cough suppression can have clinically important effects outside the respiratory system."
+  },
+  {
+    "id": "reviewed-fc-pharm2-l81Mg1iU1hA-1",
+    "lectureId": "l81Mg1iU1hA",
+    "front": "Why does LMWH have relatively more anti-Xa than anti-IIa activity?",
+    "back": "Its shorter chains retain anti-Xa activity but less often bridge antithrombin to thrombin.",
+    "explanation": "Chain length influences which activated coagulation factors are efficiently inhibited."
+  },
+  {
+    "id": "reviewed-fc-pharm2-l81Mg1iU1hA-2",
+    "lectureId": "l81Mg1iU1hA",
+    "front": "Which endogenous protein is required for enoxaparin anticoagulant activity?",
+    "back": "Antithrombin.",
+    "explanation": "LMWH enhances antithrombin-mediated inhibition rather than acting as a direct factor Xa inhibitor."
+  },
+  {
+    "id": "reviewed-fc-pharm2-l81Mg1iU1hA-3",
+    "lectureId": "l81Mg1iU1hA",
+    "front": "What major patient factor can cause enoxaparin accumulation?",
+    "back": "Severe renal impairment.",
+    "explanation": "Renal function influences exposure, and the labeled regimen requires adjustment when impairment is severe."
+  },
+  {
+    "id": "reviewed-fc-pharm2-l81Mg1iU1hA-4",
+    "lectureId": "l81Mg1iU1hA",
+    "front": "Does a normal aPTT exclude a therapeutic enoxaparin effect?",
+    "back": "No. aPTT is not a reliable measure of LMWH activity.",
+    "explanation": "Anti-Xa testing may be used selectively; routine monitoring is unnecessary for many patients."
+  },
+  {
+    "id": "reviewed-fc-pharm2-l81Mg1iU1hA-5",
+    "lectureId": "l81Mg1iU1hA",
+    "front": "Can low-molecular-weight heparin cause HIT?",
+    "back": "Yes. LMWH lowers but does not eliminate this risk compared with unfractionated heparin.",
+    "explanation": "A substantial platelet fall with thrombosis requires urgent evaluation for immune-mediated HIT."
+  },
+  {
+    "id": "reviewed-fc-pharm2-l81Mg1iU1hA-6",
+    "lectureId": "l81Mg1iU1hA",
+    "front": "Is enoxaparin a suitable routine substitute after recent immune HIT?",
+    "back": "No. A non-heparin anticoagulant is generally required.",
+    "explanation": "Cross-reactive antibodies can produce recurrent thrombocytopenia and thrombosis."
+  },
+  {
+    "id": "reviewed-fc-pharm2-l81Mg1iU1hA-7",
+    "lectureId": "l81Mg1iU1hA",
+    "front": "Does protamine completely reverse enoxaparin?",
+    "back": "No. Anti-Xa activity is only partially neutralized.",
+    "explanation": "Residual anticoagulant activity can remain despite appropriate reversal measures."
+  },
+  {
+    "id": "reviewed-fc-pharm2-l81Mg1iU1hA-8",
+    "lectureId": "l81Mg1iU1hA",
+    "front": "Why is neuraxial instrumentation important during LMWH treatment?",
+    "back": "It creates a risk of spinal or epidural hematoma.",
+    "explanation": "Anticoagulant timing and catheter management require procedure-specific safety guidance."
+  },
+  {
+    "id": "reviewed-fc-pharm2-l81Mg1iU1hA-9",
+    "lectureId": "l81Mg1iU1hA",
+    "front": "Why should enoxaparin not be administered intramuscularly?",
+    "back": "Muscle injection increases hematoma risk.",
+    "explanation": "Use the prescribed route and technique for the specific clinical regimen."
+  },
+  {
+    "id": "reviewed-fc-pharm2-l81Mg1iU1hA-10",
+    "lectureId": "l81Mg1iU1hA",
+    "front": "What is the key concern when LMWH is combined with NSAIDs or antiplatelet medicines?",
+    "back": "Increased bleeding risk.",
+    "explanation": "Medication review should assess combined effects on coagulation, platelets and gastrointestinal injury."
+  },
+  {
+    "id": "reviewed-fc-pharm2-u8LiXyMe0pk-1",
+    "lectureId": "u8LiXyMe0pk",
+    "front": "What reaction is catalyzed by tissue plasminogen activators?",
+    "back": "Conversion of plasminogen to plasmin.",
+    "explanation": "Plasmin breaks down fibrin and facilitates clot dissolution."
+  },
+  {
+    "id": "reviewed-fc-pharm2-u8LiXyMe0pk-2",
+    "lectureId": "u8LiXyMe0pk",
+    "front": "Why is alteplase described as relatively fibrin-selective?",
+    "back": "Its activation of plasminogen is enhanced in the presence of fibrin.",
+    "explanation": "Selectivity is relative and does not eliminate systemic bleeding risk."
+  },
+  {
+    "id": "reviewed-fc-pharm2-u8LiXyMe0pk-3",
+    "lectureId": "u8LiXyMe0pk",
+    "front": "What must be excluded before thrombolysis for suspected ischemic stroke?",
+    "back": "Intracranial hemorrhage.",
+    "explanation": "Fibrinolysis could worsen bleeding rather than restore perfusion in a hemorrhagic stroke."
+  },
+  {
+    "id": "reviewed-fc-pharm2-u8LiXyMe0pk-4",
+    "lectureId": "u8LiXyMe0pk",
+    "front": "Which new symptoms during thrombolysis raise concern for intracranial bleeding?",
+    "back": "Severe headache, vomiting or neurologic deterioration.",
+    "explanation": "These changes require immediate assessment rather than being assumed to reflect the original stroke."
+  },
+  {
+    "id": "reviewed-fc-pharm2-u8LiXyMe0pk-5",
+    "lectureId": "u8LiXyMe0pk",
+    "front": "Why may thrombolysis be considered in pulmonary embolism with hemodynamic instability?",
+    "back": "To rapidly reduce obstructing thrombus burden.",
+    "explanation": "Potential benefit must be balanced against major bleeding risk and alternative reperfusion approaches."
+  },
+  {
+    "id": "reviewed-fc-pharm2-u8LiXyMe0pk-6",
+    "lectureId": "u8LiXyMe0pk",
+    "front": "Why is severe uncontrolled hypertension important before thrombolysis?",
+    "back": "It increases hemorrhagic risk and can preclude treatment.",
+    "explanation": "Eligibility requires indication-specific blood pressure assessment and management."
+  },
+  {
+    "id": "reviewed-fc-pharm2-u8LiXyMe0pk-7",
+    "lectureId": "u8LiXyMe0pk",
+    "front": "What airway-threatening reaction can occur with alteplase?",
+    "back": "Orolingual angioedema.",
+    "explanation": "New tongue or lip swelling needs urgent evaluation; ACE inhibitor exposure can increase susceptibility."
+  },
+  {
+    "id": "reviewed-fc-pharm2-u8LiXyMe0pk-8",
+    "lectureId": "u8LiXyMe0pk",
+    "front": "Which tissue plasminogen activator can be administered as a single IV bolus?",
+    "back": "Tenecteplase.",
+    "explanation": "Its altered pharmacokinetic properties support bolus dosing; doses and eligibility depend on the indication."
+  },
+  {
+    "id": "reviewed-fc-pharm2-u8LiXyMe0pk-9",
+    "lectureId": "u8LiXyMe0pk",
+    "front": "Why avoid unnecessary noncompressible vascular punctures after thrombolysis?",
+    "back": "Bleeding at those sites can be difficult to control.",
+    "explanation": "Systemic fibrinolysis increases the consequences of procedural trauma."
+  },
+  {
+    "id": "reviewed-fc-pharm2-u8LiXyMe0pk-10",
+    "lectureId": "u8LiXyMe0pk",
+    "front": "How does fibrinolysis differ from anticoagulation?",
+    "back": "Fibrinolysis promotes breakdown of existing fibrin; anticoagulation mainly limits coagulation and clot propagation.",
+    "explanation": "Both affect thrombotic disease, but their mechanisms and bleeding profiles differ."
+  },
+  {
+    "id": "reviewed-fc-pharm2-zCQD-v2pz_M-1",
+    "lectureId": "zCQD-v2pz_M",
+    "front": "Why is the full effect of warfarin delayed?",
+    "back": "Existing functional vitamin K-dependent clotting factors must be cleared.",
+    "explanation": "Warfarin affects production of new functional factors rather than immediately inactivating circulating ones."
+  },
+  {
+    "id": "reviewed-fc-pharm2-zCQD-v2pz_M-2",
+    "lectureId": "zCQD-v2pz_M",
+    "front": "Which enzyme system does warfarin inhibit?",
+    "back": "Vitamin K epoxide reductase, including VKORC1.",
+    "explanation": "Reduced vitamin K is needed for gamma-carboxylation of several coagulation proteins."
+  },
+  {
+    "id": "reviewed-fc-pharm2-zCQD-v2pz_M-3",
+    "lectureId": "zCQD-v2pz_M",
+    "front": "Which four procoagulant factors are vitamin K dependent?",
+    "back": "Factors II, VII, IX and X.",
+    "explanation": "Warfarin also affects the anticoagulant proteins C and S."
+  },
+  {
+    "id": "reviewed-fc-pharm2-zCQD-v2pz_M-4",
+    "lectureId": "zCQD-v2pz_M",
+    "front": "Why can warfarin initially produce a prothrombotic state?",
+    "back": "Protein C activity may fall before longer-lived procoagulant factors.",
+    "explanation": "This imbalance helps explain early skin necrosis in susceptible patients."
+  },
+  {
+    "id": "reviewed-fc-pharm2-zCQD-v2pz_M-5",
+    "lectureId": "zCQD-v2pz_M",
+    "front": "Which laboratory measure is used to monitor warfarin?",
+    "back": "The international normalized ratio, derived from prothrombin time.",
+    "explanation": "INR targets depend on the clinical indication."
+  },
+  {
+    "id": "reviewed-fc-pharm2-zCQD-v2pz_M-6",
+    "lectureId": "zCQD-v2pz_M",
+    "front": "Why can intravenous unfractionated heparin act rapidly?",
+    "back": "It enhances an existing plasma inhibitor, antithrombin.",
+    "explanation": "It does not wait for previously synthesized clotting factors to disappear."
+  },
+  {
+    "id": "reviewed-fc-pharm2-zCQD-v2pz_M-7",
+    "lectureId": "zCQD-v2pz_M",
+    "front": "Which medicine specifically neutralizes unfractionated heparin?",
+    "back": "Protamine sulfate.",
+    "explanation": "Its binding to heparin counteracts anticoagulant activity; dosing depends on recent heparin exposure."
+  },
+  {
+    "id": "reviewed-fc-pharm2-zCQD-v2pz_M-8",
+    "lectureId": "zCQD-v2pz_M",
+    "front": "What dietary principle is useful during warfarin treatment?",
+    "back": "Keep vitamin K intake reasonably consistent.",
+    "explanation": "Large changes can alter INR; eliminating all nutritious vitamin K-containing foods is not the goal."
+  },
+  {
+    "id": "reviewed-fc-pharm2-zCQD-v2pz_M-9",
+    "lectureId": "zCQD-v2pz_M",
+    "front": "Why are heparins commonly preferred for anticoagulation during pregnancy?",
+    "back": "They do not cross the placenta appreciably.",
+    "explanation": "Warfarin can cause fetal harm; special situations require individualized specialist management."
+  },
+  {
+    "id": "reviewed-fc-pharm2-zCQD-v2pz_M-10",
+    "lectureId": "zCQD-v2pz_M",
+    "front": "Why does starting or stopping another medicine warrant attention during warfarin therapy?",
+    "back": "Drug interactions can change warfarin exposure or hemostasis.",
+    "explanation": "Additional INR monitoring may be needed when interacting treatments change."
+  },
+  {
+    "id": "reviewed-pharm2-fc-EwawYxqnlF8-1",
+    "lectureId": "EwawYxqnlF8",
+    "front": "Which neurotransmitter reuptake systems are associated with bupropion activity?",
+    "back": "Norepinephrine and dopamine.",
+    "explanation": "It is not an SSRI or an MAO inhibitor.",
+    "references": [
+      {
+        "title": "DailyMed — bupropion prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6563b923-269f-40c3-b992-cbacdfca6e16"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc-EwawYxqnlF8-2",
+    "lectureId": "EwawYxqnlF8",
+    "front": "Does resolved bulimia remove the contraindication to bupropion?",
+    "back": "No. A current or past diagnosis remains a contraindication.",
+    "explanation": "A normal current electrolyte panel does not erase the relevant history.",
+    "references": [
+      {
+        "title": "DailyMed — bupropion prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6563b923-269f-40c3-b992-cbacdfca6e16"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc-EwawYxqnlF8-3",
+    "lectureId": "EwawYxqnlF8",
+    "front": "What should happen to bupropion after a treatment-associated seizure?",
+    "back": "Stop it and do not restart it.",
+    "explanation": "Changing formulation is not a safe workaround for a rechallenge.",
+    "references": [
+      {
+        "title": "DailyMed — bupropion prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6563b923-269f-40c3-b992-cbacdfca6e16"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc-EwawYxqnlF8-4",
+    "lectureId": "EwawYxqnlF8",
+    "front": "Which vital sign should be checked before and during bupropion treatment?",
+    "back": "Blood pressure.",
+    "explanation": "Hypertension can occur; concomitant nicotine replacement warrants particular attention.",
+    "references": [
+      {
+        "title": "DailyMed — bupropion prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6563b923-269f-40c3-b992-cbacdfca6e16"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc-EwawYxqnlF8-5",
+    "lectureId": "EwawYxqnlF8",
+    "front": "Which metabolic enzyme does bupropion inhibit clinically?",
+    "back": "CYP2D6.",
+    "explanation": "Exposure to substrates such as metoprolol may rise.",
+    "references": [
+      {
+        "title": "DailyMed — bupropion prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6563b923-269f-40c3-b992-cbacdfca6e16"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc-EwawYxqnlF8-6",
+    "lectureId": "EwawYxqnlF8",
+    "front": "What does reduced need for sleep with grandiosity after starting bupropion suggest?",
+    "back": "Manic or hypomanic activation.",
+    "explanation": "This differs from isolated insomnia, in which the patient usually still feels the need for sleep.",
+    "references": [
+      {
+        "title": "DailyMed — bupropion prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6563b923-269f-40c3-b992-cbacdfca6e16"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc-EwawYxqnlF8-7",
+    "lectureId": "EwawYxqnlF8",
+    "front": "Why is abrupt alcohol or sedative withdrawal a contraindication to starting bupropion?",
+    "back": "The combination increases seizure susceptibility.",
+    "explanation": "Withdrawal risk should be addressed rather than adding another threshold-lowering drug.",
+    "references": [
+      {
+        "title": "DailyMed — bupropion prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6563b923-269f-40c3-b992-cbacdfca6e16"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc-EwawYxqnlF8-8",
+    "lectureId": "EwawYxqnlF8",
+    "front": "What ingredient is shared by Wellbutrin and Zyban?",
+    "back": "Bupropion.",
+    "explanation": "Medication reconciliation prevents unintended duplicate dosing.",
+    "references": [
+      {
+        "title": "DailyMed — bupropion prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6563b923-269f-40c3-b992-cbacdfca6e16"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc-EwawYxqnlF8-9",
+    "lectureId": "EwawYxqnlF8",
+    "front": "How should an unexpected positive amphetamine immunoassay in a bupropion user be resolved?",
+    "back": "Use a specific confirmatory analytical test.",
+    "explanation": "Cross-reactivity can produce a false-positive screen.",
+    "references": [
+      {
+        "title": "DailyMed — bupropion prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6563b923-269f-40c3-b992-cbacdfca6e16"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc-EwawYxqnlF8-10",
+    "lectureId": "EwawYxqnlF8",
+    "front": "How long must elapse after stopping an antidepressant MAOI before beginning bupropion?",
+    "back": "At least 14 days.",
+    "explanation": "The interaction can produce hypertensive reactions.",
+    "references": [
+      {
+        "title": "DailyMed — bupropion prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6563b923-269f-40c3-b992-cbacdfca6e16"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc-fQ5OQIDBqgI-1",
+    "lectureId": "fQ5OQIDBqgI",
+    "front": "What is sertraline's principal transporter target?",
+    "back": "The serotonin transporter (SERT).",
+    "explanation": "Blocking reuptake increases serotonergic signaling.",
+    "references": [
+      {
+        "title": "DailyMed — Zoloft prescribing information",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc-fQ5OQIDBqgI-2",
+    "lectureId": "fQ5OQIDBqgI",
+    "front": "Which neuromuscular finding is especially useful when suspecting serotonin syndrome?",
+    "back": "Clonus, often accompanied by hyperreflexia.",
+    "explanation": "Interpret it with the exposure history, mental state and autonomic findings.",
+    "references": [
+      {
+        "title": "DailyMed — Zoloft prescribing information",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc-fQ5OQIDBqgI-3",
+    "lectureId": "fQ5OQIDBqgI",
+    "front": "Which electrolyte abnormality can cause confusion in an older adult newly taking sertraline?",
+    "back": "Hyponatremia, often associated with SIADH.",
+    "explanation": "Check sodium rather than assuming the symptoms are psychiatric.",
+    "references": [
+      {
+        "title": "DailyMed — Zoloft prescribing information",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc-fQ5OQIDBqgI-4",
+    "lectureId": "fQ5OQIDBqgI",
+    "front": "Why can SSRI-related bleeding occur with a normal platelet count?",
+    "back": "Platelet function can be impaired through reduced serotonin uptake.",
+    "explanation": "Concurrent NSAIDs, antiplatelet drugs or anticoagulants add risk.",
+    "references": [
+      {
+        "title": "DailyMed — Zoloft prescribing information",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc-fQ5OQIDBqgI-5",
+    "lectureId": "fQ5OQIDBqgI",
+    "front": "What symptoms suggest SSRI discontinuation after abruptly stopping treatment?",
+    "back": "Dizziness and electric-shock sensations, often with nausea or sleep disturbance.",
+    "explanation": "Timing after interruption helps distinguish this from relapse.",
+    "references": [
+      {
+        "title": "DailyMed — Zoloft prescribing information",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc-fQ5OQIDBqgI-6",
+    "lectureId": "fQ5OQIDBqgI",
+    "front": "What sexual symptom should be asked about specifically in a man taking sertraline?",
+    "back": "Delayed or absent ejaculation.",
+    "explanation": "Patients may not volunteer sexual adverse effects without a direct question.",
+    "references": [
+      {
+        "title": "DailyMed — Zoloft prescribing information",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc-fQ5OQIDBqgI-7",
+    "lectureId": "fQ5OQIDBqgI",
+    "front": "Do mild nausea and diarrhea alone establish serotonin syndrome?",
+    "back": "No. They may be ordinary SSRI adverse effects.",
+    "explanation": "Toxicity assessment also looks for neuromuscular, autonomic and mental-status changes.",
+    "references": [
+      {
+        "title": "DailyMed — Zoloft prescribing information",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc-fQ5OQIDBqgI-8",
+    "lectureId": "fQ5OQIDBqgI",
+    "front": "What is the response to new suicidal thoughts during early antidepressant treatment?",
+    "back": "Prompt suicide-risk assessment and an appropriate safety and treatment plan.",
+    "explanation": "Do not defer assessment until the routine efficacy follow-up.",
+    "references": [
+      {
+        "title": "DailyMed — Zoloft prescribing information",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc-fQ5OQIDBqgI-9",
+    "lectureId": "fQ5OQIDBqgI",
+    "front": "Why does linezolid interact with sertraline?",
+    "back": "Linezolid inhibits monoamine oxidase and can increase serotonin-toxicity risk.",
+    "explanation": "The antibiotic and psychiatric regimen require coordinated review.",
+    "references": [
+      {
+        "title": "DailyMed — Zoloft prescribing information",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc-fQ5OQIDBqgI-10",
+    "lectureId": "fQ5OQIDBqgI",
+    "front": "Which Zoloft formulation is contraindicated with disulfiram because it contains alcohol?",
+    "back": "The oral concentrate/solution.",
+    "explanation": "Check the specific product formulation rather than assuming tablets and liquids have identical excipients.",
+    "references": [
+      {
+        "title": "DailyMed — Zoloft prescribing information",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc-lSLP81EqL8A-1",
+    "lectureId": "lSLP81EqL8A",
+    "front": "Which tricyclic action causes a wide QRS in imipramine overdose?",
+    "back": "Fast cardiac sodium-channel blockade.",
+    "explanation": "It slows ventricular depolarization and signals potentially serious cardiotoxicity.",
+    "references": [
+      {
+        "title": "DailyMed — imipramine prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=48e8b819-a9a0-aa5a-e063-6394a90ad9c2"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc-lSLP81EqL8A-2",
+    "lectureId": "lSLP81EqL8A",
+    "front": "Which medication treats clinically important sodium-channel toxicity from imipramine?",
+    "back": "IV sodium bicarbonate.",
+    "explanation": "Treatment requires clinical, ECG and acid-base monitoring.",
+    "references": [
+      {
+        "title": "DailyMed — imipramine prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=48e8b819-a9a0-aa5a-e063-6394a90ad9c2"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc-lSLP81EqL8A-3",
+    "lectureId": "lSLP81EqL8A",
+    "front": "What receptor blockade explains imipramine-related dry mouth and urinary retention?",
+    "back": "Muscarinic receptor blockade.",
+    "explanation": "Bowel hypomotility and impaired near accommodation belong to the same anticholinergic pattern.",
+    "references": [
+      {
+        "title": "DailyMed — imipramine prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=48e8b819-a9a0-aa5a-e063-6394a90ad9c2"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc-lSLP81EqL8A-4",
+    "lectureId": "lSLP81EqL8A",
+    "front": "Which receptor effect contributes to imipramine-related orthostatic hypotension?",
+    "back": "Peripheral alpha-1 blockade.",
+    "explanation": "It impairs compensatory vasoconstriction on standing.",
+    "references": [
+      {
+        "title": "DailyMed — imipramine prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=48e8b819-a9a0-aa5a-e063-6394a90ad9c2"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc-lSLP81EqL8A-5",
+    "lectureId": "lSLP81EqL8A",
+    "front": "Can a plasma imipramine concentration alone determine overdose severity or discharge safety?",
+    "back": "No. Clinical status and ECG monitoring are central.",
+    "explanation": "A reassuring isolated laboratory value does not exclude evolving conduction toxicity.",
+    "references": [
+      {
+        "title": "DailyMed — imipramine prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=48e8b819-a9a0-aa5a-e063-6394a90ad9c2"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc--QQ0-cWZcM4-1",
+    "lectureId": "-QQ0-cWZcM4",
+    "front": "What growth measurements are important in a child taking amphetamine?",
+    "back": "Height and weight over time.",
+    "explanation": "Appetite suppression can affect weight gain and growth velocity.",
+    "references": [
+      {
+        "title": "DailyMed — Adderall prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f22635fe-821d-4cde-aa12-419f8b53db81"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc--QQ0-cWZcM4-2",
+    "lectureId": "-QQ0-cWZcM4",
+    "front": "Which vital signs should be monitored during amphetamine treatment?",
+    "back": "Blood pressure and heart rate.",
+    "explanation": "Individual increases can exceed average trial changes.",
+    "references": [
+      {
+        "title": "DailyMed — Adderall prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f22635fe-821d-4cde-aa12-419f8b53db81"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc--QQ0-cWZcM4-3",
+    "lectureId": "-QQ0-cWZcM4",
+    "front": "Can prescribed stimulant doses cause new psychotic symptoms?",
+    "back": "Yes. New hallucinations or delusions warrant prompt assessment and treatment review.",
+    "explanation": "Do not assume that therapeutic dosing excludes a drug contribution.",
+    "references": [
+      {
+        "title": "DailyMed — Adderall prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f22635fe-821d-4cde-aa12-419f8b53db81"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc--QQ0-cWZcM4-4",
+    "lectureId": "-QQ0-cWZcM4",
+    "front": "What peripheral vascular syndrome can occur with amphetamine?",
+    "back": "Raynaud phenomenon.",
+    "explanation": "Ask about cold-sensitive painful fingers or toes and color changes.",
+    "references": [
+      {
+        "title": "DailyMed — Adderall prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f22635fe-821d-4cde-aa12-419f8b53db81"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc--QQ0-cWZcM4-5",
+    "lectureId": "-QQ0-cWZcM4",
+    "front": "Which pre-treatment symptom strongly warrants cardiac evaluation before a stimulant?",
+    "back": "Unexplained exertional syncope.",
+    "explanation": "A family history of premature sudden death strengthens the concern.",
+    "references": [
+      {
+        "title": "DailyMed — Adderall prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f22635fe-821d-4cde-aa12-419f8b53db81"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc-4IBLbpsvAMs-1",
+    "lectureId": "4IBLbpsvAMs",
+    "front": "What is atomoxetine's principal pharmacologic action?",
+    "back": "Selective norepinephrine reuptake inhibition.",
+    "explanation": "Its nonstimulant classification does not mean absence of noradrenergic adverse effects.",
+    "references": [
+      {
+        "title": "DailyMed — atomoxetine prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0ab8d905-e890-4e91-a730-3e5d12f5c23f"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc-4IBLbpsvAMs-2",
+    "lectureId": "4IBLbpsvAMs",
+    "front": "What should happen when atomoxetine causes jaundice or laboratory evidence of liver injury?",
+    "back": "Discontinue it; do not restart after attributed liver injury.",
+    "explanation": "Evaluate symptoms such as dark urine or right upper quadrant pain promptly.",
+    "references": [
+      {
+        "title": "DailyMed — atomoxetine prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0ab8d905-e890-4e91-a730-3e5d12f5c23f"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc-4IBLbpsvAMs-3",
+    "lectureId": "4IBLbpsvAMs",
+    "front": "Which enzyme pathway makes atomoxetine susceptible to an interaction with fluoxetine?",
+    "back": "CYP2D6 metabolism.",
+    "explanation": "Strong inhibition can substantially increase exposure.",
+    "references": [
+      {
+        "title": "DailyMed — atomoxetine prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0ab8d905-e890-4e91-a730-3e5d12f5c23f"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc-4IBLbpsvAMs-4",
+    "lectureId": "4IBLbpsvAMs",
+    "front": "What early psychiatric safety concern should families monitor in children taking atomoxetine?",
+    "back": "New suicidal thoughts or concerning behavioral changes.",
+    "explanation": "These need prompt assessment rather than waiting for a routine efficacy review.",
+    "references": [
+      {
+        "title": "DailyMed — atomoxetine prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0ab8d905-e890-4e91-a730-3e5d12f5c23f"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc-4IBLbpsvAMs-5",
+    "lectureId": "4IBLbpsvAMs",
+    "front": "Which urinary adverse effects can occur with atomoxetine?",
+    "back": "Urinary hesitancy and retention.",
+    "explanation": "Assess symptoms and the treatment contribution instead of assuming an infection.",
+    "references": [
+      {
+        "title": "DailyMed — atomoxetine prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0ab8d905-e890-4e91-a730-3e5d12f5c23f"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc-22PhrOPHkR4-1",
+    "lectureId": "22PhrOPHkR4",
+    "front": "Which blood count directly tracks clozapine-associated neutropenia risk?",
+    "back": "Absolute neutrophil count (ANC).",
+    "explanation": "Total leukocytes alone do not describe the neutrophil deficit as directly.",
+    "references": [
+      {
+        "title": "DailyMed — clozapine prescribing information",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=61fe53d5-ed5c-4e45-9189-709d08d386cb&type=display"
+      },
+      {
+        "title": "FDA — clozapine REMS removal and continuing ANC monitoring",
+        "url": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-removes-risk-evaluation-and-mitigation-strategy-rems-program-antipsychotic-drug-clozapine"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc-22PhrOPHkR4-2",
+    "lectureId": "22PhrOPHkR4",
+    "front": "What cardiac complication should be considered with fever, tachycardia and elevated troponin soon after starting clozapine?",
+    "back": "Myocarditis.",
+    "explanation": "Do not assume all tachycardia during titration is benign.",
+    "references": [
+      {
+        "title": "DailyMed — clozapine prescribing information",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=61fe53d5-ed5c-4e45-9189-709d08d386cb&type=display"
+      },
+      {
+        "title": "FDA — clozapine REMS removal and continuing ANC monitoring",
+        "url": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-removes-risk-evaluation-and-mitigation-strategy-rems-program-antipsychotic-drug-clozapine"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc-22PhrOPHkR4-3",
+    "lectureId": "22PhrOPHkR4",
+    "front": "Why is constipation with vomiting and distension dangerous during clozapine treatment?",
+    "back": "It may signal severe gastrointestinal hypomotility or ileus.",
+    "explanation": "Delayed recognition can lead to life-threatening bowel complications.",
+    "references": [
+      {
+        "title": "DailyMed — clozapine prescribing information",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=61fe53d5-ed5c-4e45-9189-709d08d386cb&type=display"
+      },
+      {
+        "title": "FDA — clozapine REMS removal and continuing ANC monitoring",
+        "url": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-removes-risk-evaluation-and-mitigation-strategy-rems-program-antipsychotic-drug-clozapine"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc-22PhrOPHkR4-4",
+    "lectureId": "22PhrOPHkR4",
+    "front": "How does clozapine exposure relate to seizure risk?",
+    "back": "Higher exposure increases seizure risk.",
+    "explanation": "Gradual titration and assessment of contributing factors are important.",
+    "references": [
+      {
+        "title": "DailyMed — clozapine prescribing information",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=61fe53d5-ed5c-4e45-9189-709d08d386cb&type=display"
+      },
+      {
+        "title": "FDA — clozapine REMS removal and continuing ANC monitoring",
+        "url": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-removes-risk-evaluation-and-mitigation-strategy-rems-program-antipsychotic-drug-clozapine"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pharm2-fc-22PhrOPHkR4-5",
+    "lectureId": "22PhrOPHkR4",
+    "front": "Did removal of the United States clozapine REMS end recommended ANC monitoring?",
+    "back": "No. Clinical ANC monitoring remains recommended.",
+    "explanation": "Administrative program requirements and medical safety monitoring are different.",
+    "references": [
+      {
+        "title": "DailyMed — clozapine prescribing information",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=61fe53d5-ed5c-4e45-9189-709d08d386cb&type=display"
+      },
+      {
+        "title": "FDA — clozapine REMS removal and continuing ANC monitoring",
+        "url": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-removes-risk-evaluation-and-mitigation-strategy-rems-program-antipsychotic-drug-clozapine"
+      }
+    ]
+  }
+]

@@ -1,0 +1,151 @@
+﻿{
+    "lectureId":  "AMJdEW9CxhA",
+    "status":  "unreviewed-ocr",
+    "source":  "Windows OCR of low-resolution YouTube preview frames",
+    "frames":  [
+                   {
+                       "src":  "video-frames/AMJdEW9CxhA-0.jpg",
+                       "seconds":  0,
+                       "text":  "Drug Affecting\nPatient",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/AMJdEW9CxhA-18.jpg",
+                       "seconds":  90,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/AMJdEW9CxhA-24.jpg",
+                       "seconds":  120,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/AMJdEW9CxhA-33.jpg",
+                       "seconds":  165,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/AMJdEW9CxhA-44.jpg",
+                       "seconds":  220,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/AMJdEW9CxhA-55.jpg",
+                       "seconds":  275,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/AMJdEW9CxhA-61.jpg",
+                       "seconds":  305,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/AMJdEW9CxhA-74.jpg",
+                       "seconds":  370,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/AMJdEW9CxhA-84.jpg",
+                       "seconds":  420,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/AMJdEW9CxhA-85.jpg",
+                       "seconds":  425,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/AMJdEW9CxhA-91.jpg",
+                       "seconds":  455,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/AMJdEW9CxhA-93.jpg",
+                       "seconds":  465,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/AMJdEW9CxhA-97.jpg",
+                       "seconds":  485,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/AMJdEW9CxhA-102.jpg",
+                       "seconds":  510,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/AMJdEW9CxhA-104.jpg",
+                       "seconds":  520,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/AMJdEW9CxhA-110.jpg",
+                       "seconds":  550,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/AMJdEW9CxhA-118.jpg",
+                       "seconds":  590,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/AMJdEW9CxhA-124.jpg",
+                       "seconds":  620,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/AMJdEW9CxhA-125.jpg",
+                       "seconds":  625,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/AMJdEW9CxhA-134.jpg",
+                       "seconds":  670,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/AMJdEW9CxhA-139.jpg",
+                       "seconds":  695,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/AMJdEW9CxhA-140.jpg",
+                       "seconds":  700,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/AMJdEW9CxhA-157.jpg",
+                       "seconds":  785,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/AMJdEW9CxhA-160.jpg",
+                       "seconds":  800,
+                       "text":  "",
+                       "reviewed":  false
+                   }
+               ]
+}

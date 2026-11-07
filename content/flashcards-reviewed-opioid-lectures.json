@@ -1,0 +1,667 @@
+[
+  {
+    "id": "reviewed-opioid-lectures-8aAkfYdNA14-1-fc",
+    "lectureId": "8aAkfYdNA14",
+    "front": "What receptor mechanism produces major morphine effects?",
+    "back": "Mu-opioid receptor agonism",
+    "explanation": "Mu-receptor activation contributes to analgesia, respiratory depression, constipation and physical dependence.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=8aAkfYdNA14"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-8aAkfYdNA14-2-fc",
+    "lectureId": "8aAkfYdNA14",
+    "front": "Why can renal impairment prolong morphine toxicity?",
+    "back": "Accumulation of active metabolites in renal impairment",
+    "explanation": "Morphine metabolites, including active morphine-6-glucuronide, can accumulate when renal function declines.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=8aAkfYdNA14"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-8aAkfYdNA14-3-fc",
+    "lectureId": "8aAkfYdNA14",
+    "front": "Why does constipation commonly persist during morphine treatment?",
+    "back": "Reduced gastrointestinal motility",
+    "explanation": "Opioid effects in the bowel cause constipation, to which tolerance is often limited.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=8aAkfYdNA14"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-8aAkfYdNA14-4-fc",
+    "lectureId": "8aAkfYdNA14",
+    "front": "What non-IgE mechanism can contribute to morphine itching and hypotension?",
+    "back": "Histamine-associated vasodilation and pruritus",
+    "explanation": "Morphine can cause itching and hypotension partly through histamine release.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=8aAkfYdNA14"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-8aAkfYdNA14-5-fc",
+    "lectureId": "8aAkfYdNA14",
+    "front": "What is the immediate life-threatening effect of morphine overdose?",
+    "back": "Respiratory depression",
+    "explanation": "Opioids reduce ventilatory responsiveness; slow or ineffective breathing requires emergency support.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=8aAkfYdNA14"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-UPR6LqAWHWA-1-fc",
+    "lectureId": "UPR6LqAWHWA",
+    "front": "What opioid receptor action does methadone provide?",
+    "back": "Mu-opioid receptor agonism",
+    "explanation": "Mu-receptor activation contributes to analgesia, respiratory depression, constipation and physical dependence.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=UPR6LqAWHWA"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f0366917-f745-4b01-a662-a98a7d80b4a0"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-UPR6LqAWHWA-2-fc",
+    "lectureId": "UPR6LqAWHWA",
+    "front": "What important arrhythmia risk is associated with methadone?",
+    "back": "QT prolongation and torsades risk",
+    "explanation": "Methadone can prolong repolarization; interacting medicines and electrolyte abnormalities increase concern.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=UPR6LqAWHWA"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f0366917-f745-4b01-a662-a98a7d80b4a0"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-UPR6LqAWHWA-3-fc",
+    "lectureId": "UPR6LqAWHWA",
+    "front": "Why can rapid methadone dose escalation cause delayed toxicity?",
+    "back": "Delayed accumulation with a long variable half-life",
+    "explanation": "Methadone exposure and respiratory effects may accumulate beyond the apparent duration of analgesia.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=UPR6LqAWHWA"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f0366917-f745-4b01-a662-a98a7d80b4a0"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-UPR6LqAWHWA-4-fc",
+    "lectureId": "UPR6LqAWHWA",
+    "front": "What role does methadone have in ongoing opioid-use-disorder care?",
+    "back": "Evidence-based ongoing treatment for opioid use disorder",
+    "explanation": "Methadone or buprenorphine treatment can reduce withdrawal and craving as part of continuing care.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=UPR6LqAWHWA"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f0366917-f745-4b01-a662-a98a7d80b4a0"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-UPR6LqAWHWA-5-fc",
+    "lectureId": "UPR6LqAWHWA",
+    "front": "Why can methadone toxicity recur after naloxone?",
+    "back": "Recurrent toxicity after antagonist effect wanes",
+    "explanation": "Many opioids last longer than naloxone, so repeat dosing and monitoring may be needed.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=UPR6LqAWHWA"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f0366917-f745-4b01-a662-a98a7d80b4a0"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-DKeWI40yyzM-1-fc",
+    "lectureId": "DKeWI40yyzM",
+    "front": "What opioid receptor mediates major fentanyl effects?",
+    "back": "Mu-opioid receptor agonism",
+    "explanation": "Mu-receptor activation contributes to analgesia, respiratory depression, constipation and physical dependence.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=DKeWI40yyzM"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2a2238e9-4b5d-c56d-8663-dd354ff9ae0c"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-DKeWI40yyzM-2-fc",
+    "lectureId": "DKeWI40yyzM",
+    "front": "Why is a fentanyl patch inappropriate for an opioid-naive patient with routine acute pain?",
+    "back": "Reserve the patch for appropriately opioid-tolerant patients",
+    "explanation": "Transdermal fentanyl is not suitable for opioid-naive patients or routine acute pain.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=DKeWI40yyzM"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2a2238e9-4b5d-c56d-8663-dd354ff9ae0c"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-DKeWI40yyzM-3-fc",
+    "lectureId": "DKeWI40yyzM",
+    "front": "Why must external heat be avoided over a fentanyl patch?",
+    "back": "Increased transdermal fentanyl absorption with heat",
+    "explanation": "External heat can increase delivery from a fentanyl patch and cause overdose.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=DKeWI40yyzM"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2a2238e9-4b5d-c56d-8663-dd354ff9ae0c"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-DKeWI40yyzM-4-fc",
+    "lectureId": "DKeWI40yyzM",
+    "front": "What unusual respiratory complication can follow rapid high-dose IV fentanyl?",
+    "back": "Opioid-induced chest-wall rigidity",
+    "explanation": "Rapid or high-dose IV fentanyl can produce rigidity that impairs ventilation in monitored procedural settings.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=DKeWI40yyzM"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2a2238e9-4b5d-c56d-8663-dd354ff9ae0c"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-DKeWI40yyzM-5-fc",
+    "lectureId": "DKeWI40yyzM",
+    "front": "What is the immediate treatment target in fentanyl overdose?",
+    "back": "Respiratory depression",
+    "explanation": "Opioids reduce ventilatory responsiveness; slow or ineffective breathing requires emergency support.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=DKeWI40yyzM"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2a2238e9-4b5d-c56d-8663-dd354ff9ae0c"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-klzuCpi-K6k-1-fc",
+    "lectureId": "klzuCpi-K6k",
+    "front": "What principal receptor action produces pethidine analgesia?",
+    "back": "Mu-opioid receptor agonism",
+    "explanation": "Mu-receptor activation contributes to analgesia, respiratory depression, constipation and physical dependence.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=klzuCpi-K6k"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fae5cc34-5917-4445-9516-25f97ffca8db"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-klzuCpi-K6k-2-fc",
+    "lectureId": "klzuCpi-K6k",
+    "front": "Which meperidine metabolite can produce neurotoxicity?",
+    "back": "Normeperidine neurotoxicity",
+    "explanation": "Meperidine’s metabolite can accumulate and cause CNS excitation or seizures, especially with renal impairment.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=klzuCpi-K6k"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fae5cc34-5917-4445-9516-25f97ffca8db"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-klzuCpi-K6k-3-fc",
+    "lectureId": "klzuCpi-K6k",
+    "front": "Why is meperidine particularly hazardous with MAO inhibitors?",
+    "back": "Serotonin toxicity",
+    "explanation": "Meperidine has important serotonergic interactions, especially with MAO inhibitors.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=klzuCpi-K6k"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fae5cc34-5917-4445-9516-25f97ffca8db"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-klzuCpi-K6k-4-fc",
+    "lectureId": "klzuCpi-K6k",
+    "front": "Why avoid prolonged meperidine exposure in renal impairment?",
+    "back": "Normeperidine neurotoxicity",
+    "explanation": "Meperidine’s metabolite can accumulate and cause CNS excitation or seizures, especially with renal impairment.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=klzuCpi-K6k"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fae5cc34-5917-4445-9516-25f97ffca8db"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-klzuCpi-K6k-5-fc",
+    "lectureId": "klzuCpi-K6k",
+    "front": "What opioid-class danger remains important with meperidine and other sedatives?",
+    "back": "Respiratory depression",
+    "explanation": "Opioids reduce ventilatory responsiveness; slow or ineffective breathing requires emergency support.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=klzuCpi-K6k"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fae5cc34-5917-4445-9516-25f97ffca8db"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-nuE3VoxlhdE-1-fc",
+    "lectureId": "nuE3VoxlhdE",
+    "front": "What property contributes to heroin’s rapid CNS entry?",
+    "back": "Rapid CNS entry related to high lipid solubility",
+    "explanation": "Heroin’s acetyl groups promote rapid brain entry; active metabolites then produce opioid effects.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=nuE3VoxlhdE"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-nuE3VoxlhdE-2-fc",
+    "lectureId": "nuE3VoxlhdE",
+    "front": "Which metabolic process sustains heroin-related opioid effects?",
+    "back": "Conversion to active opioid metabolites",
+    "explanation": "Heroin is metabolized to 6-monoacetylmorphine and morphine, which contribute to its effects.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=nuE3VoxlhdE"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-nuE3VoxlhdE-3-fc",
+    "lectureId": "nuE3VoxlhdE",
+    "front": "What is the immediate lethal risk in heroin overdose?",
+    "back": "Opioid respiratory depression",
+    "explanation": "Heroin and its active metabolites can cause life-threatening hypoventilation.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=nuE3VoxlhdE"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-nuE3VoxlhdE-4-fc",
+    "lectureId": "nuE3VoxlhdE",
+    "front": "What infectious risk accompanies nonsterile heroin injection?",
+    "back": "Infection associated with nonsterile injection",
+    "explanation": "Injection exposure can lead to endocarditis and blood-borne infection.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=nuE3VoxlhdE"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-nuE3VoxlhdE-5-fc",
+    "lectureId": "nuE3VoxlhdE",
+    "front": "Why is the potency of material sold as heroin unpredictable?",
+    "back": "Uncertain composition of the illicit supply",
+    "explanation": "Unexpected fentanyl or other potent constituents can greatly increase overdose risk.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=nuE3VoxlhdE"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-bgso-5IGFMI-1-fc",
+    "lectureId": "bgso-5IGFMI",
+    "front": "Which enzyme converts codeine to morphine?",
+    "back": "CYP2D6 conversion to morphine",
+    "explanation": "Codeine’s analgesic effect partly depends on conversion to morphine by CYP2D6.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=bgso-5IGFMI"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=5819bdf7-300e-45b8-8f3a-447b53656293"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-bgso-5IGFMI-2-fc",
+    "lectureId": "bgso-5IGFMI",
+    "front": "Why can CYP2D6 ultrarapid metabolism make codeine dangerous?",
+    "back": "Excess morphine formation in an ultrarapid metabolizer",
+    "explanation": "Rapid CYP2D6 conversion can cause unexpectedly high morphine exposure and respiratory toxicity.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=bgso-5IGFMI"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=5819bdf7-300e-45b8-8f3a-447b53656293"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-bgso-5IGFMI-3-fc",
+    "lectureId": "bgso-5IGFMI",
+    "front": "Why may codeine be ineffective in a CYP2D6 poor metabolizer?",
+    "back": "Reduced morphine formation in a poor metabolizer",
+    "explanation": "Low CYP2D6 activity can limit codeine analgesia.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=bgso-5IGFMI"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=5819bdf7-300e-45b8-8f3a-447b53656293"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-bgso-5IGFMI-4-fc",
+    "lectureId": "bgso-5IGFMI",
+    "front": "Why is codeine not a routine safe pediatric analgesic?",
+    "back": "Pediatric respiratory risk and prescribing restrictions",
+    "explanation": "Codeine has important age- and procedure-specific contraindications; it is not a routine safe pediatric analgesic.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=bgso-5IGFMI"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=5819bdf7-300e-45b8-8f3a-447b53656293"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-bgso-5IGFMI-5-fc",
+    "lectureId": "bgso-5IGFMI",
+    "front": "How can CYP2D6 inhibitors reduce codeine analgesia?",
+    "back": "Reduced activation from CYP2D6 inhibition",
+    "explanation": "A strong CYP2D6 inhibitor can reduce conversion of codeine to morphine and alter response.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=bgso-5IGFMI"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=5819bdf7-300e-45b8-8f3a-447b53656293"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-jpecDir_fgM-1-fc",
+    "lectureId": "jpecDir_fgM",
+    "front": "How does naloxone reverse opioid effects?",
+    "back": "Competitive opioid receptor antagonism",
+    "explanation": "Naloxone displaces opioid agonists and can reverse opioid-induced respiratory depression.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=jpecDir_fgM"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-jpecDir_fgM-2-fc",
+    "lectureId": "jpecDir_fgM",
+    "front": "What support must accompany naloxone in an inadequately breathing patient?",
+    "back": "Support ventilation and obtain emergency care",
+    "explanation": "Airway and breathing support accompany overdose reversal; naloxone does not replace resuscitation.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=jpecDir_fgM"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-jpecDir_fgM-3-fc",
+    "lectureId": "jpecDir_fgM",
+    "front": "Why can respiratory depression return after naloxone?",
+    "back": "Recurrent toxicity after antagonist effect wanes",
+    "explanation": "Many opioids last longer than naloxone, so repeat dosing and monitoring may be needed.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=jpecDir_fgM"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-jpecDir_fgM-4-fc",
+    "lectureId": "jpecDir_fgM",
+    "front": "What syndrome can naloxone abruptly trigger in an opioid-dependent patient?",
+    "back": "Precipitated opioid withdrawal",
+    "explanation": "An antagonist or high-affinity partial agonist can abruptly reduce receptor stimulation in a dependent patient.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=jpecDir_fgM"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-jpecDir_fgM-5-fc",
+    "lectureId": "jpecDir_fgM",
+    "front": "What is the primary physiological target of naloxone in overdose?",
+    "back": "Respiratory depression",
+    "explanation": "Opioids reduce ventilatory responsiveness; slow or ineffective breathing requires emergency support.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=jpecDir_fgM"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-9gEZfHnIhlI-1-fc",
+    "lectureId": "9gEZfHnIhlI",
+    "front": "What clinical cluster suggests opioid withdrawal?",
+    "back": "Opioid withdrawal",
+    "explanation": "Yawning, rhinorrhea, mydriasis, sweating, diarrhea and diffuse aches after reduced opioid exposure suggest withdrawal rather than intoxication.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=9gEZfHnIhlI"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-9gEZfHnIhlI-2-fc",
+    "lectureId": "9gEZfHnIhlI",
+    "front": "Why is resuming a previous opioid amount dangerous after abstinence?",
+    "back": "Reduced tolerance after abstinence",
+    "explanation": "Returning to a previously tolerated opioid amount after abstinence can cause fatal overdose.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=9gEZfHnIhlI"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-9gEZfHnIhlI-3-fc",
+    "lectureId": "9gEZfHnIhlI",
+    "front": "What must guide standard buprenorphine initiation after a full agonist?",
+    "back": "Buprenorphine initiation guided by withdrawal status and protocol",
+    "explanation": "Premature standard induction can precipitate withdrawal; timing and induction strategy require clinical assessment.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=9gEZfHnIhlI"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-9gEZfHnIhlI-4-fc",
+    "lectureId": "9gEZfHnIhlI",
+    "front": "How can clonidine reduce autonomic opioid-withdrawal symptoms?",
+    "back": "Alpha2 agonism reduces autonomic withdrawal symptoms",
+    "explanation": "Clonidine or lofexidine can reduce adrenergic symptoms but do not replace comprehensive opioid-use-disorder treatment.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=9gEZfHnIhlI"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-9gEZfHnIhlI-5-fc",
+    "lectureId": "9gEZfHnIhlI",
+    "front": "What treatment principle extends beyond opioid detoxification alone?",
+    "back": "Evidence-based ongoing treatment for opioid use disorder",
+    "explanation": "Methadone or buprenorphine treatment can reduce withdrawal and craving as part of continuing care.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=9gEZfHnIhlI"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-DveU0FiMVJk-1-fc",
+    "lectureId": "DveU0FiMVJk",
+    "front": "Which receptor is central to major strong-opioid effects?",
+    "back": "Mu-opioid receptor agonism",
+    "explanation": "Mu-receptor activation contributes to analgesia, respiratory depression, constipation and physical dependence.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=DveU0FiMVJk"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-DveU0FiMVJk-2-fc",
+    "lectureId": "DveU0FiMVJk",
+    "front": "What signaling pattern follows opioid receptor activation?",
+    "back": "Gi/o-mediated reduction of neuronal excitability",
+    "explanation": "Opioid receptors reduce cAMP, inhibit presynaptic calcium entry and increase postsynaptic potassium conductance.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=DveU0FiMVJk"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-DveU0FiMVJk-3-fc",
+    "lectureId": "DveU0FiMVJk",
+    "front": "What peripheral mechanism causes opioid constipation?",
+    "back": "Reduced gastrointestinal motility",
+    "explanation": "Opioid effects in the bowel cause constipation, to which tolerance is often limited.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=DveU0FiMVJk"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-DveU0FiMVJk-4-fc",
+    "lectureId": "DveU0FiMVJk",
+    "front": "Do opioid tolerance and physical dependence alone establish addiction?",
+    "back": "Tolerance and physical dependence",
+    "explanation": "Repeated exposure can reduce response and create withdrawal risk; these adaptations alone do not establish addiction.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=DveU0FiMVJk"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-opioid-lectures-DveU0FiMVJk-5-fc",
+    "lectureId": "DveU0FiMVJk",
+    "front": "What receptor strategy reverses dangerous opioid agonist effects?",
+    "back": "Competitive opioid receptor antagonism",
+    "explanation": "Naloxone displaces opioid agonists and can reverse opioid-induced respiratory depression.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=DveU0FiMVJk"
+      }
+    ]
+  }
+]

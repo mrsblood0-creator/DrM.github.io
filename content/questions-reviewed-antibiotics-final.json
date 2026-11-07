@@ -1,0 +1,1057 @@
+[
+  {
+    "id": "reviewed-antibiotics-final-VKm2uo2JjUA-1",
+    "lectureId": "VKm2uo2JjUA",
+    "title": "Chloramphenicol: 1",
+    "prompt": "A susceptible organism is exposed to chloramphenicol in a laboratory. Ribosomal peptide-bond formation falls, while cell-wall precursor synthesis is not the primary target. Which bacterial ribosomal function is directly inhibited by the drug being tested?",
+    "options": [
+      "Penicillin-binding proteins",
+      "D-Ala-D-Ala termini",
+      "30S aminoacyl-tRNA attachment",
+      "DNA gyrase and topoisomerase IV",
+      "50S peptidyl-transferase activity"
+    ],
+    "answer": "50S peptidyl-transferase activity",
+    "explanation": "Chloramphenicol inhibits peptide-bond formation at the 50S subunit.",
+    "distractorExplanations": {
+      "50S peptidyl-transferase activity": "Chloramphenicol inhibits peptide-bond formation at the 50S subunit.",
+      "Penicillin-binding proteins": "Beta-lactams inhibit PBPs and peptidoglycan cross-linking. This does not best answer the specific question in this case.",
+      "D-Ala-D-Ala termini": "Vancomycin binds cell-wall precursor termini rather than PBPs. This does not best answer the specific question in this case.",
+      "30S aminoacyl-tRNA attachment": "Tetracyclines prevent aminoacyl-tRNA binding to the 30S subunit. This does not best answer the specific question in this case.",
+      "DNA gyrase and topoisomerase IV": "Fluoroquinolones inhibit bacterial DNA topoisomerases. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=VKm2uo2JjUA"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=aed29594-211d-49ef-813f-131975a8d0e3"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-final-VKm2uo2JjUA-2",
+    "lectureId": "VKm2uo2JjUA",
+    "title": "Chloramphenicol: 2",
+    "prompt": "A neonate exposed to chloramphenicol develops abdominal distension, gray discoloration and circulatory collapse. Drug concentrations are unexpectedly high despite a dose that would be better tolerated in an older patient. Which developmental pharmacokinetic limitation explains this?",
+    "options": [
+      "Unpredictable aplastic anemia",
+      "Reserve use when safer effective alternatives are unsuitable",
+      "Monitor blood counts and clinical toxicity",
+      "Immature neonatal chloramphenicol elimination",
+      "Reversible dose-related marrow suppression"
+    ],
+    "answer": "Immature neonatal chloramphenicol elimination",
+    "explanation": "Limited neonatal metabolism and elimination can cause chloramphenicol accumulation and gray baby syndrome.",
+    "distractorExplanations": {
+      "Immature neonatal chloramphenicol elimination": "Limited neonatal metabolism and elimination can cause chloramphenicol accumulation and gray baby syndrome.",
+      "Reversible dose-related marrow suppression": "Chloramphenicol can suppress marrow in an exposure-related fashion, distinct from rare idiosyncratic aplastic anemia. This does not best answer the specific question in this case.",
+      "Unpredictable aplastic anemia": "Rare severe marrow failure with chloramphenicol is not reliably prevented by keeping ordinary drug levels therapeutic. This does not best answer the specific question in this case.",
+      "Reserve use when safer effective alternatives are unsuitable": "Chloramphenicol toxicity limits its use despite broad antimicrobial activity. This does not best answer the specific question in this case.",
+      "Monitor blood counts and clinical toxicity": "Blood-count monitoring helps detect some toxicity but does not guarantee prevention of idiosyncratic aplastic anemia. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=VKm2uo2JjUA"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=aed29594-211d-49ef-813f-131975a8d0e3"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-final-VKm2uo2JjUA-3",
+    "lectureId": "VKm2uo2JjUA",
+    "title": "Chloramphenicol: 3",
+    "prompt": "A patient on chloramphenicol develops suppression of blood-cell production associated with high drug exposure. Counts recover after treatment is withdrawn. Which toxicity pattern best distinguishes this reaction from the rare unpredictable form of permanent marrow failure?",
+    "options": [
+      "Reserve use when safer effective alternatives are unsuitable",
+      "Monitor blood counts and clinical toxicity",
+      "Reversible dose-related marrow suppression",
+      "Immature neonatal chloramphenicol elimination",
+      "Unpredictable aplastic anemia"
+    ],
+    "answer": "Reversible dose-related marrow suppression",
+    "explanation": "Chloramphenicol can suppress marrow in an exposure-related fashion, distinct from rare idiosyncratic aplastic anemia.",
+    "distractorExplanations": {
+      "Reversible dose-related marrow suppression": "Chloramphenicol can suppress marrow in an exposure-related fashion, distinct from rare idiosyncratic aplastic anemia.",
+      "Immature neonatal chloramphenicol elimination": "Limited neonatal metabolism and elimination can cause chloramphenicol accumulation and gray baby syndrome. This does not best answer the specific question in this case.",
+      "Unpredictable aplastic anemia": "Rare severe marrow failure with chloramphenicol is not reliably prevented by keeping ordinary drug levels therapeutic. This does not best answer the specific question in this case.",
+      "Reserve use when safer effective alternatives are unsuitable": "Chloramphenicol toxicity limits its use despite broad antimicrobial activity. This does not best answer the specific question in this case.",
+      "Monitor blood counts and clinical toxicity": "Blood-count monitoring helps detect some toxicity but does not guarantee prevention of idiosyncratic aplastic anemia. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=VKm2uo2JjUA"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=aed29594-211d-49ef-813f-131975a8d0e3"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-final-VKm2uo2JjUA-4",
+    "lectureId": "VKm2uo2JjUA",
+    "title": "Chloramphenicol: 4",
+    "prompt": "Weeks after chloramphenicol exposure, a patient develops pancytopenia and a hypocellular marrow. The prior measured drug concentrations were not excessive. Which recognized serious toxicity remains possible despite apparently appropriate dosing during the earlier treatment course?",
+    "options": [
+      "Monitor blood counts and clinical toxicity",
+      "Unpredictable aplastic anemia",
+      "Immature neonatal chloramphenicol elimination",
+      "Reversible dose-related marrow suppression",
+      "Reserve use when safer effective alternatives are unsuitable"
+    ],
+    "answer": "Unpredictable aplastic anemia",
+    "explanation": "Rare severe marrow failure with chloramphenicol is not reliably prevented by keeping ordinary drug levels therapeutic.",
+    "distractorExplanations": {
+      "Unpredictable aplastic anemia": "Rare severe marrow failure with chloramphenicol is not reliably prevented by keeping ordinary drug levels therapeutic.",
+      "Immature neonatal chloramphenicol elimination": "Limited neonatal metabolism and elimination can cause chloramphenicol accumulation and gray baby syndrome. This does not best answer the specific question in this case.",
+      "Reversible dose-related marrow suppression": "Chloramphenicol can suppress marrow in an exposure-related fashion, distinct from rare idiosyncratic aplastic anemia. This does not best answer the specific question in this case.",
+      "Reserve use when safer effective alternatives are unsuitable": "Chloramphenicol toxicity limits its use despite broad antimicrobial activity. This does not best answer the specific question in this case.",
+      "Monitor blood counts and clinical toxicity": "Blood-count monitoring helps detect some toxicity but does not guarantee prevention of idiosyncratic aplastic anemia. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=VKm2uo2JjUA"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=aed29594-211d-49ef-813f-131975a8d0e3"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-final-VKm2uo2JjUA-5",
+    "lectureId": "VKm2uo2JjUA",
+    "title": "Chloramphenicol: 5",
+    "prompt": "A clinician considers chloramphenicol for a susceptible infection but identifies a safer effective alternative. The patient has no special reason to require chloramphenicol. Which prescribing principle best reflects the drug’s important hematologic safety limitations?",
+    "options": [
+      "Reserve use when safer effective alternatives are unsuitable",
+      "Immature neonatal chloramphenicol elimination",
+      "Reversible dose-related marrow suppression",
+      "Unpredictable aplastic anemia",
+      "Monitor blood counts and clinical toxicity"
+    ],
+    "answer": "Reserve use when safer effective alternatives are unsuitable",
+    "explanation": "Chloramphenicol toxicity limits its use despite broad antimicrobial activity.",
+    "distractorExplanations": {
+      "Reserve use when safer effective alternatives are unsuitable": "Chloramphenicol toxicity limits its use despite broad antimicrobial activity.",
+      "Immature neonatal chloramphenicol elimination": "Limited neonatal metabolism and elimination can cause chloramphenicol accumulation and gray baby syndrome. This does not best answer the specific question in this case.",
+      "Reversible dose-related marrow suppression": "Chloramphenicol can suppress marrow in an exposure-related fashion, distinct from rare idiosyncratic aplastic anemia. This does not best answer the specific question in this case.",
+      "Unpredictable aplastic anemia": "Rare severe marrow failure with chloramphenicol is not reliably prevented by keeping ordinary drug levels therapeutic. This does not best answer the specific question in this case.",
+      "Monitor blood counts and clinical toxicity": "Blood-count monitoring helps detect some toxicity but does not guarantee prevention of idiosyncratic aplastic anemia. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=VKm2uo2JjUA"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=aed29594-211d-49ef-813f-131975a8d0e3"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-final-7wnwMfGuPyM-1",
+    "lectureId": "7wnwMfGuPyM",
+    "title": "Quinupristin-dalfopristin: 1",
+    "prompt": "A resistant Gram-positive infection is treated with quinupristin and dalfopristin. The two components act cooperatively on bacterial translation rather than one serving solely as a renal metabolism inhibitor. Which mechanism explains their combined antimicrobial effect?",
+    "options": [
+      "Synergistic binding at the 50S ribosome",
+      "Susceptible Enterococcus faecium",
+      "Enterococcus faecalis",
+      "Arthralgia and myalgia",
+      "CYP3A4-mediated drug interactions"
+    ],
+    "answer": "Synergistic binding at the 50S ribosome",
+    "explanation": "Quinupristin and dalfopristin are streptogramins whose combined actions inhibit bacterial protein synthesis.",
+    "distractorExplanations": {
+      "Synergistic binding at the 50S ribosome": "Quinupristin and dalfopristin are streptogramins whose combined actions inhibit bacterial protein synthesis.",
+      "Susceptible Enterococcus faecium": "Quinupristin-dalfopristin has activity against selected E. faecium isolates but not dependable E. faecalis activity. This does not best answer the specific question in this case.",
+      "Enterococcus faecalis": "E. faecalis is intrinsically resistant to quinupristin-dalfopristin and must not be confused with susceptible E. faecium. This does not best answer the specific question in this case.",
+      "Arthralgia and myalgia": "Joint and muscle pain can limit quinupristin-dalfopristin treatment. This does not best answer the specific question in this case.",
+      "CYP3A4-mediated drug interactions": "Quinupristin-dalfopristin inhibits CYP3A4 and can raise exposure to susceptible interacting medicines. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=7wnwMfGuPyM"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-final-7wnwMfGuPyM-2",
+    "lectureId": "7wnwMfGuPyM",
+    "title": "Quinupristin-dalfopristin: 2",
+    "prompt": "An enterococcal isolate is resistant to vancomycin, and susceptibility testing supports quinupristin-dalfopristin. The laboratory confirms a species for which this combination may be active. Which listed organism best matches the species distinction relevant to therapy?",
+    "options": [
+      "Synergistic binding at the 50S ribosome",
+      "Enterococcus faecalis",
+      "Arthralgia and myalgia",
+      "CYP3A4-mediated drug interactions",
+      "Susceptible Enterococcus faecium"
+    ],
+    "answer": "Susceptible Enterococcus faecium",
+    "explanation": "Quinupristin-dalfopristin has activity against selected E. faecium isolates but not dependable E. faecalis activity.",
+    "distractorExplanations": {
+      "Susceptible Enterococcus faecium": "Quinupristin-dalfopristin has activity against selected E. faecium isolates but not dependable E. faecalis activity.",
+      "Synergistic binding at the 50S ribosome": "Quinupristin and dalfopristin are streptogramins whose combined actions inhibit bacterial protein synthesis. This does not best answer the specific question in this case.",
+      "Enterococcus faecalis": "E. faecalis is intrinsically resistant to quinupristin-dalfopristin and must not be confused with susceptible E. faecium. This does not best answer the specific question in this case.",
+      "Arthralgia and myalgia": "Joint and muscle pain can limit quinupristin-dalfopristin treatment. This does not best answer the specific question in this case.",
+      "CYP3A4-mediated drug interactions": "Quinupristin-dalfopristin inhibits CYP3A4 and can raise exposure to susceptible interacting medicines. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=7wnwMfGuPyM"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-final-7wnwMfGuPyM-3",
+    "lectureId": "7wnwMfGuPyM",
+    "title": "Quinupristin-dalfopristin: 3",
+    "prompt": "A trainee assumes quinupristin-dalfopristin covers all enterococci because it can treat selected E. faecium infections. The supervisor identifies a species with intrinsic resistance that invalidates this assumption. Which organism is the important exception?",
+    "options": [
+      "Susceptible Enterococcus faecium",
+      "Arthralgia and myalgia",
+      "CYP3A4-mediated drug interactions",
+      "Enterococcus faecalis",
+      "Synergistic binding at the 50S ribosome"
+    ],
+    "answer": "Enterococcus faecalis",
+    "explanation": "E. faecalis is intrinsically resistant to quinupristin-dalfopristin and must not be confused with susceptible E. faecium.",
+    "distractorExplanations": {
+      "Enterococcus faecalis": "E. faecalis is intrinsically resistant to quinupristin-dalfopristin and must not be confused with susceptible E. faecium.",
+      "Synergistic binding at the 50S ribosome": "Quinupristin and dalfopristin are streptogramins whose combined actions inhibit bacterial protein synthesis. This does not best answer the specific question in this case.",
+      "Susceptible Enterococcus faecium": "Quinupristin-dalfopristin has activity against selected E. faecium isolates but not dependable E. faecalis activity. This does not best answer the specific question in this case.",
+      "Arthralgia and myalgia": "Joint and muscle pain can limit quinupristin-dalfopristin treatment. This does not best answer the specific question in this case.",
+      "CYP3A4-mediated drug interactions": "Quinupristin-dalfopristin inhibits CYP3A4 and can raise exposure to susceptible interacting medicines. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=7wnwMfGuPyM"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-final-7wnwMfGuPyM-4",
+    "lectureId": "7wnwMfGuPyM",
+    "title": "Quinupristin-dalfopristin: 4",
+    "prompt": "During quinupristin-dalfopristin therapy, a patient develops diffuse muscle aching and painful joints without a new focal septic joint. The symptoms interfere with continuing treatment. Which recognized adverse effect best fits this clinical medication history?",
+    "options": [
+      "Enterococcus faecalis",
+      "CYP3A4-mediated drug interactions",
+      "Arthralgia and myalgia",
+      "Synergistic binding at the 50S ribosome",
+      "Susceptible Enterococcus faecium"
+    ],
+    "answer": "Arthralgia and myalgia",
+    "explanation": "Joint and muscle pain can limit quinupristin-dalfopristin treatment.",
+    "distractorExplanations": {
+      "Arthralgia and myalgia": "Joint and muscle pain can limit quinupristin-dalfopristin treatment.",
+      "Synergistic binding at the 50S ribosome": "Quinupristin and dalfopristin are streptogramins whose combined actions inhibit bacterial protein synthesis. This does not best answer the specific question in this case.",
+      "Susceptible Enterococcus faecium": "Quinupristin-dalfopristin has activity against selected E. faecium isolates but not dependable E. faecalis activity. This does not best answer the specific question in this case.",
+      "Enterococcus faecalis": "E. faecalis is intrinsically resistant to quinupristin-dalfopristin and must not be confused with susceptible E. faecium. This does not best answer the specific question in this case.",
+      "CYP3A4-mediated drug interactions": "Quinupristin-dalfopristin inhibits CYP3A4 and can raise exposure to susceptible interacting medicines. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=7wnwMfGuPyM"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-final-7wnwMfGuPyM-5",
+    "lectureId": "7wnwMfGuPyM",
+    "title": "Quinupristin-dalfopristin: 5",
+    "prompt": "A patient receiving a narrow-therapeutic-index CYP3A4 substrate starts quinupristin-dalfopristin. The pharmacist recommends careful interaction review because concentrations of the existing medicine may rise. Which property of the antibiotic combination explains this concern?",
+    "options": [
+      "Arthralgia and myalgia",
+      "CYP3A4-mediated drug interactions",
+      "Synergistic binding at the 50S ribosome",
+      "Susceptible Enterococcus faecium",
+      "Enterococcus faecalis"
+    ],
+    "answer": "CYP3A4-mediated drug interactions",
+    "explanation": "Quinupristin-dalfopristin inhibits CYP3A4 and can raise exposure to susceptible interacting medicines.",
+    "distractorExplanations": {
+      "CYP3A4-mediated drug interactions": "Quinupristin-dalfopristin inhibits CYP3A4 and can raise exposure to susceptible interacting medicines.",
+      "Synergistic binding at the 50S ribosome": "Quinupristin and dalfopristin are streptogramins whose combined actions inhibit bacterial protein synthesis. This does not best answer the specific question in this case.",
+      "Susceptible Enterococcus faecium": "Quinupristin-dalfopristin has activity against selected E. faecium isolates but not dependable E. faecalis activity. This does not best answer the specific question in this case.",
+      "Enterococcus faecalis": "E. faecalis is intrinsically resistant to quinupristin-dalfopristin and must not be confused with susceptible E. faecium. This does not best answer the specific question in this case.",
+      "Arthralgia and myalgia": "Joint and muscle pain can limit quinupristin-dalfopristin treatment. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=7wnwMfGuPyM"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-final-Hdnw0PJaTK8-1",
+    "lectureId": "Hdnw0PJaTK8",
+    "title": "Tigecycline: 1",
+    "prompt": "A patient receives tigecycline for an appropriate susceptible infection when alternatives are unsuitable. The drug is structurally related to tetracyclines and blocks entry of charged transfer RNA during bacterial translation. Which mechanism best describes its action?",
+    "options": [
+      "Increased all-cause mortality signal",
+      "Nausea and vomiting",
+      "Low serum concentrations relative to tissue distribution",
+      "Inhibition of aminoacyl-tRNA binding to 30S",
+      "Pseudomonas aeruginosa"
+    ],
+    "answer": "Inhibition of aminoacyl-tRNA binding to 30S",
+    "explanation": "Tigecycline is a glycylcycline related to tetracyclines and inhibits bacterial protein synthesis.",
+    "distractorExplanations": {
+      "Inhibition of aminoacyl-tRNA binding to 30S": "Tigecycline is a glycylcycline related to tetracyclines and inhibits bacterial protein synthesis.",
+      "Pseudomonas aeruginosa": "Tigecycline does not provide reliable Pseudomonas coverage. This does not best answer the specific question in this case.",
+      "Increased all-cause mortality signal": "Tigecycline carries a mortality warning and should be reserved for situations where alternatives are unsuitable. This does not best answer the specific question in this case.",
+      "Nausea and vomiting": "Gastrointestinal intolerance is common with tigecycline. This does not best answer the specific question in this case.",
+      "Low serum concentrations relative to tissue distribution": "Extensive tissue distribution limits the suitability of tigecycline alone for bloodstream infection. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Hdnw0PJaTK8"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=50605463-2dc2-4b27-bc51-4d87bb9a8539"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-final-Hdnw0PJaTK8-2",
+    "lectureId": "Hdnw0PJaTK8",
+    "title": "Tigecycline: 2",
+    "prompt": "A patient’s culture identifies Pseudomonas aeruginosa. Tigecycline is proposed because it is described as broad spectrum, but the infectious-disease team rejects that assumption. Which organism is the clinically important spectrum gap in this proposal?",
+    "options": [
+      "Nausea and vomiting",
+      "Low serum concentrations relative to tissue distribution",
+      "Pseudomonas aeruginosa",
+      "Inhibition of aminoacyl-tRNA binding to 30S",
+      "Increased all-cause mortality signal"
+    ],
+    "answer": "Pseudomonas aeruginosa",
+    "explanation": "Tigecycline does not provide reliable Pseudomonas coverage.",
+    "distractorExplanations": {
+      "Pseudomonas aeruginosa": "Tigecycline does not provide reliable Pseudomonas coverage.",
+      "Inhibition of aminoacyl-tRNA binding to 30S": "Tigecycline is a glycylcycline related to tetracyclines and inhibits bacterial protein synthesis. This does not best answer the specific question in this case.",
+      "Increased all-cause mortality signal": "Tigecycline carries a mortality warning and should be reserved for situations where alternatives are unsuitable. This does not best answer the specific question in this case.",
+      "Nausea and vomiting": "Gastrointestinal intolerance is common with tigecycline. This does not best answer the specific question in this case.",
+      "Low serum concentrations relative to tissue distribution": "Extensive tissue distribution limits the suitability of tigecycline alone for bloodstream infection. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Hdnw0PJaTK8"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=50605463-2dc2-4b27-bc51-4d87bb9a8539"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-final-Hdnw0PJaTK8-3",
+    "lectureId": "Hdnw0PJaTK8",
+    "title": "Tigecycline: 3",
+    "prompt": "Before starting tigecycline, a clinician explains why the drug is reserved for situations where alternative treatments are unsuitable. The discussion includes a warning from pooled clinical-trial outcomes. Which safety signal is central to that warning?",
+    "options": [
+      "Low serum concentrations relative to tissue distribution",
+      "Increased all-cause mortality signal",
+      "Inhibition of aminoacyl-tRNA binding to 30S",
+      "Pseudomonas aeruginosa",
+      "Nausea and vomiting"
+    ],
+    "answer": "Increased all-cause mortality signal",
+    "explanation": "Tigecycline carries a mortality warning and should be reserved for situations where alternatives are unsuitable.",
+    "distractorExplanations": {
+      "Increased all-cause mortality signal": "Tigecycline carries a mortality warning and should be reserved for situations where alternatives are unsuitable.",
+      "Inhibition of aminoacyl-tRNA binding to 30S": "Tigecycline is a glycylcycline related to tetracyclines and inhibits bacterial protein synthesis. This does not best answer the specific question in this case.",
+      "Pseudomonas aeruginosa": "Tigecycline does not provide reliable Pseudomonas coverage. This does not best answer the specific question in this case.",
+      "Nausea and vomiting": "Gastrointestinal intolerance is common with tigecycline. This does not best answer the specific question in this case.",
+      "Low serum concentrations relative to tissue distribution": "Extensive tissue distribution limits the suitability of tigecycline alone for bloodstream infection. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Hdnw0PJaTK8"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=50605463-2dc2-4b27-bc51-4d87bb9a8539"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-final-Hdnw0PJaTK8-4",
+    "lectureId": "Hdnw0PJaTK8",
+    "title": "Tigecycline: 4",
+    "prompt": "A patient receiving tigecycline develops repeated queasiness and emesis soon after treatment begins. There is no obstruction or new abdominal catastrophe, and medication intolerance is considered. Which common adverse effect best explains the symptoms?",
+    "options": [
+      "Nausea and vomiting",
+      "Inhibition of aminoacyl-tRNA binding to 30S",
+      "Pseudomonas aeruginosa",
+      "Increased all-cause mortality signal",
+      "Low serum concentrations relative to tissue distribution"
+    ],
+    "answer": "Nausea and vomiting",
+    "explanation": "Gastrointestinal intolerance is common with tigecycline.",
+    "distractorExplanations": {
+      "Nausea and vomiting": "Gastrointestinal intolerance is common with tigecycline.",
+      "Inhibition of aminoacyl-tRNA binding to 30S": "Tigecycline is a glycylcycline related to tetracyclines and inhibits bacterial protein synthesis. This does not best answer the specific question in this case.",
+      "Pseudomonas aeruginosa": "Tigecycline does not provide reliable Pseudomonas coverage. This does not best answer the specific question in this case.",
+      "Increased all-cause mortality signal": "Tigecycline carries a mortality warning and should be reserved for situations where alternatives are unsuitable. This does not best answer the specific question in this case.",
+      "Low serum concentrations relative to tissue distribution": "Extensive tissue distribution limits the suitability of tigecycline alone for bloodstream infection. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Hdnw0PJaTK8"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=50605463-2dc2-4b27-bc51-4d87bb9a8539"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-final-Hdnw0PJaTK8-5",
+    "lectureId": "Hdnw0PJaTK8",
+    "title": "Tigecycline: 5",
+    "prompt": "A patient has persistent bloodstream infection, and tigecycline monotherapy is questioned despite laboratory susceptibility. The drug distributes extensively into tissues, leaving relatively low circulating concentrations. Which pharmacokinetic concern best explains the team’s hesitation?",
+    "options": [
+      "Inhibition of aminoacyl-tRNA binding to 30S",
+      "Pseudomonas aeruginosa",
+      "Increased all-cause mortality signal",
+      "Nausea and vomiting",
+      "Low serum concentrations relative to tissue distribution"
+    ],
+    "answer": "Low serum concentrations relative to tissue distribution",
+    "explanation": "Extensive tissue distribution limits the suitability of tigecycline alone for bloodstream infection.",
+    "distractorExplanations": {
+      "Low serum concentrations relative to tissue distribution": "Extensive tissue distribution limits the suitability of tigecycline alone for bloodstream infection.",
+      "Inhibition of aminoacyl-tRNA binding to 30S": "Tigecycline is a glycylcycline related to tetracyclines and inhibits bacterial protein synthesis. This does not best answer the specific question in this case.",
+      "Pseudomonas aeruginosa": "Tigecycline does not provide reliable Pseudomonas coverage. This does not best answer the specific question in this case.",
+      "Increased all-cause mortality signal": "Tigecycline carries a mortality warning and should be reserved for situations where alternatives are unsuitable. This does not best answer the specific question in this case.",
+      "Nausea and vomiting": "Gastrointestinal intolerance is common with tigecycline. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Hdnw0PJaTK8"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=50605463-2dc2-4b27-bc51-4d87bb9a8539"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-final-LJKUUqWmcVM-1",
+    "lectureId": "LJKUUqWmcVM",
+    "title": "Quinolone classification: 1",
+    "prompt": "A pharmacology student reviews the historical development of urinary antibacterial agents. The first-generation quinolone under discussion mainly targeted urinary Gram-negative organisms and preceded modern fluoroquinolones. Which drug is the older agent being classified?",
+    "options": [
+      "Ciprofloxacin",
+      "Levofloxacin",
+      "Moxifloxacin",
+      "Agent-specific spectrum matters more than a generation label",
+      "Nalidixic acid"
+    ],
+    "answer": "Nalidixic acid",
+    "explanation": "Nalidixic acid is an older first-generation quinolone with mainly urinary Gram-negative activity.",
+    "distractorExplanations": {
+      "Nalidixic acid": "Nalidixic acid is an older first-generation quinolone with mainly urinary Gram-negative activity.",
+      "Ciprofloxacin": "Ciprofloxacin is a fluoroquinolone with useful activity against susceptible Pseudomonas but weaker pneumococcal activity than respiratory fluoroquinolones. This does not best answer the specific question in this case.",
+      "Levofloxacin": "Levofloxacin is a respiratory fluoroquinolone with improved pneumococcal activity; susceptibility and safety still govern selection. This does not best answer the specific question in this case.",
+      "Moxifloxacin": "Moxifloxacin has respiratory and anaerobic activity but is not a preferred urinary agent and is not reliably antipseudomonal. This does not best answer the specific question in this case.",
+      "Agent-specific spectrum matters more than a generation label": "Quinolone generation schemes vary; drug-specific coverage and safety determine clinical use. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=LJKUUqWmcVM"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-final-LJKUUqWmcVM-2",
+    "lectureId": "LJKUUqWmcVM",
+    "title": "Quinolone classification: 2",
+    "prompt": "A patient has a susceptible Pseudomonas infection, and the clinician considers an oral fluoroquinolone with established antipseudomonal activity. The agent is not preferred solely for enhanced pneumococcal coverage. Which listed drug best fits this profile?",
+    "options": [
+      "Levofloxacin",
+      "Moxifloxacin",
+      "Agent-specific spectrum matters more than a generation label",
+      "Ciprofloxacin",
+      "Nalidixic acid"
+    ],
+    "answer": "Ciprofloxacin",
+    "explanation": "Ciprofloxacin is a fluoroquinolone with useful activity against susceptible Pseudomonas but weaker pneumococcal activity than respiratory fluoroquinolones.",
+    "distractorExplanations": {
+      "Ciprofloxacin": "Ciprofloxacin is a fluoroquinolone with useful activity against susceptible Pseudomonas but weaker pneumococcal activity than respiratory fluoroquinolones.",
+      "Nalidixic acid": "Nalidixic acid is an older first-generation quinolone with mainly urinary Gram-negative activity. This does not best answer the specific question in this case.",
+      "Levofloxacin": "Levofloxacin is a respiratory fluoroquinolone with improved pneumococcal activity; susceptibility and safety still govern selection. This does not best answer the specific question in this case.",
+      "Moxifloxacin": "Moxifloxacin has respiratory and anaerobic activity but is not a preferred urinary agent and is not reliably antipseudomonal. This does not best answer the specific question in this case.",
+      "Agent-specific spectrum matters more than a generation label": "Quinolone generation schemes vary; drug-specific coverage and safety determine clinical use. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=LJKUUqWmcVM"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-final-LJKUUqWmcVM-3",
+    "lectureId": "LJKUUqWmcVM",
+    "title": "Quinolone classification: 3",
+    "prompt": "A clinician discusses a respiratory fluoroquinolone with better pneumococcal activity than ciprofloxacin. Patient-specific safety and local susceptibility remain important before selection. Which listed agent is a standard example of this respiratory fluoroquinolone category?",
+    "options": [
+      "Moxifloxacin",
+      "Agent-specific spectrum matters more than a generation label",
+      "Levofloxacin",
+      "Nalidixic acid",
+      "Ciprofloxacin"
+    ],
+    "answer": "Levofloxacin",
+    "explanation": "Levofloxacin is a respiratory fluoroquinolone with improved pneumococcal activity; susceptibility and safety still govern selection.",
+    "distractorExplanations": {
+      "Levofloxacin": "Levofloxacin is a respiratory fluoroquinolone with improved pneumococcal activity; susceptibility and safety still govern selection.",
+      "Nalidixic acid": "Nalidixic acid is an older first-generation quinolone with mainly urinary Gram-negative activity. This does not best answer the specific question in this case.",
+      "Ciprofloxacin": "Ciprofloxacin is a fluoroquinolone with useful activity against susceptible Pseudomonas but weaker pneumococcal activity than respiratory fluoroquinolones. This does not best answer the specific question in this case.",
+      "Moxifloxacin": "Moxifloxacin has respiratory and anaerobic activity but is not a preferred urinary agent and is not reliably antipseudomonal. This does not best answer the specific question in this case.",
+      "Agent-specific spectrum matters more than a generation label": "Quinolone generation schemes vary; drug-specific coverage and safety determine clinical use. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=LJKUUqWmcVM"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-final-LJKUUqWmcVM-4",
+    "lectureId": "LJKUUqWmcVM",
+    "title": "Quinolone classification: 4",
+    "prompt": "A fluoroquinolone is considered for a respiratory indication but is rejected for a concurrent urinary infection because its urinary exposure is not suitable. It also lacks reliable Pseudomonas activity. Which listed agent best fits these limitations?",
+    "options": [
+      "Agent-specific spectrum matters more than a generation label",
+      "Moxifloxacin",
+      "Nalidixic acid",
+      "Ciprofloxacin",
+      "Levofloxacin"
+    ],
+    "answer": "Moxifloxacin",
+    "explanation": "Moxifloxacin has respiratory and anaerobic activity but is not a preferred urinary agent and is not reliably antipseudomonal.",
+    "distractorExplanations": {
+      "Moxifloxacin": "Moxifloxacin has respiratory and anaerobic activity but is not a preferred urinary agent and is not reliably antipseudomonal.",
+      "Nalidixic acid": "Nalidixic acid is an older first-generation quinolone with mainly urinary Gram-negative activity. This does not best answer the specific question in this case.",
+      "Ciprofloxacin": "Ciprofloxacin is a fluoroquinolone with useful activity against susceptible Pseudomonas but weaker pneumococcal activity than respiratory fluoroquinolones. This does not best answer the specific question in this case.",
+      "Levofloxacin": "Levofloxacin is a respiratory fluoroquinolone with improved pneumococcal activity; susceptibility and safety still govern selection. This does not best answer the specific question in this case.",
+      "Agent-specific spectrum matters more than a generation label": "Quinolone generation schemes vary; drug-specific coverage and safety determine clinical use. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=LJKUUqWmcVM"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-final-LJKUUqWmcVM-5",
+    "lectureId": "LJKUUqWmcVM",
+    "title": "Quinolone classification: 5",
+    "prompt": "Two reference books place the same quinolone into different numbered generations. A trainee wants to select therapy using the number alone, without checking pathogen or infection site. Which principle is the most reliable guide to clinical selection?",
+    "options": [
+      "Agent-specific spectrum matters more than a generation label",
+      "Nalidixic acid",
+      "Ciprofloxacin",
+      "Levofloxacin",
+      "Moxifloxacin"
+    ],
+    "answer": "Agent-specific spectrum matters more than a generation label",
+    "explanation": "Quinolone generation schemes vary; drug-specific coverage and safety determine clinical use.",
+    "distractorExplanations": {
+      "Agent-specific spectrum matters more than a generation label": "Quinolone generation schemes vary; drug-specific coverage and safety determine clinical use.",
+      "Nalidixic acid": "Nalidixic acid is an older first-generation quinolone with mainly urinary Gram-negative activity. This does not best answer the specific question in this case.",
+      "Ciprofloxacin": "Ciprofloxacin is a fluoroquinolone with useful activity against susceptible Pseudomonas but weaker pneumococcal activity than respiratory fluoroquinolones. This does not best answer the specific question in this case.",
+      "Levofloxacin": "Levofloxacin is a respiratory fluoroquinolone with improved pneumococcal activity; susceptibility and safety still govern selection. This does not best answer the specific question in this case.",
+      "Moxifloxacin": "Moxifloxacin has respiratory and anaerobic activity but is not a preferred urinary agent and is not reliably antipseudomonal. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=LJKUUqWmcVM"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-final-hvh86HzdHzs-1",
+    "lectureId": "hvh86HzdHzs",
+    "title": "Cell-wall inhibitor principles: 1",
+    "prompt": "An actively growing bacterium is exposed to a beta-lactam. The cell cannot efficiently cross-link newly synthesized peptidoglycan and becomes vulnerable to lysis. Which bacterial protein group is directly targeted in this antimicrobial mechanism?",
+    "options": [
+      "50S initiation-complex formation",
+      "Penicillin-binding proteins",
+      "D-Ala-D-Ala termini",
+      "30S aminoacyl-tRNA attachment",
+      "DNA gyrase and topoisomerase IV"
+    ],
+    "answer": "Penicillin-binding proteins",
+    "explanation": "Beta-lactams inhibit PBPs and peptidoglycan cross-linking.",
+    "distractorExplanations": {
+      "Penicillin-binding proteins": "Beta-lactams inhibit PBPs and peptidoglycan cross-linking.",
+      "D-Ala-D-Ala termini": "Vancomycin binds cell-wall precursor termini rather than PBPs. This does not best answer the specific question in this case.",
+      "30S aminoacyl-tRNA attachment": "Tetracyclines prevent aminoacyl-tRNA binding to the 30S subunit. This does not best answer the specific question in this case.",
+      "DNA gyrase and topoisomerase IV": "Fluoroquinolones inhibit bacterial DNA topoisomerases. This does not best answer the specific question in this case.",
+      "50S initiation-complex formation": "Linezolid binds 23S RNA within the 50S subunit and prevents functional initiation-complex formation. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=hvh86HzdHzs"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-final-hvh86HzdHzs-2",
+    "lectureId": "hvh86HzdHzs",
+    "title": "Cell-wall inhibitor principles: 2",
+    "prompt": "A Gram-positive organism is inhibited by a drug that binds the terminal dipeptide of cell-wall precursors rather than a transpeptidase enzyme. This interaction blocks normal wall assembly. Which molecular target corresponds to the described glycopeptide mechanism?",
+    "options": [
+      "D-Ala-D-Ala termini",
+      "Penicillin-binding proteins",
+      "30S aminoacyl-tRNA attachment",
+      "DNA gyrase and topoisomerase IV",
+      "50S initiation-complex formation"
+    ],
+    "answer": "D-Ala-D-Ala termini",
+    "explanation": "Vancomycin binds cell-wall precursor termini rather than PBPs.",
+    "distractorExplanations": {
+      "D-Ala-D-Ala termini": "Vancomycin binds cell-wall precursor termini rather than PBPs.",
+      "Penicillin-binding proteins": "Beta-lactams inhibit PBPs and peptidoglycan cross-linking. This does not best answer the specific question in this case.",
+      "30S aminoacyl-tRNA attachment": "Tetracyclines prevent aminoacyl-tRNA binding to the 30S subunit. This does not best answer the specific question in this case.",
+      "DNA gyrase and topoisomerase IV": "Fluoroquinolones inhibit bacterial DNA topoisomerases. This does not best answer the specific question in this case.",
+      "50S initiation-complex formation": "Linezolid binds 23S RNA within the 50S subunit and prevents functional initiation-complex formation. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=hvh86HzdHzs"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-final-hvh86HzdHzs-3",
+    "lectureId": "hvh86HzdHzs",
+    "title": "Cell-wall inhibitor principles: 3",
+    "prompt": "A bacterial isolate resists a beta-lactam because it produces a protein that chemically destroys the antibiotic before effective target binding. The drug target itself remains unchanged. Which broad mechanism explains the resistance described?",
+    "options": [
+      "Modification of the drug target",
+      "Increased drug efflux",
+      "Reduced outer-membrane permeability",
+      "Biofilm-associated persistence",
+      "Enzymatic drug inactivation"
+    ],
+    "answer": "Enzymatic drug inactivation",
+    "explanation": "Bacteria can produce enzymes that destroy or chemically modify an antibiotic.",
+    "distractorExplanations": {
+      "Enzymatic drug inactivation": "Bacteria can produce enzymes that destroy or chemically modify an antibiotic.",
+      "Modification of the drug target": "A changed target can bind the antibiotic less effectively while maintaining its microbial function. This does not best answer the specific question in this case.",
+      "Increased drug efflux": "Transport pumps can lower intracellular antibiotic exposure. This does not best answer the specific question in this case.",
+      "Reduced outer-membrane permeability": "Loss or alteration of porins can reduce entry of antibiotics into Gram-negative bacteria. This does not best answer the specific question in this case.",
+      "Biofilm-associated persistence": "Organisms in biofilms can be difficult to eradicate; device management may be needed despite planktonic susceptibility. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=hvh86HzdHzs"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-final-hvh86HzdHzs-4",
+    "lectureId": "hvh86HzdHzs",
+    "title": "Cell-wall inhibitor principles: 4",
+    "prompt": "A resistant isolate retains normal growth but expresses a penicillin-binding protein with reduced affinity for the prescribed beta-lactam. Drug entry is adequate and no destructive enzyme is found. Which resistance category best describes this mechanism?",
+    "options": [
+      "Increased drug efflux",
+      "Reduced outer-membrane permeability",
+      "Biofilm-associated persistence",
+      "Modification of the drug target",
+      "Enzymatic drug inactivation"
+    ],
+    "answer": "Modification of the drug target",
+    "explanation": "A changed target can bind the antibiotic less effectively while maintaining its microbial function.",
+    "distractorExplanations": {
+      "Modification of the drug target": "A changed target can bind the antibiotic less effectively while maintaining its microbial function.",
+      "Enzymatic drug inactivation": "Bacteria can produce enzymes that destroy or chemically modify an antibiotic. This does not best answer the specific question in this case.",
+      "Increased drug efflux": "Transport pumps can lower intracellular antibiotic exposure. This does not best answer the specific question in this case.",
+      "Reduced outer-membrane permeability": "Loss or alteration of porins can reduce entry of antibiotics into Gram-negative bacteria. This does not best answer the specific question in this case.",
+      "Biofilm-associated persistence": "Organisms in biofilms can be difficult to eradicate; device management may be needed despite planktonic susceptibility. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=hvh86HzdHzs"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-final-hvh86HzdHzs-5",
+    "lectureId": "hvh86HzdHzs",
+    "title": "Cell-wall inhibitor principles: 5",
+    "prompt": "A drug inhibits an isolate in the laboratory, but the patient’s infection is in a compartment the drug reaches poorly. The clinician chooses another active agent. Which pharmacologic principle explains why the susceptibility result alone was insufficient?",
+    "options": [
+      "Source control",
+      "Clarify the allergy reaction and timing",
+      "Drug penetration at the infection site",
+      "Renal function and individualized dosing",
+      "Narrow therapy using reliable microbiology"
+    ],
+    "answer": "Drug penetration at the infection site",
+    "explanation": "An agent must reach effective concentrations where the infection is located; an in-vitro susceptible result alone is insufficient.",
+    "distractorExplanations": {
+      "Drug penetration at the infection site": "An agent must reach effective concentrations where the infection is located; an in-vitro susceptible result alone is insufficient.",
+      "Renal function and individualized dosing": "Renal impairment can alter antimicrobial exposure and require dose or interval adjustment. This does not best answer the specific question in this case.",
+      "Narrow therapy using reliable microbiology": "Once the pathogen and susceptibilities are known, an effective narrower regimen may reduce unnecessary exposure. This does not best answer the specific question in this case.",
+      "Source control": "An abscess, infected device or obstructed infected system may require drainage, removal or relief in addition to antibiotics. This does not best answer the specific question in this case.",
+      "Clarify the allergy reaction and timing": "A detailed allergy history distinguishes intolerance from immediate or severe delayed hypersensitivity and informs safe selection. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=hvh86HzdHzs"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-final-Kl9I2T7-iCY-1",
+    "lectureId": "Kl9I2T7-iCY",
+    "title": "Choosing antibiotics: 1",
+    "prompt": "A chart says penicillin allergy, but the patient recalls only nausea years earlier without rash, breathing difficulty or mucosal injury. Before excluding an entire antibiotic class, which part of the prescribing assessment is most useful?",
+    "options": [
+      "Clarify the allergy reaction and timing",
+      "Drug penetration at the infection site",
+      "Renal function and individualized dosing",
+      "Narrow therapy using reliable microbiology",
+      "Source control"
+    ],
+    "answer": "Clarify the allergy reaction and timing",
+    "explanation": "A detailed allergy history distinguishes intolerance from immediate or severe delayed hypersensitivity and informs safe selection.",
+    "distractorExplanations": {
+      "Clarify the allergy reaction and timing": "A detailed allergy history distinguishes intolerance from immediate or severe delayed hypersensitivity and informs safe selection.",
+      "Drug penetration at the infection site": "An agent must reach effective concentrations where the infection is located; an in-vitro susceptible result alone is insufficient. This does not best answer the specific question in this case.",
+      "Renal function and individualized dosing": "Renal impairment can alter antimicrobial exposure and require dose or interval adjustment. This does not best answer the specific question in this case.",
+      "Narrow therapy using reliable microbiology": "Once the pathogen and susceptibilities are known, an effective narrower regimen may reduce unnecessary exposure. This does not best answer the specific question in this case.",
+      "Source control": "An abscess, infected device or obstructed infected system may require drainage, removal or relief in addition to antibiotics. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Kl9I2T7-iCY"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-final-Kl9I2T7-iCY-2",
+    "lectureId": "Kl9I2T7-iCY",
+    "title": "Choosing antibiotics: 2",
+    "prompt": "An older patient with impaired kidney function needs a renally cleared antimicrobial. Standard dosing could create excessive exposure even though the organism is susceptible. Which patient factor should directly inform the dose and interval chosen?",
+    "options": [
+      "Drug penetration at the infection site",
+      "Narrow therapy using reliable microbiology",
+      "Source control",
+      "Clarify the allergy reaction and timing",
+      "Renal function and individualized dosing"
+    ],
+    "answer": "Renal function and individualized dosing",
+    "explanation": "Renal impairment can alter antimicrobial exposure and require dose or interval adjustment.",
+    "distractorExplanations": {
+      "Renal function and individualized dosing": "Renal impairment can alter antimicrobial exposure and require dose or interval adjustment.",
+      "Drug penetration at the infection site": "An agent must reach effective concentrations where the infection is located; an in-vitro susceptible result alone is insufficient. This does not best answer the specific question in this case.",
+      "Narrow therapy using reliable microbiology": "Once the pathogen and susceptibilities are known, an effective narrower regimen may reduce unnecessary exposure. This does not best answer the specific question in this case.",
+      "Source control": "An abscess, infected device or obstructed infected system may require drainage, removal or relief in addition to antibiotics. This does not best answer the specific question in this case.",
+      "Clarify the allergy reaction and timing": "A detailed allergy history distinguishes intolerance from immediate or severe delayed hypersensitivity and informs safe selection. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Kl9I2T7-iCY"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-final-Kl9I2T7-iCY-3",
+    "lectureId": "Kl9I2T7-iCY",
+    "title": "Choosing antibiotics: 3",
+    "prompt": "A patient improves on broad empiric treatment. Cultures identify a single susceptible organism, and a narrower effective drug reaches the infection site adequately. Which stewardship principle should guide the next review of the antibiotic regimen?",
+    "options": [
+      "Renal function and individualized dosing",
+      "Source control",
+      "Clarify the allergy reaction and timing",
+      "Narrow therapy using reliable microbiology",
+      "Drug penetration at the infection site"
+    ],
+    "answer": "Narrow therapy using reliable microbiology",
+    "explanation": "Once the pathogen and susceptibilities are known, an effective narrower regimen may reduce unnecessary exposure.",
+    "distractorExplanations": {
+      "Narrow therapy using reliable microbiology": "Once the pathogen and susceptibilities are known, an effective narrower regimen may reduce unnecessary exposure.",
+      "Drug penetration at the infection site": "An agent must reach effective concentrations where the infection is located; an in-vitro susceptible result alone is insufficient. This does not best answer the specific question in this case.",
+      "Renal function and individualized dosing": "Renal impairment can alter antimicrobial exposure and require dose or interval adjustment. This does not best answer the specific question in this case.",
+      "Source control": "An abscess, infected device or obstructed infected system may require drainage, removal or relief in addition to antibiotics. This does not best answer the specific question in this case.",
+      "Clarify the allergy reaction and timing": "A detailed allergy history distinguishes intolerance from immediate or severe delayed hypersensitivity and informs safe selection. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Kl9I2T7-iCY"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-final-Kl9I2T7-iCY-4",
+    "lectureId": "Kl9I2T7-iCY",
+    "title": "Choosing antibiotics: 4",
+    "prompt": "A patient remains febrile despite an antibiotic active against the cultured organism. Imaging shows a large undrained abscess. Which treatment principle addresses the persistent focus rather than simply adding progressively broader antibiotics?",
+    "options": [
+      "Narrow therapy using reliable microbiology",
+      "Clarify the allergy reaction and timing",
+      "Source control",
+      "Drug penetration at the infection site",
+      "Renal function and individualized dosing"
+    ],
+    "answer": "Source control",
+    "explanation": "An abscess, infected device or obstructed infected system may require drainage, removal or relief in addition to antibiotics.",
+    "distractorExplanations": {
+      "Source control": "An abscess, infected device or obstructed infected system may require drainage, removal or relief in addition to antibiotics.",
+      "Drug penetration at the infection site": "An agent must reach effective concentrations where the infection is located; an in-vitro susceptible result alone is insufficient. This does not best answer the specific question in this case.",
+      "Renal function and individualized dosing": "Renal impairment can alter antimicrobial exposure and require dose or interval adjustment. This does not best answer the specific question in this case.",
+      "Narrow therapy using reliable microbiology": "Once the pathogen and susceptibilities are known, an effective narrower regimen may reduce unnecessary exposure. This does not best answer the specific question in this case.",
+      "Clarify the allergy reaction and timing": "A detailed allergy history distinguishes intolerance from immediate or severe delayed hypersensitivity and informs safe selection. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Kl9I2T7-iCY"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-final-Kl9I2T7-iCY-5",
+    "lectureId": "Kl9I2T7-iCY",
+    "title": "Choosing antibiotics: 5",
+    "prompt": "A patient has a central nervous system infection caused by an organism susceptible to several drugs. One option does not achieve dependable cerebrospinal fluid exposure. Which consideration is decisive when comparing these otherwise active agents?",
+    "options": [
+      "Clarify the allergy reaction and timing",
+      "Drug penetration at the infection site",
+      "Renal function and individualized dosing",
+      "Narrow therapy using reliable microbiology",
+      "Source control"
+    ],
+    "answer": "Drug penetration at the infection site",
+    "explanation": "An agent must reach effective concentrations where the infection is located; an in-vitro susceptible result alone is insufficient.",
+    "distractorExplanations": {
+      "Drug penetration at the infection site": "An agent must reach effective concentrations where the infection is located; an in-vitro susceptible result alone is insufficient.",
+      "Renal function and individualized dosing": "Renal impairment can alter antimicrobial exposure and require dose or interval adjustment. This does not best answer the specific question in this case.",
+      "Narrow therapy using reliable microbiology": "Once the pathogen and susceptibilities are known, an effective narrower regimen may reduce unnecessary exposure. This does not best answer the specific question in this case.",
+      "Source control": "An abscess, infected device or obstructed infected system may require drainage, removal or relief in addition to antibiotics. This does not best answer the specific question in this case.",
+      "Clarify the allergy reaction and timing": "A detailed allergy history distinguishes intolerance from immediate or severe delayed hypersensitivity and informs safe selection. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Kl9I2T7-iCY"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-final-tJtsmSfDyP0-1",
+    "lectureId": "tJtsmSfDyP0",
+    "title": "Antibiotic principles and resistance: 1",
+    "prompt": "A Gram-negative isolate acquires a plasmid encoding a beta-lactamase. The enzyme breaks down a susceptible antibiotic, while the bacterial cell-wall target remains functional. Which general resistance mechanism best describes this acquired trait?",
+    "options": [
+      "Modification of the drug target",
+      "Increased drug efflux",
+      "Reduced outer-membrane permeability",
+      "Biofilm-associated persistence",
+      "Enzymatic drug inactivation"
+    ],
+    "answer": "Enzymatic drug inactivation",
+    "explanation": "Bacteria can produce enzymes that destroy or chemically modify an antibiotic.",
+    "distractorExplanations": {
+      "Enzymatic drug inactivation": "Bacteria can produce enzymes that destroy or chemically modify an antibiotic.",
+      "Modification of the drug target": "A changed target can bind the antibiotic less effectively while maintaining its microbial function. This does not best answer the specific question in this case.",
+      "Increased drug efflux": "Transport pumps can lower intracellular antibiotic exposure. This does not best answer the specific question in this case.",
+      "Reduced outer-membrane permeability": "Loss or alteration of porins can reduce entry of antibiotics into Gram-negative bacteria. This does not best answer the specific question in this case.",
+      "Biofilm-associated persistence": "Organisms in biofilms can be difficult to eradicate; device management may be needed despite planktonic susceptibility. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=tJtsmSfDyP0"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-final-tJtsmSfDyP0-2",
+    "lectureId": "tJtsmSfDyP0",
+    "title": "Antibiotic principles and resistance: 2",
+    "prompt": "A bacterial strain expresses more membrane pumps and maintains low intracellular concentrations of a protein-synthesis inhibitor. The ribosomal target is unchanged. Which resistance mechanism explains why adequate extracellular concentrations no longer produce the expected response?",
+    "options": [
+      "Modification of the drug target",
+      "Reduced outer-membrane permeability",
+      "Biofilm-associated persistence",
+      "Increased drug efflux",
+      "Enzymatic drug inactivation"
+    ],
+    "answer": "Increased drug efflux",
+    "explanation": "Transport pumps can lower intracellular antibiotic exposure.",
+    "distractorExplanations": {
+      "Increased drug efflux": "Transport pumps can lower intracellular antibiotic exposure.",
+      "Enzymatic drug inactivation": "Bacteria can produce enzymes that destroy or chemically modify an antibiotic. This does not best answer the specific question in this case.",
+      "Modification of the drug target": "A changed target can bind the antibiotic less effectively while maintaining its microbial function. This does not best answer the specific question in this case.",
+      "Reduced outer-membrane permeability": "Loss or alteration of porins can reduce entry of antibiotics into Gram-negative bacteria. This does not best answer the specific question in this case.",
+      "Biofilm-associated persistence": "Organisms in biofilms can be difficult to eradicate; device management may be needed despite planktonic susceptibility. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=tJtsmSfDyP0"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-final-tJtsmSfDyP0-3",
+    "lectureId": "tJtsmSfDyP0",
+    "title": "Antibiotic principles and resistance: 3",
+    "prompt": "A Gram-negative isolate loses an outer-membrane channel used by an antibiotic to enter the periplasm. The drug remains active against its isolated target in vitro. Which resistance mechanism best explains reduced activity against the intact organism?",
+    "options": [
+      "Increased drug efflux",
+      "Biofilm-associated persistence",
+      "Reduced outer-membrane permeability",
+      "Enzymatic drug inactivation",
+      "Modification of the drug target"
+    ],
+    "answer": "Reduced outer-membrane permeability",
+    "explanation": "Loss or alteration of porins can reduce entry of antibiotics into Gram-negative bacteria.",
+    "distractorExplanations": {
+      "Reduced outer-membrane permeability": "Loss or alteration of porins can reduce entry of antibiotics into Gram-negative bacteria.",
+      "Enzymatic drug inactivation": "Bacteria can produce enzymes that destroy or chemically modify an antibiotic. This does not best answer the specific question in this case.",
+      "Modification of the drug target": "A changed target can bind the antibiotic less effectively while maintaining its microbial function. This does not best answer the specific question in this case.",
+      "Increased drug efflux": "Transport pumps can lower intracellular antibiotic exposure. This does not best answer the specific question in this case.",
+      "Biofilm-associated persistence": "Organisms in biofilms can be difficult to eradicate; device management may be needed despite planktonic susceptibility. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=tJtsmSfDyP0"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-final-tJtsmSfDyP0-4",
+    "lectureId": "tJtsmSfDyP0",
+    "title": "Antibiotic principles and resistance: 4",
+    "prompt": "A patient has recurrent infection around an implanted device despite an antibiotic active against the organism in standard culture. The bacteria are embedded in an adherent matrix. Which persistence mechanism helps explain the need to assess device removal?",
+    "options": [
+      "Reduced outer-membrane permeability",
+      "Biofilm-associated persistence",
+      "Enzymatic drug inactivation",
+      "Modification of the drug target",
+      "Increased drug efflux"
+    ],
+    "answer": "Biofilm-associated persistence",
+    "explanation": "Organisms in biofilms can be difficult to eradicate; device management may be needed despite planktonic susceptibility.",
+    "distractorExplanations": {
+      "Biofilm-associated persistence": "Organisms in biofilms can be difficult to eradicate; device management may be needed despite planktonic susceptibility.",
+      "Enzymatic drug inactivation": "Bacteria can produce enzymes that destroy or chemically modify an antibiotic. This does not best answer the specific question in this case.",
+      "Modification of the drug target": "A changed target can bind the antibiotic less effectively while maintaining its microbial function. This does not best answer the specific question in this case.",
+      "Increased drug efflux": "Transport pumps can lower intracellular antibiotic exposure. This does not best answer the specific question in this case.",
+      "Reduced outer-membrane permeability": "Loss or alteration of porins can reduce entry of antibiotics into Gram-negative bacteria. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=tJtsmSfDyP0"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-antibiotics-final-tJtsmSfDyP0-5",
+    "lectureId": "tJtsmSfDyP0",
+    "title": "Antibiotic principles and resistance: 5",
+    "prompt": "A broad-spectrum combination was started for a critically ill patient before cultures were available. The patient stabilizes, and reliable results identify a susceptible single pathogen. Which strategy best balances effective treatment with reduced unnecessary antimicrobial exposure?",
+    "options": [
+      "Narrow therapy using reliable microbiology",
+      "Drug penetration at the infection site",
+      "Renal function and individualized dosing",
+      "Source control",
+      "Clarify the allergy reaction and timing"
+    ],
+    "answer": "Narrow therapy using reliable microbiology",
+    "explanation": "Once the pathogen and susceptibilities are known, an effective narrower regimen may reduce unnecessary exposure.",
+    "distractorExplanations": {
+      "Narrow therapy using reliable microbiology": "Once the pathogen and susceptibilities are known, an effective narrower regimen may reduce unnecessary exposure.",
+      "Drug penetration at the infection site": "An agent must reach effective concentrations where the infection is located; an in-vitro susceptible result alone is insufficient. This does not best answer the specific question in this case.",
+      "Renal function and individualized dosing": "Renal impairment can alter antimicrobial exposure and require dose or interval adjustment. This does not best answer the specific question in this case.",
+      "Source control": "An abscess, infected device or obstructed infected system may require drainage, removal or relief in addition to antibiotics. This does not best answer the specific question in this case.",
+      "Clarify the allergy reaction and timing": "A detailed allergy history distinguishes intolerance from immediate or severe delayed hypersensitivity and informs safe selection. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=tJtsmSfDyP0"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  }
+]

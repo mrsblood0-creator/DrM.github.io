@@ -1,0 +1,16 @@
+[
+  {
+    "id": "latest-radiation",
+    "lectureId": "esgddQPQqSQ",
+    "front": "How can ionizing radiation indirectly damage intracellular molecules?",
+    "back": "Through reactive species generated from water, including hydroxyl radicals.",
+    "explanation": "These reactive species can damage DNA, proteins and membrane lipids."
+  },
+  {
+    "id": "latest-proteasome",
+    "lectureId": "esgddQPQqSQ",
+    "front": "What tag can target a protein for proteasomal degradation?",
+    "back": "Ubiquitin.",
+    "explanation": "Increased protein breakdown contributes to muscle wasting in catabolic illness."
+  }
+]

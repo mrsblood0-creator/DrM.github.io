@@ -1,0 +1,642 @@
+[
+  {
+    "id": "reviewed-burns-wounds-GRf53MkN_7Q-1-fc",
+    "lectureId": "GRf53MkN_7Q",
+    "front": "What depth is a red painful epidermal burn without blisters?",
+    "back": "Superficial epidermal burn",
+    "explanation": "A superficial burn affects epidermis, is often red and painful, and does not form the typical dermal blister pattern.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=GRf53MkN_7Q"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.ameriburn.org/burn-care-team/resources/guidelines-for-burn-patient-referral"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-GRf53MkN_7Q-2-fc",
+    "lectureId": "GRf53MkN_7Q",
+    "front": "What vascular response contributes to superficial burn redness?",
+    "back": "Inflammatory vasodilation",
+    "explanation": "Superficial inflammatory hyperemia contributes to the red appearance of a minor burn.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=GRf53MkN_7Q"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.ameriburn.org/burn-care-team/resources/guidelines-for-burn-patient-referral"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-GRf53MkN_7Q-3-fc",
+    "lectureId": "GRf53MkN_7Q",
+    "front": "Are purely superficial burns counted in resuscitation TBSA?",
+    "back": "Exclude purely superficial burns from resuscitation TBSA",
+    "explanation": "Burn-area estimates used for major burn assessment count partial- and full-thickness injury, not simple superficial erythema.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=GRf53MkN_7Q"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.ameriburn.org/burn-care-team/resources/guidelines-for-burn-patient-referral"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-GRf53MkN_7Q-4-fc",
+    "lectureId": "GRf53MkN_7Q",
+    "front": "Why can a superficial burn regenerate its surface without a deep scar?",
+    "back": "Re-epithelialization from preserved viable epidermal sources",
+    "explanation": "Superficial injuries retain capacity for epithelial regeneration; deeper loss reduces this reserve.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=GRf53MkN_7Q"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.ameriburn.org/burn-care-team/resources/guidelines-for-burn-patient-referral"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-GRf53MkN_7Q-5-fc",
+    "lectureId": "GRf53MkN_7Q",
+    "front": "What first-aid principle avoids ice-related damage after a thermal burn?",
+    "back": "Cool the burn safely and assess severity",
+    "explanation": "Appropriate cool running water first aid and protection are used; ice and additional cold injury should be avoided.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=GRf53MkN_7Q"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.ameriburn.org/burn-care-team/resources/guidelines-for-burn-patient-referral"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-xRK6YWTL7C8-1-fc",
+    "lectureId": "xRK6YWTL7C8",
+    "front": "What depth is suggested by a moist pink painful blistered burn with blanching?",
+    "back": "Superficial partial-thickness burn",
+    "explanation": "A moist, pink, blistered and very painful wound with preserved blanching suggests superficial dermal involvement.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=xRK6YWTL7C8"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.ameriburn.org/burn-care-team/resources/guidelines-for-burn-patient-referral"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-xRK6YWTL7C8-2-fc",
+    "lectureId": "xRK6YWTL7C8",
+    "front": "What findings suggest a deep partial-thickness burn?",
+    "back": "Deep partial-thickness burn",
+    "explanation": "Deeper dermal injury may appear pale or mottled with reduced blanching and sensation and can require surgery.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=xRK6YWTL7C8"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.ameriburn.org/burn-care-team/resources/guidelines-for-burn-patient-referral"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-xRK6YWTL7C8-3-fc",
+    "lectureId": "xRK6YWTL7C8",
+    "front": "Do partial-thickness burns contribute to resuscitation TBSA?",
+    "back": "Include partial- and full-thickness areas in TBSA",
+    "explanation": "Dermal and deeper burns contribute to the burn area used for severity and resuscitation assessment.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=xRK6YWTL7C8"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.ameriburn.org/burn-care-team/resources/guidelines-for-burn-patient-referral"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-xRK6YWTL7C8-4-fc",
+    "lectureId": "xRK6YWTL7C8",
+    "front": "What preserved sources allow epithelial healing in partial-thickness burns?",
+    "back": "Re-epithelialization from preserved viable epidermal sources",
+    "explanation": "Superficial injuries retain capacity for epithelial regeneration; deeper loss reduces this reserve.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=xRK6YWTL7C8"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.ameriburn.org/burn-care-team/resources/guidelines-for-burn-patient-referral"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-xRK6YWTL7C8-5-fc",
+    "lectureId": "xRK6YWTL7C8",
+    "front": "Why can a small deep hand burn require burn-center consultation?",
+    "back": "Burn-center consultation for deep or functionally important burns",
+    "explanation": "Depth, location, extent and patient factors influence referral, not surface area alone.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=xRK6YWTL7C8"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.ameriburn.org/burn-care-team/resources/guidelines-for-burn-patient-referral"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-Vodezs_gHVg-1-fc",
+    "lectureId": "Vodezs_gHVg",
+    "front": "What depth is suggested by dry leathery insensate burned skin?",
+    "back": "Full-thickness burn",
+    "explanation": "Destruction of the full dermis produces a dry leathery wound that may be insensate centrally.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Vodezs_gHVg"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.ameriburn.org/burn-care-team/resources/guidelines-for-burn-patient-referral"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-Vodezs_gHVg-2-fc",
+    "lectureId": "Vodezs_gHVg",
+    "front": "Why can a full-thickness burn be less painful centrally?",
+    "back": "Pain intensity does not reliably measure burn depth",
+    "explanation": "Destruction of sensory endings can make a deeper area less painful than a superficial one.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Vodezs_gHVg"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.ameriburn.org/burn-care-team/resources/guidelines-for-burn-patient-referral"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-Vodezs_gHVg-3-fc",
+    "lectureId": "Vodezs_gHVg",
+    "front": "Why do substantial full-thickness burns often need surgical coverage?",
+    "back": "Specialist assessment for excision and coverage",
+    "explanation": "Full-thickness or sufficiently deep burns often need surgical wound management and coverage rather than reliance on spontaneous central epithelial regrowth.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Vodezs_gHVg"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.ameriburn.org/burn-care-team/resources/guidelines-for-burn-patient-referral"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-Vodezs_gHVg-4-fc",
+    "lectureId": "Vodezs_gHVg",
+    "front": "What danger arises from a constricting circumferential full-thickness burn?",
+    "back": "Urgent assessment of constricting circumferential eschar",
+    "explanation": "Rigid circumferential burns can compromise perfusion or ventilation and may require specialist release.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Vodezs_gHVg"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.ameriburn.org/burn-care-team/resources/guidelines-for-burn-patient-referral"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-Vodezs_gHVg-5-fc",
+    "lectureId": "Vodezs_gHVg",
+    "front": "Does a small surface area remove the need for consultation for a full-thickness burn?",
+    "back": "Burn-center consultation for deep or functionally important burns",
+    "explanation": "Depth, location, extent and patient factors influence referral, not surface area alone.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Vodezs_gHVg"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.ameriburn.org/burn-care-team/resources/guidelines-for-burn-patient-referral"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-A5nDUA9lUKQ-1-fc",
+    "lectureId": "A5nDUA9lUKQ",
+    "front": "What does fourth-degree burn terminology indicate?",
+    "back": "Burn extending into deeper structures",
+    "explanation": "Fourth-degree terminology describes extension beyond skin into tissue such as muscle, tendon or bone.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=A5nDUA9lUKQ"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.ameriburn.org/burn-care-team/resources/guidelines-for-burn-patient-referral"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-A5nDUA9lUKQ-2-fc",
+    "lectureId": "A5nDUA9lUKQ",
+    "front": "What must guide treatment planning for a burn extending into muscle or bone?",
+    "back": "Assess deep-tissue and limb viability",
+    "explanation": "Deep burns require evaluation of muscle, vessels, nerves and reconstructive possibilities; amputation is not inferred from the label alone.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=A5nDUA9lUKQ"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.ameriburn.org/burn-care-team/resources/guidelines-for-burn-patient-referral"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-A5nDUA9lUKQ-3-fc",
+    "lectureId": "A5nDUA9lUKQ",
+    "front": "Does little pain exclude a very deep burn?",
+    "back": "Pain intensity does not reliably measure burn depth",
+    "explanation": "Destruction of sensory endings can make a deeper area less painful than a superficial one.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=A5nDUA9lUKQ"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.ameriburn.org/burn-care-team/resources/guidelines-for-burn-patient-referral"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-A5nDUA9lUKQ-4-fc",
+    "lectureId": "A5nDUA9lUKQ",
+    "front": "What broad management approach is required for complex deep burn defects?",
+    "back": "Specialist assessment for excision and coverage",
+    "explanation": "Full-thickness or sufficiently deep burns often need surgical wound management and coverage rather than reliance on spontaneous central epithelial regrowth.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=A5nDUA9lUKQ"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.ameriburn.org/burn-care-team/resources/guidelines-for-burn-patient-referral"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-A5nDUA9lUKQ-5-fc",
+    "lectureId": "A5nDUA9lUKQ",
+    "front": "What long-term functional care is important after deep burns?",
+    "back": "Early coordinated rehabilitation and contracture prevention",
+    "explanation": "Positioning, therapy and scar management are important for function during prolonged burn recovery.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=A5nDUA9lUKQ"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.ameriburn.org/burn-care-team/resources/guidelines-for-burn-patient-referral"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-yh3ZU7Tq1yw-1-fc",
+    "lectureId": "yh3ZU7Tq1yw",
+    "front": "What percentage is one entire adult arm in the rule of nines?",
+    "back": "9% TBSA",
+    "explanation": "In the adult rule of nines, one entire arm accounts for approximately 9%.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=yh3ZU7Tq1yw"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.ameriburn.org/burn-care-team/resources/guidelines-for-burn-patient-referral"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-yh3ZU7Tq1yw-2-fc",
+    "lectureId": "yh3ZU7Tq1yw",
+    "front": "What percentage is the adult anterior trunk in the rule of nines?",
+    "back": "18% TBSA",
+    "explanation": "The adult anterior trunk accounts for approximately 18%.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=yh3ZU7Tq1yw"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.ameriburn.org/burn-care-team/resources/guidelines-for-burn-patient-referral"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-yh3ZU7Tq1yw-3-fc",
+    "lectureId": "yh3ZU7Tq1yw",
+    "front": "What burn-area chart accounts for age-related body proportions?",
+    "back": "Age-adjusted Lund-Browder assessment",
+    "explanation": "Children have different body proportions, so age-adjusted assessment is more appropriate than unmodified adult proportions.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=yh3ZU7Tq1yw"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.ameriburn.org/burn-care-team/resources/guidelines-for-burn-patient-referral"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-yh3ZU7Tq1yw-4-fc",
+    "lectureId": "yh3ZU7Tq1yw",
+    "front": "What area does the patient’s entire palmar hand including fingers approximate?",
+    "back": "About 1% using the patient’s entire palmar hand including fingers",
+    "explanation": "The entire palmar hand is approximately 1% TBSA; the palm alone is smaller.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=yh3ZU7Tq1yw"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.ameriburn.org/burn-care-team/resources/guidelines-for-burn-patient-referral"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-yh3ZU7Tq1yw-5-fc",
+    "lectureId": "yh3ZU7Tq1yw",
+    "front": "Which superficial component is excluded from clinically important burn TBSA?",
+    "back": "Exclude purely superficial burns from resuscitation TBSA",
+    "explanation": "Burn-area estimates used for major burn assessment count partial- and full-thickness injury, not simple superficial erythema.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=yh3ZU7Tq1yw"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.ameriburn.org/burn-care-team/resources/guidelines-for-burn-patient-referral"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-zkkSVcn982Y-1-fc",
+    "lectureId": "zkkSVcn982Y",
+    "front": "What is healing of directly approximated clean wound edges called?",
+    "back": "Primary intention",
+    "explanation": "Clean edges are approximated so healing occurs across a small tissue gap.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=zkkSVcn982Y"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-zkkSVcn982Y-2-fc",
+    "lectureId": "zkkSVcn982Y",
+    "front": "What is healing through granulation and contraction of an open defect called?",
+    "back": "Secondary intention",
+    "explanation": "An open defect heals through granulation, contraction and epithelialization.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=zkkSVcn982Y"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-zkkSVcn982Y-3-fc",
+    "lectureId": "zkkSVcn982Y",
+    "front": "What is planned closure after an initial period of open wound care called?",
+    "back": "Delayed primary closure",
+    "explanation": "A wound is initially left open and later closed after reassessment and appropriate wound care.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=zkkSVcn982Y"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-zkkSVcn982Y-4-fc",
+    "lectureId": "zkkSVcn982Y",
+    "front": "What tissue forms from fibroblasts and new capillaries during repair?",
+    "back": "Granulation tissue formation",
+    "explanation": "New capillaries and fibroblasts form the vascular connective tissue of the proliferative phase.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=zkkSVcn982Y"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-zkkSVcn982Y-5-fc",
+    "lectureId": "zkkSVcn982Y",
+    "front": "What phase reorganizes collagen and strength after initial wound closure?",
+    "back": "Collagen remodeling",
+    "explanation": "Later remodeling changes collagen organization and strength; healed tissue does not instantly regain normal tensile strength.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=zkkSVcn982Y"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-0PWRTjdBjBk-1-fc",
+    "lectureId": "0PWRTjdBjBk",
+    "front": "What scar extends beyond the original wound boundary?",
+    "back": "Keloid",
+    "explanation": "A keloid extends beyond the original wound boundaries and can recur after treatment.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=0PWRTjdBjBk"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-0PWRTjdBjBk-2-fc",
+    "lectureId": "0PWRTjdBjBk",
+    "front": "What raised scar remains within the original wound boundary?",
+    "back": "Hypertrophic scar",
+    "explanation": "A hypertrophic scar remains within the original wound boundaries and may regress over time.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=0PWRTjdBjBk"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-0PWRTjdBjBk-3-fc",
+    "lectureId": "0PWRTjdBjBk",
+    "front": "Can a hypertrophic scar flatten with maturation?",
+    "back": "Potential spontaneous flattening of hypertrophic scars",
+    "explanation": "Hypertrophic scars may improve with maturation, unlike the typical persistent extension of keloids.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=0PWRTjdBjBk"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-0PWRTjdBjBk-4-fc",
+    "lectureId": "0PWRTjdBjBk",
+    "front": "Why is excision alone often insufficient for a keloid?",
+    "back": "High recurrence risk after excision alone",
+    "explanation": "Keloid management often requires a combined strategy because simple excision can recur.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=0PWRTjdBjBk"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-0PWRTjdBjBk-5-fc",
+    "lectureId": "0PWRTjdBjBk",
+    "front": "What scar complication can restrict movement across a joint?",
+    "back": "Scar contracture limiting movement",
+    "explanation": "Scar shortening across a joint can restrict function and warrants assessment and rehabilitation.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=0PWRTjdBjBk"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-lnE6Ju2x7nM-1-fc",
+    "lectureId": "lnE6Ju2x7nM",
+    "front": "What tissue transfer initially lacks its own intact blood supply?",
+    "back": "Skin graft",
+    "explanation": "A graft is transferred without its own intact blood supply and initially depends on the recipient bed.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=lnE6Ju2x7nM"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.facs.org/media/buthal55/nonhealing_wounds.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-lnE6Ju2x7nM-2-fc",
+    "lectureId": "lnE6Ju2x7nM",
+    "front": "What tissue transfer retains or has its own blood supply restored?",
+    "back": "Tissue flap",
+    "explanation": "A flap retains or has surgically restored its own blood supply.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=lnE6Ju2x7nM"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.facs.org/media/buthal55/nonhealing_wounds.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-lnE6Ju2x7nM-3-fc",
+    "lectureId": "lnE6Ju2x7nM",
+    "front": "What recipient-bed feature is essential for skin-graft take?",
+    "back": "A viable vascular recipient bed",
+    "explanation": "Graft survival depends on contact with a suitable perfused bed and subsequent revascularization.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=lnE6Ju2x7nM"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.facs.org/media/buthal55/nonhealing_wounds.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-lnE6Ju2x7nM-4-fc",
+    "lectureId": "lnE6Ju2x7nM",
+    "front": "Why can a hematoma beneath a skin graft cause failure?",
+    "back": "Blood or fluid separating graft from bed",
+    "explanation": "A hematoma or seroma can prevent adherence and nutrient exchange, threatening graft take.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=lnE6Ju2x7nM"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.facs.org/media/buthal55/nonhealing_wounds.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-burns-wounds-lnE6Ju2x7nM-5-fc",
+    "lectureId": "lnE6Ju2x7nM",
+    "front": "What does a dark swollen postoperative flap suggest?",
+    "back": "Venous congestion of a flap",
+    "explanation": "A dark swollen flap with abnormal refill can indicate impaired venous drainage and needs urgent review.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=lnE6Ju2x7nM"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.facs.org/media/buthal55/nonhealing_wounds.pdf"
+      }
+    ]
+  }
+]

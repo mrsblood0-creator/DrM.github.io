@@ -1,0 +1,127 @@
+﻿{
+    "lectureId":  "-4D-qe2G79A",
+    "status":  "unreviewed-ocr",
+    "source":  "Windows OCR of low-resolution YouTube preview frames",
+    "frames":  [
+                   {
+                       "src":  "video-frames/-4D-qe2G79A-0.jpg",
+                       "seconds":  0,
+                       "text":  "Cephalosporins\nGenerations",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/-4D-qe2G79A-5.jpg",
+                       "seconds":  50,
+                       "text":  "CephöFosparin generations",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/-4D-qe2G79A-20.jpg",
+                       "seconds":  200,
+                       "text":  "First Generaltarj",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/-4D-qe2G79A-31.jpg",
+                       "seconds":  310,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/-4D-qe2G79A-45.jpg",
+                       "seconds":  450,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/-4D-qe2G79A-46.jpg",
+                       "seconds":  460,
+                       "text":  "SecondGeneretion",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/-4D-qe2G79A-63.jpg",
+                       "seconds":  630,
+                       "text":  "Second Generation",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/-4D-qe2G79A-75.jpg",
+                       "seconds":  750,
+                       "text":  "SecondGenev:atior1",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/-4D-qe2G79A-81.jpg",
+                       "seconds":  810,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/-4D-qe2G79A-83.jpg",
+                       "seconds":  830,
+                       "text":  "Thtrd bon",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/-4D-qe2G79A-98.jpg",
+                       "seconds":  980,
+                       "text":  "Third Gen_eratyon",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/-4D-qe2G79A-109.jpg",
+                       "seconds":  1090,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/-4D-qe2G79A-119.jpg",
+                       "seconds":  1190,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/-4D-qe2G79A-121.jpg",
+                       "seconds":  1210,
+                       "text":  "Faorlh_Genetdtian",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/-4D-qe2G79A-133.jpg",
+                       "seconds":  1330,
+                       "text":  "Fourth-Generetian",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/-4D-qe2G79A-141.jpg",
+                       "seconds":  1410,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/-4D-qe2G79A-142.jpg",
+                       "seconds":  1420,
+                       "text":  "Fift.h Generation",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/-4D-qe2G79A-154.jpg",
+                       "seconds":  1540,
+                       "text":  "Fifth Generation",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/-4D-qe2G79A-158.jpg",
+                       "seconds":  1580,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/-4D-qe2G79A-174.jpg",
+                       "seconds":  1740,
+                       "text":  "",
+                       "reviewed":  false
+                   }
+               ]
+}

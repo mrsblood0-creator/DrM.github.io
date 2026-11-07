@@ -1,0 +1,646 @@
+[
+  {
+    "id": "brQi0DrlKDI",
+    "title": "Cough Suppressants (Antitussives) Classification & Mechanism of Action",
+    "category": "Pharmacology",
+    "noteStatus": "Source presentation",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Cough suppressants"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "Dextromethorphan is a centrally acting nonopioid antitussive."
+      },
+      {
+        "type": "li",
+        "text": "Codeine has opioid effects and can depress respiration."
+      },
+      {
+        "type": "li",
+        "text": "Productive cough may serve an airway-clearance function, so suppression is not always appropriate."
+      },
+      {
+        "type": "li",
+        "text": "Medication interactions are important when dextromethorphan is combined with serotonergic agents."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": [
+      {
+        "title": "MedlinePlus — medicine reference index",
+        "url": "https://medlineplus.gov/druginformation.html"
+      }
+    ]
+  },
+  {
+    "id": "u8LiXyMe0pk",
+    "title": "Fibrinolytic Drugs (Thrombolytics): Mechanism of Action, Therapeutic Uses and Adverse Effects",
+    "category": "Pharmacology",
+    "noteStatus": "Source presentation",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Fibrinolytic medicines"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "Plasminogen activation produces plasmin and promotes fibrin breakdown."
+      },
+      {
+        "type": "li",
+        "text": "Alteplase is a tissue plasminogen activator used in selected thrombotic emergencies."
+      },
+      {
+        "type": "li",
+        "text": "Bleeding is the major serious adverse effect."
+      },
+      {
+        "type": "li",
+        "text": "Eligibility assessment must account for indication, timing, imaging, and contraindications."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": [
+      {
+        "title": "MedlinePlus — medicine reference index",
+        "url": "https://medlineplus.gov/druginformation.html"
+      }
+    ]
+  },
+  {
+    "id": "l81Mg1iU1hA",
+    "title": "Low Molecular Weight Heparin (LMWH): Mechanism of Action, Therapeutic Uses and Adverse Effects",
+    "category": "Pharmacology",
+    "noteStatus": "Source presentation",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Low molecular weight heparin"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "Antithrombin mediates the anticoagulant effect of low molecular weight heparin."
+      },
+      {
+        "type": "li",
+        "text": "Factor Xa inhibition predominates relative to thrombin inhibition in this class."
+      },
+      {
+        "type": "li",
+        "text": "Renal impairment can increase exposure to some low molecular weight heparins."
+      },
+      {
+        "type": "li",
+        "text": "Heparin-induced thrombocytopenia remains possible even though risk is lower than with unfractionated heparin."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": [
+      {
+        "title": "MedlinePlus — medicine reference index",
+        "url": "https://medlineplus.gov/druginformation.html"
+      }
+    ]
+  },
+  {
+    "id": "zCQD-v2pz_M",
+    "title": "Unfractionated Heparin vs Warfarin: A Full Comparison",
+    "category": "Pharmacology",
+    "noteStatus": "Source presentation",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Heparin versus warfarin"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "Unfractionated heparin enhances antithrombin-mediated inhibition of clotting enzymes."
+      },
+      {
+        "type": "li",
+        "text": "Warfarin interferes with vitamin K recycling and synthesis of vitamin K-dependent clotting factors."
+      },
+      {
+        "type": "li",
+        "text": "INR is used to monitor warfarin anticoagulation."
+      },
+      {
+        "type": "li",
+        "text": "Onset of action is faster with parenteral heparin than with warfarin."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": [
+      {
+        "title": "MedlinePlus — medicine reference index",
+        "url": "https://medlineplus.gov/druginformation.html"
+      },
+      {
+        "title": "DailyMed — warfarin",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=558b7a0d-5490-4c1b-802e-3ab3f1efe760"
+      }
+    ]
+  },
+  {
+    "id": "EwawYxqnlF8",
+    "title": "Wellbutrin (Bupropion) Side Effects & Why They Occur",
+    "category": "Pharmacology",
+    "noteStatus": "Source presentation",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Bupropion"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "Norepinephrine and dopamine reuptake inhibition contributes to bupropion activity."
+      },
+      {
+        "type": "li",
+        "text": "Insomnia and dry mouth are common adverse effects."
+      },
+      {
+        "type": "li",
+        "text": "Seizure risk increases with higher exposure and susceptible clinical conditions."
+      },
+      {
+        "type": "li",
+        "text": "Smoking cessation is one use of selected bupropion formulations."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": [
+      {
+        "title": "MedlinePlus — medicine reference index",
+        "url": "https://medlineplus.gov/druginformation.html"
+      }
+    ]
+  },
+  {
+    "id": "fQ5OQIDBqgI",
+    "title": "Zoloft (Sertraline) Side Effects with Explanation",
+    "category": "Pharmacology",
+    "noteStatus": "Source presentation",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Sertraline"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "Serotonin reuptake inhibition is the principal action of sertraline."
+      },
+      {
+        "type": "li",
+        "text": "Gastrointestinal upset and sexual dysfunction are recognized adverse effects."
+      },
+      {
+        "type": "li",
+        "text": "Serotonin syndrome may occur with interacting serotonergic medicines."
+      },
+      {
+        "type": "li",
+        "text": "Abrupt discontinuation can produce withdrawal symptoms after sustained treatment."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": [
+      {
+        "title": "MedlinePlus — medicine reference index",
+        "url": "https://medlineplus.gov/druginformation.html"
+      },
+      {
+        "title": "DailyMed — sertraline",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cbc2bd3b-03fc-47b9-91d1-8989ec90c7e6"
+      }
+    ]
+  },
+  {
+    "id": "lSLP81EqL8A",
+    "title": "Tofranil (Imipramine) Side Effects & Why They Occur",
+    "category": "Pharmacology",
+    "noteStatus": "Source presentation",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Imipramine"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "Tricyclic antidepressants inhibit monoamine reuptake and have multiple receptor effects."
+      },
+      {
+        "type": "li",
+        "text": "Antimuscarinic effects can cause dry mouth, urinary retention, and constipation."
+      },
+      {
+        "type": "li",
+        "text": "Orthostatic hypotension can result from alpha-adrenergic blockade."
+      },
+      {
+        "type": "li",
+        "text": "Cardiac sodium-channel blockade contributes to dangerous conduction abnormalities in overdose."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": [
+      {
+        "title": "MedlinePlus — medicine reference index",
+        "url": "https://medlineplus.gov/druginformation.html"
+      }
+    ]
+  },
+  {
+    "id": "-QQ0-cWZcM4",
+    "title": "Adderall (Amphetamine) Side Effects & Why They Occur",
+    "category": "Pharmacology",
+    "noteStatus": "Source presentation",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Amphetamine"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "Catecholamine signaling is increased by amphetamine."
+      },
+      {
+        "type": "li",
+        "text": "Appetite suppression and insomnia are common adverse effects."
+      },
+      {
+        "type": "li",
+        "text": "Blood pressure and heart rate can increase."
+      },
+      {
+        "type": "li",
+        "text": "Misuse potential is an important consideration in prescribing and monitoring."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": [
+      {
+        "title": "MedlinePlus — medicine reference index",
+        "url": "https://medlineplus.gov/druginformation.html"
+      }
+    ]
+  },
+  {
+    "id": "4IBLbpsvAMs",
+    "title": "Strattera (Atomoxetine) Side Effects & Why They Occur",
+    "category": "Pharmacology",
+    "noteStatus": "Source presentation",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Atomoxetine"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "Norepinephrine reuptake inhibition is the main action of atomoxetine."
+      },
+      {
+        "type": "li",
+        "text": "ADHD is a principal indication."
+      },
+      {
+        "type": "li",
+        "text": "Gastrointestinal symptoms and appetite reduction may occur."
+      },
+      {
+        "type": "li",
+        "text": "Heart rate and blood pressure should be considered during monitoring."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": [
+      {
+        "title": "MedlinePlus — medicine reference index",
+        "url": "https://medlineplus.gov/druginformation.html"
+      }
+    ]
+  },
+  {
+    "id": "22PhrOPHkR4",
+    "title": "3 Most Serious Clozapine Side Effects",
+    "category": "Pharmacology",
+    "noteStatus": "Source presentation",
+    "notes": [
+      {
+        "type": "li",
+        "text": "Famous trade names: Clozaril and Leponex"
+      },
+      {
+        "type": "li",
+        "text": "It is atypical antipsychotic medication (new, second generation) and the first atypical to be discovered"
+      },
+      {
+        "type": "li",
+        "text": "It is mainly used in treatment of schizophrenia and schizoaffective disorder in resistant cases"
+      },
+      {
+        "type": "li",
+        "text": "Clozapine was synthesized in 1958 by the Swiss pharmaceutical company Wander AG"
+      },
+      {
+        "type": "h2",
+        "text": "Pharmacokinetics"
+      },
+      {
+        "type": "li",
+        "text": "Available as oral formula only"
+      },
+      {
+        "type": "li",
+        "text": "It is well absorbed with bioavailability of 60% due to first pass metabolism"
+      },
+      {
+        "type": "li",
+        "text": "Metabolized extensively by the liver via CYP enzymes, especially CYP1A2 and excreted through urine and feces"
+      },
+      {
+        "type": "li",
+        "text": "Elimination half life is 14 hours"
+      },
+      {
+        "type": "h2",
+        "text": "Mechanism of action"
+      },
+      {
+        "type": "li",
+        "text": "clozapine antagonizes serotonin 5HT receptors and dopamine receptors"
+      },
+      {
+        "type": "li",
+        "text": "Serotonin antagonism makes clozapine good in managing the negative symptoms of schizophrenia, like social isolation, poverty of speech, lack of motivation and inability to feel pleasure"
+      },
+      {
+        "type": "li",
+        "text": "Antagonism of serotonin by this medication also lead to relief of some of the extrapyramidal side effects that occur as a result of dopamine antagonism"
+      },
+      {
+        "type": "li",
+        "text": "BUT serotonin antagonism lead to weight gain and metabolic changes as adverse effects with the use of this medication"
+      },
+      {
+        "type": "li",
+        "text": "Clozapine antagonizes dopamine but it has higher affinity to dopamine D4 receptors more than D2 receptors which lead to less extrapyramidal symptoms compared to other antipsychotics"
+      },
+      {
+        "type": "li",
+        "text": "Dopamine antagonism in the mesolimbic and mesocortical pathway which lead to relieving of the positive symptoms of schizophrenia"
+      },
+      {
+        "type": "li",
+        "text": "It also blocks dopamine in the tuberoinfundibular pathway but it has lower risk of hyperprolactinemia compared with other antipsychotics"
+      },
+      {
+        "type": "li",
+        "text": "It has anti histamine activity which lead to drowsiness"
+      },
+      {
+        "type": "li",
+        "text": "It also block muscarinic receptors including M1, 2, 3, 5; it is agonist at M4"
+      },
+      {
+        "type": "li",
+        "text": "It blocks alpha adrenergic receptors to some degree too"
+      },
+      {
+        "type": "h2",
+        "text": "Therapeutic uses"
+      },
+      {
+        "type": "li",
+        "text": "Use of clozapine in treatment of schizophrenia has shown better symptoms control and reduced risk of hospitalization and drug discontinuation but it is not used as a first line because it may lead to agranulocytosis and GIT hypomotility which may kill the patient (that will be discussed in the adverse effects part of this article)"
+      },
+      {
+        "type": "li",
+        "text": "It is used in treatment of schizophrenia and schizoaffective disorder in:"
+      },
+      {
+        "type": "li",
+        "text": "Patients who didn’t have adequate response to two other antipsychotic medications (resistant cases)"
+      },
+      {
+        "type": "li",
+        "text": "Patients who are unable to tolerate other antipsychotics due to extrapyramidal side effects"
+      },
+      {
+        "type": "li",
+        "text": "Patients who develop tardive dyskinesia while on some other antipsychotic medication"
+      },
+      {
+        "type": "li",
+        "text": "It is used in treatment of psychosis that occur as a side effect to Parkinson’s disease treatment"
+      },
+      {
+        "type": "li",
+        "text": "It is used for reducing risk of suicide in people with schizophrenia or schizoaffective disorder who has high suicide risk"
+      },
+      {
+        "type": "li",
+        "text": "Third line in treatment of manic phase of bipolar disorder (lithium being first line, other atypicals being second line)"
+      },
+      {
+        "type": "li",
+        "text": "According to FDA, max dose is 900 mg/day, average dose is 300 mg/day for women and 400 mg/day for men"
+      },
+      {
+        "type": "li",
+        "text": "Clozapine used as a second line because it may lead to agranulocytosis (agranulocytosis likely to be fatal) in the first year and a half of treatment, after that risk reduces, also because it lead to GIT hypomotility (surprisingly most common cause of death from this medication more than agranulocytosis even)"
+      },
+      {
+        "type": "li",
+        "text": "clozapine lead to bone marrow suppression and agranulocytosis (1% of cases) which is severe neutropenia less than 500 /mm"
+      },
+      {
+        "type": "li",
+        "text": "Risk factors for agranulocytosis are old age, female, concurrent tx with medications that cause same condition, monitor with CBC"
+      },
+      {
+        "type": "li",
+        "text": "It may lead to GIT hypomotility which may lead to severe constipation, fecal impaction, paralytic ileus, bowel obstruction, acute megacolon, ischemia or necrosis"
+      },
+      {
+        "type": "li",
+        "text": "It may lead to myocarditis (3% of cases) which is inflammation of the heart muscle, also fatal"
+      },
+      {
+        "type": "li",
+        "text": "Risk factors for myocarditis include rapid titration of the drug, concurrent use of SSRIs, illicit substance abuse"
+      },
+      {
+        "type": "li",
+        "text": "Most common adverse effect of clozapine is hypersalivation in 60% of the patients, clozapine is agonist in M4 which is highly expressed in salivary glands"
+      },
+      {
+        "type": "li",
+        "text": "Weight gain, high blood sugar levels due to serotonin antagonism"
+      },
+      {
+        "type": "li",
+        "text": "It also block alpha adrenergic receptors to some degree leading to postural hypotension and palpitation"
+      },
+      {
+        "type": "li",
+        "text": "Increased risk of death if used in patient with dementia related psychosis"
+      },
+      {
+        "type": "li",
+        "text": "Extrapyramidal symptoms are not common with this medication because of its anticholinergic effects and serotonin antagonism and its higher affinity for dopamine D4 more than D2 receptors"
+      },
+      {
+        "type": "li",
+        "text": "Increase risk of seizures in seizure disorders patients"
+      },
+      {
+        "type": "li",
+        "text": "Anticholinergic side effects: Elevated temperature, sedation, constipation and urinary retention"
+      },
+      {
+        "type": "li",
+        "text": "Periorbital edema (rare)"
+      },
+      {
+        "type": "h2",
+        "text": "Clozapine withdrawal"
+      },
+      {
+        "type": "li",
+        "text": "Abrupt withdrawal of clozapine lead to cholinergic rebound effects, those include"
+      },
+      {
+        "type": "h2",
+        "text": "Drug interactions"
+      },
+      {
+        "type": "li",
+        "text": "Fluvoxamine (SSRI), theophylline, ciprofloxacin all inhibit metabolism of the medication leading to increased blood levels and overdose"
+      },
+      {
+        "type": "li",
+        "text": "Carbamazepine increase metabolism of this medication leading to low plasma levels and treatment failure and it also increase risk of agranulocytosis"
+      },
+      {
+        "type": "h2",
+        "text": "Clozapine overdose"
+      },
+      {
+        "type": "li",
+        "text": "Symptoms of overdose include sedation, confusion, tachycardia, seizures and ataxia"
+      }
+    ],
+    "references": [
+      {
+        "title": "FDA — information on clozapine and ANC monitoring",
+        "url": "https://www.fda.gov/drugs/risk-evaluation-and-mitigation-strategies-rems/information-clozapine"
+      },
+      {
+        "title": "DailyMed — clozapine gastrointestinal hypomotility warning",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=61fe53d5-ed5c-4e45-9189-709d08d386cb&type=display"
+      }
+    ]
+  }
+]

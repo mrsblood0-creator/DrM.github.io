@@ -1,0 +1,1398 @@
+[
+  {
+    "id": "Ubq4Q7VcA4Y",
+    "title": "Valproic Acid Pharmacology: Mechanism of Action, Therapeutic Uses and Adverse Effects",
+    "category": "Pharmacology",
+    "noteStatus": "Video frames + study guide",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Valproate"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "Broad-spectrum antiseizure activity allows use across several seizure types."
+      },
+      {
+        "type": "li",
+        "text": "Hepatotoxicity and pancreatitis are serious adverse effects."
+      },
+      {
+        "type": "li",
+        "text": "Teratogenicity is a major concern requiring specialist risk assessment."
+      },
+      {
+        "type": "li",
+        "text": "Thrombocytopenia can occur and is relevant to monitoring."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": [
+      {
+        "title": "MedlinePlus — medicine reference index",
+        "url": "https://medlineplus.gov/druginformation.html"
+      }
+    ]
+  },
+  {
+    "id": "XwHpK7-kQuQ",
+    "title": "Carbamazepine Pharmacology: Mechanism of Action, Therapeutic Uses and Adverse Effects",
+    "category": "Pharmacology",
+    "noteStatus": "Video frames + study guide",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Carbamazepine"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "Sodium-channel blockade reduces repetitive neuronal firing."
+      },
+      {
+        "type": "li",
+        "text": "Enzyme induction can lower concentrations of interacting medicines."
+      },
+      {
+        "type": "li",
+        "text": "Hyponatremia is a recognized adverse effect."
+      },
+      {
+        "type": "li",
+        "text": "Serious skin reactions have genetic associations that influence screening in relevant populations."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": [
+      {
+        "title": "MedlinePlus — medicine reference index",
+        "url": "https://medlineplus.gov/druginformation.html"
+      }
+    ]
+  },
+  {
+    "id": "cOUIUnntEc8",
+    "title": "Phenytoin Pharmacology: Pharmacokinetics, Mechanism of Action, Therapeutic Uses and Adverse Effects",
+    "category": "Pharmacology",
+    "noteStatus": "Video frames + study guide",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Antiepileptic drugs classification"
+      },
+      {
+        "type": "li",
+        "text": "Aka Diphenyl Hydantoin, famous trade name: Dilantin"
+      },
+      {
+        "type": "li",
+        "text": "It is a first generation antiepileptic Drug that is used in management of seizures and epilepsy"
+      },
+      {
+        "type": "li",
+        "text": "Most famous and the oldest nonsedating antiepileptic drug"
+      },
+      {
+        "type": "li",
+        "text": "Phenytoin first synthesized by German chemist Heinrich Biltz in 1908"
+      },
+      {
+        "type": "h2",
+        "text": "Pharmacokinetics"
+      },
+      {
+        "type": "li",
+        "text": "Phenytoin is available is oral formula and IV formula, “phenytoin” is not given intravenously because it may lead to purple glove syndrome which purple discoloration accompanied by pain and edema distal to the site of injection"
+      },
+      {
+        "type": "li",
+        "text": "Fos phenytoin is a pro drug to phenytoin that can be given IV with less risk for purple glove syndrome because it is more water soluble"
+      },
+      {
+        "type": "li",
+        "text": "Absorption of the oral formulas is complete"
+      },
+      {
+        "type": "li",
+        "text": "Distribution: phenytoin is highly bound to plasma proteins by 90% and prone to displacement by other drugs that compete for the binding to the plasma proteins (e.g. valproic acid, and warfarin), and by pathologies where there is low serum albumin => displacement lead to toxicity"
+      },
+      {
+        "type": "li",
+        "text": "Phenytoin is metabolized by CYP2C9 & CYP2C19 to inactive metabolite excreted in urine, at therapeutic doses it follows zero order kinetics because the liver reach the maximum capacity to metabolize the drug"
+      },
+      {
+        "type": "li",
+        "text": "Therapeutic window is between 10 and 20 mcg/ml (narrow) and Half life is around 24 hours"
+      },
+      {
+        "type": "li",
+        "text": "Phenytoin is CYP inducer, and decrease the blood levels of many other antiepileptic drugs"
+      },
+      {
+        "type": "h2",
+        "text": "Mechanism of action"
+      },
+      {
+        "type": "li",
+        "text": "Blocks voltage gated Na+ channels in the brain and heart"
+      },
+      {
+        "type": "li",
+        "text": "It is classified as antiarrhythmic drug class 1"
+      },
+      {
+        "type": "h2",
+        "text": "Therapeutic uses"
+      },
+      {
+        "type": "li",
+        "text": "Used in prevention of focal onset seizures, generalized onset Tonic clonic seizures and in treatment of status epilepticus"
+      },
+      {
+        "type": "li",
+        "text": "Phenytoin may worsen other types of seizure like absence seizures, juvenile myoclonic seizures and Dravet’s epilepsy"
+      },
+      {
+        "type": "li",
+        "text": "Previously it was used as antiarrhythmic drug and classified as Class I antiarrhythmic drugs"
+      },
+      {
+        "type": "li",
+        "text": "Liver: microsomal enzyme induction"
+      },
+      {
+        "type": "li",
+        "text": "Blood: megaloblastic anemia (due to increase folic acid metabolism)"
+      },
+      {
+        "type": "li",
+        "text": "Gingival hyperplasia and Hirsutism occur to some degree in most patients"
+      },
+      {
+        "type": "li",
+        "text": "Lymphadenopathy and hypersensitivity reactions are rare"
+      },
+      {
+        "type": "li",
+        "text": "With long term use result in Osteomalacia due to abnormalities in vit D metabolism"
+      },
+      {
+        "type": "li",
+        "text": "With long term use there is coarsening of facial features and mild peripheral neuropathy"
+      },
+      {
+        "type": "li",
+        "text": "Pregnancy: teratogenic lead to craniofacial anomalies (fetal hydantoin syndrome) and neural tube defects (spina bifida)"
+      },
+      {
+        "type": "h2",
+        "text": "Fetal hydantoin syndrome"
+      },
+      {
+        "type": "li",
+        "text": "Intrauterine growth restriction"
+      },
+      {
+        "type": "li",
+        "text": "Intellectual difficulty"
+      },
+      {
+        "type": "li",
+        "text": "Hypoplastic nails and distal phalanges"
+      },
+      {
+        "type": "li",
+        "text": "Heart defects: ASD, VSD, PDA …"
+      },
+      {
+        "type": "h2",
+        "text": "Phenytoin toxicity"
+      },
+      {
+        "type": "li",
+        "text": "Early signs of phenytoin reaching therapeutic levels are nystagmus and loss of smoothness of eye movements and neither of those is indication for decreasing dose"
+      },
+      {
+        "type": "li",
+        "text": "Once therapeutic dose exceeded then diplopia and ataxia develop and those require dose adjustment to be resolved"
+      },
+      {
+        "type": "li",
+        "text": "With higher doses confusion, lethargy and coma develop"
+      },
+      {
+        "type": "li",
+        "text": "Rapid infusion of intravenous phenytoin lead to bradycardia, hypotension and asystole, care must be taken to administer IV phenytoin with a rate slower than 50 mg/ minute"
+      }
+    ],
+    "references": [
+      {
+        "title": "MedlinePlus — medicine reference index",
+        "url": "https://medlineplus.gov/druginformation.html"
+      },
+      {
+        "title": "DailyMed — phenytoin sodium",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/getFile.cfm?setid=df0bf42b-ce9a-42c3-8c24-46f1ea3bd214"
+      }
+    ]
+  },
+  {
+    "id": "rtjRDUCv7DE",
+    "title": "Suvorexant Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+    "category": "Pharmacology",
+    "noteStatus": "Video frames + study guide",
+    "notes": [
+      {
+        "type": "li",
+        "text": "Famous trade name: Belsomra"
+      },
+      {
+        "type": "li",
+        "text": "It was first synthesized in 2006"
+      },
+      {
+        "type": "li",
+        "text": "Suvorexant is an orexin receptor antagonist that is used in treatment of insomnia"
+      },
+      {
+        "type": "li",
+        "text": "Orexin 1 and 2 are peptides which are available in some neurons in the hypothalamus and their function is promote wakefulness"
+      },
+      {
+        "type": "li",
+        "text": "When there is higher level of orexin, those neurons get activated to keep the body awake, but when their levels falls then this lead to sleep"
+      },
+      {
+        "type": "li",
+        "text": "Orexin receptor antagonists (suvorexant) work by antagonizing orexin so the body gets to sleep"
+      },
+      {
+        "type": "li",
+        "text": "Suvorexant work by antagonizing both orexin 1 and 2 receptors"
+      },
+      {
+        "type": "h2",
+        "text": "Therapeutic uses"
+      },
+      {
+        "type": "li",
+        "text": "Suvorexant is FDA approved for treatment of sleep onset and sleep maintenance insomnia"
+      },
+      {
+        "type": "li",
+        "text": "Next day somnolence similar to narcolepsy Narcolepsy is a disease that is characterized by loss of the orexin neurons leading to day time sleepiness, when antagonizing orexin, similar effect to narcolepsy happen"
+      },
+      {
+        "type": "li",
+        "text": "Headache, dizziness, abnormal dreams"
+      },
+      {
+        "type": "li",
+        "text": "Rare: Sleep paralysis, hallucinations, complex sleep behaviors and suicidal ideation Tolerance and dependence doesn’t occur with suvorexant"
+      },
+      {
+        "type": "h2",
+        "text": "Contraindications"
+      },
+      {
+        "type": "li",
+        "text": "Suvorexant is contraindicated in people with narcolepsy"
+      },
+      {
+        "type": "h2",
+        "text": "Pharmacokinetics"
+      },
+      {
+        "type": "li",
+        "text": "Available as oral formula only"
+      },
+      {
+        "type": "li",
+        "text": "Absorption is good with bioavailability of 82%"
+      },
+      {
+        "type": "li",
+        "text": "It is metabolized by CYP3A4 enzymes in the liver, and it is liable to be affected by CYP3A4 inducers and inhibitors"
+      },
+      {
+        "type": "li",
+        "text": "Elimination half life is around 12 hours"
+      },
+      {
+        "type": "li",
+        "text": "Excretion: 60% through bile and the rest in urine"
+      }
+    ],
+    "references": [
+      {
+        "title": "MedlinePlus — medicine reference index",
+        "url": "https://medlineplus.gov/druginformation.html"
+      }
+    ]
+  },
+  {
+    "id": "m9bhT4zjh3I",
+    "title": "Melatonin for Sleep: Mechanism of Action & Side Effects",
+    "category": "Pharmacology",
+    "noteStatus": "Video frames + study guide",
+    "notes": [
+      {
+        "type": "li",
+        "text": "Melatonin is a hormone that is produced by the pineal gland in the brain and its main function is related to regulating sleep- wake cycle and circadian rhythm"
+      },
+      {
+        "type": "li",
+        "text": "Darkness triggers melatonin production, which when secreted gives hypnotic effect (sleep effect), light decrease production of the hormone"
+      },
+      {
+        "type": "li",
+        "text": "Insomnia became problematic when artificial light was discovered, artificial light decreased melatonin levels"
+      },
+      {
+        "type": "li",
+        "text": "In the early 2000s, comes the idea of using this hormone as a medication or a supplement to treat insomnia"
+      },
+      {
+        "type": "h2",
+        "text": "Therapeutic Uses"
+      },
+      {
+        "type": "li",
+        "text": "Melatonin is used as a supplement for treatment of insomnia and improving sleep"
+      },
+      {
+        "type": "li",
+        "text": "It is also used to overcome jet lag"
+      },
+      {
+        "type": "li",
+        "text": "REM sleep behavior disorders"
+      },
+      {
+        "type": "h2",
+        "text": "Mechanism of action"
+      },
+      {
+        "type": "li",
+        "text": "Melatonin act as agonist on melatonin receptors including MT1, MT2 in the hypothalamus to mediate sleep and regulates circadian rhythm"
+      },
+      {
+        "type": "h2",
+        "text": "Pharmacokinetics"
+      },
+      {
+        "type": "li",
+        "text": "Available as oral formulas only"
+      },
+      {
+        "type": "li",
+        "text": "Good absorption with bioavailability of 2- 50%"
+      },
+      {
+        "type": "li",
+        "text": "Distribution: melatonin is bound to plasma proteins by 60%"
+      },
+      {
+        "type": "li",
+        "text": "It is metabolized by CYP enzymes in the liver and it is liable to be affected by CYP inducers and inhibitors"
+      },
+      {
+        "type": "li",
+        "text": "Elimination: 90% eliminated through urine and the rest in bile and elimination half life is about 30 minutes"
+      },
+      {
+        "type": "li",
+        "text": "Exacerbated insomnia"
+      },
+      {
+        "type": "li",
+        "text": "Increased weight"
+      },
+      {
+        "type": "li",
+        "text": "Abnormal liver function test"
+      },
+      {
+        "type": "h2",
+        "text": "Contraindications"
+      },
+      {
+        "type": "li",
+        "text": "It is contraindicated in Previous hypersensitivity reactions"
+      },
+      {
+        "type": "li",
+        "text": "It is not recommended in autoimmune diseases, pregnancy, breastfeeding and liver diseases"
+      }
+    ],
+    "references": [
+      {
+        "title": "MedlinePlus — medicine reference index",
+        "url": "https://medlineplus.gov/druginformation.html"
+      }
+    ]
+  },
+  {
+    "id": "1rxyECFjZ68",
+    "title": "Buspirone Pharmacology: Mechanism of Action, Therapeutic Uses & Side Effects",
+    "category": "Pharmacology",
+    "noteStatus": "Video frames + study guide",
+    "notes": [
+      {
+        "type": "li",
+        "text": "Famous trade name is Buspar."
+      },
+      {
+        "type": "li",
+        "text": "Buspirone is a selective anxiolytic drug that is mainly used in treatment of anxiety disorders."
+      },
+      {
+        "type": "li",
+        "text": "Buspirone is included in azapirone drug class; azapirones are a collection of anxiolytics, antidepressants, and antipsychotic drugs."
+      },
+      {
+        "type": "li",
+        "text": "It has a different mechanism of action and a lower side effects profile than the other anxiolytics (e.g. benzodiazepines)."
+      },
+      {
+        "type": "li",
+        "text": "It was synthesized in 1968."
+      },
+      {
+        "type": "h2",
+        "text": "Pharmacokinetics"
+      },
+      {
+        "type": "li",
+        "text": "Buspirone is available as oral formulas only."
+      },
+      {
+        "type": "li",
+        "text": "Absorption is rapid but bioavailability is only 4% due to extensive first pass metabolism; bioavailability gets better if buspirone is taken with food."
+      },
+      {
+        "type": "li",
+        "text": "Distribution: buspirone is highly protein bound by 86% and distributes to most body tissues including CNS where it has its action."
+      },
+      {
+        "type": "li",
+        "text": "Metabolized primarily by oxidation by CYP3A4 and one of its metabolites is active; buspirone getting metabolized by CYP means it is liable to be affected by other drugs that induce or inhibit CYP enzymes."
+      },
+      {
+        "type": "li",
+        "text": "Excretion through urine by 60% and bile by 40%; elimination half life is around 3 hours."
+      },
+      {
+        "type": "h2",
+        "text": "Mechanism of Action"
+      },
+      {
+        "type": "li",
+        "text": "Not related to GABA unlike the other anxiolytics like benzodiazepines."
+      },
+      {
+        "type": "li",
+        "text": "Buspirone works as a partial agonist on serotonin receptors 5HT1a and 5HT2; it also works as a weak antagonist on dopamine D2 receptors."
+      },
+      {
+        "type": "li",
+        "text": "Activating serotonin receptors leads to increased serotonergic activity in the amygdala and other parts of the brain &rarr; relief of anxiety."
+      },
+      {
+        "type": "li",
+        "text": "Weak antagonism of Dopamine D2 receptors leads to attenuation of the side effects of Parkinson’s disease therapy."
+      },
+      {
+        "type": "h2",
+        "text": "Pharmacologic Effects"
+      },
+      {
+        "type": "li",
+        "text": "Selective anxiolytic."
+      },
+      {
+        "type": "li",
+        "text": "It doesn’t lead to sedative, hypnotic or euphoric effects unlike benzodiazepines."
+      },
+      {
+        "type": "h2",
+        "text": "FDA Approved Therapeutic Uses"
+      },
+      {
+        "type": "li",
+        "text": "It is used in treatment of anxiety disorders."
+      },
+      {
+        "type": "li",
+        "text": "Buspirone is used as a second line in treatment of generalized anxiety disorder (after SSRI which are the first line)."
+      },
+      {
+        "type": "li",
+        "text": "There is no risk for dependence or tolerance with buspirone, that makes it better than benzodiazepines and barbiturates for treatment of anxiety."
+      },
+      {
+        "type": "li",
+        "text": "The anxiolytic effects of buspirone may take 3-4 weeks to reach full clinical effect, making the drug unsuitable for management of acute anxiety."
+      },
+      {
+        "type": "h2",
+        "text": "Off Label Therapeutic Uses"
+      },
+      {
+        "type": "li",
+        "text": "Buspirone is used for treatment of depression."
+      },
+      {
+        "type": "li",
+        "text": "In treatment of hypoactive sexual desire disorder in women."
+      },
+      {
+        "type": "li",
+        "text": "CNS: abnormal dreams, ataxia, confusion, drowsiness, headache, paresthesia, akathisia (rare)."
+      },
+      {
+        "type": "li",
+        "text": "Nausea, diarrhea."
+      },
+      {
+        "type": "li",
+        "text": "Pain and weakness."
+      },
+      {
+        "type": "li",
+        "text": "It may lead to elevated liver enzymes."
+      },
+      {
+        "type": "li",
+        "text": "There is no liability for tolerance or drug dependence with buspirone."
+      },
+      {
+        "type": "li",
+        "text": "Serotonin syndrome is a possible adverse effect because buspirone increases serotonin levels, and serotonin syndrome is much more possible if buspirone is combined with other medications that increase serotonin in the brain (e.g. MAOI)."
+      },
+      {
+        "type": "h2",
+        "text": "Serotonin Syndrome"
+      },
+      {
+        "type": "li",
+        "text": "Is a set of symptoms that occur with use of buspirone and other serotonergic drugs due to increased serotonin level in CNS."
+      },
+      {
+        "type": "li",
+        "text": "Symptoms include high BP, tachycardia, fever, agitation, hyperreflexia, tremor, sweating, mydriasis and diarrhea."
+      },
+      {
+        "type": "li",
+        "text": "Those symptoms range from mild to severe."
+      },
+      {
+        "type": "li",
+        "text": "Complications include seizures and rhabdomyolysis."
+      },
+      {
+        "type": "h2",
+        "text": "Contraindications"
+      },
+      {
+        "type": "li",
+        "text": "History of hypersensitivity reactions to buspirone."
+      },
+      {
+        "type": "li",
+        "text": "Avoid combining with MAOI or other drugs that inhibit MAO (e.g. linezolid) because of risk of serotonin syndrome."
+      },
+      {
+        "type": "li",
+        "text": "Buspirone overdose is rare."
+      },
+      {
+        "type": "li",
+        "text": "Patient presents with nausea, vomiting, dizziness, miosis and gastric distress."
+      },
+      {
+        "type": "li",
+        "text": "Symptomatic management."
+      }
+    ],
+    "references": [
+      {
+        "title": "MedlinePlus — medicine reference index",
+        "url": "https://medlineplus.gov/druginformation.html"
+      }
+    ]
+  },
+  {
+    "id": "kqtm_xEGY5c",
+    "title": "Z Drugs Pharmacology: Zolpidem , Eszopiclone, Zaleplon All Explained",
+    "category": "Pharmacology",
+    "noteStatus": "Video frames + study guide",
+    "notes": [
+      {
+        "type": "li",
+        "text": "Z drugs are classified as hypnotic drugs that are used in treatment of insomnia and anxiety"
+      },
+      {
+        "type": "li",
+        "text": "These medications are referred to as Z drugs because most (not all) of their names start with Z letter, and they also referred to as non benzodiazepines"
+      },
+      {
+        "type": "li",
+        "text": "Z drugs discovered in the 1990s"
+      },
+      {
+        "type": "p",
+        "text": "There are a lot of these medications, and those are the most commonly used:"
+      },
+      {
+        "type": "li",
+        "text": "Zolpidem: 5 hours duration of action"
+      },
+      {
+        "type": "li",
+        "text": "Zaleplon: 3 hour duration of action"
+      },
+      {
+        "type": "li",
+        "text": "Eszopiclone: 6 hour duration of action"
+      },
+      {
+        "type": "h2",
+        "text": "Pharmacokinetics"
+      },
+      {
+        "type": "li",
+        "text": "They are available in oral formulas only"
+      },
+      {
+        "type": "li",
+        "text": "They all have good absorption"
+      },
+      {
+        "type": "li",
+        "text": "Metabolized by oxidation via CYP450 enzymes in the liver and they are affected by medications that induce or inhibit the CYP enzymes"
+      },
+      {
+        "type": "li",
+        "text": "Excreted renally"
+      },
+      {
+        "type": "h2",
+        "text": "Mechanism of Action"
+      },
+      {
+        "type": "li",
+        "text": "Z drugs work on GABA A receptors in the CNS, same with the barbiturates and benzodiazepines"
+      },
+      {
+        "type": "li",
+        "text": "GABA receptors composed of five subunits and they are the chief inhibitory receptors in the CNS"
+      },
+      {
+        "type": "li",
+        "text": "GABA receptors are normally activated by GABA neurotransmitter (gamma aminobutyric acid), GABA bind into one of the receptor subunits to activate it"
+      },
+      {
+        "type": "li",
+        "text": "Activation of the receptor lead to the opening of the ion channel that allows chloride ions to pass through it leading to reduction in neuronal excitability and inhibition of nerve transmission => CNS inhibition"
+      },
+      {
+        "type": "li",
+        "text": "Z drugs bind into GABA A receptors to enhance its action, most of them bind to the alpha subunit of the GABA receptors"
+      },
+      {
+        "type": "li",
+        "text": "Z drugs increase the frequency of the opening of chloride channels in GABA A receptors leading to more chloride flow through these receptors => hyperpolarization and CNS depression"
+      },
+      {
+        "type": "h2",
+        "text": "Pharmacologic Effects"
+      },
+      {
+        "type": "li",
+        "text": "They work only as anxiolytic and hypnotics"
+      },
+      {
+        "type": "li",
+        "text": "They lead to anterograde amnesia"
+      },
+      {
+        "type": "li",
+        "text": "They don’t work as anticonvulsant and they have no muscle relaxation effects unlike benzodiazepines and barbiturates"
+      },
+      {
+        "type": "h2",
+        "text": "Therapeutic Uses"
+      },
+      {
+        "type": "li",
+        "text": "They are used in treatment of insomnia"
+      },
+      {
+        "type": "li",
+        "text": "They have quick action and short half life in comparison with benzodiazepines, that is why they are preferred over benzos"
+      },
+      {
+        "type": "p",
+        "text": "Z drugs are not safer than benzodiazepines, they almost carry the same risks but in a mild way:"
+      },
+      {
+        "type": "li",
+        "text": "They lead to Tolerance but it is slower to develop in comparison to benzodiazepines and barbiturates"
+      },
+      {
+        "type": "li",
+        "text": "They also lead to physical dependence, and if they are used continuously for > 4 weeks, then they shouldn’t be withdrawn abruptly due to the possibility of withdrawal effects"
+      },
+      {
+        "type": "li",
+        "text": "They produce some amnesia during the drug action"
+      },
+      {
+        "type": "li",
+        "text": "Z drugs may produce withdrawal anxiety"
+      },
+      {
+        "type": "li",
+        "text": "Rarely they may lead to hallucinations or dissociation disorders"
+      },
+      {
+        "type": "li",
+        "text": "With these medications, there is Increased risk of depression, increased risk of falls and fractures"
+      },
+      {
+        "type": "li",
+        "text": "Toxicity with these medications is rare"
+      },
+      {
+        "type": "li",
+        "text": "Patient unconscious with shallow breathing"
+      },
+      {
+        "type": "li",
+        "text": "Management of the airway might be needed"
+      },
+      {
+        "type": "li",
+        "text": "Flumazenil is antidote to z drugs, also to benzodiazepines"
+      },
+      {
+        "type": "p",
+        "text": "&copy; 2025 Dr M. All Rights Reserved."
+      }
+    ],
+    "references": [
+      {
+        "title": "MedlinePlus — medicine reference index",
+        "url": "https://medlineplus.gov/druginformation.html"
+      }
+    ]
+  },
+  {
+    "id": "fCd7uzoqjlM",
+    "title": "Benzodiazepines Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+    "category": "Pharmacology",
+    "noteStatus": "Video frames + study guide",
+    "notes": [
+      {
+        "type": "li",
+        "text": "Benzodiazepines are sedative hypnotic drugs. Other sedative hypnotics include barbiturates, Z-drugs, and other hypnotics."
+      },
+      {
+        "type": "li",
+        "text": "They largely replaced barbiturates in the treatment of anxiety disorders, insomnia, and seizures because they are safer and more effective."
+      },
+      {
+        "type": "li",
+        "text": "Chlordiazepoxide was the first benzodiazepine, discovered in 1955 by chemist Leo Sternbach."
+      },
+      {
+        "type": "h2",
+        "text": "Sedative and Hypnotic Effects"
+      },
+      {
+        "type": "li",
+        "text": "Sedative effect: reduction in CNS activity, leading to reduced anxiety and a calming effect."
+      },
+      {
+        "type": "li",
+        "text": "Hypnotic effect: further reduction in CNS activity, leading to drowsiness and sleep."
+      },
+      {
+        "type": "li",
+        "text": "Benzodiazepines can achieve both effects depending on the dose."
+      },
+      {
+        "type": "h2",
+        "text": "Benzodiazepines Classification"
+      },
+      {
+        "type": "h2",
+        "text": "Pharmacokinetics"
+      },
+      {
+        "type": "li",
+        "text": "Absorption: Oral formulations are well absorbed with good bioavailability."
+      },
+      {
+        "type": "li",
+        "text": "Distribution: Highly lipid soluble, distribute to most body tissues including the brain, then rapidly redistribute to muscle and fat, decreasing plasma and brain concentrations. Redistribution terminates central effects."
+      },
+      {
+        "type": "li",
+        "text": "Metabolism: Mainly in the liver by oxidation into active metabolites and conjugation with glucuronic acid to form inactive metabolites. Lorazepam undergoes conjugation directly without oxidation."
+      },
+      {
+        "type": "li",
+        "text": "In liver disease, old age, and with microsomal enzyme inhibitors, oxidation is greatly reduced while conjugation is less affected. Lorazepam is preferred in these cases."
+      },
+      {
+        "type": "li",
+        "text": "Excretion: Renal."
+      },
+      {
+        "type": "h2",
+        "text": "Mechanism of Action"
+      },
+      {
+        "type": "li",
+        "text": "Benzodiazepines act on GABA A receptors in the CNS (like barbiturates and Z-drugs)."
+      },
+      {
+        "type": "li",
+        "text": "GABA receptors are pentameric (five subunits) and are the chief inhibitory receptors in the CNS."
+      },
+      {
+        "type": "li",
+        "text": "Normally activated by GABA neurotransmitter, leading to opening of chloride channels, reducing neuronal excitability and inhibiting nerve transmission (CNS inhibition)."
+      },
+      {
+        "type": "li",
+        "text": "Benzodiazepines enhance GABA action by interacting with the alpha and gamma subunits of GABA A receptors, increasing chloride ion flow, resulting in hyperpolarization and CNS depression."
+      },
+      {
+        "type": "li",
+        "text": "Benzodiazepines increase the frequency of chloride channel opening in GABA A receptors, but only in the presence of GABA. If GABA is absent, benzodiazepines have no effect (unlike barbiturates, which work even if GABA is absent)."
+      },
+      {
+        "type": "h2",
+        "text": "Pharmacologic Effects"
+      },
+      {
+        "type": "li",
+        "text": "Antianxiety effect at small doses."
+      },
+      {
+        "type": "li",
+        "text": "Sedative and hypnotic effects at larger doses."
+      },
+      {
+        "type": "li",
+        "text": "Anesthetic effect with midazolam IV."
+      },
+      {
+        "type": "li",
+        "text": "Euphoria, hallucinations, dizziness, and paresthesia."
+      },
+      {
+        "type": "li",
+        "text": "Anticonvulsant effect (clonazepam for absence seizures)."
+      },
+      {
+        "type": "li",
+        "text": "Anterograde amnesia: inability to remember events during drug action."
+      },
+      {
+        "type": "li",
+        "text": "Muscle relaxation."
+      },
+      {
+        "type": "h2",
+        "text": "Therapeutic Uses"
+      },
+      {
+        "type": "li",
+        "text": "First line for cessation of seizure activity and status epilepticus in emergency departments (especially midazolam, lorazepam, diazepam)."
+      },
+      {
+        "type": "li",
+        "text": "Short-term management of generalized anxiety disorder, panic attacks, and some phobias (SSRIs are used for long-term management)."
+      },
+      {
+        "type": "li",
+        "text": "Treatment of insomnia (second line after Z-drugs)."
+      },
+      {
+        "type": "li",
+        "text": "Clonazepam for myoclonic and absence seizures."
+      },
+      {
+        "type": "li",
+        "text": "Short surgical procedures."
+      },
+      {
+        "type": "li",
+        "text": "Safe and effective for short-term use only (< 6 weeks); long-term use leads to tolerance, dependence, and cognitive impairment."
+      },
+      {
+        "type": "li",
+        "text": "Tolerance and physical dependence (decreased GABA sensitivity, increased excitatory transmitters such as NMDA receptors)."
+      },
+      {
+        "type": "li",
+        "text": "Rebound insomnia after discontinuation."
+      },
+      {
+        "type": "li",
+        "text": "Hangover: psychomotor depression the day after use of long-acting drugs."
+      },
+      {
+        "type": "li",
+        "text": "Memory disturbance."
+      },
+      {
+        "type": "li",
+        "text": "Respiratory depression and respiratory arrest."
+      },
+      {
+        "type": "li",
+        "text": "Drowsiness and confusion."
+      },
+      {
+        "type": "li",
+        "text": "Nausea and vomiting."
+      },
+      {
+        "type": "li",
+        "text": "In neonates, rarely causes laryngospasm, bronchospasm, ventricular arrhythmias, and syncope."
+      },
+      {
+        "type": "h2",
+        "text": "Contraindications"
+      },
+      {
+        "type": "li",
+        "text": "Severe respiratory insufficiency."
+      },
+      {
+        "type": "li",
+        "text": "Sleep apnea syndrome."
+      },
+      {
+        "type": "li",
+        "text": "Acute narrow angle glaucoma (increases IOP)."
+      },
+      {
+        "type": "li",
+        "text": "Pregnancy (teratogenic): use only if benefit outweighs risk."
+      },
+      {
+        "type": "li",
+        "text": "Use with other CNS depressants (e.g., alcohol)."
+      },
+      {
+        "type": "h2",
+        "text": "Use in Renal and Hepatic Impairment"
+      },
+      {
+        "type": "li",
+        "text": "Hepatic impairment: Lorazepam is the safest option."
+      },
+      {
+        "type": "li",
+        "text": "Renal impairment: Decreased clearance; lorazepam may be safe in ESRD but dose adjustment is needed."
+      },
+      {
+        "type": "li",
+        "text": "Benzodiazepines can be abused; overdose may occur intentionally or due to hepatic/renal problems."
+      },
+      {
+        "type": "li",
+        "text": "Toxicity symptoms: CNS depression (loss of consciousness, shallow breathing)."
+      },
+      {
+        "type": "h2",
+        "text": "Treatment of Toxicity"
+      },
+      {
+        "type": "li",
+        "text": "Flumazenil is the antidote for benzodiazepine toxicity (may cause withdrawal seizures if given in high dose)."
+      },
+      {
+        "type": "li",
+        "text": "Management of airway, breathing, and circulation (ABC)."
+      },
+      {
+        "type": "li",
+        "text": "Activated charcoal is contraindicated."
+      },
+      {
+        "type": "p",
+        "text": "This article is part of the Pharmacology Course. Other topics include:"
+      },
+      {
+        "type": "li",
+        "text": "Pharmacology Basic Principles"
+      },
+      {
+        "type": "li",
+        "text": "CNS Pharmacology"
+      },
+      {
+        "type": "li",
+        "text": "Antibiotic Pharmacology"
+      },
+      {
+        "type": "li",
+        "text": "Diuretics Pharmacology"
+      },
+      {
+        "type": "li",
+        "text": "Barbiturates Pharmacology"
+      },
+      {
+        "type": "li",
+        "text": "Benzodiazepines Pharmacology"
+      }
+    ],
+    "references": [
+      {
+        "title": "MedlinePlus — medicine reference index",
+        "url": "https://medlineplus.gov/druginformation.html"
+      },
+      {
+        "title": "FDA — benzodiazepine boxed-warning update",
+        "url": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-requiring-boxed-warning-updated-improve-safe-use-benzodiazepine-drug-class"
+      }
+    ]
+  },
+  {
+    "id": "6hxAwUugSlA",
+    "title": "Barbiturates Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+    "category": "Pharmacology",
+    "noteStatus": "Video frames + study guide",
+    "notes": [
+      {
+        "type": "li",
+        "text": "Barbiturates are sedative hypnotic drugs. Other sedative hypnotics include benzodiazepines, Z-drugs, and other hypnotics."
+      },
+      {
+        "type": "li",
+        "text": "Barbiturates are dangerous because they may cause respiratory and vasomotor depression."
+      },
+      {
+        "type": "li",
+        "text": "Amylobarbitone was the first barbiturate discovered in 1928 and used as an intravenous anesthetic."
+      },
+      {
+        "type": "li",
+        "text": "Sedative effect: reduction in CNS activity, leading to reduced anxiety and a calming effect."
+      },
+      {
+        "type": "li",
+        "text": "Hypnotic effect: further reduction in CNS activity, leading to drowsiness and sleep."
+      },
+      {
+        "type": "li",
+        "text": "Barbiturates can achieve both effects depending on the dose."
+      },
+      {
+        "type": "h2",
+        "text": "Why Barbiturates Are Dangerous"
+      },
+      {
+        "type": "li",
+        "text": "Increasing the dose of barbiturates leads to more CNS depression, which can result in coma, respiratory and vasomotor depression, and death."
+      },
+      {
+        "type": "li",
+        "text": "This does not occur with benzodiazepines, making them safer alternatives."
+      },
+      {
+        "type": "h2",
+        "text": "Barbiturates Classification"
+      },
+      {
+        "type": "h2",
+        "text": "Pharmacokinetics"
+      },
+      {
+        "type": "li",
+        "text": "Absorption: Oral formulations are rapidly absorbed with good bioavailability (e.g., phenobarbital ~90%)."
+      },
+      {
+        "type": "li",
+        "text": "Distribution: Highly lipid soluble, distribute to most body tissues including the brain, then rapidly redistribute to muscle and fat, decreasing plasma and brain concentrations. Redistribution terminates central effects."
+      },
+      {
+        "type": "li",
+        "text": "Metabolism: Mainly in the liver by oxidation."
+      },
+      {
+        "type": "li",
+        "text": "Excretion: Renal."
+      },
+      {
+        "type": "h2",
+        "text": "Mechanism of Action"
+      },
+      {
+        "type": "li",
+        "text": "Barbiturates act on GABA A receptors in the CNS."
+      },
+      {
+        "type": "li",
+        "text": "GABA receptors are pentameric (five subunits) and are the chief inhibitory receptors in the CNS."
+      },
+      {
+        "type": "li",
+        "text": "Normally activated by GABA neurotransmitter, leading to opening of chloride channels, reducing neuronal excitability and inhibiting nerve transmission (CNS inhibition)."
+      },
+      {
+        "type": "li",
+        "text": "Barbiturates enhance GABA action by interacting with alpha and beta subunits of GABA A receptors, increasing chloride ion flow, resulting in hyperpolarization and CNS depression."
+      },
+      {
+        "type": "li",
+        "text": "Other sedative hypnotics (benzodiazepines, Z-drugs) also increase chloride flow via GABA receptors."
+      },
+      {
+        "type": "h2",
+        "text": "Pharmacologic Effects"
+      },
+      {
+        "type": "li",
+        "text": "Antianxiety effect at small doses."
+      },
+      {
+        "type": "li",
+        "text": "Sedative and hypnotic effects at larger doses."
+      },
+      {
+        "type": "li",
+        "text": "Anesthetic effect (thiopental, methohexital IV for short periods)."
+      },
+      {
+        "type": "li",
+        "text": "Anticonvulsant effect (phenobarbital for tonic-clonic seizures)."
+      },
+      {
+        "type": "li",
+        "text": "Generalized CNS inhibition, including medullary centers in toxic doses (hypotension, bradycardia, apnea)."
+      },
+      {
+        "type": "li",
+        "text": "Induction of hepatic microsomal enzymes."
+      },
+      {
+        "type": "h2",
+        "text": "Therapeutic Uses"
+      },
+      {
+        "type": "li",
+        "text": "Phenobarbital: treatment of tonic-clonic seizures."
+      },
+      {
+        "type": "li",
+        "text": "Phenobarbital: hepatic enzyme inducer for physiological jaundice in neonates."
+      },
+      {
+        "type": "li",
+        "text": "Thiopental: induction of anesthesia (now replaced by propofol)."
+      },
+      {
+        "type": "li",
+        "text": "Thiopental: used for interrogation (requires more CNS activity to lie)."
+      },
+      {
+        "type": "li",
+        "text": "Methohexital: procedural anesthesia for cardioversion and fracture reduction."
+      },
+      {
+        "type": "li",
+        "text": "Barbiturates were used for neonatal withdrawal, insomnia, and anxiety (now mostly replaced by benzodiazepines and newer hypnotics)."
+      },
+      {
+        "type": "li",
+        "text": "Tolerance and physical dependence (decreased GABA sensitivity, increased excitatory transmitters such as NMDA receptors)."
+      },
+      {
+        "type": "li",
+        "text": "Drowsiness and impaired concentration."
+      },
+      {
+        "type": "li",
+        "text": "Hangover: psychomotor depression the day after use of long-acting drugs."
+      },
+      {
+        "type": "li",
+        "text": "Respiratory and myocardial depression (especially IV forms)."
+      },
+      {
+        "type": "li",
+        "text": "Increased porphyrin synthesis (may precipitate acute intermittent porphyria)."
+      },
+      {
+        "type": "li",
+        "text": "Extravasation of thiopental can cause severe tissue necrosis (treated with local anesthetic and lidocaine injection)."
+      },
+      {
+        "type": "li",
+        "text": "Hepatotoxicity (especially with phenobarbital)."
+      },
+      {
+        "type": "h2",
+        "text": "Drug Interactions"
+      },
+      {
+        "type": "li",
+        "text": "Phenobarbital is a strong CYP inducer: lowers plasma levels of other antiepileptics (lamotrigine, phenytoin, valproate), causes contraceptive failure, and affects other CYP-metabolized drugs."
+      },
+      {
+        "type": "h2",
+        "text": "Contraindications"
+      },
+      {
+        "type": "li",
+        "text": "Severe respiratory insufficiency."
+      },
+      {
+        "type": "li",
+        "text": "Sleep apnea syndrome."
+      },
+      {
+        "type": "li",
+        "text": "Acute narrow angle glaucoma (increases IOP)."
+      },
+      {
+        "type": "li",
+        "text": "Pregnancy (teratogenic)."
+      },
+      {
+        "type": "li",
+        "text": "Use with other CNS depressants (e.g., alcohol)."
+      },
+      {
+        "type": "li",
+        "text": "Barbiturates can be abused; overdose may occur intentionally or due to hepatic/renal problems."
+      },
+      {
+        "type": "li",
+        "text": "Acute toxicity: CNS depression, respiratory failure, hemodynamic instability."
+      },
+      {
+        "type": "h2",
+        "text": "Treatment of Toxicity"
+      },
+      {
+        "type": "li",
+        "text": "No antidote available."
+      },
+      {
+        "type": "li",
+        "text": "Mechanical ventilation."
+      },
+      {
+        "type": "li",
+        "text": "Alkalinization of urine (barbiturates are acidic drugs)."
+      },
+      {
+        "type": "p",
+        "text": "This article is part of the Pharmacology Course. Other topics include:"
+      },
+      {
+        "type": "li",
+        "text": "Pharmacology Basic Principles"
+      },
+      {
+        "type": "li",
+        "text": "CNS Pharmacology"
+      },
+      {
+        "type": "li",
+        "text": "Antibiotic Pharmacology"
+      },
+      {
+        "type": "li",
+        "text": "Diuretics Pharmacology"
+      },
+      {
+        "type": "li",
+        "text": "Barbiturates Pharmacology"
+      }
+    ],
+    "references": [
+      {
+        "title": "MedlinePlus — medicine reference index",
+        "url": "https://medlineplus.gov/druginformation.html"
+      }
+    ]
+  },
+  {
+    "id": "9KcipF82jn4",
+    "title": "Antiparkinsonian Drugs Pharmacology: Levodopa and Carbidopa, Entacapone, Selegiline, Pramipexole",
+    "category": "Pharmacology",
+    "noteStatus": "Video frames + study guide",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Parkinson disease pharmacology"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "Levodopa is converted to dopamine in the brain."
+      },
+      {
+        "type": "li",
+        "text": "Carbidopa inhibits peripheral dopa decarboxylase and reduces peripheral levodopa metabolism."
+      },
+      {
+        "type": "li",
+        "text": "COMT inhibitors can prolong levodopa effect."
+      },
+      {
+        "type": "li",
+        "text": "Dopamine agonists directly stimulate dopamine receptors and may cause impulse-control disorders."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": [
+      {
+        "title": "MedlinePlus — medicine reference index",
+        "url": "https://medlineplus.gov/druginformation.html"
+      }
+    ]
+  }
+]

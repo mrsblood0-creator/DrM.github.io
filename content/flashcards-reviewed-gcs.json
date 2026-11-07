@@ -1,0 +1,87 @@
+[
+  {
+    "id": "reviewed-gcs-fc-1",
+    "lectureId": "9XK3e8-iZFA",
+    "front": "What are the maximum eye, verbal and motor GCS scores?",
+    "back": "E4, V5 and M6.",
+    "explanation": "The maximum total is 15 when every component is testable.",
+    "references": [
+      {
+        "title": "Glasgow Coma Scale — assessment aid",
+        "url": "https://www.glasgowcomascale.org/downloads/GCS-Assessment-Aid-English.pdf"
+      },
+      {
+        "title": "Glasgow Coma Scale — assessment FAQ",
+        "url": "https://www.glasgowcomascale.org/faq/"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-gcs-fc-2",
+    "lectureId": "9XK3e8-iZFA",
+    "front": "How is a GCS component recorded when a physical barrier prevents testing?",
+    "back": "NT, with the reason documented.",
+    "explanation": "Do not assign an artificial score or calculate a misleading total.",
+    "references": [
+      {
+        "title": "Glasgow Coma Scale — assessment aid",
+        "url": "https://www.glasgowcomascale.org/downloads/GCS-Assessment-Aid-English.pdf"
+      },
+      {
+        "title": "Glasgow Coma Scale — assessment FAQ",
+        "url": "https://www.glasgowcomascale.org/faq/"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-gcs-fc-3",
+    "lectureId": "9XK3e8-iZFA",
+    "front": "What motor GCS score represents purposeful localization to a head-and-neck stimulus?",
+    "back": "M5.",
+    "explanation": "This differs from normal flexion away from a stimulus, M4.",
+    "references": [
+      {
+        "title": "Glasgow Coma Scale — assessment aid",
+        "url": "https://www.glasgowcomascale.org/downloads/GCS-Assessment-Aid-English.pdf"
+      },
+      {
+        "title": "Glasgow Coma Scale — assessment FAQ",
+        "url": "https://www.glasgowcomascale.org/faq/"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-gcs-fc-4",
+    "lectureId": "9XK3e8-iZFA",
+    "front": "What verbal GCS score represents coherent but disoriented conversation?",
+    "back": "V4.",
+    "explanation": "Fully oriented speech is V5; isolated intelligible words are V3.",
+    "references": [
+      {
+        "title": "Glasgow Coma Scale — assessment aid",
+        "url": "https://www.glasgowcomascale.org/downloads/GCS-Assessment-Aid-English.pdf"
+      },
+      {
+        "title": "Glasgow Coma Scale — assessment FAQ",
+        "url": "https://www.glasgowcomascale.org/faq/"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-gcs-fc-5",
+    "lectureId": "9XK3e8-iZFA",
+    "front": "What eye GCS score represents opening after a spoken request?",
+    "back": "E3.",
+    "explanation": "Spontaneous opening is E4, while opening only to pressure is E2.",
+    "references": [
+      {
+        "title": "Glasgow Coma Scale — assessment aid",
+        "url": "https://www.glasgowcomascale.org/downloads/GCS-Assessment-Aid-English.pdf"
+      },
+      {
+        "title": "Glasgow Coma Scale — assessment FAQ",
+        "url": "https://www.glasgowcomascale.org/faq/"
+      }
+    ]
+  }
+]

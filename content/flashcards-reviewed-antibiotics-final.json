@@ -1,0 +1,497 @@
+[
+  {
+    "id": "reviewed-antibiotics-final-VKm2uo2JjUA-1-fc",
+    "lectureId": "VKm2uo2JjUA",
+    "front": "Which ribosomal activity is inhibited by chloramphenicol?",
+    "back": "50S peptidyl-transferase activity",
+    "explanation": "Chloramphenicol inhibits peptide-bond formation at the 50S subunit.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=VKm2uo2JjUA"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=aed29594-211d-49ef-813f-131975a8d0e3"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-antibiotics-final-VKm2uo2JjUA-2-fc",
+    "lectureId": "VKm2uo2JjUA",
+    "front": "Why are neonates vulnerable to chloramphenicol-associated gray baby syndrome?",
+    "back": "Immature neonatal chloramphenicol elimination",
+    "explanation": "Limited neonatal metabolism and elimination can cause chloramphenicol accumulation and gray baby syndrome.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=VKm2uo2JjUA"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=aed29594-211d-49ef-813f-131975a8d0e3"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-antibiotics-final-VKm2uo2JjUA-3-fc",
+    "lectureId": "VKm2uo2JjUA",
+    "front": "Which chloramphenicol marrow toxicity is dose related and often reversible?",
+    "back": "Reversible dose-related marrow suppression",
+    "explanation": "Chloramphenicol can suppress marrow in an exposure-related fashion, distinct from rare idiosyncratic aplastic anemia.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=VKm2uo2JjUA"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=aed29594-211d-49ef-813f-131975a8d0e3"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-antibiotics-final-VKm2uo2JjUA-4-fc",
+    "lectureId": "VKm2uo2JjUA",
+    "front": "Which rare chloramphenicol toxicity can occur without excessive measured exposure?",
+    "back": "Unpredictable aplastic anemia",
+    "explanation": "Rare severe marrow failure with chloramphenicol is not reliably prevented by keeping ordinary drug levels therapeutic.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=VKm2uo2JjUA"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=aed29594-211d-49ef-813f-131975a8d0e3"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-antibiotics-final-VKm2uo2JjUA-5-fc",
+    "lectureId": "VKm2uo2JjUA",
+    "front": "Why is systemic chloramphenicol generally reserved for selected circumstances?",
+    "back": "Reserve use when safer effective alternatives are unsuitable",
+    "explanation": "Chloramphenicol toxicity limits its use despite broad antimicrobial activity.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=VKm2uo2JjUA"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=aed29594-211d-49ef-813f-131975a8d0e3"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-antibiotics-final-7wnwMfGuPyM-1-fc",
+    "lectureId": "7wnwMfGuPyM",
+    "front": "Why are quinupristin and dalfopristin combined?",
+    "back": "Synergistic binding at the 50S ribosome",
+    "explanation": "Quinupristin and dalfopristin are streptogramins whose combined actions inhibit bacterial protein synthesis.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=7wnwMfGuPyM"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-antibiotics-final-7wnwMfGuPyM-2-fc",
+    "lectureId": "7wnwMfGuPyM",
+    "front": "Which enterococcal species may be susceptible to quinupristin-dalfopristin?",
+    "back": "Susceptible Enterococcus faecium",
+    "explanation": "Quinupristin-dalfopristin has activity against selected E. faecium isolates but not dependable E. faecalis activity.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=7wnwMfGuPyM"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-antibiotics-final-7wnwMfGuPyM-3-fc",
+    "lectureId": "7wnwMfGuPyM",
+    "front": "Which enterococcal species is intrinsically resistant to quinupristin-dalfopristin?",
+    "back": "Enterococcus faecalis",
+    "explanation": "E. faecalis is intrinsically resistant to quinupristin-dalfopristin and must not be confused with susceptible E. faecium.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=7wnwMfGuPyM"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-antibiotics-final-7wnwMfGuPyM-4-fc",
+    "lectureId": "7wnwMfGuPyM",
+    "front": "Which painful adverse effects can limit quinupristin-dalfopristin use?",
+    "back": "Arthralgia and myalgia",
+    "explanation": "Joint and muscle pain can limit quinupristin-dalfopristin treatment.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=7wnwMfGuPyM"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-antibiotics-final-7wnwMfGuPyM-5-fc",
+    "lectureId": "7wnwMfGuPyM",
+    "front": "What metabolic interaction is important with quinupristin-dalfopristin?",
+    "back": "CYP3A4-mediated drug interactions",
+    "explanation": "Quinupristin-dalfopristin inhibits CYP3A4 and can raise exposure to susceptible interacting medicines.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=7wnwMfGuPyM"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-antibiotics-final-Hdnw0PJaTK8-1-fc",
+    "lectureId": "Hdnw0PJaTK8",
+    "front": "How does tigecycline inhibit bacterial protein synthesis?",
+    "back": "Inhibition of aminoacyl-tRNA binding to 30S",
+    "explanation": "Tigecycline is a glycylcycline related to tetracyclines and inhibits bacterial protein synthesis.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Hdnw0PJaTK8"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=50605463-2dc2-4b27-bc51-4d87bb9a8539"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-antibiotics-final-Hdnw0PJaTK8-2-fc",
+    "lectureId": "Hdnw0PJaTK8",
+    "front": "Which major Gram-negative pathogen is not reliably covered by tigecycline?",
+    "back": "Pseudomonas aeruginosa",
+    "explanation": "Tigecycline does not provide reliable Pseudomonas coverage.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Hdnw0PJaTK8"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=50605463-2dc2-4b27-bc51-4d87bb9a8539"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-antibiotics-final-Hdnw0PJaTK8-3-fc",
+    "lectureId": "Hdnw0PJaTK8",
+    "front": "What major outcome warning affects tigecycline selection?",
+    "back": "Increased all-cause mortality signal",
+    "explanation": "Tigecycline carries a mortality warning and should be reserved for situations where alternatives are unsuitable.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Hdnw0PJaTK8"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=50605463-2dc2-4b27-bc51-4d87bb9a8539"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-antibiotics-final-Hdnw0PJaTK8-4-fc",
+    "lectureId": "Hdnw0PJaTK8",
+    "front": "What common gastrointestinal effects occur with tigecycline?",
+    "back": "Nausea and vomiting",
+    "explanation": "Gastrointestinal intolerance is common with tigecycline.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Hdnw0PJaTK8"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=50605463-2dc2-4b27-bc51-4d87bb9a8539"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-antibiotics-final-Hdnw0PJaTK8-5-fc",
+    "lectureId": "Hdnw0PJaTK8",
+    "front": "Why is tigecycline generally unsuitable as sole therapy for bacteremia?",
+    "back": "Low serum concentrations relative to tissue distribution",
+    "explanation": "Extensive tissue distribution limits the suitability of tigecycline alone for bloodstream infection.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Hdnw0PJaTK8"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=50605463-2dc2-4b27-bc51-4d87bb9a8539"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-antibiotics-final-LJKUUqWmcVM-1-fc",
+    "lectureId": "LJKUUqWmcVM",
+    "front": "Which older drug is a first-generation quinolone?",
+    "back": "Nalidixic acid",
+    "explanation": "Nalidixic acid is an older first-generation quinolone with mainly urinary Gram-negative activity.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=LJKUUqWmcVM"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-antibiotics-final-LJKUUqWmcVM-2-fc",
+    "lectureId": "LJKUUqWmcVM",
+    "front": "Which listed fluoroquinolone is associated with antipseudomonal activity?",
+    "back": "Ciprofloxacin",
+    "explanation": "Ciprofloxacin is a fluoroquinolone with useful activity against susceptible Pseudomonas but weaker pneumococcal activity than respiratory fluoroquinolones.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=LJKUUqWmcVM"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-antibiotics-final-LJKUUqWmcVM-3-fc",
+    "lectureId": "LJKUUqWmcVM",
+    "front": "Which listed agent is a respiratory fluoroquinolone?",
+    "back": "Levofloxacin",
+    "explanation": "Levofloxacin is a respiratory fluoroquinolone with improved pneumococcal activity; susceptibility and safety still govern selection.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=LJKUUqWmcVM"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-antibiotics-final-LJKUUqWmcVM-4-fc",
+    "lectureId": "LJKUUqWmcVM",
+    "front": "Which respiratory fluoroquinolone is generally unsuitable for urinary infection?",
+    "back": "Moxifloxacin",
+    "explanation": "Moxifloxacin has respiratory and anaerobic activity but is not a preferred urinary agent and is not reliably antipseudomonal.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=LJKUUqWmcVM"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-antibiotics-final-LJKUUqWmcVM-5-fc",
+    "lectureId": "LJKUUqWmcVM",
+    "front": "How should differing quinolone generation schemes be handled clinically?",
+    "back": "Agent-specific spectrum matters more than a generation label",
+    "explanation": "Quinolone generation schemes vary; drug-specific coverage and safety determine clinical use.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=LJKUUqWmcVM"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-antibiotics-final-hvh86HzdHzs-1-fc",
+    "lectureId": "hvh86HzdHzs",
+    "front": "Which proteins mediate the cell-wall action of beta-lactams?",
+    "back": "Penicillin-binding proteins",
+    "explanation": "Beta-lactams inhibit PBPs and peptidoglycan cross-linking.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=hvh86HzdHzs"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-antibiotics-final-hvh86HzdHzs-2-fc",
+    "lectureId": "hvh86HzdHzs",
+    "front": "Which precursor sequence is targeted by glycopeptides such as vancomycin?",
+    "back": "D-Ala-D-Ala termini",
+    "explanation": "Vancomycin binds cell-wall precursor termini rather than PBPs.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=hvh86HzdHzs"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-antibiotics-final-hvh86HzdHzs-3-fc",
+    "lectureId": "hvh86HzdHzs",
+    "front": "Which resistance category includes beta-lactamase production?",
+    "back": "Enzymatic drug inactivation",
+    "explanation": "Bacteria can produce enzymes that destroy or chemically modify an antibiotic.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=hvh86HzdHzs"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-antibiotics-final-hvh86HzdHzs-4-fc",
+    "lectureId": "hvh86HzdHzs",
+    "front": "Which resistance category includes altered PBPs?",
+    "back": "Modification of the drug target",
+    "explanation": "A changed target can bind the antibiotic less effectively while maintaining its microbial function.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=hvh86HzdHzs"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-antibiotics-final-hvh86HzdHzs-5-fc",
+    "lectureId": "hvh86HzdHzs",
+    "front": "Why must infection-site penetration be considered for a cell-wall inhibitor?",
+    "back": "Drug penetration at the infection site",
+    "explanation": "An agent must reach effective concentrations where the infection is located; an in-vitro susceptible result alone is insufficient.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=hvh86HzdHzs"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-antibiotics-final-Kl9I2T7-iCY-1-fc",
+    "lectureId": "Kl9I2T7-iCY",
+    "front": "What should be established before acting on an undocumented antibiotic allergy label?",
+    "back": "Clarify the allergy reaction and timing",
+    "explanation": "A detailed allergy history distinguishes intolerance from immediate or severe delayed hypersensitivity and informs safe selection.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Kl9I2T7-iCY"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-antibiotics-final-Kl9I2T7-iCY-2-fc",
+    "lectureId": "Kl9I2T7-iCY",
+    "front": "Which patient factor is central when dosing a renally cleared antibiotic?",
+    "back": "Renal function and individualized dosing",
+    "explanation": "Renal impairment can alter antimicrobial exposure and require dose or interval adjustment.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Kl9I2T7-iCY"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-antibiotics-final-Kl9I2T7-iCY-3-fc",
+    "lectureId": "Kl9I2T7-iCY",
+    "front": "What should be considered once reliable cultures permit targeted treatment?",
+    "back": "Narrow therapy using reliable microbiology",
+    "explanation": "Once the pathogen and susceptibilities are known, an effective narrower regimen may reduce unnecessary exposure.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Kl9I2T7-iCY"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-antibiotics-final-Kl9I2T7-iCY-4-fc",
+    "lectureId": "Kl9I2T7-iCY",
+    "front": "What principle is essential when an infected collection remains undrained?",
+    "back": "Source control",
+    "explanation": "An abscess, infected device or obstructed infected system may require drainage, removal or relief in addition to antibiotics.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Kl9I2T7-iCY"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-antibiotics-final-Kl9I2T7-iCY-5-fc",
+    "lectureId": "Kl9I2T7-iCY",
+    "front": "Why does antibiotic selection depend on the anatomical infection site?",
+    "back": "Drug penetration at the infection site",
+    "explanation": "An agent must reach effective concentrations where the infection is located; an in-vitro susceptible result alone is insufficient.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Kl9I2T7-iCY"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-antibiotics-final-tJtsmSfDyP0-1-fc",
+    "lectureId": "tJtsmSfDyP0",
+    "front": "What resistance mechanism is conferred by a beta-lactamase gene?",
+    "back": "Enzymatic drug inactivation",
+    "explanation": "Bacteria can produce enzymes that destroy or chemically modify an antibiotic.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=tJtsmSfDyP0"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-antibiotics-final-tJtsmSfDyP0-2-fc",
+    "lectureId": "tJtsmSfDyP0",
+    "front": "How can increased transport-pump activity produce antimicrobial resistance?",
+    "back": "Increased drug efflux",
+    "explanation": "Transport pumps can lower intracellular antibiotic exposure.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=tJtsmSfDyP0"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-antibiotics-final-tJtsmSfDyP0-3-fc",
+    "lectureId": "tJtsmSfDyP0",
+    "front": "How can porin loss reduce antibiotic susceptibility?",
+    "back": "Reduced outer-membrane permeability",
+    "explanation": "Loss or alteration of porins can reduce entry of antibiotics into Gram-negative bacteria.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=tJtsmSfDyP0"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-antibiotics-final-tJtsmSfDyP0-4-fc",
+    "lectureId": "tJtsmSfDyP0",
+    "front": "Why can an infected device remain a source despite apparent in-vitro susceptibility?",
+    "back": "Biofilm-associated persistence",
+    "explanation": "Organisms in biofilms can be difficult to eradicate; device management may be needed despite planktonic susceptibility.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=tJtsmSfDyP0"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-antibiotics-final-tJtsmSfDyP0-5-fc",
+    "lectureId": "tJtsmSfDyP0",
+    "front": "What stewardship step follows stabilization and reliable pathogen identification?",
+    "back": "Narrow therapy using reliable microbiology",
+    "explanation": "Once the pathogen and susceptibilities are known, an effective narrower regimen may reduce unnecessary exposure.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=tJtsmSfDyP0"
+      }
+    ]
+  }
+]

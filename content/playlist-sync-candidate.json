@@ -1,0 +1,375 @@
+{
+  "syncedAt": "2026-11-04T21:59:53.030Z",
+  "playlists": [
+    {
+      "id": "PLEexNWypa754",
+      "title": "Pathology: Growth Adaptations, Cell Injury & Cell Death",
+      "videos": [
+        {
+          "id": "DHphsnW-nYo",
+          "title": "Cellular Adaptations (Growth Adaptations): Hypertrophy, Hyperplasia, Atrophy, Metaplasia",
+          "index": 1
+        },
+        {
+          "id": "kHhJRk4qxPQ",
+          "title": "Cell Injury: Definition, Causes (Ischemia, Hypoxemia, Decrease O2 Carrying Capacity) and Features",
+          "index": 2
+        },
+        {
+          "id": "I-_HV25j_9s",
+          "title": "Cell Death: Morphologic Hallmarks, Mechanisms, Types of Necrosis, Pathways of Apoptosis",
+          "index": 3
+        },
+        {
+          "id": "n9brM9pTw6I",
+          "title": "Oxidative Stress (Free Radical Injury): Physiologic & Pathologic Generation, Elimination & Examples",
+          "index": 4
+        },
+        {
+          "id": "I0ygFfqwhHw",
+          "title": "Amyloidosis: Classification, Appearance on Histological Slides, Clinical Features & Diagnosis",
+          "index": 5
+        },
+        {
+          "id": "iFo2ROztdGs",
+          "title": "Intracellular Accumulations: Mechanism of Accumulation & Types- Lipids, Proteins, Carbon, Lipofuscin",
+          "index": 6
+        },
+        {
+          "id": "IdO0f5klcXI",
+          "title": "Pathology USMLE Step 1 MCQ Practice Questions | General Pathology Part 1",
+          "index": 7
+        },
+        {
+          "id": "esgddQPQqSQ",
+          "title": "Pathology USMLE Step 1 MCQ Practice Questions | Part 2",
+          "index": 8
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLMo46Bhy_j5U",
+      "title": "General Pathology",
+      "videos": [
+        {
+          "id": "DHphsnW-nYo",
+          "title": "Cellular Adaptations (Growth Adaptations): Hypertrophy, Hyperplasia, Atrophy, Metaplasia",
+          "index": 1
+        },
+        {
+          "id": "kHhJRk4qxPQ",
+          "title": "Cell Injury: Definition, Causes (Ischemia, Hypoxemia, Decrease O2 Carrying Capacity) and Features",
+          "index": 2
+        },
+        {
+          "id": "I-_HV25j_9s",
+          "title": "Cell Death: Morphologic Hallmarks, Mechanisms, Types of Necrosis, Pathways of Apoptosis",
+          "index": 3
+        },
+        {
+          "id": "n9brM9pTw6I",
+          "title": "Oxidative Stress (Free Radical Injury): Physiologic & Pathologic Generation, Elimination & Examples",
+          "index": 4
+        },
+        {
+          "id": "I0ygFfqwhHw",
+          "title": "Amyloidosis: Classification, Appearance on Histological Slides, Clinical Features & Diagnosis",
+          "index": 5
+        },
+        {
+          "id": "iFo2ROztdGs",
+          "title": "Intracellular Accumulations: Mechanism of Accumulation & Types- Lipids, Proteins, Carbon, Lipofuscin",
+          "index": 6
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLllTTKSgGCnmVntX0KJweCc4C0n9aruJh",
+      "title": "Pediatric Respiratory Diseases",
+      "videos": [
+        {
+          "id": "ionR1D5j3gI",
+          "title": "Pediatric Pneumonia: Latest Guidelines on Diagnosis and Treatment & a Comprehensive Explanation",
+          "index": 1
+        },
+        {
+          "id": "tKbkO6dladc",
+          "title": "Bronchiolitis: Latest Guidelines on Diagnosis and Treatment, Clinical Features and Pathophysiology",
+          "index": 2
+        },
+        {
+          "id": "rtPmnu09wto",
+          "title": "Peritonsillar Abscess (Quinsy): Pathophysiology, Clinical Features, Diagnosis and Treatment",
+          "index": 3
+        },
+        {
+          "id": "sBp7NlJQME0",
+          "title": "Retropharyngeal Abscess & Lateral Pharyngeal Abscess and Lemierre Disease All Explained",
+          "index": 4
+        },
+        {
+          "id": "1oZDzR-_QGk",
+          "title": "Airway Foreign Body: X Ray Examples, Clinical Features, Diagnosis and Treatment",
+          "index": 5
+        },
+        {
+          "id": "M5FnKmsGxmM",
+          "title": "Bacterial Tracheitis: Clinical Features, Etiology, Diagnosis and Treatment",
+          "index": 6
+        },
+        {
+          "id": "cozkYn9YcYo",
+          "title": "Epiglottitis: Signs and Symptoms, Causes, Diagnosis and Treatment All Explained",
+          "index": 7
+        },
+        {
+          "id": "A8_qaIox3ys",
+          "title": "Croup (Laryngotracheobronchitis) Explained: Pathophysiology, Signs & Symptoms, Diagnosis & Treatment",
+          "index": 8
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLllTTKSgGCnlcXMXskcGfzaZba-ufR6LC",
+      "title": "Management of Cardiac Arrhythmias",
+      "videos": [
+        {
+          "id": "flB-sPYNJ34",
+          "title": "Sinus Arrhythmia: ECG Characteristics, Presentation & Treatment",
+          "index": 1
+        },
+        {
+          "id": "dmRp5H85WMs",
+          "title": "Premature Atrial Contraction (PACs): ECG Characteristics, Causes, Diagnosis and Treatment",
+          "index": 2
+        },
+        {
+          "id": "3LKa8IO0QaE",
+          "title": "Premature Ventricular Contractions (PVCs): EKG Characteristics, Causes and Treatment",
+          "index": 3
+        },
+        {
+          "id": "SlETVFSIn8A",
+          "title": "Sinus Bradycardia: EKG Characteristics, Causes and Treatment",
+          "index": 4
+        },
+        {
+          "id": "vJOep88PVIk",
+          "title": "Junctional Rhythm: Pathophysiology, ECG Characteristics, Classification, Causes and Treatment",
+          "index": 5
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLllTTKSgGCnmgmizdJg58aZO1b8sDt9E3",
+      "title": "Advanced Airway Support",
+      "videos": [
+        {
+          "id": "eWjC_Y3rUZQ",
+          "title": "Advanced Airway Support: Introduction",
+          "index": 1
+        },
+        {
+          "id": "SpjIi-cbawo",
+          "title": "Bedside Assessment of The Airway in Resuscitation",
+          "index": 2
+        },
+        {
+          "id": "xSrRSHHfLoU",
+          "title": "Head Tilt/Chin Lift, Jaw Thrust, Oropharyngeal Airway and Nasopharyngeal Airway",
+          "index": 3
+        },
+        {
+          "id": "qfSpLNr9S44",
+          "title": "CPAP and BiPAP: How it Works, Indications, Contraindications and Complications",
+          "index": 4
+        },
+        {
+          "id": "_q0giMKf5Vc",
+          "title": "Bag Valve Mask Ventilation (BVM): steps to do it, Difficult BVM, Indications and Complications",
+          "index": 5
+        },
+        {
+          "id": "3ZM6nOx4hpw",
+          "title": "Spine Motion Restriction: Indications, Equipment, Steps to Do it and Contraindications",
+          "index": 6
+        },
+        {
+          "id": "x7i4lCVPhF0",
+          "title": "Extraglottic Airway: Supraglottic and Retroglottic Devices, Advantages and Disadvantages",
+          "index": 7
+        },
+        {
+          "id": "Lht-xTYLiCs",
+          "title": "Rapid Sequence Intubation (RSI): Airway Risk Assessment, Technique, Induction and Paralytic Agents",
+          "index": 8
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLllTTKSgGCnnqi2iFgAX6YzVehUbnes4o",
+      "title": "Therapy for Liver Disease",
+      "videos": [
+        {
+          "id": "cNyNVRXtPcA",
+          "title": "Rifaximin Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 1
+        },
+        {
+          "id": "CXq0c75lkPw",
+          "title": "Lactulose Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 2
+        },
+        {
+          "id": "YdGUbVePf-E",
+          "title": "Hepatic Encephalopathy: Pathophysiology, Clinical Features, Diagnosis & Treatment",
+          "index": 3
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLllTTKSgGCnnLpMyI1yGHI8H16Hyg0_vq",
+      "title": "Therapy for Gastroesophageal Reflux Disease Free Course",
+      "videos": [
+        {
+          "id": "kmvJx7G2bSI",
+          "title": "Gastroesophageal Reflux Disease (GERD): Causes, Clinical Features, Classification, Treatment",
+          "index": 1
+        },
+        {
+          "id": "2F9awf5M5Ls",
+          "title": "Antacids: Types, Therapeutic Uses, Adverse Effects and Interactions",
+          "index": 2
+        },
+        {
+          "id": "7VjKp18wQOo",
+          "title": "Histamine H2 Receptor Antagonists: Mechanism of Action, Therapeutic Uses and Adverse Effects",
+          "index": 3
+        },
+        {
+          "id": "Hu5-Bv_eVJU",
+          "title": "Proton Pump Inhibitors: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 4
+        },
+        {
+          "id": "bAt1Uc_SES0",
+          "title": "Metoclopramide (Plasil): Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 5
+        },
+        {
+          "id": "Wnxr4dQ7-LU",
+          "title": "Ondansetron (Zofran): Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 6
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLllTTKSgGCnlnFMkN0_-dqNx5Jax0ndkP",
+      "title": "Therapy for Peptic Ulcer Disease Free Course",
+      "videos": [
+        {
+          "id": "UjZ9BvqgOlc",
+          "title": "Therapy for Peptic Ulcer Disease Free Course Introduction",
+          "index": 1
+        },
+        {
+          "id": "2F9awf5M5Ls",
+          "title": "Antacids: Types, Therapeutic Uses, Adverse Effects and Interactions",
+          "index": 2
+        },
+        {
+          "id": "7VjKp18wQOo",
+          "title": "Histamine H2 Receptor Antagonists: Mechanism of Action, Therapeutic Uses and Adverse Effects",
+          "index": 3
+        },
+        {
+          "id": "Hu5-Bv_eVJU",
+          "title": "Proton Pump Inhibitors: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 4
+        },
+        {
+          "id": "cZA8FWRxv4g",
+          "title": "Sucralfate (Anti Ulcer Drug): Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 5
+        },
+        {
+          "id": "NDkTbRGw-Do",
+          "title": "Bismuth Subsalicylates: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 6
+        },
+        {
+          "id": "rZ8U60NLNbs",
+          "title": "Misoprostol: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+          "index": 7
+        },
+        {
+          "id": "W1j_saTcyXo",
+          "title": "H. Pylori Treatment: All Treatment Regimens Explained",
+          "index": 8
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLllTTKSgGCnknMPKaAiwuamj1XEM3k4zc",
+      "title": "Respiratory Pharmacology",
+      "videos": [
+        {
+          "id": "brQi0DrlKDI",
+          "title": "Cough Suppressants (Antitussives) Classification & Mechanism of Action",
+          "index": 1
+        },
+        {
+          "id": "30mf-G9kNSc",
+          "title": "Mucoactive Drugs: N-Acetylcysteine, Guaifenesin and Carbocysteine",
+          "index": 2
+        },
+        {
+          "id": "vsWmWR40M9Q",
+          "title": "Oxygen Therapy: Oxygen Delivery Devices, Indications, Adverse Effects, Monitoring and MORE",
+          "index": 3
+        }
+      ],
+      "pages": 2
+    },
+    {
+      "id": "PLllTTKSgGCnlZp9J4KFxwk5jyyLxlKAkU",
+      "title": "Antidepressants Side Effects",
+      "videos": [
+        {
+          "id": "4IBLbpsvAMs",
+          "title": "Strattera (Atomoxetine) Side Effects & Why They Occur",
+          "index": 1
+        },
+        {
+          "id": "-QQ0-cWZcM4",
+          "title": "Adderall (Amphetamine) Side Effects & Why They Occur",
+          "index": 2
+        },
+        {
+          "id": "lSLP81EqL8A",
+          "title": "Tofranil (Imipramine) Side Effects & Why They Occur",
+          "index": 3
+        },
+        {
+          "id": "fQ5OQIDBqgI",
+          "title": "Zoloft (Sertraline) Side Effects with Explanation",
+          "index": 4
+        },
+        {
+          "id": "EwawYxqnlF8",
+          "title": "Wellbutrin (Bupropion) Side Effects & Why They Occur",
+          "index": 5
+        }
+      ],
+      "pages": 2
+    }
+  ]
+}

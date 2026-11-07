@@ -1,0 +1,207 @@
+[
+  {
+    "id": "reviewed-protein-intro-1",
+    "lectureId": "jO6RwevsOmY",
+    "category": "Pharmacology",
+    "title": "A small-subunit antibiotic",
+    "prompt": "A laboratory compares the targets of two antibiotics used for a susceptible bacterial infection. One is doxycycline; the other is a beta-lactam. The investigator measures inhibition of bacterial translation after doxycycline exposure. Which target best explains this effect?",
+    "options": [
+      "DNA gyrase",
+      "Dihydrofolate reductase",
+      "The bacterial 50S ribosomal subunit",
+      "The bacterial 30S ribosomal subunit",
+      "Penicillin-binding proteins"
+    ],
+    "answer": "The bacterial 30S ribosomal subunit",
+    "explanation": "Doxycycline is a tetracycline that inhibits protein synthesis through the bacterial small subunit.",
+    "distractorExplanations": {
+      "The bacterial 30S ribosomal subunit": "Doxycycline is a tetracycline that inhibits protein synthesis through the bacterial small subunit.",
+      "Penicillin-binding proteins": "These are the principal targets of beta-lactams, not doxycycline.",
+      "DNA gyrase": "This is a target of fluoroquinolones.",
+      "Dihydrofolate reductase": "This is the target of trimethoprim.",
+      "The bacterial 50S ribosomal subunit": "Several other antibiotic classes act at 50S; doxycycline is a 30S agent."
+    },
+    "references": [
+      {
+        "title": "Source lecture — protein synthesis inhibitor overview",
+        "url": "https://www.youtube.com/watch?v=jO6RwevsOmY"
+      },
+      {
+        "title": "DailyMed — doxycycline mechanism",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a990e1bd-e126-43eb-84dc-2537a5f0ff94"
+      },
+      {
+        "title": "DailyMed — gentamicin mechanism",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a73a5453-c091-43fd-aae2-d992152363b1"
+      },
+      {
+        "title": "DailyMed — linezolid mechanism and organism-dependent activity",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7402aa01-50de-46c8-a341-d30da5b32b1c"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-protein-intro-2",
+    "lectureId": "jO6RwevsOmY",
+    "category": "Pharmacology",
+    "title": "Static and cidal are not the same as target",
+    "prompt": "A microbiology laboratory tests several protein synthesis inhibitors against susceptible bacteria. A trainee assumes that every drug in this broad group merely stops growth without killing. Which class is the most important commonly taught exception to that assumption?",
+    "options": [
+      "Lincosamides",
+      "Chloramphenicol",
+      "Aminoglycosides",
+      "Tetracyclines",
+      "Glycylcyclines"
+    ],
+    "answer": "Aminoglycosides",
+    "explanation": "Aminoglycosides are generally bactericidal despite acting on bacterial protein synthesis.",
+    "distractorExplanations": {
+      "Aminoglycosides": "Aminoglycosides are generally bactericidal despite acting on bacterial protein synthesis.",
+      "Tetracyclines": "These are generally classified as bacteriostatic.",
+      "Glycylcyclines": "These are generally classified as bacteriostatic.",
+      "Lincosamides": "These are generally bacteriostatic; the standard broad-class exception is aminoglycosides.",
+      "Chloramphenicol": "It is generally taught as bacteriostatic, although organism-specific exceptions exist."
+    },
+    "references": [
+      {
+        "title": "Source lecture — protein synthesis inhibitor overview",
+        "url": "https://www.youtube.com/watch?v=jO6RwevsOmY"
+      },
+      {
+        "title": "DailyMed — doxycycline mechanism",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a990e1bd-e126-43eb-84dc-2537a5f0ff94"
+      },
+      {
+        "title": "DailyMed — gentamicin mechanism",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a73a5453-c091-43fd-aae2-d992152363b1"
+      },
+      {
+        "title": "DailyMed — linezolid mechanism and organism-dependent activity",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7402aa01-50de-46c8-a341-d30da5b32b1c"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-protein-intro-3",
+    "lectureId": "jO6RwevsOmY",
+    "category": "Pharmacology",
+    "title": "An initiation-complex inhibitor",
+    "prompt": "An isolate of a resistant gram-positive organism is treated with linezolid after susceptibility review. The drug binds bacterial 23S rRNA and prevents assembly of a functional initiation complex. Which ribosomal subunit contains the binding site described?",
+    "options": [
+      "80S as an isolated bacterial subunit",
+      "50S",
+      "30S",
+      "40S",
+      "60S"
+    ],
+    "answer": "50S",
+    "explanation": "Linezolid binds 23S rRNA in the bacterial 50S subunit.",
+    "distractorExplanations": {
+      "50S": "Linezolid binds 23S rRNA in the bacterial 50S subunit.",
+      "30S": "This is the bacterial small subunit targeted by classes such as tetracyclines.",
+      "40S": "This is the mammalian cytoplasmic small subunit.",
+      "60S": "This is the mammalian cytoplasmic large subunit.",
+      "80S as an isolated bacterial subunit": "80S describes the complete mammalian cytoplasmic ribosome, not a bacterial subunit."
+    },
+    "references": [
+      {
+        "title": "Source lecture — protein synthesis inhibitor overview",
+        "url": "https://www.youtube.com/watch?v=jO6RwevsOmY"
+      },
+      {
+        "title": "DailyMed — doxycycline mechanism",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a990e1bd-e126-43eb-84dc-2537a5f0ff94"
+      },
+      {
+        "title": "DailyMed — gentamicin mechanism",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a73a5453-c091-43fd-aae2-d992152363b1"
+      },
+      {
+        "title": "DailyMed — linezolid mechanism and organism-dependent activity",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7402aa01-50de-46c8-a341-d30da5b32b1c"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-protein-intro-4",
+    "lectureId": "jO6RwevsOmY",
+    "category": "Pharmacology",
+    "title": "Organism-dependent activity",
+    "prompt": "A laboratory finds that linezolid inhibits growth of an enterococcal isolate without rapid killing, but kills a susceptible streptococcal isolate under the test conditions. Which conclusion best interprets these findings?",
+    "options": [
+      "Static or cidal behavior can depend on the organism and test conditions",
+      "The laboratory must be wrong because each drug has one universal killing label",
+      "Linezolid has become a beta-lactam against streptococci",
+      "A cidal test result proves activity at every infection site",
+      "A static test result proves the drug cannot ever be clinically useful"
+    ],
+    "answer": "Static or cidal behavior can depend on the organism and test conditions",
+    "explanation": "The drug class alone does not establish an identical killing pattern for every organism.",
+    "distractorExplanations": {
+      "Static or cidal behavior can depend on the organism and test conditions": "The drug class alone does not establish an identical killing pattern for every organism.",
+      "The laboratory must be wrong because each drug has one universal killing label": "Antibacterial behavior is not universally fixed across organisms and conditions.",
+      "Linezolid has become a beta-lactam against streptococci": "The target mechanism does not change drug class in this way.",
+      "A cidal test result proves activity at every infection site": "Distribution, exposure and the clinical setting remain important.",
+      "A static test result proves the drug cannot ever be clinically useful": "Clinical effectiveness is not excluded solely by the bacteriostatic label."
+    },
+    "references": [
+      {
+        "title": "Source lecture — protein synthesis inhibitor overview",
+        "url": "https://www.youtube.com/watch?v=jO6RwevsOmY"
+      },
+      {
+        "title": "DailyMed — doxycycline mechanism",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a990e1bd-e126-43eb-84dc-2537a5f0ff94"
+      },
+      {
+        "title": "DailyMed — gentamicin mechanism",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a73a5453-c091-43fd-aae2-d992152363b1"
+      },
+      {
+        "title": "DailyMed — linezolid mechanism and organism-dependent activity",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7402aa01-50de-46c8-a341-d30da5b32b1c"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-protein-intro-5",
+    "lectureId": "jO6RwevsOmY",
+    "category": "Pharmacology",
+    "title": "Comparing bacterial and human translation",
+    "prompt": "A researcher compares translation in a bacterial culture with translation in a human cytoplasmic cell extract. A candidate antibacterial compound inhibits the bacterial preparation at concentrations that spare the human preparation. Which structural comparison provides the correct starting framework for investigating this selectivity?",
+    "options": [
+      "Bacterial 40S/60S versus mammalian 30S/50S",
+      "Bacterial 30S/60S versus mammalian 40S/50S",
+      "Identical 40S/60S subunits in both systems",
+      "No ribosomes in bacteria versus 40S/60S in mammals",
+      "Bacterial 30S/50S versus mammalian cytoplasmic 40S/60S subunits"
+    ],
+    "answer": "Bacterial 30S/50S versus mammalian cytoplasmic 40S/60S subunits",
+    "explanation": "The subunit differences provide a basis for selective inhibition, although selectivity does not guarantee absence of adverse effects.",
+    "distractorExplanations": {
+      "Bacterial 30S/50S versus mammalian cytoplasmic 40S/60S subunits": "The subunit differences provide a basis for selective inhibition, although selectivity does not guarantee absence of adverse effects.",
+      "Bacterial 40S/60S versus mammalian 30S/50S": "This reverses the cytoplasmic ribosomal subunit assignments.",
+      "Bacterial 30S/60S versus mammalian 40S/50S": "The large-subunit assignments are mixed incorrectly.",
+      "Identical 40S/60S subunits in both systems": "This removes the actual bacterial-versus-cytoplasmic distinction.",
+      "No ribosomes in bacteria versus 40S/60S in mammals": "Bacteria synthesize proteins using ribosomes."
+    },
+    "references": [
+      {
+        "title": "Source lecture — protein synthesis inhibitor overview",
+        "url": "https://www.youtube.com/watch?v=jO6RwevsOmY"
+      },
+      {
+        "title": "DailyMed — doxycycline mechanism",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a990e1bd-e126-43eb-84dc-2537a5f0ff94"
+      },
+      {
+        "title": "DailyMed — gentamicin mechanism",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a73a5453-c091-43fd-aae2-d992152363b1"
+      },
+      {
+        "title": "DailyMed — linezolid mechanism and organism-dependent activity",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7402aa01-50de-46c8-a341-d30da5b32b1c"
+      }
+    ]
+  }
+]

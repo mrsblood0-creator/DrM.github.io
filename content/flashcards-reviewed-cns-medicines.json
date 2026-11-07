@@ -1,0 +1,987 @@
+[
+  {
+    "id": "reviewed-cns-medicines-rtjRDUCv7DE-1-fc",
+    "lectureId": "rtjRDUCv7DE",
+    "front": "What is suvorexant’s principal receptor mechanism?",
+    "back": "Orexin receptor antagonism",
+    "explanation": "Suvorexant blocks wake-promoting orexin signaling at OX1 and OX2 receptors.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=rtjRDUCv7DE"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/204569s006lbl.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-rtjRDUCv7DE-2-fc",
+    "lectureId": "rtjRDUCv7DE",
+    "front": "Which sleep disorder is a contraindication to suvorexant?",
+    "back": "Narcolepsy",
+    "explanation": "Suvorexant is contraindicated in narcolepsy because orexin antagonism can worsen related symptoms.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=rtjRDUCv7DE"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/204569s006lbl.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-rtjRDUCv7DE-3-fc",
+    "lectureId": "rtjRDUCv7DE",
+    "front": "What morning safety problem can occur after suvorexant?",
+    "back": "Residual next-day impairment",
+    "explanation": "Sedative effects may persist after awakening and impair driving even when the patient feels awake.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=rtjRDUCv7DE"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/204569s006lbl.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-rtjRDUCv7DE-4-fc",
+    "lectureId": "rtjRDUCv7DE",
+    "front": "Why is suvorexant combined with opioids or alcohol concerning?",
+    "back": "Additive CNS and respiratory depression",
+    "explanation": "Combining sedatives with opioids or alcohol increases risk of profound sedation and respiratory depression.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=rtjRDUCv7DE"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/204569s006lbl.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-rtjRDUCv7DE-5-fc",
+    "lectureId": "rtjRDUCv7DE",
+    "front": "How can strong CYP3A inhibitors affect suvorexant exposure?",
+    "back": "Reduced CYP3A-mediated clearance",
+    "explanation": "Strong CYP3A inhibition can increase suvorexant exposure; medication-specific interaction restrictions apply.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=rtjRDUCv7DE"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/204569s006lbl.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-m9bhT4zjh3I-1-fc",
+    "lectureId": "m9bhT4zjh3I",
+    "front": "Which signaling system mediates melatonin’s circadian effects?",
+    "back": "Melatonin receptor signaling",
+    "explanation": "Melatonin acts on circadian signaling, including MT1 and MT2 receptors, rather than acting as a benzodiazepine.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=m9bhT4zjh3I"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-m9bhT4zjh3I-2-fc",
+    "lectureId": "m9bhT4zjh3I",
+    "front": "Why does melatonin timing matter for circadian adjustment?",
+    "back": "Circadian timing matters",
+    "explanation": "Melatonin’s effect depends on timing relative to the biological clock; indiscriminate timing may not produce the intended phase shift.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=m9bhT4zjh3I"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-m9bhT4zjh3I-3-fc",
+    "lectureId": "m9bhT4zjh3I",
+    "front": "What alertness-related adverse effect can occur with melatonin?",
+    "back": "Residual next-day impairment",
+    "explanation": "Sedative effects may persist after awakening and impair driving even when the patient feels awake.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=m9bhT4zjh3I"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-m9bhT4zjh3I-4-fc",
+    "lectureId": "m9bhT4zjh3I",
+    "front": "Why review other sedatives when a patient uses melatonin?",
+    "back": "Additive sedation and impaired alertness",
+    "explanation": "Combining melatonin with other sedating substances can increase drowsiness and impairment; review all medicines and alcohol exposure.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=m9bhT4zjh3I"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-m9bhT4zjh3I-5-fc",
+    "lectureId": "m9bhT4zjh3I",
+    "front": "What history is important before escalating melatonin for new insomnia?",
+    "back": "Review medication exposure and symptom timing",
+    "explanation": "A careful history of new drugs, dose changes and withdrawal helps distinguish medication syndromes from other causes.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=m9bhT4zjh3I"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-1rxyECFjZ68-1-fc",
+    "lectureId": "1rxyECFjZ68",
+    "front": "What receptor action is central to buspirone pharmacology?",
+    "back": "5-HT1A partial agonism",
+    "explanation": "Buspirone’s anxiolytic action involves serotonergic modulation, especially partial agonism at 5-HT1A receptors.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=1rxyECFjZ68"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.medsafe.govt.nz/profs/datasheet/b/buspironeviatristab.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-1rxyECFjZ68-2-fc",
+    "lectureId": "1rxyECFjZ68",
+    "front": "Why is buspirone not used as immediate rescue treatment for anxiety?",
+    "back": "Delayed anxiolytic onset",
+    "explanation": "Buspirone usually requires repeated dosing over weeks and is not an immediate rescue medicine for a panic episode.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=1rxyECFjZ68"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.medsafe.govt.nz/profs/datasheet/b/buspironeviatristab.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-1rxyECFjZ68-3-fc",
+    "lectureId": "1rxyECFjZ68",
+    "front": "Does starting buspirone prevent dangerous withdrawal from abruptly stopped benzodiazepines?",
+    "back": "Dangerous sedative withdrawal",
+    "explanation": "Abrupt cessation after dependence can cause severe anxiety, autonomic symptoms and seizures; an individualized taper may be needed.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=1rxyECFjZ68"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.medsafe.govt.nz/profs/datasheet/b/buspironeviatristab.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-1rxyECFjZ68-4-fc",
+    "lectureId": "1rxyECFjZ68",
+    "front": "What should be reviewed when new symptoms follow an added serotonergic drug during buspirone treatment?",
+    "back": "Review medication exposure and symptom timing",
+    "explanation": "A careful history of new drugs, dose changes and withdrawal helps distinguish medication syndromes from other causes.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=1rxyECFjZ68"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.medsafe.govt.nz/profs/datasheet/b/buspironeviatristab.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-1rxyECFjZ68-5-fc",
+    "lectureId": "1rxyECFjZ68",
+    "front": "What functional safety issue should be assessed when buspirone causes dizziness or drowsiness?",
+    "back": "Residual next-day impairment",
+    "explanation": "Sedative effects may persist after awakening and impair driving even when the patient feels awake.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=1rxyECFjZ68"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.medsafe.govt.nz/profs/datasheet/b/buspironeviatristab.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-kqtm_xEGY5c-1-fc",
+    "lectureId": "kqtm_xEGY5c",
+    "front": "What inhibitory receptor mechanism is shared by Z-drugs and benzodiazepines?",
+    "back": "GABA-A positive allosteric modulation",
+    "explanation": "Benzodiazepines and Z-drugs enhance GABA-A-mediated inhibition through the benzodiazepine site.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=kqtm_xEGY5c"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.fda.gov/consumers/consumer-updates/taking-z-drugs-insomnia-know-risks"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-kqtm_xEGY5c-2-fc",
+    "lectureId": "kqtm_xEGY5c",
+    "front": "What serious behavior-related adverse effect can occur with Z-drugs?",
+    "back": "Complex sleep behavior",
+    "explanation": "Sleepwalking, sleep-driving or other activities without full awareness can occur with Z-drugs and require discontinuation and clinical review.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=kqtm_xEGY5c"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.fda.gov/consumers/consumer-updates/taking-z-drugs-insomnia-know-risks"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-kqtm_xEGY5c-3-fc",
+    "lectureId": "kqtm_xEGY5c",
+    "front": "Why can driving be unsafe the morning after a Z-drug?",
+    "back": "Residual next-day impairment",
+    "explanation": "Sedative effects may persist after awakening and impair driving even when the patient feels awake.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=kqtm_xEGY5c"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.fda.gov/consumers/consumer-updates/taking-z-drugs-insomnia-know-risks"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-kqtm_xEGY5c-4-fc",
+    "lectureId": "kqtm_xEGY5c",
+    "front": "What major risk increases when Z-drugs are combined with opioids or alcohol?",
+    "back": "Additive CNS and respiratory depression",
+    "explanation": "Combining sedatives with opioids or alcohol increases risk of profound sedation and respiratory depression.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=kqtm_xEGY5c"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.fda.gov/consumers/consumer-updates/taking-z-drugs-insomnia-know-risks"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-kqtm_xEGY5c-5-fc",
+    "lectureId": "kqtm_xEGY5c",
+    "front": "What injury risk is increased by nighttime hypnotic-related imbalance in older adults?",
+    "back": "Sedation-related falls",
+    "explanation": "Impaired balance, coordination and alertness increase falls risk, especially in older adults.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=kqtm_xEGY5c"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.fda.gov/consumers/consumer-updates/taking-z-drugs-insomnia-know-risks"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-fCd7uzoqjlM-1-fc",
+    "lectureId": "fCd7uzoqjlM",
+    "front": "How do benzodiazepines alter GABA-A channel opening?",
+    "back": "Increased frequency of GABA-A channel opening",
+    "explanation": "Benzodiazepines increase opening frequency in the presence of GABA.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=fCd7uzoqjlM"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-requiring-boxed-warning-updated-improve-safe-use-benzodiazepine-drug-class"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-fCd7uzoqjlM-2-fc",
+    "lectureId": "fCd7uzoqjlM",
+    "front": "What can abrupt cessation of a dependent benzodiazepine regimen cause?",
+    "back": "Dangerous sedative withdrawal",
+    "explanation": "Abrupt cessation after dependence can cause severe anxiety, autonomic symptoms and seizures; an individualized taper may be needed.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=fCd7uzoqjlM"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-requiring-boxed-warning-updated-improve-safe-use-benzodiazepine-drug-class"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-fCd7uzoqjlM-3-fc",
+    "lectureId": "fCd7uzoqjlM",
+    "front": "What is the major danger of benzodiazepine-opioid combinations?",
+    "back": "Additive CNS and respiratory depression",
+    "explanation": "Combining sedatives with opioids or alcohol increases risk of profound sedation and respiratory depression.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=fCd7uzoqjlM"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-requiring-boxed-warning-updated-improve-safe-use-benzodiazepine-drug-class"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-fCd7uzoqjlM-4-fc",
+    "lectureId": "fCd7uzoqjlM",
+    "front": "What is the general approach to discontinuing a benzodiazepine after dependence develops?",
+    "back": "Individualized gradual reduction",
+    "explanation": "Dependent patients need a clinician-guided taper rather than abrupt cessation or a universal fixed schedule.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=fCd7uzoqjlM"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-requiring-boxed-warning-updated-improve-safe-use-benzodiazepine-drug-class"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-fCd7uzoqjlM-5-fc",
+    "lectureId": "fCd7uzoqjlM",
+    "front": "What functional harm can benzodiazepine accumulation cause in older adults?",
+    "back": "Sedation-related falls",
+    "explanation": "Impaired balance, coordination and alertness increase falls risk, especially in older adults.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=fCd7uzoqjlM"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-requiring-boxed-warning-updated-improve-safe-use-benzodiazepine-drug-class"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-6hxAwUugSlA-1-fc",
+    "lectureId": "6hxAwUugSlA",
+    "front": "How do barbiturates classically alter GABA-A channel opening?",
+    "back": "Prolonged GABA-A chloride-channel opening",
+    "explanation": "Barbiturates classically increase the duration of GABA-A channel opening and can produce profound depression at high exposure.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=6hxAwUugSlA"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-6hxAwUugSlA-2-fc",
+    "lectureId": "6hxAwUugSlA",
+    "front": "How can phenobarbital lower concentrations of other medicines?",
+    "back": "Hepatic enzyme induction",
+    "explanation": "Phenobarbital induces drug-metabolizing enzymes and can reduce exposure to susceptible coadministered medicines.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=6hxAwUugSlA"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-6hxAwUugSlA-3-fc",
+    "lectureId": "6hxAwUugSlA",
+    "front": "Which inherited metabolic disorder can be exacerbated by barbiturates?",
+    "back": "Precipitation of acute porphyria",
+    "explanation": "Barbiturates can provoke attacks in susceptible acute hepatic porphyrias.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=6hxAwUugSlA"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-6hxAwUugSlA-4-fc",
+    "lectureId": "6hxAwUugSlA",
+    "front": "Why can a single IV lipophilic anesthetic bolus have a brief brain effect?",
+    "back": "Redistribution from brain to other tissues",
+    "explanation": "A brief effect after an IV lipophilic anesthetic bolus can end through redistribution before elimination is complete.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=6hxAwUugSlA"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-6hxAwUugSlA-5-fc",
+    "lectureId": "6hxAwUugSlA",
+    "front": "What life-threatening toxicity can occur with excessive barbiturate exposure?",
+    "back": "Additive CNS and respiratory depression",
+    "explanation": "Combining sedatives with opioids or alcohol increases risk of profound sedation and respiratory depression.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=6hxAwUugSlA"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-9KcipF82jn4-1-fc",
+    "lectureId": "9KcipF82jn4",
+    "front": "Which Parkinson drug crosses into the brain and is converted to dopamine?",
+    "back": "Levodopa",
+    "explanation": "Levodopa crosses the blood-brain barrier and is converted to dopamine within the CNS.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=9KcipF82jn4"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-9KcipF82jn4-2-fc",
+    "lectureId": "9KcipF82jn4",
+    "front": "Which drug inhibits peripheral levodopa decarboxylation?",
+    "back": "Carbidopa",
+    "explanation": "Carbidopa inhibits peripheral aromatic L-amino-acid decarboxylase, reducing peripheral levodopa conversion.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=9KcipF82jn4"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-9KcipF82jn4-3-fc",
+    "lectureId": "9KcipF82jn4",
+    "front": "Which Parkinson adjunct inhibits COMT?",
+    "back": "Entacapone",
+    "explanation": "Entacapone inhibits COMT and can extend the effect of a levodopa dose.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=9KcipF82jn4"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-9KcipF82jn4-4-fc",
+    "lectureId": "9KcipF82jn4",
+    "front": "Which listed Parkinson drug inhibits MAO-B?",
+    "back": "Selegiline",
+    "explanation": "Selegiline inhibits MAO-B at usual Parkinson-treatment doses and reduces dopamine breakdown.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=9KcipF82jn4"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-9KcipF82jn4-5-fc",
+    "lectureId": "9KcipF82jn4",
+    "front": "Which direct dopamine agonist can cause impulse-control disorders and sleep attacks?",
+    "back": "Pramipexole",
+    "explanation": "Pramipexole directly stimulates dopamine receptors and can cause impulse-control disorders or sudden sleep episodes.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=9KcipF82jn4"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-d7_u2fBF2cI-1-fc",
+    "lectureId": "d7_u2fBF2cI",
+    "front": "For which difficult-to-treat psychotic illness does clozapine have a distinctive role?",
+    "back": "Treatment-resistant schizophrenia",
+    "explanation": "Clozapine has a particular role after adequate trials of other antipsychotics have failed, under specialist management.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=d7_u2fBF2cI"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.fda.gov/drugs/drug-safety-communications/fda-removes-risk-evaluation-and-mitigation-strategy-rems-program-antipsychotic-drug-clozapine"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-d7_u2fBF2cI-2-fc",
+    "lectureId": "d7_u2fBF2cI",
+    "front": "What hematologic toxicity is central to clozapine safety monitoring?",
+    "back": "Severe neutropenia",
+    "explanation": "Clozapine can cause severe neutropenia; ANC monitoring and assessment of infection symptoms remain clinically important.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=d7_u2fBF2cI"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.fda.gov/drugs/drug-safety-communications/fda-removes-risk-evaluation-and-mitigation-strategy-rems-program-antipsychotic-drug-clozapine"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-d7_u2fBF2cI-3-fc",
+    "lectureId": "d7_u2fBF2cI",
+    "front": "What cardiac inflammation can occur during clozapine treatment?",
+    "back": "Myocarditis",
+    "explanation": "New tachycardia, chest symptoms and inflammatory or cardiac-marker abnormalities during clozapine initiation warrant urgent evaluation for myocarditis.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=d7_u2fBF2cI"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.fda.gov/drugs/drug-safety-communications/fda-removes-risk-evaluation-and-mitigation-strategy-rems-program-antipsychotic-drug-clozapine"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-d7_u2fBF2cI-4-fc",
+    "lectureId": "d7_u2fBF2cI",
+    "front": "Why must constipation during clozapine therapy be taken seriously?",
+    "back": "Gastrointestinal hypomotility",
+    "explanation": "Clozapine-associated constipation can progress to ileus or obstruction and must not be dismissed as trivial.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=d7_u2fBF2cI"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.fda.gov/drugs/drug-safety-communications/fda-removes-risk-evaluation-and-mitigation-strategy-rems-program-antipsychotic-drug-clozapine"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-d7_u2fBF2cI-5-fc",
+    "lectureId": "d7_u2fBF2cI",
+    "front": "Did removal of the US clozapine REMS eliminate the need for ANC monitoring?",
+    "back": "Continue clinically indicated ANC monitoring",
+    "explanation": "Removal of the US clozapine REMS did not remove the risk of severe neutropenia or the need for monitoring in prescribing guidance.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=d7_u2fBF2cI"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.fda.gov/drugs/drug-safety-communications/fda-removes-risk-evaluation-and-mitigation-strategy-rems-program-antipsychotic-drug-clozapine"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-heTyT33hjzs-1-fc",
+    "lectureId": "heTyT33hjzs",
+    "front": "Which dopamine receptor action contributes to risperidone’s effects?",
+    "back": "Dopamine D2 receptor antagonism",
+    "explanation": "D2 blockade contributes to antipsychotic action and can cause motor and prolactin-related adverse effects.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=heTyT33hjzs"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2f9ea0cc-b86b-a11f-e063-6294a90a9620"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-heTyT33hjzs-2-fc",
+    "lectureId": "heTyT33hjzs",
+    "front": "What endocrine adverse effect can risperidone cause?",
+    "back": "Hyperprolactinemia",
+    "explanation": "D2 blockade in the tuberoinfundibular pathway can produce galactorrhea, menstrual disturbance and sexual dysfunction.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=heTyT33hjzs"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2f9ea0cc-b86b-a11f-e063-6294a90a9620"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-heTyT33hjzs-3-fc",
+    "lectureId": "heTyT33hjzs",
+    "front": "Which hypokinetic movement disorder can occur with risperidone?",
+    "back": "Drug-induced parkinsonism",
+    "explanation": "Nigrostriatal dopamine blockade can cause bradykinesia, rigidity and tremor.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=heTyT33hjzs"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2f9ea0cc-b86b-a11f-e063-6294a90a9620"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-heTyT33hjzs-4-fc",
+    "lectureId": "heTyT33hjzs",
+    "front": "Which metabolic measures require attention during risperidone therapy?",
+    "back": "Metabolic adverse effects",
+    "explanation": "Weight, glucose and lipids should be monitored with antipsychotics because metabolic risk varies but is clinically important.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=heTyT33hjzs"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2f9ea0cc-b86b-a11f-e063-6294a90a9620"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-heTyT33hjzs-5-fc",
+    "lectureId": "heTyT33hjzs",
+    "front": "Which receptor blockade contributes to risperidone-associated orthostatic hypotension?",
+    "back": "Alpha1 receptor blockade",
+    "explanation": "Blocking vascular alpha1 receptors reduces compensatory vasoconstriction and can cause orthostatic hypotension.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=heTyT33hjzs"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2f9ea0cc-b86b-a11f-e063-6294a90a9620"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-GHlXbNd_KxM-1-fc",
+    "lectureId": "GHlXbNd_KxM",
+    "front": "What acute movement reaction can cause torticollis after haloperidol?",
+    "back": "Acute dystonia",
+    "explanation": "Sustained painful muscle contractions such as torticollis or oculogyric crisis can follow dopamine-blocking treatment.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=GHlXbNd_KxM"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8ca14b79-6671-4e44-aa34-6564a92aa197"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-GHlXbNd_KxM-2-fc",
+    "lectureId": "GHlXbNd_KxM",
+    "front": "What haloperidol adverse effect can be mistaken for worsening agitation?",
+    "back": "Akathisia",
+    "explanation": "Subjective inner restlessness with pacing or inability to sit still can be a drug effect rather than worsening psychosis.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=GHlXbNd_KxM"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8ca14b79-6671-4e44-aa34-6564a92aa197"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-GHlXbNd_KxM-3-fc",
+    "lectureId": "GHlXbNd_KxM",
+    "front": "What chronic movement disorder can follow long-term haloperidol exposure?",
+    "back": "Tardive dyskinesia",
+    "explanation": "Repetitive involuntary orofacial or limb movements can emerge after chronic dopamine receptor blockade.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=GHlXbNd_KxM"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8ca14b79-6671-4e44-aa34-6564a92aa197"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-GHlXbNd_KxM-4-fc",
+    "lectureId": "GHlXbNd_KxM",
+    "front": "What syndrome combines fever, rigidity and autonomic instability after haloperidol?",
+    "back": "Neuroleptic malignant syndrome",
+    "explanation": "Fever, generalized rigidity, altered mental status, autonomic instability and elevated CK after dopamine blockade suggest NMS.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=GHlXbNd_KxM"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8ca14b79-6671-4e44-aa34-6564a92aa197"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-GHlXbNd_KxM-5-fc",
+    "lectureId": "GHlXbNd_KxM",
+    "front": "Which electrophysiologic risk should be considered with haloperidol and interacting medicines?",
+    "back": "QT prolongation",
+    "explanation": "Some antipsychotics can delay repolarization and increase torsades risk, especially with interacting drugs or electrolyte abnormalities.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=GHlXbNd_KxM"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8ca14b79-6671-4e44-aa34-6564a92aa197"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-Tsqj4mgn0bQ-1-fc",
+    "lectureId": "Tsqj4mgn0bQ",
+    "front": "Which dopamine receptor action contributes to chlorpromazine’s antipsychotic effect?",
+    "back": "Dopamine D2 receptor antagonism",
+    "explanation": "D2 blockade contributes to antipsychotic action and can cause motor and prolactin-related adverse effects.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Tsqj4mgn0bQ"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-Tsqj4mgn0bQ-2-fc",
+    "lectureId": "Tsqj4mgn0bQ",
+    "front": "Which chlorpromazine receptor effect causes postural hypotension?",
+    "back": "Alpha1 receptor blockade",
+    "explanation": "Blocking vascular alpha1 receptors reduces compensatory vasoconstriction and can cause orthostatic hypotension.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Tsqj4mgn0bQ"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-Tsqj4mgn0bQ-3-fc",
+    "lectureId": "Tsqj4mgn0bQ",
+    "front": "Which receptor blockade explains chlorpromazine-related dry mouth and urinary retention?",
+    "back": "Muscarinic receptor blockade",
+    "explanation": "Antimuscarinic effects include dry mouth, constipation, blurred vision and urinary retention.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Tsqj4mgn0bQ"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-Tsqj4mgn0bQ-4-fc",
+    "lectureId": "Tsqj4mgn0bQ",
+    "front": "Which receptor blockade contributes to chlorpromazine sedation?",
+    "back": "Histamine H1 receptor blockade",
+    "explanation": "H1 blockade contributes to sedation and weight gain with some antipsychotics.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Tsqj4mgn0bQ"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-Tsqj4mgn0bQ-5-fc",
+    "lectureId": "Tsqj4mgn0bQ",
+    "front": "What characteristic hepatic injury can occur with chlorpromazine?",
+    "back": "Cholestatic drug-induced liver injury",
+    "explanation": "Chlorpromazine can cause cholestatic liver injury with jaundice and pruritus.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Tsqj4mgn0bQ"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-Z6hYtxhTPaE-1-fc",
+    "lectureId": "Z6hYtxhTPaE",
+    "front": "Which receptor blockade links many antipsychotic benefits with motor and prolactin effects?",
+    "back": "Dopamine D2 receptor antagonism",
+    "explanation": "D2 blockade contributes to antipsychotic action and can cause motor and prolactin-related adverse effects.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Z6hYtxhTPaE"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-Z6hYtxhTPaE-2-fc",
+    "lectureId": "Z6hYtxhTPaE",
+    "front": "Which antipsychotic movement effect presents as inner restlessness?",
+    "back": "Akathisia",
+    "explanation": "Subjective inner restlessness with pacing or inability to sit still can be a drug effect rather than worsening psychosis.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Z6hYtxhTPaE"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-Z6hYtxhTPaE-3-fc",
+    "lectureId": "Z6hYtxhTPaE",
+    "front": "What hormonal consequence can follow tuberoinfundibular D2 blockade?",
+    "back": "Hyperprolactinemia",
+    "explanation": "D2 blockade in the tuberoinfundibular pathway can produce galactorrhea, menstrual disturbance and sexual dysfunction.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Z6hYtxhTPaE"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-Z6hYtxhTPaE-4-fc",
+    "lectureId": "Z6hYtxhTPaE",
+    "front": "Why monitor weight, glucose and lipids during antipsychotic treatment?",
+    "back": "Metabolic adverse effects",
+    "explanation": "Weight, glucose and lipids should be monitored with antipsychotics because metabolic risk varies but is clinically important.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Z6hYtxhTPaE"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-Z6hYtxhTPaE-5-fc",
+    "lectureId": "Z6hYtxhTPaE",
+    "front": "Which emergency syndrome must be considered with fever and rigidity during antipsychotic therapy?",
+    "back": "Neuroleptic malignant syndrome",
+    "explanation": "Fever, generalized rigidity, altered mental status, autonomic instability and elevated CK after dopamine blockade suggest NMS.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Z6hYtxhTPaE"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-PB88X1wO4aA-1-fc",
+    "lectureId": "PB88X1wO4aA",
+    "front": "What syndrome follows dopamine blockade with hyperthermia, rigidity and autonomic instability?",
+    "back": "Neuroleptic malignant syndrome",
+    "explanation": "Fever, generalized rigidity, altered mental status, autonomic instability and elevated CK after dopamine blockade suggest NMS.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=PB88X1wO4aA"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-PB88X1wO4aA-2-fc",
+    "lectureId": "PB88X1wO4aA",
+    "front": "What is the initial treatment principle for suspected NMS?",
+    "back": "Stop the suspected causative drug and arrange urgent supportive care",
+    "explanation": "Suspected NMS requires urgent assessment, withdrawal of the causative agent and supportive management; severe cases may need specialist therapies.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=PB88X1wO4aA"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-PB88X1wO4aA-3-fc",
+    "lectureId": "PB88X1wO4aA",
+    "front": "Why monitor renal function closely when NMS causes rhabdomyolysis?",
+    "back": "Monitor renal function and manage rhabdomyolysis risk",
+    "explanation": "Marked CK elevation and myoglobin release can cause acute kidney injury in severe muscle injury.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=PB88X1wO4aA"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-PB88X1wO4aA-4-fc",
+    "lectureId": "PB88X1wO4aA",
+    "front": "What medication history is essential when NMS is suspected?",
+    "back": "Review medication exposure and symptom timing",
+    "explanation": "A careful history of new drugs, dose changes and withdrawal helps distinguish medication syndromes from other causes.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=PB88X1wO4aA"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-cns-medicines-PB88X1wO4aA-5-fc",
+    "lectureId": "PB88X1wO4aA",
+    "front": "What NMS-like syndrome can follow abrupt withdrawal of dopaminergic therapy?",
+    "back": "Parkinsonism-hyperpyrexia syndrome",
+    "explanation": "Abrupt withdrawal of dopaminergic therapy can produce a dangerous NMS-like syndrome with rigidity, hyperthermia and autonomic instability.",
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=PB88X1wO4aA"
+      }
+    ]
+  }
+]

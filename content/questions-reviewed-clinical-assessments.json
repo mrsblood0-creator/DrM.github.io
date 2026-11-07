@@ -1,0 +1,1157 @@
+[
+  {
+    "id": "reviewed-clinical-assessments-2y7SaQNkKPY-1",
+    "lectureId": "2y7SaQNkKPY",
+    "title": "Depression assessment: 1",
+    "prompt": "A patient has persistent low mood, loss of interest, poor sleep and reduced energy for three weeks, with impaired work function. Which diagnostic assessment is appropriate rather than labeling the symptoms from one isolated bad day?",
+    "options": [
+      "Assess for a depressive episode",
+      "Assess prior mania or hypomania",
+      "Immediate suicide-risk assessment and safety planning",
+      "Depression with psychotic symptoms",
+      "A recurrent seasonal pattern"
+    ],
+    "answer": "Assess for a depressive episode",
+    "explanation": "Persistent low mood or loss of interest with associated symptoms and impairment requires a full diagnostic assessment, usually over at least two weeks.",
+    "distractorExplanations": {
+      "Assess for a depressive episode": "Persistent low mood or loss of interest with associated symptoms and impairment requires a full diagnostic assessment, usually over at least two weeks.",
+      "Assess prior mania or hypomania": "A history of elevated mood, reduced need for sleep and increased activity may indicate bipolar disorder rather than unipolar depression. This does not best answer the specific question in this case.",
+      "Immediate suicide-risk assessment and safety planning": "Current suicidal intent, planning or inability to stay safe requires urgent assessment and protective support. This does not best answer the specific question in this case.",
+      "Depression with psychotic symptoms": "Mood episodes may include delusions or hallucinations; psychotic features change assessment and treatment urgency. This does not best answer the specific question in this case.",
+      "A recurrent seasonal pattern": "Repeated episodes linked to a particular season, with remission at other times, support a seasonal course pattern after alternatives are assessed. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=2y7SaQNkKPY"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.who.int/publications/i/item/9789240077263"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-clinical-assessments-2y7SaQNkKPY-2",
+    "lectureId": "2y7SaQNkKPY",
+    "title": "Depression assessment: 2",
+    "prompt": "A patient presenting with depression describes earlier periods of markedly increased activity, reduced need for sleep and unusually elevated mood. Which history-based diagnostic consideration is essential before assuming a unipolar depressive disorder?",
+    "options": [
+      "Assess for a depressive episode",
+      "Immediate suicide-risk assessment and safety planning",
+      "Depression with psychotic symptoms",
+      "A recurrent seasonal pattern",
+      "Assess prior mania or hypomania"
+    ],
+    "answer": "Assess prior mania or hypomania",
+    "explanation": "A history of elevated mood, reduced need for sleep and increased activity may indicate bipolar disorder rather than unipolar depression.",
+    "distractorExplanations": {
+      "Assess prior mania or hypomania": "A history of elevated mood, reduced need for sleep and increased activity may indicate bipolar disorder rather than unipolar depression.",
+      "Assess for a depressive episode": "Persistent low mood or loss of interest with associated symptoms and impairment requires a full diagnostic assessment, usually over at least two weeks. This does not best answer the specific question in this case.",
+      "Immediate suicide-risk assessment and safety planning": "Current suicidal intent, planning or inability to stay safe requires urgent assessment and protective support. This does not best answer the specific question in this case.",
+      "Depression with psychotic symptoms": "Mood episodes may include delusions or hallucinations; psychotic features change assessment and treatment urgency. This does not best answer the specific question in this case.",
+      "A recurrent seasonal pattern": "Repeated episodes linked to a particular season, with remission at other times, support a seasonal course pattern after alternatives are assessed. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=2y7SaQNkKPY"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.who.int/publications/i/item/9789240077263"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-clinical-assessments-2y7SaQNkKPY-3",
+    "lectureId": "2y7SaQNkKPY",
+    "title": "Depression assessment: 3",
+    "prompt": "A depressed patient describes current suicidal intent, a specific plan and access to the means, and cannot commit to staying safe. Which assessment and care priority takes precedence over routine symptom scoring alone?",
+    "options": [
+      "Assess prior mania or hypomania",
+      "Depression with psychotic symptoms",
+      "A recurrent seasonal pattern",
+      "Immediate suicide-risk assessment and safety planning",
+      "Assess for a depressive episode"
+    ],
+    "answer": "Immediate suicide-risk assessment and safety planning",
+    "explanation": "Current suicidal intent, planning or inability to stay safe requires urgent assessment and protective support.",
+    "distractorExplanations": {
+      "Immediate suicide-risk assessment and safety planning": "Current suicidal intent, planning or inability to stay safe requires urgent assessment and protective support.",
+      "Assess for a depressive episode": "Persistent low mood or loss of interest with associated symptoms and impairment requires a full diagnostic assessment, usually over at least two weeks. This does not best answer the specific question in this case.",
+      "Assess prior mania or hypomania": "A history of elevated mood, reduced need for sleep and increased activity may indicate bipolar disorder rather than unipolar depression. This does not best answer the specific question in this case.",
+      "Depression with psychotic symptoms": "Mood episodes may include delusions or hallucinations; psychotic features change assessment and treatment urgency. This does not best answer the specific question in this case.",
+      "A recurrent seasonal pattern": "Repeated episodes linked to a particular season, with remission at other times, support a seasonal course pattern after alternatives are assessed. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=2y7SaQNkKPY"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.who.int/publications/i/item/9789240077263"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-clinical-assessments-2y7SaQNkKPY-4",
+    "lectureId": "2y7SaQNkKPY",
+    "title": "Depression assessment: 4",
+    "prompt": "During a severe depressive episode, a patient develops a fixed false belief that the body has irreversibly decayed. Which clinical feature category should be recognized because it changes the severity assessment and treatment approach?",
+    "options": [
+      "Immediate suicide-risk assessment and safety planning",
+      "A recurrent seasonal pattern",
+      "Depression with psychotic symptoms",
+      "Assess for a depressive episode",
+      "Assess prior mania or hypomania"
+    ],
+    "answer": "Depression with psychotic symptoms",
+    "explanation": "Mood episodes may include delusions or hallucinations; psychotic features change assessment and treatment urgency.",
+    "distractorExplanations": {
+      "Depression with psychotic symptoms": "Mood episodes may include delusions or hallucinations; psychotic features change assessment and treatment urgency.",
+      "Assess for a depressive episode": "Persistent low mood or loss of interest with associated symptoms and impairment requires a full diagnostic assessment, usually over at least two weeks. This does not best answer the specific question in this case.",
+      "Assess prior mania or hypomania": "A history of elevated mood, reduced need for sleep and increased activity may indicate bipolar disorder rather than unipolar depression. This does not best answer the specific question in this case.",
+      "Immediate suicide-risk assessment and safety planning": "Current suicidal intent, planning or inability to stay safe requires urgent assessment and protective support. This does not best answer the specific question in this case.",
+      "A recurrent seasonal pattern": "Repeated episodes linked to a particular season, with remission at other times, support a seasonal course pattern after alternatives are assessed. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=2y7SaQNkKPY"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.who.int/publications/i/item/9789240077263"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-clinical-assessments-2y7SaQNkKPY-5",
+    "lectureId": "2y7SaQNkKPY",
+    "title": "Depression assessment: 5",
+    "prompt": "A patient has several depressive episodes recurring in winter, with consistent remission during other seasons. Other explanations are assessed. Which course pattern is suggested by the repeated temporal relationship rather than a single winter episode?",
+    "options": [
+      "Depression with psychotic symptoms",
+      "A recurrent seasonal pattern",
+      "Assess for a depressive episode",
+      "Assess prior mania or hypomania",
+      "Immediate suicide-risk assessment and safety planning"
+    ],
+    "answer": "A recurrent seasonal pattern",
+    "explanation": "Repeated episodes linked to a particular season, with remission at other times, support a seasonal course pattern after alternatives are assessed.",
+    "distractorExplanations": {
+      "A recurrent seasonal pattern": "Repeated episodes linked to a particular season, with remission at other times, support a seasonal course pattern after alternatives are assessed.",
+      "Assess for a depressive episode": "Persistent low mood or loss of interest with associated symptoms and impairment requires a full diagnostic assessment, usually over at least two weeks. This does not best answer the specific question in this case.",
+      "Assess prior mania or hypomania": "A history of elevated mood, reduced need for sleep and increased activity may indicate bipolar disorder rather than unipolar depression. This does not best answer the specific question in this case.",
+      "Immediate suicide-risk assessment and safety planning": "Current suicidal intent, planning or inability to stay safe requires urgent assessment and protective support. This does not best answer the specific question in this case.",
+      "Depression with psychotic symptoms": "Mood episodes may include delusions or hallucinations; psychotic features change assessment and treatment urgency. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=2y7SaQNkKPY"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.who.int/publications/i/item/9789240077263"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-clinical-assessments-VGOgvCTZbWQ-1",
+    "lectureId": "VGOgvCTZbWQ",
+    "title": "Epilepsy principles: 1",
+    "prompt": "A patient has two unprovoked seizures separated by several weeks, without an acute reversible trigger for either event. Which established diagnostic route supports epilepsy rather than treating the events as a single transient provoked episode?",
+    "options": [
+      "Acute symptomatic seizure",
+      "Focal seizure onset",
+      "Convulsive status epilepticus requiring emergency treatment",
+      "High predicted recurrence risk can establish epilepsy after one seizure",
+      "Epilepsy after two unprovoked seizures more than 24 hours apart"
+    ],
+    "answer": "Epilepsy after two unprovoked seizures more than 24 hours apart",
+    "explanation": "This is one route to the ILAE clinical definition; other routes include sufficiently high recurrence risk after one seizure or a defined epilepsy syndrome.",
+    "distractorExplanations": {
+      "Epilepsy after two unprovoked seizures more than 24 hours apart": "This is one route to the ILAE clinical definition; other routes include sufficiently high recurrence risk after one seizure or a defined epilepsy syndrome.",
+      "Acute symptomatic seizure": "A seizure during a transient acute metabolic insult does not by itself establish epilepsy. This does not best answer the specific question in this case.",
+      "Focal seizure onset": "Initial signs arising from a limited network in one hemisphere support focal onset, even if bilateral convulsions later occur. This does not best answer the specific question in this case.",
+      "Convulsive status epilepticus requiring emergency treatment": "An ongoing bilateral tonic-clonic seizure at five minutes warrants emergency treatment; do not wait for a prolonged historical threshold. This does not best answer the specific question in this case.",
+      "High predicted recurrence risk can establish epilepsy after one seizure": "The ILAE definition allows one unprovoked seizure with a recurrence risk of at least 60% over ten years in an appropriate assessment. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=VGOgvCTZbWQ"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.ilae.org/guidelines/guidelines-and-reports/a-practical-clinical-definition-of-epilepsy"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-clinical-assessments-VGOgvCTZbWQ-2",
+    "lectureId": "VGOgvCTZbWQ",
+    "title": "Epilepsy principles: 2",
+    "prompt": "A patient has a seizure during severe acute hypoglycemia and no prior unprovoked events. Which category best describes the seizure without automatically establishing an enduring predisposition to recurrent unprovoked seizures after the metabolic insult resolves?",
+    "options": [
+      "Focal seizure onset",
+      "Convulsive status epilepticus requiring emergency treatment",
+      "High predicted recurrence risk can establish epilepsy after one seizure",
+      "Acute symptomatic seizure",
+      "Epilepsy after two unprovoked seizures more than 24 hours apart"
+    ],
+    "answer": "Acute symptomatic seizure",
+    "explanation": "A seizure during a transient acute metabolic insult does not by itself establish epilepsy.",
+    "distractorExplanations": {
+      "Acute symptomatic seizure": "A seizure during a transient acute metabolic insult does not by itself establish epilepsy.",
+      "Epilepsy after two unprovoked seizures more than 24 hours apart": "This is one route to the ILAE clinical definition; other routes include sufficiently high recurrence risk after one seizure or a defined epilepsy syndrome. This does not best answer the specific question in this case.",
+      "Focal seizure onset": "Initial signs arising from a limited network in one hemisphere support focal onset, even if bilateral convulsions later occur. This does not best answer the specific question in this case.",
+      "Convulsive status epilepticus requiring emergency treatment": "An ongoing bilateral tonic-clonic seizure at five minutes warrants emergency treatment; do not wait for a prolonged historical threshold. This does not best answer the specific question in this case.",
+      "High predicted recurrence risk can establish epilepsy after one seizure": "The ILAE definition allows one unprovoked seizure with a recurrence risk of at least 60% over ten years in an appropriate assessment. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=VGOgvCTZbWQ"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.ilae.org/guidelines/guidelines-and-reports/a-practical-clinical-definition-of-epilepsy"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-clinical-assessments-VGOgvCTZbWQ-3",
+    "lectureId": "VGOgvCTZbWQ",
+    "title": "Epilepsy principles: 3",
+    "prompt": "A seizure begins with rhythmic movement of one hand and progresses up the arm before bilateral convulsions occur. Which onset category is supported by the initial localized signs rather than the later bilateral appearance?",
+    "options": [
+      "Convulsive status epilepticus requiring emergency treatment",
+      "High predicted recurrence risk can establish epilepsy after one seizure",
+      "Focal seizure onset",
+      "Epilepsy after two unprovoked seizures more than 24 hours apart",
+      "Acute symptomatic seizure"
+    ],
+    "answer": "Focal seizure onset",
+    "explanation": "Initial signs arising from a limited network in one hemisphere support focal onset, even if bilateral convulsions later occur.",
+    "distractorExplanations": {
+      "Focal seizure onset": "Initial signs arising from a limited network in one hemisphere support focal onset, even if bilateral convulsions later occur.",
+      "Epilepsy after two unprovoked seizures more than 24 hours apart": "This is one route to the ILAE clinical definition; other routes include sufficiently high recurrence risk after one seizure or a defined epilepsy syndrome. This does not best answer the specific question in this case.",
+      "Acute symptomatic seizure": "A seizure during a transient acute metabolic insult does not by itself establish epilepsy. This does not best answer the specific question in this case.",
+      "Convulsive status epilepticus requiring emergency treatment": "An ongoing bilateral tonic-clonic seizure at five minutes warrants emergency treatment; do not wait for a prolonged historical threshold. This does not best answer the specific question in this case.",
+      "High predicted recurrence risk can establish epilepsy after one seizure": "The ILAE definition allows one unprovoked seizure with a recurrence risk of at least 60% over ten years in an appropriate assessment. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=VGOgvCTZbWQ"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.ilae.org/guidelines/guidelines-and-reports/a-practical-clinical-definition-of-epilepsy"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-clinical-assessments-VGOgvCTZbWQ-4",
+    "lectureId": "VGOgvCTZbWQ",
+    "title": "Epilepsy principles: 4",
+    "prompt": "A patient remains in continuous bilateral tonic-clonic seizure activity for five minutes without recovery. Which emergency classification and treatment principle applies rather than waiting another twenty-five minutes before starting urgent seizure management?",
+    "options": [
+      "High predicted recurrence risk can establish epilepsy after one seizure",
+      "Convulsive status epilepticus requiring emergency treatment",
+      "Epilepsy after two unprovoked seizures more than 24 hours apart",
+      "Acute symptomatic seizure",
+      "Focal seizure onset"
+    ],
+    "answer": "Convulsive status epilepticus requiring emergency treatment",
+    "explanation": "An ongoing bilateral tonic-clonic seizure at five minutes warrants emergency treatment; do not wait for a prolonged historical threshold.",
+    "distractorExplanations": {
+      "Convulsive status epilepticus requiring emergency treatment": "An ongoing bilateral tonic-clonic seizure at five minutes warrants emergency treatment; do not wait for a prolonged historical threshold.",
+      "Epilepsy after two unprovoked seizures more than 24 hours apart": "This is one route to the ILAE clinical definition; other routes include sufficiently high recurrence risk after one seizure or a defined epilepsy syndrome. This does not best answer the specific question in this case.",
+      "Acute symptomatic seizure": "A seizure during a transient acute metabolic insult does not by itself establish epilepsy. This does not best answer the specific question in this case.",
+      "Focal seizure onset": "Initial signs arising from a limited network in one hemisphere support focal onset, even if bilateral convulsions later occur. This does not best answer the specific question in this case.",
+      "High predicted recurrence risk can establish epilepsy after one seizure": "The ILAE definition allows one unprovoked seizure with a recurrence risk of at least 60% over ten years in an appropriate assessment. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=VGOgvCTZbWQ"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.ilae.org/guidelines/guidelines-and-reports/a-practical-clinical-definition-of-epilepsy"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-clinical-assessments-VGOgvCTZbWQ-5",
+    "lectureId": "VGOgvCTZbWQ",
+    "title": "Epilepsy principles: 5",
+    "prompt": "A patient has one unprovoked seizure and a specialist estimates a recurrence probability of at least 60% over ten years. Which ILAE diagnostic principle may apply despite the absence of a second event so far?",
+    "options": [
+      "High predicted recurrence risk can establish epilepsy after one seizure",
+      "Epilepsy after two unprovoked seizures more than 24 hours apart",
+      "Acute symptomatic seizure",
+      "Focal seizure onset",
+      "Convulsive status epilepticus requiring emergency treatment"
+    ],
+    "answer": "High predicted recurrence risk can establish epilepsy after one seizure",
+    "explanation": "The ILAE definition allows one unprovoked seizure with a recurrence risk of at least 60% over ten years in an appropriate assessment.",
+    "distractorExplanations": {
+      "High predicted recurrence risk can establish epilepsy after one seizure": "The ILAE definition allows one unprovoked seizure with a recurrence risk of at least 60% over ten years in an appropriate assessment.",
+      "Epilepsy after two unprovoked seizures more than 24 hours apart": "This is one route to the ILAE clinical definition; other routes include sufficiently high recurrence risk after one seizure or a defined epilepsy syndrome. This does not best answer the specific question in this case.",
+      "Acute symptomatic seizure": "A seizure during a transient acute metabolic insult does not by itself establish epilepsy. This does not best answer the specific question in this case.",
+      "Focal seizure onset": "Initial signs arising from a limited network in one hemisphere support focal onset, even if bilateral convulsions later occur. This does not best answer the specific question in this case.",
+      "Convulsive status epilepticus requiring emergency treatment": "An ongoing bilateral tonic-clonic seizure at five minutes warrants emergency treatment; do not wait for a prolonged historical threshold. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=VGOgvCTZbWQ"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.ilae.org/guidelines/guidelines-and-reports/a-practical-clinical-definition-of-epilepsy"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-clinical-assessments-0_2fuz8UDCM-1",
+    "lectureId": "0_2fuz8UDCM",
+    "title": "Infectious mononucleosis: 1",
+    "prompt": "A teenager has fever, pharyngitis, posterior cervical lymphadenopathy and atypical lymphocytes, with splenic enlargement on examination. Which infectious syndrome best unifies this pattern rather than interpreting the sore throat as an isolated local infection?",
+    "options": [
+      "An aminopenicillin-associated rash during EBV infection",
+      "Splenic rupture risk",
+      "Epstein-Barr virus infectious mononucleosis",
+      "Reactive cytotoxic T lymphocytes",
+      "Early negative heterophile testing does not exclude EBV"
+    ],
+    "answer": "Epstein-Barr virus infectious mononucleosis",
+    "explanation": "Fever, pharyngitis, posterior cervical lymphadenopathy and atypical lymphocytes are a classic presentation.",
+    "distractorExplanations": {
+      "Epstein-Barr virus infectious mononucleosis": "Fever, pharyngitis, posterior cervical lymphadenopathy and atypical lymphocytes are a classic presentation.",
+      "Reactive cytotoxic T lymphocytes": "The atypical lymphocytes in EBV mononucleosis are largely activated T cells responding to infected B cells. This does not best answer the specific question in this case.",
+      "Early negative heterophile testing does not exclude EBV": "Test sensitivity depends on timing and age; EBV-specific serology may be appropriate when suspicion persists. This does not best answer the specific question in this case.",
+      "An aminopenicillin-associated rash during EBV infection": "A rash after amoxicillin in EBV does not automatically establish permanent IgE-mediated penicillin allergy. This does not best answer the specific question in this case.",
+      "Splenic rupture risk": "Splenic enlargement during mononucleosis makes contact sports or abdominal trauma hazardous until medically cleared. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=0_2fuz8UDCM"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.cdc.gov/epstein-barr/about/mononucleosis.html"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-clinical-assessments-0_2fuz8UDCM-2",
+    "lectureId": "0_2fuz8UDCM",
+    "title": "Infectious mononucleosis: 2",
+    "prompt": "Blood film examination in EBV mononucleosis shows large atypical lymphocytes. Which cell population chiefly produces this reactive appearance, rather than assuming every unusual circulating lymphocyte is an EBV-infected malignant B cell?",
+    "options": [
+      "Splenic rupture risk",
+      "Reactive cytotoxic T lymphocytes",
+      "Epstein-Barr virus infectious mononucleosis",
+      "Early negative heterophile testing does not exclude EBV",
+      "An aminopenicillin-associated rash during EBV infection"
+    ],
+    "answer": "Reactive cytotoxic T lymphocytes",
+    "explanation": "The atypical lymphocytes in EBV mononucleosis are largely activated T cells responding to infected B cells.",
+    "distractorExplanations": {
+      "Reactive cytotoxic T lymphocytes": "The atypical lymphocytes in EBV mononucleosis are largely activated T cells responding to infected B cells.",
+      "Epstein-Barr virus infectious mononucleosis": "Fever, pharyngitis, posterior cervical lymphadenopathy and atypical lymphocytes are a classic presentation. This does not best answer the specific question in this case.",
+      "Early negative heterophile testing does not exclude EBV": "Test sensitivity depends on timing and age; EBV-specific serology may be appropriate when suspicion persists. This does not best answer the specific question in this case.",
+      "An aminopenicillin-associated rash during EBV infection": "A rash after amoxicillin in EBV does not automatically establish permanent IgE-mediated penicillin allergy. This does not best answer the specific question in this case.",
+      "Splenic rupture risk": "Splenic enlargement during mononucleosis makes contact sports or abdominal trauma hazardous until medically cleared. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=0_2fuz8UDCM"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.cdc.gov/epstein-barr/about/mononucleosis.html"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-clinical-assessments-0_2fuz8UDCM-3",
+    "lectureId": "0_2fuz8UDCM",
+    "title": "Infectious mononucleosis: 3",
+    "prompt": "A patient has a strongly suggestive early mononucleosis presentation but a negative heterophile test. Which testing principle explains why the result should not automatically end the evaluation when clinical suspicion remains substantial?",
+    "options": [
+      "Early negative heterophile testing does not exclude EBV",
+      "Epstein-Barr virus infectious mononucleosis",
+      "Reactive cytotoxic T lymphocytes",
+      "An aminopenicillin-associated rash during EBV infection",
+      "Splenic rupture risk"
+    ],
+    "answer": "Early negative heterophile testing does not exclude EBV",
+    "explanation": "Test sensitivity depends on timing and age; EBV-specific serology may be appropriate when suspicion persists.",
+    "distractorExplanations": {
+      "Early negative heterophile testing does not exclude EBV": "Test sensitivity depends on timing and age; EBV-specific serology may be appropriate when suspicion persists.",
+      "Epstein-Barr virus infectious mononucleosis": "Fever, pharyngitis, posterior cervical lymphadenopathy and atypical lymphocytes are a classic presentation. This does not best answer the specific question in this case.",
+      "Reactive cytotoxic T lymphocytes": "The atypical lymphocytes in EBV mononucleosis are largely activated T cells responding to infected B cells. This does not best answer the specific question in this case.",
+      "An aminopenicillin-associated rash during EBV infection": "A rash after amoxicillin in EBV does not automatically establish permanent IgE-mediated penicillin allergy. This does not best answer the specific question in this case.",
+      "Splenic rupture risk": "Splenic enlargement during mononucleosis makes contact sports or abdominal trauma hazardous until medically cleared. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=0_2fuz8UDCM"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.cdc.gov/epstein-barr/about/mononucleosis.html"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-clinical-assessments-0_2fuz8UDCM-4",
+    "lectureId": "0_2fuz8UDCM",
+    "title": "Infectious mononucleosis: 4",
+    "prompt": "A patient with EBV mononucleosis develops a diffuse rash after amoxicillin. There was no immediate wheezing or circulatory collapse. Which interpretation avoids automatically applying a permanent IgE-mediated allergy label without appropriate subsequent assessment?",
+    "options": [
+      "Epstein-Barr virus infectious mononucleosis",
+      "Reactive cytotoxic T lymphocytes",
+      "Early negative heterophile testing does not exclude EBV",
+      "Splenic rupture risk",
+      "An aminopenicillin-associated rash during EBV infection"
+    ],
+    "answer": "An aminopenicillin-associated rash during EBV infection",
+    "explanation": "A rash after amoxicillin in EBV does not automatically establish permanent IgE-mediated penicillin allergy.",
+    "distractorExplanations": {
+      "An aminopenicillin-associated rash during EBV infection": "A rash after amoxicillin in EBV does not automatically establish permanent IgE-mediated penicillin allergy.",
+      "Epstein-Barr virus infectious mononucleosis": "Fever, pharyngitis, posterior cervical lymphadenopathy and atypical lymphocytes are a classic presentation. This does not best answer the specific question in this case.",
+      "Reactive cytotoxic T lymphocytes": "The atypical lymphocytes in EBV mononucleosis are largely activated T cells responding to infected B cells. This does not best answer the specific question in this case.",
+      "Early negative heterophile testing does not exclude EBV": "Test sensitivity depends on timing and age; EBV-specific serology may be appropriate when suspicion persists. This does not best answer the specific question in this case.",
+      "Splenic rupture risk": "Splenic enlargement during mononucleosis makes contact sports or abdominal trauma hazardous until medically cleared. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=0_2fuz8UDCM"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.cdc.gov/epstein-barr/about/mononucleosis.html"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-clinical-assessments-0_2fuz8UDCM-5",
+    "lectureId": "0_2fuz8UDCM",
+    "title": "Infectious mononucleosis: 5",
+    "prompt": "An athlete with recent mononucleosis and splenic enlargement wants to return immediately to contact sport. Which complication explains the need for activity restriction and medical clearance rather than relying only on improved throat symptoms?",
+    "options": [
+      "Reactive cytotoxic T lymphocytes",
+      "Early negative heterophile testing does not exclude EBV",
+      "An aminopenicillin-associated rash during EBV infection",
+      "Splenic rupture risk",
+      "Epstein-Barr virus infectious mononucleosis"
+    ],
+    "answer": "Splenic rupture risk",
+    "explanation": "Splenic enlargement during mononucleosis makes contact sports or abdominal trauma hazardous until medically cleared.",
+    "distractorExplanations": {
+      "Splenic rupture risk": "Splenic enlargement during mononucleosis makes contact sports or abdominal trauma hazardous until medically cleared.",
+      "Epstein-Barr virus infectious mononucleosis": "Fever, pharyngitis, posterior cervical lymphadenopathy and atypical lymphocytes are a classic presentation. This does not best answer the specific question in this case.",
+      "Reactive cytotoxic T lymphocytes": "The atypical lymphocytes in EBV mononucleosis are largely activated T cells responding to infected B cells. This does not best answer the specific question in this case.",
+      "Early negative heterophile testing does not exclude EBV": "Test sensitivity depends on timing and age; EBV-specific serology may be appropriate when suspicion persists. This does not best answer the specific question in this case.",
+      "An aminopenicillin-associated rash during EBV infection": "A rash after amoxicillin in EBV does not automatically establish permanent IgE-mediated penicillin allergy. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=0_2fuz8UDCM"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.cdc.gov/epstein-barr/about/mononucleosis.html"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-clinical-assessments-LRSnJiTug_U-1",
+    "lectureId": "LRSnJiTug_U",
+    "title": "Burkitt lymphoma: 1",
+    "prompt": "A child has a rapidly enlarging abdominal mass composed of mature B cells with a MYC rearrangement and an extremely high proliferation index. Which lymphoma best fits the combined clinical and molecular findings?",
+    "options": [
+      "MYC activation",
+      "t(8;14) involving MYC and the immunoglobulin heavy-chain locus",
+      "Tingible-body macrophages among proliferating tumor cells",
+      "Tumor lysis syndrome",
+      "Burkitt lymphoma"
+    ],
+    "answer": "Burkitt lymphoma",
+    "explanation": "A rapidly growing mature B-cell lymphoma with MYC rearrangement and a very high proliferative rate fits Burkitt lymphoma.",
+    "distractorExplanations": {
+      "Burkitt lymphoma": "A rapidly growing mature B-cell lymphoma with MYC rearrangement and a very high proliferative rate fits Burkitt lymphoma.",
+      "MYC activation": "Dysregulated MYC promotes the rapid proliferation characteristic of Burkitt lymphoma. This does not best answer the specific question in this case.",
+      "t(8;14) involving MYC and the immunoglobulin heavy-chain locus": "This is the classic translocation; variant immunoglobulin-locus translocations also occur. This does not best answer the specific question in this case.",
+      "Tingible-body macrophages among proliferating tumor cells": "Macrophages containing apoptotic debris create the pale stars in the starry-sky pattern. This does not best answer the specific question in this case.",
+      "Tumor lysis syndrome": "Rapid cell breakdown can produce hyperkalemia, hyperphosphatemia, hyperuricemia and kidney injury before or after therapy. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=LRSnJiTug_U"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.cancer.gov/types/lymphoma/hp/child-nhl-treatment-pdq"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-clinical-assessments-LRSnJiTug_U-2",
+    "lectureId": "LRSnJiTug_U",
+    "title": "Burkitt lymphoma: 2",
+    "prompt": "Molecular testing in a rapidly proliferating B-cell lymphoma identifies dysregulation of a transcription factor that drives cell growth. Which oncogenic pathway is most characteristic of Burkitt lymphoma rather than a general marker of inflammation?",
+    "options": [
+      "t(8;14) involving MYC and the immunoglobulin heavy-chain locus",
+      "Tingible-body macrophages among proliferating tumor cells",
+      "Tumor lysis syndrome",
+      "MYC activation",
+      "Burkitt lymphoma"
+    ],
+    "answer": "MYC activation",
+    "explanation": "Dysregulated MYC promotes the rapid proliferation characteristic of Burkitt lymphoma.",
+    "distractorExplanations": {
+      "MYC activation": "Dysregulated MYC promotes the rapid proliferation characteristic of Burkitt lymphoma.",
+      "Burkitt lymphoma": "A rapidly growing mature B-cell lymphoma with MYC rearrangement and a very high proliferative rate fits Burkitt lymphoma. This does not best answer the specific question in this case.",
+      "t(8;14) involving MYC and the immunoglobulin heavy-chain locus": "This is the classic translocation; variant immunoglobulin-locus translocations also occur. This does not best answer the specific question in this case.",
+      "Tingible-body macrophages among proliferating tumor cells": "Macrophages containing apoptotic debris create the pale stars in the starry-sky pattern. This does not best answer the specific question in this case.",
+      "Tumor lysis syndrome": "Rapid cell breakdown can produce hyperkalemia, hyperphosphatemia, hyperuricemia and kidney injury before or after therapy. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=LRSnJiTug_U"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.cancer.gov/types/lymphoma/hp/child-nhl-treatment-pdq"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-clinical-assessments-LRSnJiTug_U-3",
+    "lectureId": "LRSnJiTug_U",
+    "title": "Burkitt lymphoma: 3",
+    "prompt": "A Burkitt lymphoma specimen shows juxtaposition of MYC with an immunoglobulin heavy-chain regulatory region. Which classic chromosomal rearrangement accounts for this molecular event and the resulting deregulated proliferative signaling in the tumor?",
+    "options": [
+      "Tingible-body macrophages among proliferating tumor cells",
+      "Tumor lysis syndrome",
+      "t(8;14) involving MYC and the immunoglobulin heavy-chain locus",
+      "Burkitt lymphoma",
+      "MYC activation"
+    ],
+    "answer": "t(8;14) involving MYC and the immunoglobulin heavy-chain locus",
+    "explanation": "This is the classic translocation; variant immunoglobulin-locus translocations also occur.",
+    "distractorExplanations": {
+      "t(8;14) involving MYC and the immunoglobulin heavy-chain locus": "This is the classic translocation; variant immunoglobulin-locus translocations also occur.",
+      "Burkitt lymphoma": "A rapidly growing mature B-cell lymphoma with MYC rearrangement and a very high proliferative rate fits Burkitt lymphoma. This does not best answer the specific question in this case.",
+      "MYC activation": "Dysregulated MYC promotes the rapid proliferation characteristic of Burkitt lymphoma. This does not best answer the specific question in this case.",
+      "Tingible-body macrophages among proliferating tumor cells": "Macrophages containing apoptotic debris create the pale stars in the starry-sky pattern. This does not best answer the specific question in this case.",
+      "Tumor lysis syndrome": "Rapid cell breakdown can produce hyperkalemia, hyperphosphatemia, hyperuricemia and kidney injury before or after therapy. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=LRSnJiTug_U"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.cancer.gov/types/lymphoma/hp/child-nhl-treatment-pdq"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-clinical-assessments-LRSnJiTug_U-4",
+    "lectureId": "LRSnJiTug_U",
+    "title": "Burkitt lymphoma: 4",
+    "prompt": "A biopsy shows a dense field of rapidly proliferating lymphoma cells interrupted by pale cells containing apoptotic debris. Which cellular component creates the pale stars in the classic starry-sky description of this tissue?",
+    "options": [
+      "Tumor lysis syndrome",
+      "Tingible-body macrophages among proliferating tumor cells",
+      "Burkitt lymphoma",
+      "MYC activation",
+      "t(8;14) involving MYC and the immunoglobulin heavy-chain locus"
+    ],
+    "answer": "Tingible-body macrophages among proliferating tumor cells",
+    "explanation": "Macrophages containing apoptotic debris create the pale stars in the starry-sky pattern.",
+    "distractorExplanations": {
+      "Tingible-body macrophages among proliferating tumor cells": "Macrophages containing apoptotic debris create the pale stars in the starry-sky pattern.",
+      "Burkitt lymphoma": "A rapidly growing mature B-cell lymphoma with MYC rearrangement and a very high proliferative rate fits Burkitt lymphoma. This does not best answer the specific question in this case.",
+      "MYC activation": "Dysregulated MYC promotes the rapid proliferation characteristic of Burkitt lymphoma. This does not best answer the specific question in this case.",
+      "t(8;14) involving MYC and the immunoglobulin heavy-chain locus": "This is the classic translocation; variant immunoglobulin-locus translocations also occur. This does not best answer the specific question in this case.",
+      "Tumor lysis syndrome": "Rapid cell breakdown can produce hyperkalemia, hyperphosphatemia, hyperuricemia and kidney injury before or after therapy. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=LRSnJiTug_U"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.cancer.gov/types/lymphoma/hp/child-nhl-treatment-pdq"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-clinical-assessments-LRSnJiTug_U-5",
+    "lectureId": "LRSnJiTug_U",
+    "title": "Burkitt lymphoma: 5",
+    "prompt": "A patient with a large Burkitt lymphoma develops high potassium, phosphate and urate with worsening kidney function around treatment initiation. Which metabolic emergency is explained by rapid breakdown of a large tumor-cell burden?",
+    "options": [
+      "Tumor lysis syndrome",
+      "Burkitt lymphoma",
+      "MYC activation",
+      "t(8;14) involving MYC and the immunoglobulin heavy-chain locus",
+      "Tingible-body macrophages among proliferating tumor cells"
+    ],
+    "answer": "Tumor lysis syndrome",
+    "explanation": "Rapid cell breakdown can produce hyperkalemia, hyperphosphatemia, hyperuricemia and kidney injury before or after therapy.",
+    "distractorExplanations": {
+      "Tumor lysis syndrome": "Rapid cell breakdown can produce hyperkalemia, hyperphosphatemia, hyperuricemia and kidney injury before or after therapy.",
+      "Burkitt lymphoma": "A rapidly growing mature B-cell lymphoma with MYC rearrangement and a very high proliferative rate fits Burkitt lymphoma. This does not best answer the specific question in this case.",
+      "MYC activation": "Dysregulated MYC promotes the rapid proliferation characteristic of Burkitt lymphoma. This does not best answer the specific question in this case.",
+      "t(8;14) involving MYC and the immunoglobulin heavy-chain locus": "This is the classic translocation; variant immunoglobulin-locus translocations also occur. This does not best answer the specific question in this case.",
+      "Tingible-body macrophages among proliferating tumor cells": "Macrophages containing apoptotic debris create the pale stars in the starry-sky pattern. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=LRSnJiTug_U"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.cancer.gov/types/lymphoma/hp/child-nhl-treatment-pdq"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-clinical-assessments-UXESa5Dtsmo-1",
+    "lectureId": "UXESa5Dtsmo",
+    "title": "CURB-65: 1",
+    "prompt": "A 42-year-old with community-acquired pneumonia is oriented. Urea is 5 mmol/L, respiratory rate 22/min and blood pressure 118/74 mmHg. What CURB-65 score results from these findings when each qualifying criterion contributes one point?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "0",
+    "explanation": "None of the five criteria is present, so the score is 0. Clinical judgment still matters.",
+    "distractorExplanations": {
+      "0": "None of the five criteria is present, so the score is 0. Clinical judgment still matters.",
+      "1": "CURB-65 assigns one point each for confusion, urea >7 mmol/L, respiratory rate ≥30/min, systolic pressure <90 or diastolic ≤60 mmHg, and age ≥65. This does not best answer the specific question in this case.",
+      "2": "CURB-65 assigns one point each for confusion, urea >7 mmol/L, respiratory rate ≥30/min, systolic pressure <90 or diastolic ≤60 mmHg, and age ≥65. This does not best answer the specific question in this case.",
+      "3": "CURB-65 assigns one point each for confusion, urea >7 mmol/L, respiratory rate ≥30/min, systolic pressure <90 or diastolic ≤60 mmHg, and age ≥65. This does not best answer the specific question in this case.",
+      "4": "CURB-65 assigns one point each for confusion, urea >7 mmol/L, respiratory rate ≥30/min, systolic pressure <90 or diastolic ≤60 mmHg, and age ≥65. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=UXESa5Dtsmo"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.nice.org.uk/guidance/NG250/chapter/recommendations"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-clinical-assessments-UXESa5Dtsmo-2",
+    "lectureId": "UXESa5Dtsmo",
+    "title": "CURB-65: 2",
+    "prompt": "A 70-year-old with community-acquired pneumonia is oriented. Urea is 5 mmol/L, respiratory rate 24/min and blood pressure 120/72 mmHg. What CURB-65 score results from the age and physiological findings described here?",
+    "options": [
+      "0",
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "answer": "1",
+    "explanation": "Age at least 65 contributes one point; the other criteria are absent.",
+    "distractorExplanations": {
+      "0": "CURB-65 assigns one point each for confusion, urea >7 mmol/L, respiratory rate ≥30/min, systolic pressure <90 or diastolic ≤60 mmHg, and age ≥65. This does not best answer the specific question in this case.",
+      "1": "Age at least 65 contributes one point; the other criteria are absent.",
+      "2": "CURB-65 assigns one point each for confusion, urea >7 mmol/L, respiratory rate ≥30/min, systolic pressure <90 or diastolic ≤60 mmHg, and age ≥65. This does not best answer the specific question in this case.",
+      "3": "CURB-65 assigns one point each for confusion, urea >7 mmol/L, respiratory rate ≥30/min, systolic pressure <90 or diastolic ≤60 mmHg, and age ≥65. This does not best answer the specific question in this case.",
+      "4": "CURB-65 assigns one point each for confusion, urea >7 mmol/L, respiratory rate ≥30/min, systolic pressure <90 or diastolic ≤60 mmHg, and age ≥65. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=UXESa5Dtsmo"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.nice.org.uk/guidance/NG250/chapter/recommendations"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-clinical-assessments-UXESa5Dtsmo-3",
+    "lectureId": "UXESa5Dtsmo",
+    "title": "CURB-65: 3",
+    "prompt": "A 68-year-old with community-acquired pneumonia is oriented. Urea is 9 mmol/L, respiratory rate 24/min and blood pressure 116/70 mmHg. What CURB-65 score is obtained by counting the qualifying criteria in this presentation?",
+    "options": [
+      "1",
+      "3",
+      "4",
+      "2",
+      "0"
+    ],
+    "answer": "2",
+    "explanation": "Age and urea each contribute one point, for a total of 2.",
+    "distractorExplanations": {
+      "0": "CURB-65 assigns one point each for confusion, urea >7 mmol/L, respiratory rate ≥30/min, systolic pressure <90 or diastolic ≤60 mmHg, and age ≥65. This does not best answer the specific question in this case.",
+      "1": "CURB-65 assigns one point each for confusion, urea >7 mmol/L, respiratory rate ≥30/min, systolic pressure <90 or diastolic ≤60 mmHg, and age ≥65. This does not best answer the specific question in this case.",
+      "2": "Age and urea each contribute one point, for a total of 2.",
+      "3": "CURB-65 assigns one point each for confusion, urea >7 mmol/L, respiratory rate ≥30/min, systolic pressure <90 or diastolic ≤60 mmHg, and age ≥65. This does not best answer the specific question in this case.",
+      "4": "CURB-65 assigns one point each for confusion, urea >7 mmol/L, respiratory rate ≥30/min, systolic pressure <90 or diastolic ≤60 mmHg, and age ≥65. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=UXESa5Dtsmo"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.nice.org.uk/guidance/NG250/chapter/recommendations"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-clinical-assessments-UXESa5Dtsmo-4",
+    "lectureId": "UXESa5Dtsmo",
+    "title": "CURB-65: 4",
+    "prompt": "A 72-year-old with community-acquired pneumonia is oriented. Urea is 10 mmol/L, respiratory rate 32/min and blood pressure 114/70 mmHg. What CURB-65 score follows from these findings rather than from the pneumonia diagnosis alone?",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "0",
+      "1"
+    ],
+    "answer": "3",
+    "explanation": "Age, elevated urea and respiratory rate each contribute one point, totaling 3.",
+    "distractorExplanations": {
+      "0": "CURB-65 assigns one point each for confusion, urea >7 mmol/L, respiratory rate ≥30/min, systolic pressure <90 or diastolic ≤60 mmHg, and age ≥65. This does not best answer the specific question in this case.",
+      "1": "CURB-65 assigns one point each for confusion, urea >7 mmol/L, respiratory rate ≥30/min, systolic pressure <90 or diastolic ≤60 mmHg, and age ≥65. This does not best answer the specific question in this case.",
+      "2": "CURB-65 assigns one point each for confusion, urea >7 mmol/L, respiratory rate ≥30/min, systolic pressure <90 or diastolic ≤60 mmHg, and age ≥65. This does not best answer the specific question in this case.",
+      "3": "Age, elevated urea and respiratory rate each contribute one point, totaling 3.",
+      "4": "CURB-65 assigns one point each for confusion, urea >7 mmol/L, respiratory rate ≥30/min, systolic pressure <90 or diastolic ≤60 mmHg, and age ≥65. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=UXESa5Dtsmo"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.nice.org.uk/guidance/NG250/chapter/recommendations"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-clinical-assessments-UXESa5Dtsmo-5",
+    "lectureId": "UXESa5Dtsmo",
+    "title": "CURB-65: 5",
+    "prompt": "A 78-year-old with community-acquired pneumonia is newly confused. Urea is 12 mmol/L, respiratory rate 34/min and blood pressure 84/56 mmHg. What CURB-65 score results when all the stated criteria are evaluated?",
+    "options": [
+      "3",
+      "5",
+      "0",
+      "1",
+      "2"
+    ],
+    "answer": "5",
+    "explanation": "All five criteria are present. Low systolic and diastolic pressure together still count as only one blood-pressure point.",
+    "distractorExplanations": {
+      "0": "CURB-65 assigns one point each for confusion, urea >7 mmol/L, respiratory rate ≥30/min, systolic pressure <90 or diastolic ≤60 mmHg, and age ≥65. This does not best answer the specific question in this case.",
+      "1": "CURB-65 assigns one point each for confusion, urea >7 mmol/L, respiratory rate ≥30/min, systolic pressure <90 or diastolic ≤60 mmHg, and age ≥65. This does not best answer the specific question in this case.",
+      "2": "CURB-65 assigns one point each for confusion, urea >7 mmol/L, respiratory rate ≥30/min, systolic pressure <90 or diastolic ≤60 mmHg, and age ≥65. This does not best answer the specific question in this case.",
+      "3": "CURB-65 assigns one point each for confusion, urea >7 mmol/L, respiratory rate ≥30/min, systolic pressure <90 or diastolic ≤60 mmHg, and age ≥65. This does not best answer the specific question in this case.",
+      "5": "All five criteria are present. Low systolic and diastolic pressure together still count as only one blood-pressure point."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=UXESa5Dtsmo"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.nice.org.uk/guidance/NG250/chapter/recommendations"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-clinical-assessments-pS4kTCLMFj0-1",
+    "lectureId": "pS4kTCLMFj0",
+    "title": "ASIA impairment scale: 1",
+    "prompt": "After spinal cord injury, standardized examination finds no sensory or motor preservation in the sacral S4-S5 segments, including no deep anal pressure or voluntary anal contraction. Which ASIA Impairment Scale category describes this complete injury?",
+    "options": [
+      "AIS C",
+      "AIS D",
+      "AIS E",
+      "AIS A",
+      "AIS B"
+    ],
+    "answer": "AIS A",
+    "explanation": "No sacral sensory or motor function is preserved at S4-S5.",
+    "distractorExplanations": {
+      "AIS A": "No sacral sensory or motor function is preserved at S4-S5.",
+      "AIS B": "Sacral sensory sparing is present, but motor-incomplete criteria are not met. This does not best answer the specific question in this case.",
+      "AIS C": "Motor-incomplete injury is present and fewer than half of key muscles below the single neurological level have grade at least 3. This does not best answer the specific question in this case.",
+      "AIS D": "Motor-incomplete injury is present and at least half of key muscles below the single neurological level have grade at least 3. This does not best answer the specific question in this case.",
+      "AIS E": "Sensory and motor examination is normal in a patient who previously had SCI-related deficits. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=pS4kTCLMFj0"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://asia-spinalinjury.org/isncsci-resources/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-clinical-assessments-pS4kTCLMFj0-2",
+    "lectureId": "pS4kTCLMFj0",
+    "title": "ASIA impairment scale: 2",
+    "prompt": "A spinal cord injury examination shows sacral sensory preservation but no motor function below the motor levels and no voluntary anal contraction. Which AIS category describes sensory-incomplete injury without meeting motor-incomplete criteria?",
+    "options": [
+      "AIS D",
+      "AIS E",
+      "AIS B",
+      "AIS A",
+      "AIS C"
+    ],
+    "answer": "AIS B",
+    "explanation": "Sacral sensory sparing is present, but motor-incomplete criteria are not met.",
+    "distractorExplanations": {
+      "AIS B": "Sacral sensory sparing is present, but motor-incomplete criteria are not met.",
+      "AIS A": "No sacral sensory or motor function is preserved at S4-S5. This does not best answer the specific question in this case.",
+      "AIS C": "Motor-incomplete injury is present and fewer than half of key muscles below the single neurological level have grade at least 3. This does not best answer the specific question in this case.",
+      "AIS D": "Motor-incomplete injury is present and at least half of key muscles below the single neurological level have grade at least 3. This does not best answer the specific question in this case.",
+      "AIS E": "Sensory and motor examination is normal in a patient who previously had SCI-related deficits. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=pS4kTCLMFj0"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://asia-spinalinjury.org/isncsci-resources/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-clinical-assessments-pS4kTCLMFj0-3",
+    "lectureId": "pS4kTCLMFj0",
+    "title": "ASIA impairment scale: 3",
+    "prompt": "A patient has motor-incomplete spinal cord injury with sacral motor sparing. Fewer than half of the key muscle functions below the single neurological level have strength of at least grade 3. Which AIS category applies?",
+    "options": [
+      "AIS E",
+      "AIS C",
+      "AIS A",
+      "AIS B",
+      "AIS D"
+    ],
+    "answer": "AIS C",
+    "explanation": "Motor-incomplete injury is present and fewer than half of key muscles below the single neurological level have grade at least 3.",
+    "distractorExplanations": {
+      "AIS C": "Motor-incomplete injury is present and fewer than half of key muscles below the single neurological level have grade at least 3.",
+      "AIS A": "No sacral sensory or motor function is preserved at S4-S5. This does not best answer the specific question in this case.",
+      "AIS B": "Sacral sensory sparing is present, but motor-incomplete criteria are not met. This does not best answer the specific question in this case.",
+      "AIS D": "Motor-incomplete injury is present and at least half of key muscles below the single neurological level have grade at least 3. This does not best answer the specific question in this case.",
+      "AIS E": "Sensory and motor examination is normal in a patient who previously had SCI-related deficits. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=pS4kTCLMFj0"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://asia-spinalinjury.org/isncsci-resources/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-clinical-assessments-pS4kTCLMFj0-4",
+    "lectureId": "pS4kTCLMFj0",
+    "title": "ASIA impairment scale: 4",
+    "prompt": "A patient has motor-incomplete spinal cord injury with sacral motor sparing. At least half of key muscle functions below the single neurological level have strength of at least grade 3. Which AIS category applies?",
+    "options": [
+      "AIS D",
+      "AIS A",
+      "AIS B",
+      "AIS C",
+      "AIS E"
+    ],
+    "answer": "AIS D",
+    "explanation": "Motor-incomplete injury is present and at least half of key muscles below the single neurological level have grade at least 3.",
+    "distractorExplanations": {
+      "AIS D": "Motor-incomplete injury is present and at least half of key muscles below the single neurological level have grade at least 3.",
+      "AIS A": "No sacral sensory or motor function is preserved at S4-S5. This does not best answer the specific question in this case.",
+      "AIS B": "Sacral sensory sparing is present, but motor-incomplete criteria are not met. This does not best answer the specific question in this case.",
+      "AIS C": "Motor-incomplete injury is present and fewer than half of key muscles below the single neurological level have grade at least 3. This does not best answer the specific question in this case.",
+      "AIS E": "Sensory and motor examination is normal in a patient who previously had SCI-related deficits. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=pS4kTCLMFj0"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://asia-spinalinjury.org/isncsci-resources/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-clinical-assessments-pS4kTCLMFj0-5",
+    "lectureId": "pS4kTCLMFj0",
+    "title": "ASIA impairment scale: 5",
+    "prompt": "A patient previously had documented sensory and motor deficits from spinal cord injury. On follow-up standardized testing, the relevant sensory and motor functions are now normal. Which AIS category describes this recovered examination?",
+    "options": [
+      "AIS A",
+      "AIS B",
+      "AIS C",
+      "AIS D",
+      "AIS E"
+    ],
+    "answer": "AIS E",
+    "explanation": "Sensory and motor examination is normal in a patient who previously had SCI-related deficits.",
+    "distractorExplanations": {
+      "AIS E": "Sensory and motor examination is normal in a patient who previously had SCI-related deficits.",
+      "AIS A": "No sacral sensory or motor function is preserved at S4-S5. This does not best answer the specific question in this case.",
+      "AIS B": "Sacral sensory sparing is present, but motor-incomplete criteria are not met. This does not best answer the specific question in this case.",
+      "AIS C": "Motor-incomplete injury is present and fewer than half of key muscles below the single neurological level have grade at least 3. This does not best answer the specific question in this case.",
+      "AIS D": "Motor-incomplete injury is present and at least half of key muscles below the single neurological level have grade at least 3. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=pS4kTCLMFj0"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://asia-spinalinjury.org/isncsci-resources/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-clinical-assessments-6JqmBkahN18-1",
+    "lectureId": "6JqmBkahN18",
+    "title": "Naegele rule and pregnancy dating: 1",
+    "prompt": "A patient recalls both the beginning and end of the last normal menstrual period. The clinician is applying conventional menstrual pregnancy dating. Which reference date should be used rather than the last day of bleeding?",
+    "options": [
+      "Use the best obstetric estimate, including early ultrasound",
+      "First day of the last menstrual period",
+      "280 days from the first day of the LMP",
+      "17 October 2026",
+      "Account for cycle length and reliability of menstrual dating"
+    ],
+    "answer": "First day of the last menstrual period",
+    "explanation": "Conventional menstrual dating starts from the first day of the LMP, not the last bleeding day or presumed conception day.",
+    "distractorExplanations": {
+      "First day of the last menstrual period": "Conventional menstrual dating starts from the first day of the LMP, not the last bleeding day or presumed conception day.",
+      "280 days from the first day of the LMP": "The conventional estimate assumes a 28-day cycle and ovulation around day 14. This does not best answer the specific question in this case.",
+      "17 October 2026": "Adding 280 days to 10 January 2026 gives 17 October 2026. This does not best answer the specific question in this case.",
+      "Account for cycle length and reliability of menstrual dating": "A non-28-day or irregular cycle limits an unadjusted LMP estimate. This does not best answer the specific question in this case.",
+      "Use the best obstetric estimate, including early ultrasound": "First-trimester ultrasound can improve dating when menstrual history is unreliable; formal redating guidance applies. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=6JqmBkahN18"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/05/methods-for-estimating-the-due-date"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-clinical-assessments-6JqmBkahN18-2",
+    "lectureId": "6JqmBkahN18",
+    "title": "Naegele rule and pregnancy dating: 2",
+    "prompt": "A patient has a reliable last menstrual period and regular 28-day cycles. Using the conventional rule, how long after the first day is the estimated delivery date, before considering ultrasound-based revision when appropriate?",
+    "options": [
+      "280 days from the first day of the LMP",
+      "First day of the last menstrual period",
+      "17 October 2026",
+      "Account for cycle length and reliability of menstrual dating",
+      "Use the best obstetric estimate, including early ultrasound"
+    ],
+    "answer": "280 days from the first day of the LMP",
+    "explanation": "The conventional estimate assumes a 28-day cycle and ovulation around day 14.",
+    "distractorExplanations": {
+      "280 days from the first day of the LMP": "The conventional estimate assumes a 28-day cycle and ovulation around day 14.",
+      "First day of the last menstrual period": "Conventional menstrual dating starts from the first day of the LMP, not the last bleeding day or presumed conception day. This does not best answer the specific question in this case.",
+      "17 October 2026": "Adding 280 days to 10 January 2026 gives 17 October 2026. This does not best answer the specific question in this case.",
+      "Account for cycle length and reliability of menstrual dating": "A non-28-day or irregular cycle limits an unadjusted LMP estimate. This does not best answer the specific question in this case.",
+      "Use the best obstetric estimate, including early ultrasound": "First-trimester ultrasound can improve dating when menstrual history is unreliable; formal redating guidance applies. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=6JqmBkahN18"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/05/methods-for-estimating-the-due-date"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-clinical-assessments-6JqmBkahN18-3",
+    "lectureId": "6JqmBkahN18",
+    "title": "Naegele rule and pregnancy dating: 3",
+    "prompt": "The first day of a patient’s last menstrual period was 10 January 2026, and cycles are reliably 28 days. Using a 280-day estimate without ultrasound redating, which estimated delivery date follows?",
+    "options": [
+      "First day of the last menstrual period",
+      "280 days from the first day of the LMP",
+      "Account for cycle length and reliability of menstrual dating",
+      "Use the best obstetric estimate, including early ultrasound",
+      "17 October 2026"
+    ],
+    "answer": "17 October 2026",
+    "explanation": "Adding 280 days to 10 January 2026 gives 17 October 2026.",
+    "distractorExplanations": {
+      "17 October 2026": "Adding 280 days to 10 January 2026 gives 17 October 2026.",
+      "First day of the last menstrual period": "Conventional menstrual dating starts from the first day of the LMP, not the last bleeding day or presumed conception day. This does not best answer the specific question in this case.",
+      "280 days from the first day of the LMP": "The conventional estimate assumes a 28-day cycle and ovulation around day 14. This does not best answer the specific question in this case.",
+      "Account for cycle length and reliability of menstrual dating": "A non-28-day or irregular cycle limits an unadjusted LMP estimate. This does not best answer the specific question in this case.",
+      "Use the best obstetric estimate, including early ultrasound": "First-trimester ultrasound can improve dating when menstrual history is unreliable; formal redating guidance applies. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=6JqmBkahN18"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/05/methods-for-estimating-the-due-date"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-clinical-assessments-6JqmBkahN18-4",
+    "lectureId": "6JqmBkahN18",
+    "title": "Naegele rule and pregnancy dating: 4",
+    "prompt": "A patient has long irregular cycles and asks for an exact delivery date from an unadjusted Naegele calculation. Which limitation must be considered because the conventional formula assumes a different cycle pattern?",
+    "options": [
+      "280 days from the first day of the LMP",
+      "17 October 2026",
+      "Use the best obstetric estimate, including early ultrasound",
+      "Account for cycle length and reliability of menstrual dating",
+      "First day of the last menstrual period"
+    ],
+    "answer": "Account for cycle length and reliability of menstrual dating",
+    "explanation": "A non-28-day or irregular cycle limits an unadjusted LMP estimate.",
+    "distractorExplanations": {
+      "Account for cycle length and reliability of menstrual dating": "A non-28-day or irregular cycle limits an unadjusted LMP estimate.",
+      "First day of the last menstrual period": "Conventional menstrual dating starts from the first day of the LMP, not the last bleeding day or presumed conception day. This does not best answer the specific question in this case.",
+      "280 days from the first day of the LMP": "The conventional estimate assumes a 28-day cycle and ovulation around day 14. This does not best answer the specific question in this case.",
+      "17 October 2026": "Adding 280 days to 10 January 2026 gives 17 October 2026. This does not best answer the specific question in this case.",
+      "Use the best obstetric estimate, including early ultrasound": "First-trimester ultrasound can improve dating when menstrual history is unreliable; formal redating guidance applies. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=6JqmBkahN18"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/05/methods-for-estimating-the-due-date"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-clinical-assessments-6JqmBkahN18-5",
+    "lectureId": "6JqmBkahN18",
+    "title": "Naegele rule and pregnancy dating: 5",
+    "prompt": "A pregnant patient cannot reliably recall the last menstrual period. An early ultrasound provides a suitable dating measurement. Which principle should guide the recorded estimated due date rather than treating an uncertain recalled date as definitive?",
+    "options": [
+      "17 October 2026",
+      "Account for cycle length and reliability of menstrual dating",
+      "Use the best obstetric estimate, including early ultrasound",
+      "First day of the last menstrual period",
+      "280 days from the first day of the LMP"
+    ],
+    "answer": "Use the best obstetric estimate, including early ultrasound",
+    "explanation": "First-trimester ultrasound can improve dating when menstrual history is unreliable; formal redating guidance applies.",
+    "distractorExplanations": {
+      "Use the best obstetric estimate, including early ultrasound": "First-trimester ultrasound can improve dating when menstrual history is unreliable; formal redating guidance applies.",
+      "First day of the last menstrual period": "Conventional menstrual dating starts from the first day of the LMP, not the last bleeding day or presumed conception day. This does not best answer the specific question in this case.",
+      "280 days from the first day of the LMP": "The conventional estimate assumes a 28-day cycle and ovulation around day 14. This does not best answer the specific question in this case.",
+      "17 October 2026": "Adding 280 days to 10 January 2026 gives 17 October 2026. This does not best answer the specific question in this case.",
+      "Account for cycle length and reliability of menstrual dating": "A non-28-day or irregular cycle limits an unadjusted LMP estimate. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=6JqmBkahN18"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/05/methods-for-estimating-the-due-date"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  }
+]

@@ -1,0 +1,163 @@
+﻿{
+    "lectureId":  "zZfiOzx7CEo",
+    "status":  "unreviewed-ocr",
+    "source":  "Windows OCR of low-resolution YouTube preview frames",
+    "frames":  [
+                   {
+                       "src":  "video-frames/zZfiOzx7CEo-0.jpg",
+                       "seconds":  0,
+                       "text":  "Drug Absorption",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/zZfiOzx7CEo-12.jpg",
+                       "seconds":  120,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/zZfiOzx7CEo-19.jpg",
+                       "seconds":  190,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/zZfiOzx7CEo-29.jpg",
+                       "seconds":  290,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/zZfiOzx7CEo-33.jpg",
+                       "seconds":  330,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/zZfiOzx7CEo-47.jpg",
+                       "seconds":  470,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/zZfiOzx7CEo-48.jpg",
+                       "seconds":  480,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/zZfiOzx7CEo-55.jpg",
+                       "seconds":  550,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/zZfiOzx7CEo-60.jpg",
+                       "seconds":  600,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/zZfiOzx7CEo-66.jpg",
+                       "seconds":  660,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/zZfiOzx7CEo-68.jpg",
+                       "seconds":  680,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/zZfiOzx7CEo-78.jpg",
+                       "seconds":  780,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/zZfiOzx7CEo-87.jpg",
+                       "seconds":  870,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/zZfiOzx7CEo-99.jpg",
+                       "seconds":  990,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/zZfiOzx7CEo-105.jpg",
+                       "seconds":  1050,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/zZfiOzx7CEo-121.jpg",
+                       "seconds":  1210,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/zZfiOzx7CEo-127.jpg",
+                       "seconds":  1270,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/zZfiOzx7CEo-136.jpg",
+                       "seconds":  1360,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/zZfiOzx7CEo-147.jpg",
+                       "seconds":  1470,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/zZfiOzx7CEo-155.jpg",
+                       "seconds":  1550,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/zZfiOzx7CEo-165.jpg",
+                       "seconds":  1650,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/zZfiOzx7CEo-166.jpg",
+                       "seconds":  1660,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/zZfiOzx7CEo-174.jpg",
+                       "seconds":  1740,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/zZfiOzx7CEo-180.jpg",
+                       "seconds":  1800,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/zZfiOzx7CEo-183.jpg",
+                       "seconds":  1830,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/zZfiOzx7CEo-192.jpg",
+                       "seconds":  1920,
+                       "text":  "",
+                       "reviewed":  false
+                   }
+               ]
+}

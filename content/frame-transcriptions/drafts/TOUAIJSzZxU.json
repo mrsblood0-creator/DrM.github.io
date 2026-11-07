@@ -1,0 +1,133 @@
+﻿{
+    "lectureId":  "TOUAIJSzZxU",
+    "status":  "unreviewed-ocr",
+    "source":  "Windows OCR of low-resolution YouTube preview frames",
+    "frames":  [
+                   {
+                       "src":  "video-frames/TOUAIJSzZxU-0.jpg",
+                       "seconds":  0,
+                       "text":  "Drug Distribution",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/TOUAIJSzZxU-7.jpg",
+                       "seconds":  70,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/TOUAIJSzZxU-15.jpg",
+                       "seconds":  150,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/TOUAIJSzZxU-23.jpg",
+                       "seconds":  230,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/TOUAIJSzZxU-28.jpg",
+                       "seconds":  280,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/TOUAIJSzZxU-41.jpg",
+                       "seconds":  410,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/TOUAIJSzZxU-48.jpg",
+                       "seconds":  480,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/TOUAIJSzZxU-54.jpg",
+                       "seconds":  540,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/TOUAIJSzZxU-60.jpg",
+                       "seconds":  600,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/TOUAIJSzZxU-66.jpg",
+                       "seconds":  660,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/TOUAIJSzZxU-68.jpg",
+                       "seconds":  680,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/TOUAIJSzZxU-74.jpg",
+                       "seconds":  740,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/TOUAIJSzZxU-83.jpg",
+                       "seconds":  830,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/TOUAIJSzZxU-91.jpg",
+                       "seconds":  910,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/TOUAIJSzZxU-96.jpg",
+                       "seconds":  960,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/TOUAIJSzZxU-105.jpg",
+                       "seconds":  1050,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/TOUAIJSzZxU-111.jpg",
+                       "seconds":  1110,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/TOUAIJSzZxU-115.jpg",
+                       "seconds":  1150,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/TOUAIJSzZxU-120.jpg",
+                       "seconds":  1200,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/TOUAIJSzZxU-122.jpg",
+                       "seconds":  1220,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/TOUAIJSzZxU-132.jpg",
+                       "seconds":  1320,
+                       "text":  "",
+                       "reviewed":  false
+                   }
+               ]
+}

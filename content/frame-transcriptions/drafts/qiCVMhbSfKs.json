@@ -1,0 +1,133 @@
+﻿{
+    "lectureId":  "qiCVMhbSfKs",
+    "status":  "unreviewed-ocr",
+    "source":  "Windows OCR of low-resolution YouTube preview frames",
+    "frames":  [
+                   {
+                       "src":  "video-frames/qiCVMhbSfKs-0.jpg",
+                       "seconds":  0,
+                       "text":  "Tetracyclines",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/qiCVMhbSfKs-8.jpg",
+                       "seconds":  80,
+                       "text":  "Agents",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/qiCVMhbSfKs-29.jpg",
+                       "seconds":  290,
+                       "text":  "Pharmacokinetics",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/qiCVMhbSfKs-37.jpg",
+                       "seconds":  370,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/qiCVMhbSfKs-45.jpg",
+                       "seconds":  450,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/qiCVMhbSfKs-53.jpg",
+                       "seconds":  530,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/qiCVMhbSfKs-55.jpg",
+                       "seconds":  550,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/qiCVMhbSfKs-65.jpg",
+                       "seconds":  650,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/qiCVMhbSfKs-67.jpg",
+                       "seconds":  670,
+                       "text":  "Mechanism of Action",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/qiCVMhbSfKs-73.jpg",
+                       "seconds":  730,
+                       "text":  "Mecharusm of Action",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/qiCVMhbSfKs-75.jpg",
+                       "seconds":  750,
+                       "text":  "Spectrum",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/qiCVMhbSfKs-86.jpg",
+                       "seconds":  860,
+                       "text":  "Spectrurn",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/qiCVMhbSfKs-95.jpg",
+                       "seconds":  950,
+                       "text":  "Resistance",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/qiCVMhbSfKs-116.jpg",
+                       "seconds":  1160,
+                       "text":  "Therapeulrc Llses",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/qiCVMhbSfKs-126.jpg",
+                       "seconds":  1260,
+                       "text":  "Therapeuuc",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/qiCVMhbSfKs-127.jpg",
+                       "seconds":  1270,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/qiCVMhbSfKs-135.jpg",
+                       "seconds":  1350,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/qiCVMhbSfKs-137.jpg",
+                       "seconds":  1370,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/qiCVMhbSfKs-139.jpg",
+                       "seconds":  1390,
+                       "text":  "Adverse Effects",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/qiCVMhbSfKs-149.jpg",
+                       "seconds":  1490,
+                       "text":  "Adverse Effects",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/qiCVMhbSfKs-170.jpg",
+                       "seconds":  1700,
+                       "text":  "Adverse Efl_ecls",
+                       "reviewed":  false
+                   }
+               ]
+}

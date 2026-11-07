@@ -1,0 +1,481 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta
+      name="description"
+      content="Dr M medical lectures, structured courses, and a dedicated question bank."
+    />
+    <title>Dr M Medical Courses, Lecture Notes & USMLE-Style Questions</title>
+    <link rel="canonical" href="https://www.drmcourses.com/" />
+    <meta property="og:title" content="Dr M Medical Academy" />
+    <meta
+      property="og:description"
+      content="Medical lecture notes, ordered courses, USMLE-style questions and flashcards."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.drmcourses.com/" />
+    <link rel="stylesheet" href="academy.css" />
+    <link rel="stylesheet" href="brand-theme.css" />
+    <link rel="icon" type="image/png" href="images/logo.png" />
+    <meta property="og:image" content="https://www.drmcourses.com/images/banner.jpg" />
+    <script defer src="library-data.js"></script>
+    <script defer src="academy.js"></script>
+    <script defer src="notes-tools.js"></script>
+    <script defer src="flashcards.js"></script>
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="#library"
+        ><img class="brand-logo" src="images/logo.png" alt="Dr M home" width="112" height="112"></a
+      >
+      <nav aria-label="Main navigation">
+        <a href="#library" data-nav="library">Lecture library</a
+        ><a href="#courses" data-nav="courses">Medical courses</a
+        ><a href="#bank" data-nav="bank">Question bank</a
+        ><a href="#flashcards" data-nav="flashcards">Flashcards ↗</a>
+      </nav>
+      <a
+        class="channel-link"
+        href="https://www.youtube.com/@Dr.M.Courses"
+        target="_blank"
+        rel="noopener"
+        >Visit YouTube ↗</a
+      >
+    </header>
+    <main id="library-view" class="view">
+      <img class="brand-banner" src="images/banner.jpg" width="2560" height="1440" alt="Dr M Medical Courses — Making Medicine Easier to Learn. Orthopedics, Pharmacology, Pathology and Clinical Medicine." fetchpriority="high" />
+      <section class="reference-hero">
+        <div class="eyebrow">DR M · FREE MEDICAL EDUCATION</div>
+        <h1>Medical knowledge. <br />Clearly explained.</h1>
+        <p>
+          Explore lecture notes, follow ordered courses, and test your
+          understanding with clinical questions and flashcards.
+        </p>
+        <div class="hero-actions">
+          <a class="button" href="#courses">Browse courses</a
+          ><a class="button outline" href="#bank">USMLE-style questions</a>
+        </div>
+      </section>
+      <div class="metrics">
+        <div>
+          <strong id="lecture-total"></strong><span>video lectures</span>
+        </div>
+        <div>
+          <strong id="course-total"></strong><span>learning paths</span>
+        </div>
+        <div>
+          <strong id="question-total"></strong><span>practice questions</span>
+        </div>
+        <div>
+          <strong id="completed-total">0</strong><span>lectures completed</span>
+        </div>
+      </div>
+      <section class="section">
+        <div class="section-title">
+          <div>
+            <div class="eyebrow">EXPLORE. UNDERSTAND. REMEMBER.</div>
+            <h2>Your lecture library</h2>
+            <p>Follow your curiosity, or find exactly what you need.</p>
+          </div>
+          <label class="search"
+            >⌕
+            <input
+              id="lecture-search"
+              type="search"
+              placeholder="Search a topic or lecture…"
+              aria-label="Search lectures"
+            /><kbd>/</kbd></label
+          >
+        </div>
+        <div id="subject-filters" class="chips"></div>
+        <div class="results-bar">
+          <span id="lecture-results" role="status"></span>
+          <div>
+            <label
+              ><input id="saved-only" type="checkbox" /> Saved lectures</label
+            ><select id="lecture-sort" aria-label="Sort lectures">
+              <option value="channel">Channel order</option>
+              <option value="az">Title A–Z</option>
+              <option value="progress">Not completed first</option>
+            </select>
+          </div>
+        </div>
+        <div id="lecture-grid" class="lecture-grid"></div>
+        <div class="center">
+          <button id="load-more" class="button outline">
+            Discover more lectures ↓
+          </button>
+        </div>
+      </section>
+    </main>
+    <main id="courses-view" class="view" hidden>
+      <section class="page-heading">
+        <div class="eyebrow">A LITTLE STRUCTURE GOES A LONG WAY</div>
+        <h1>Medical courses</h1>
+        <p>
+          Thoughtfully ordered lectures. A clear place to start, and a next step
+          to follow.
+        </p>
+      </section>
+      <div class="section-title">
+        <label class="search"
+          >⌕
+          <input
+            id="course-search"
+            type="search"
+            placeholder="Find your course…"
+            aria-label="Search courses" /></label
+        ><span id="course-results" class="muted" role="status"></span>
+      </div>
+      <div id="course-grid" class="course-grid"></div>
+    </main>
+    <main id="course-view" class="view" hidden>
+      <a class="back" href="#courses">← All medical courses</a>
+      <section id="course-header" class="course-header"></section>
+      <div class="course-layout">
+        <section class="panel">
+          <div class="panel-head">
+            <h2>Course curriculum</h2>
+            <span id="curriculum-count" class="muted"></span>
+          </div>
+          <div id="curriculum"></div>
+        </section>
+        <aside class="panel course-aside">
+          <div class="eyebrow">MAKE IT STICK</div>
+          <h3>Watch. Understand.<br />Put it into practice.</h3>
+          <p>
+            Finish a lecture, review its notes, and use the question bank to
+            revisit the concepts.
+          </p>
+          <button id="course-practice" class="button">
+            Practice this course ↗
+          </button>
+          <p class="small muted">Your progress is saved on this browser.</p>
+        </aside>
+      </div>
+    </main>
+    <main id="lesson-view" class="view" hidden>
+      <a id="lesson-back" class="back" href="#library">← Lecture library</a>
+      <div class="lesson-layout">
+        <article>
+          <div id="video-player"></div>
+          <div class="lesson-heading">
+            <div id="lesson-subject" class="eyebrow"></div>
+            <h1 id="lesson-title"></h1>
+            <div class="lesson-actions">
+              <button id="save-lecture" class="button outline">
+                Save lecture</button
+              ><button id="complete-lecture" class="button">
+                Mark complete</button
+              ><a id="watch-youtube" target="_blank" rel="noopener"
+                >Watch on YouTube ↗</a
+              >
+            </div>
+          </div>
+          <section class="panel" id="lecture-notes-panel">
+            <div class="panel-head">
+              <h2>Lecture notes</h2>
+              <span id="reading-time" class="note-icon"></span>
+            </div>
+            <div class="reading-tools">
+              <button class="button outline" id="focus-reading">
+                Focus reading</button
+              ><button class="button outline" id="print-notes">
+                Print / save PDF
+              </button>
+            </div>
+            <p id="notes-provenance" class="small muted"></p>
+            <div id="lecture-notes" class="prose"></div>
+            <div id="lecture-references" class="references"></div>
+            <details class="personal">
+              <summary>My personal notes <span>+</span></summary>
+              <label for="personal-notes"
+                >Keep your own thoughts alongside the lecture.</label
+              ><textarea
+                id="personal-notes"
+                placeholder="A key idea, a question, a useful connection…"
+              ></textarea
+              ><span
+                id="personal-status"
+                class="small muted"
+                role="status"
+              ></span>
+            </details>
+          </section>
+        </article>
+        <aside>
+          <section class="panel lesson-sidebar">
+            <div class="eyebrow">YOUR LEARNING PATH</div>
+            <div id="lesson-course-links"></div>
+            <h3>Keep the momentum.</h3>
+            <div id="lesson-next"></div>
+            <hr />
+            <a id="lesson-question-link" class="bank-link" href="#bank">Lecture questions ↗</a>
+            <a id="lesson-flashcard-link" class="bank-link" href="#flashcards">Lecture flashcards ↗</a>
+          </section>
+        </aside>
+      </div>
+    </main>
+    <main id="bank-view" class="view" hidden>
+      <section id="bank-lecture-context" class="panel" aria-label="Selected lecture" hidden></section>
+      <section class="page-heading bank-heading">
+        <div>
+          <div class="eyebrow">RECALL IS WHERE LEARNING BECOMES KNOWLEDGE</div>
+          <h1>USMLE-style question bank</h1>
+          <p>Build a practice session around what you want to master.</p>
+        </div>
+        <div class="bank-symbol" aria-hidden="true">Q<span>+</span></div>
+      </section>
+      <div id="bank-stats" class="bank-stats"></div>
+      <div id="bank-setup">
+        <div id="resume-banner" class="resume-banner" hidden></div>
+        <div class="bank-layout">
+          <form id="bank-form" class="panel">
+            <div class="panel-head">
+              <h2>Create a practice session</h2>
+              <span class="step-pill">YOUR PACE. YOUR FOCUS.</span>
+            </div>
+            <div class="form-grid">
+              <label
+                >Subject<select id="bank-subject">
+                  <option value="all">All subjects</option>
+                </select></label
+              ><label
+                >Course<select id="bank-course">
+                  <option value="all">All courses</option>
+                </select></label
+              ><label
+                >Question pool<select id="bank-pool">
+                  <option value="all">All questions</option>
+                  <option value="unseen">Not yet attempted</option>
+                  <option value="incorrect">Previously incorrect</option>
+                  <option value="saved">Bookmarked questions</option>
+                </select></label
+              ><label
+                >Number of questions<select id="bank-count">
+                  <option>10</option>
+                  <option selected>20</option>
+                  <option>40</option>
+                  <option value="all">All available</option>
+                </select></label
+              ><label
+                >Study mode<select id="bank-mode">
+                  <option value="tutor">
+                    Tutor — feedback after each answer
+                  </option>
+                  <option value="exam">Exam — feedback at the end</option>
+                </select></label
+              ><label
+                >Time limit<select id="bank-time">
+                  <option value="0">Untimed</option>
+                  <option value="10">10 minutes</option>
+                  <option value="20">20 minutes</option>
+                  <option value="40">40 minutes</option>
+                  <option value="60">60 minutes</option>
+                </select></label
+              >
+            </div>
+            <div class="form-grid study-search-controls">
+              <label>Lecture<select id="bank-lecture"><option value="all">All lectures</option></select></label>
+              <label>Search question topics<input id="bank-search" type="search" placeholder="e.g. ischemia, antibiotics" /></label>
+            </div>
+            <div class="start-row">
+              <p id="pool-count" role="status" aria-live="polite"></p>
+              <button id="start-session" class="button" type="submit">
+                Start practicing →
+              </button>
+            </div>
+            <p class="small muted">
+              Original USMLE-style clinical vignettes with answer rationales.
+              Independent educational material; not affiliated with USMLE, NBME,
+              or UWorld.
+            </p>
+          </form>
+          <aside class="panel">
+            <div class="eyebrow">YOUR RECENT PRACTICE</div>
+            <h3>A little better,<br />every session.</h3>
+            <div id="session-history"></div>
+          </aside>
+        </div>
+      </div>
+      <div id="bank-active" hidden></div>
+      <div id="bank-result" hidden></div>
+    </main>
+    <main id="flashcards-view" class="view" hidden>
+      <section id="flash-lecture-context" class="panel" aria-label="Selected lecture" hidden></section>
+      <section class="page-heading">
+        <div class="eyebrow">ACTIVE RECALL · SPACED REPETITION</div>
+        <h1>A little practice.<br />A lasting understanding.</h1>
+        <p>
+          One clear question at a time. Your review schedule adapts to what you
+          remember.
+        </p>
+      </section>
+      <div id="flash-stats" class="bank-stats"></div>
+      <div id="flash-setup">
+        <div id="flash-resume"></div>
+        <div class="flash-layout">
+          <section class="panel">
+            <div class="panel-head">
+              <h2>Choose your study session</h2>
+              <span class="step-pill">YOUR DAILY REVIEW</span>
+            </div>
+            <div class="form-grid">
+              <label
+                >Course<select id="flash-course">
+                  <option value="all">All courses</option>
+                </select></label
+              ><label
+                >Subject<select id="flash-subject">
+                  <option value="all">All subjects</option>
+                </select></label
+              ><label
+                >Queue<select id="flash-pool">
+                  <option value="due">Due + new cards</option>
+                  <option value="new">New cards only</option>
+                  <option value="review">Due reviews only</option>
+                  <option value="all">
+                    Preview all (does not change schedule)
+                  </option>
+                </select></label
+              ><label
+                >Daily new-card limit<input
+                  id="flash-new-limit"
+                  type="number"
+                  min="1"
+                  max="200"
+                  value="20" /></label
+              ><label
+                >Session size<select id="flash-count">
+                  <option value="20">20 cards</option>
+                  <option value="50">50 cards</option>
+                  <option value="100">100 cards</option>
+                  <option value="all">All eligible</option>
+                </select></label
+              >
+            </div>
+            <label class="flash-lecture-filter">Lecture<select id="flash-lecture"><option value="all">All lectures</option></select></label>
+            <div class="start-row">
+              <span id="flash-eligible" role="status" aria-live="polite"></span
+              ><button id="flash-start" class="button">Start studying →</button>
+            </div>
+            <p class="small muted">
+              Again relearns a card; Hard, Good and Easy set progressively
+              longer intervals. Progress is stored on this browser.
+            </p>
+          </section>
+          <aside class="panel">
+            <div class="eyebrow">YOUR STUDY TOOLKIT</div>
+            <h3>Make it your own.</h3>
+            <p class="muted">
+              Edit wording, add cards, pause topics, and keep a backup of your
+              progress.
+            </p>
+            <div class="tool-stack">
+              <button id="flash-add" class="button outline">
+                + Create a card</button
+              ><button id="flash-export" class="button outline">
+                Export cards & progress</button
+              ><button id="flash-csv" class="button outline">
+                Export for Anki (.csv)</button
+              ><label class="button outline"
+                >Import JSON / CSV<input
+                  type="file"
+                  id="flash-import"
+                  accept=".json,.csv"
+                  hidden
+              /></label>
+            </div>
+            <p id="flash-import-status" role="status" class="small"></p>
+          </aside>
+        </div>
+        <details class="panel card-collection" id="flash-collection">
+          <summary><span>Your card collection<small>Browse, search and manage your cards</small></span><span class="collection-toggle"><span class="when-closed">Expand</span><span class="when-open">Collapse</span><span aria-hidden="true">⌄</span></span></summary>
+          <div class="collection-content">
+          <div class="panel-head">
+            <label class="search"
+              ><input
+                id="flash-search"
+                type="search"
+                placeholder="Search questions or answers…"
+                aria-label="Search flashcards"
+            /></label>
+          </div>
+          <div id="flash-browser"></div>
+          <button id="flash-more" class="button outline">
+            Show more cards
+          </button>
+          </div>
+        </details>
+        <details class="panel">
+          <summary>How scheduling works</summary>
+          <p>
+            New cards enter learning. Again schedules one minute, Hard six
+            minutes, Good ten minutes, and Easy four days. A second Good
+            graduates a learning card to a daily review. Later reviews use an
+            SM-2-style ease and interval calculation. A lapse returns the card
+            to learning. Bury hides a card until tomorrow; Suspend hides it
+            until you restore it. Preview sessions never alter review dates.
+          </p>
+          <p>
+            This is a browser-based scheduler. Export a JSON backup to move your
+            progress between browsers, or CSV to import the cards into Anki.
+          </p>
+        </details>
+      </div>
+      <div id="flash-study" hidden></div>
+      <dialog id="flash-editor">
+        <form id="flash-edit-form">
+          <h2 id="flash-editor-title">Edit card</h2>
+          <label
+            >Question<textarea
+              id="flash-edit-front"
+              required
+              maxlength="2000"
+            ></textarea></label
+          ><label
+            >Answer<textarea
+              id="flash-edit-back"
+              required
+              maxlength="5000"
+            ></textarea></label
+          ><label
+            >Explanation<textarea
+              id="flash-edit-explanation"
+              maxlength="5000"
+            ></textarea></label
+          ><label
+            >Related lecture<select id="flash-edit-lecture"></select
+          ></label>
+          <div class="session-controls">
+            <button type="button" class="button outline" id="flash-edit-cancel">
+              Cancel</button
+            ><button class="button" type="submit">Save card</button>
+          </div>
+        </form>
+      </dialog>
+    </main>
+    <footer>
+      <div class="public-links">
+        <a href="lectures/">Browse lecture articles</a
+        ><a href="courses/">Course directory</a
+        ><a href="questions/pathology-usmle-questions/"
+          >Pathology USMLE-style questions</a
+        >
+      </div>
+      <a class="brand" href="#library"
+        ><img class="brand-logo" src="images/logo.png" alt="Dr M home" width="112" height="112"></a
+      >
+      <p>Making medicine easier to understand.</p>
+      <span id="copyright">© 2026. All rights reserved.</span>
+    </footer>
+    <div id="toast" role="status" class="toast" hidden></div>
+    <noscript
+      >Enable JavaScript to access the lectures, courses, and question
+      bank.</noscript
+    >
+  </body>
+</html>
+

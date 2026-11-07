@@ -1,0 +1,342 @@
+[
+  {
+    "id": "reviewed-tp-wrist-fc-1",
+    "lectureId": "1dRHtMT16TI",
+    "front": "Why must snuffbox tenderness not be dismissed as a wrist sprain after normal initial radiographs?",
+    "back": "An occult scaphoid fracture may not appear on the first films.",
+    "explanation": "Focal snuffbox or scaphoid-tubercle tenderness after a fall raises concern for scaphoid fracture even when initial films are negative.",
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=1dRHtMT16TI"
+      },
+      {
+        "title": "Orthopedic clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/wrist-sprains"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tp-wrist-fc-2",
+    "lectureId": "1dRHtMT16TI",
+    "front": "What does traumatic widening of the scapholunate interval suggest?",
+    "back": "Scapholunate ligament injury and dissociation.",
+    "explanation": "Scapholunate dissociation widens the interval between the scaphoid and lunate and can cause dorsal wrist pain or instability.",
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=1dRHtMT16TI"
+      },
+      {
+        "title": "Orthopedic clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/wrist-sprains"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tp-wrist-fc-3",
+    "lectureId": "1dRHtMT16TI",
+    "front": "Which wrist structure supports the DRUJ and is a source of traumatic ulnar-sided pain?",
+    "back": "The triangular fibrocartilage complex (TFCC).",
+    "explanation": "The TFCC supports the ulnar wrist and distal radioulnar joint; injury can produce ulnar-sided pain and pain with rotation.",
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=1dRHtMT16TI"
+      },
+      {
+        "title": "Orthopedic clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/wrist-sprains"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tp-wrist-fc-4",
+    "lectureId": "1dRHtMT16TI",
+    "front": "How is perilunate dislocation distinguished from lunate dislocation on the lateral view?",
+    "back": "In perilunate dislocation, the lunate remains aligned with the radius while the capitate is displaced.",
+    "explanation": "The lunate remains aligned with the radius while the capitate and remaining carpus are displaced, commonly dorsally.",
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=1dRHtMT16TI"
+      },
+      {
+        "title": "Orthopedic clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/wrist-sprains"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tp-wrist-fc-5",
+    "lectureId": "1dRHtMT16TI",
+    "front": "Which carpal bone is displaced volarly in the spilled-teacup pattern?",
+    "back": "The lunate.",
+    "explanation": "The lunate itself displaces, typically volarly, losing its normal relationship with the distal radius and capitate.",
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=1dRHtMT16TI"
+      },
+      {
+        "title": "Orthopedic clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/wrist-sprains"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tp-forearm-shaft-fc-1",
+    "lectureId": "D3GxmDsCEBg",
+    "front": "Which joint must be checked with an adult radial shaft fracture to avoid missing a Galeazzi injury?",
+    "back": "The distal radioulnar joint.",
+    "explanation": "A radial shaft fracture is associated with disruption of the distal radioulnar joint.",
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=D3GxmDsCEBg"
+      },
+      {
+        "title": "Orthopedic clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/forearm-shaft"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tp-forearm-shaft-fc-2",
+    "lectureId": "D3GxmDsCEBg",
+    "front": "Which associated dislocation must be excluded with an ulnar shaft fracture?",
+    "back": "Radial head dislocation, indicating a Monteggia injury.",
+    "explanation": "An ulnar fracture or deformity is accompanied by radial head dislocation.",
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=D3GxmDsCEBg"
+      },
+      {
+        "title": "Orthopedic clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/forearm-shaft"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tp-forearm-shaft-fc-3",
+    "lectureId": "D3GxmDsCEBg",
+    "front": "What three components define an Essex-Lopresti injury?",
+    "back": "Radial head fracture, interosseous membrane disruption and DRUJ injury.",
+    "explanation": "A radial head fracture is associated with interosseous membrane disruption and distal radioulnar joint injury.",
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=D3GxmDsCEBg"
+      },
+      {
+        "title": "Orthopedic clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/forearm-shaft"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tp-forearm-shaft-fc-4",
+    "lectureId": "D3GxmDsCEBg",
+    "front": "What associated injuries must be excluded before calling an ulnar shaft fracture isolated?",
+    "back": "Radial fracture, radial head dislocation and other proximal or distal joint injury.",
+    "explanation": "A direct blow may fracture the ulnar shaft without radial fracture or associated proximal or distal joint disruption.",
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=D3GxmDsCEBg"
+      },
+      {
+        "title": "Orthopedic clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/forearm-shaft"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tp-forearm-shaft-fc-5",
+    "lectureId": "D3GxmDsCEBg",
+    "front": "Why is restoring forearm alignment important after both-bone shaft fractures?",
+    "back": "Radial bow, length and rotational alignment support pronation and supination.",
+    "explanation": "Fractures of both radial and ulnar shafts can disrupt the alignment required for pronation and supination.",
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=D3GxmDsCEBg"
+      },
+      {
+        "title": "Orthopedic clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/forearm-shaft"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tp-elbow-imaging-fc-1",
+    "lectureId": "fyE1r2M6AF8",
+    "front": "What does a visible posterior elbow fat pad suggest after trauma?",
+    "back": "An effusion, often associated with an occult fracture.",
+    "explanation": "A visible posterior fat pad after trauma suggests an effusion and should prompt consideration of an occult intra-articular fracture.",
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=fyE1r2M6AF8"
+      },
+      {
+        "title": "Orthopedic clinical reference",
+        "url": "https://www.health.wa.gov.au/sitecore/content/Hospitals/PCH/Home/For-health-professionals/Emergency-Department-Guidelines/Fractures-Elbow"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tp-elbow-imaging-fc-2",
+    "lectureId": "fyE1r2M6AF8",
+    "front": "What should the radiocapitellar line intersect on an adequate elbow radiograph?",
+    "back": "The capitellum.",
+    "explanation": "A radiocapitellar line that fails to intersect the capitellum on adequate views raises concern for radial head malalignment.",
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=fyE1r2M6AF8"
+      },
+      {
+        "title": "Orthopedic clinical reference",
+        "url": "https://www.health.wa.gov.au/sitecore/content/Hospitals/PCH/Home/For-health-professionals/Emergency-Department-Guidelines/Fractures-Elbow"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tp-elbow-imaging-fc-3",
+    "lectureId": "fyE1r2M6AF8",
+    "front": "What can an anterior humeral line passing in front of the capitellum indicate after pediatric trauma?",
+    "back": "Posterior displacement from an extension-type supracondylar fracture.",
+    "explanation": "Posterior displacement of the distal humeral fragment can place the capitellum behind the anterior humeral line.",
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=fyE1r2M6AF8"
+      },
+      {
+        "title": "Orthopedic clinical reference",
+        "url": "https://www.health.wa.gov.au/sitecore/content/Hospitals/PCH/Home/For-health-professionals/Emergency-Department-Guidelines/Fractures-Elbow"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tp-elbow-imaging-fc-4",
+    "lectureId": "fyE1r2M6AF8",
+    "front": "Can normal elbow alignment lines alone exclude every traumatic injury?",
+    "back": "No; clinical findings and other imaging signs still matter.",
+    "explanation": "Normal radiocapitellar alignment and appropriate anterior humeral-line intersection support normal alignment but do not exclude every injury.",
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=fyE1r2M6AF8"
+      },
+      {
+        "title": "Orthopedic clinical reference",
+        "url": "https://www.health.wa.gov.au/sitecore/content/Hospitals/PCH/Home/For-health-professionals/Emergency-Department-Guidelines/Fractures-Elbow"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tp-elbow-imaging-fc-5",
+    "lectureId": "fyE1r2M6AF8",
+    "front": "Which lateral elbow finding identifies an olecranon fracture?",
+    "back": "A fracture through the posterior proximal ulnar process at the triceps insertion.",
+    "explanation": "A fracture through the posterior proximal ulna at the triceps insertion identifies an olecranon injury.",
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=fyE1r2M6AF8"
+      },
+      {
+        "title": "Orthopedic clinical reference",
+        "url": "https://www.health.wa.gov.au/sitecore/content/Hospitals/PCH/Home/For-health-professionals/Emergency-Department-Guidelines/Fractures-Elbow"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tp-shoulder-imaging-fc-1",
+    "lectureId": "qRLw6NOBqjI",
+    "front": "Where is the humeral head commonly located in an anterior shoulder dislocation?",
+    "back": "Anterior to the glenoid, often subcoracoid.",
+    "explanation": "The humeral head lies anterior to the glenoid, commonly in a subcoracoid position.",
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=qRLw6NOBqjI"
+      },
+      {
+        "title": "Orthopedic clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tp-shoulder-imaging-fc-2",
+    "lectureId": "qRLw6NOBqjI",
+    "front": "Why is an orthogonal view important when posterior shoulder dislocation is suspected?",
+    "back": "The AP appearance may be subtle; an axial or suitable alternative view demonstrates posterior displacement.",
+    "explanation": "Axillary or another appropriate orthogonal view shows the humeral head behind the glenoid; AP imaging alone may miss it.",
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=qRLw6NOBqjI"
+      },
+      {
+        "title": "Orthopedic clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tp-shoulder-imaging-fc-3",
+    "lectureId": "qRLw6NOBqjI",
+    "front": "What arm position is characteristic of inferior shoulder dislocation?",
+    "back": "A fixed overhead or markedly abducted position.",
+    "explanation": "The humeral head lies below the glenoid, often with the arm fixed overhead.",
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=qRLw6NOBqjI"
+      },
+      {
+        "title": "Orthopedic clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tp-shoulder-imaging-fc-4",
+    "lectureId": "qRLw6NOBqjI",
+    "front": "Which relationship distinguishes an AC separation from a glenohumeral dislocation?",
+    "back": "The clavicle-acromion relationship is abnormal while the humeral head may remain located.",
+    "explanation": "The distal clavicle is displaced relative to the acromion while the glenohumeral joint remains located.",
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=qRLw6NOBqjI"
+      },
+      {
+        "title": "Orthopedic clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tp-shoulder-imaging-fc-5",
+    "lectureId": "qRLw6NOBqjI",
+    "front": "Where is a surgical-neck fracture of the humerus located?",
+    "back": "Below the tuberosities at the junction with the shaft.",
+    "explanation": "A fracture below the tuberosities separates the shaft from the proximal humeral segment.",
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=qRLw6NOBqjI"
+      },
+      {
+        "title": "Orthopedic clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ]
+  }
+]

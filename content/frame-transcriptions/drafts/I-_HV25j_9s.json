@@ -1,0 +1,211 @@
+﻿{
+    "lectureId":  "I-_HV25j_9s",
+    "status":  "unreviewed-ocr",
+    "source":  "Windows OCR of low-resolution YouTube preview frames",
+    "frames":  [
+                   {
+                       "src":  "video-frames/I-_HV25j_9s-0.jpg",
+                       "seconds":  0,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/I-_HV25j_9s-1.jpg",
+                       "seconds":  10,
+                       "text":  "Cell death\nStres eeu adaptations\nSavare \u0027tress Oeu",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/I-_HV25j_9s-8.jpg",
+                       "seconds":  80,
+                       "text":  "Morphologic hallmark of cell death\nvia",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/I-_HV25j_9s-15.jpg",
+                       "seconds":  150,
+                       "text":  "Mechanisms of cell death\nNeetati*",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/I-_HV25j_9s-19.jpg",
+                       "seconds":  190,
+                       "text":  "Necrosis\n• Oeaq:h urgegreup by in*Wt11tiNiorv\nOug to pati•üt.øgie proeea,s;\nit in",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/I-_HV25j_9s-29.jpg",
+                       "seconds":  290,
+                       "text":  "Necrosis\nDi\u0027.\u0027iit±ei into grau\n• F/brtnoid",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/I-_HV25j_9s-31.jpg",
+                       "seconds":  310,
+                       "text":  "Coagulative necrosis\n• CELL *hope and are i\u0027ijL•ty\ndenatures arid Of\n•for inj•wy\n• that",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/I-_HV25j_9s-39.jpg",
+                       "seconds":  390,
+                       "text":  "Coagulative necrosis\n• i;\u0027 digested by teetuited\nie.ikøcyt$$ and eelL.iLar i:\u0027 phagocytosis after\n• brain",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/I-_HV25j_9s-43.jpg",
+                       "seconds":  430,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/I-_HV25j_9s-47.jpg",
+                       "seconds":  470,
+                       "text":  "Coagulative necrosis\nOf tissue is Otten pate",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/I-_HV25j_9s-56.jpg",
+                       "seconds":  560,
+                       "text":  "Red infarction\nif\n• Enrri\u0027ia•: red infarction Ofthe t:etiete",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/I-_HV25j_9s-67.jpg",
+                       "seconds":  670,
+                       "text":  "Liquefactive necrosis\nNeetotie Liquefied\n• $ltyrng.tigdigenil*l a.nd proteuis\nresult*",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/I-_HV25j_9s-69.jpg",
+                       "seconds":  690,
+                       "text":  "Occurs in\n• Brain irifaretiål\u0027i",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/I-_HV25j_9s-85.jpg",
+                       "seconds":  850,
+                       "text":  "Gangrenous necrosis\n• A tern Of\ntriti Whet *.wpply he Last\nit two b4.1t if\nCcCurs then occurs",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/I-_HV25j_9s-93.jpg",
+                       "seconds":  930,
+                       "text":  "Caseous necrosis\n• Neet6t:ie tissue\niiiike}\nand\nw fungat",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/I-_HV25j_9s-101.jpg",
+                       "seconds":  1010,
+                       "text":  "Fat necrosis\nnecrotic adipo\"\u0027 tÜue\n• Agwar$ white due to raleü*ed fatty beilb\nCQ I\u0027tlbiügwi•thcoicalrtt",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/I-_HV25j_9s-107.jpg",
+                       "seconds":  1070,
+                       "text":  "Fat necros.is\nOetl.* iti\n• fat",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/I-_HV25j_9s-119.jpg",
+                       "seconds":  1190,
+                       "text":  "Saponification\nby\n• calcification",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/I-_HV25j_9s-134.jpg",
+                       "seconds":  1340,
+                       "text":  "Fibrinoid necrosis\nNeetat.ie\n• at into iri bright pirü",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/I-_HV25j_9s-136.jpg",
+                       "seconds":  1360,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/I-_HV25j_9s-138.jpg",
+                       "seconds":  1380,
+                       "text":  "Fibrinoid necrosis\nto bidi\"\nimp vessel iri bright Pira *Miing\nCharacteristic gf miig.rtarn",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/I-_HV25j_9s-147.jpg",
+                       "seconds":  1470,
+                       "text":  "Apoptosis\n• $ingie gr",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/I-_HV25j_9s-151.jpg",
+                       "seconds":  1510,
+                       "text":  "Apoptosis\n• ee•netrial",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/I-_HV25j_9s-159.jpg",
+                       "seconds":  1590,
+                       "text":  "Apoptosis Morphology\n• arid fragmiÜ1tS\n• bgdies horn Ceil.\nkry",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/I-_HV25j_9s-168.jpg",
+                       "seconds":  1680,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/I-_HV25j_9s-169.jpg",
+                       "seconds":  1690,
+                       "text":  "Apoptosis is mediated by caspases\nActivate\nActivate DNA)",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/I-_HV25j_9s-173.jpg",
+                       "seconds":  1730,
+                       "text":  "Caspases ere activated by multiple pathways\nifitri/\"l\u0027ie pathway\n• Extrinüä teceptør•iigond pathway\nCytgtgxic \u0027CCIB+ t pathway",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/I-_HV25j_9s-175.jpg",
+                       "seconds":  1750,
+                       "text":  "Intrinsic mitochondrial pathway\n• CeLLuLar irljL*Y, ONA d«ruge. Ot decreased\nC: it/ätri* *\u0027Ito",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/I-_HV25j_9s-189.jpg",
+                       "seconds":  1890,
+                       "text":  "Extrinsic receptor-ligand pathway\nFAS bito FAS death reeeptar4CO 06\ntæge•t",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/I-_HV25j_9s-200.jpg",
+                       "seconds":  2000,
+                       "text":  "Cytotoxic CD8+ T cell pathwey\n• in\nGrirüy•me activates",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/I-_HV25j_9s-203.jpg",
+                       "seconds":  2030,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/I-_HV25j_9s-209.jpg",
+                       "seconds":  2090,
+                       "text":  "Other mechanisms of cell death\nNeetüp\u0027bagis\n• PytOptOiiS",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/I-_HV25j_9s-211.jpg",
+                       "seconds":  2110,
+                       "text":  "Autophagy\nit survival mechanism intime ril.urient\ndapti\u0027u\u0027ä•tføri the\nits",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/I-_HV25j_9s-217.jpg",
+                       "seconds":  2170,
+                       "text":  "Thanks a lot\nNokuphita",
+                       "reviewed":  false
+                   }
+               ]
+}

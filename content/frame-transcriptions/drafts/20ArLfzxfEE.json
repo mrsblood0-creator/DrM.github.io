@@ -1,0 +1,73 @@
+﻿{
+    "lectureId":  "20ArLfzxfEE",
+    "status":  "unreviewed-ocr",
+    "source":  "Windows OCR of low-resolution YouTube preview frames",
+    "frames":  [
+                   {
+                       "src":  "video-frames/20ArLfzxfEE-0.jpg",
+                       "seconds":  0,
+                       "text":  "Clindamycin",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/20ArLfzxfEE-9.jpg",
+                       "seconds":  90,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/20ArLfzxfEE-20.jpg",
+                       "seconds":  200,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/20ArLfzxfEE-31.jpg",
+                       "seconds":  310,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/20ArLfzxfEE-36.jpg",
+                       "seconds":  360,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/20ArLfzxfEE-46.jpg",
+                       "seconds":  460,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/20ArLfzxfEE-58.jpg",
+                       "seconds":  580,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/20ArLfzxfEE-64.jpg",
+                       "seconds":  640,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/20ArLfzxfEE-72.jpg",
+                       "seconds":  720,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/20ArLfzxfEE-77.jpg",
+                       "seconds":  770,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/20ArLfzxfEE-87.jpg",
+                       "seconds":  870,
+                       "text":  "",
+                       "reviewed":  false
+                   }
+               ]
+}

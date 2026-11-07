@@ -1,0 +1,235 @@
+﻿{
+    "lectureId":  "E80R3vE25tg",
+    "status":  "unreviewed-ocr",
+    "source":  "Windows OCR of low-resolution YouTube preview frames",
+    "frames":  [
+                   {
+                       "src":  "video-frames/E80R3vE25tg-0.jpg",
+                       "seconds":  0,
+                       "text":  "Patient Factors Affecting\nResponse to Drugs",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-7.jpg",
+                       "seconds":  70,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-9.jpg",
+                       "seconds":  90,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-18.jpg",
+                       "seconds":  180,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-21.jpg",
+                       "seconds":  210,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-30.jpg",
+                       "seconds":  300,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-36.jpg",
+                       "seconds":  360,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-39.jpg",
+                       "seconds":  390,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-44.jpg",
+                       "seconds":  440,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-45.jpg",
+                       "seconds":  450,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-51.jpg",
+                       "seconds":  510,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-55.jpg",
+                       "seconds":  550,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-61.jpg",
+                       "seconds":  610,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-62.jpg",
+                       "seconds":  620,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-66.jpg",
+                       "seconds":  660,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-70.jpg",
+                       "seconds":  700,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-74.jpg",
+                       "seconds":  740,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-80.jpg",
+                       "seconds":  800,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-87.jpg",
+                       "seconds":  870,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-90.jpg",
+                       "seconds":  900,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-95.jpg",
+                       "seconds":  950,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-101.jpg",
+                       "seconds":  1010,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-102.jpg",
+                       "seconds":  1020,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-103.jpg",
+                       "seconds":  1030,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-106.jpg",
+                       "seconds":  1060,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-110.jpg",
+                       "seconds":  1100,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-114.jpg",
+                       "seconds":  1140,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-117.jpg",
+                       "seconds":  1170,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-120.jpg",
+                       "seconds":  1200,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-126.jpg",
+                       "seconds":  1260,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-130.jpg",
+                       "seconds":  1300,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-135.jpg",
+                       "seconds":  1350,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-140.jpg",
+                       "seconds":  1400,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-145.jpg",
+                       "seconds":  1450,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-149.jpg",
+                       "seconds":  1490,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-155.jpg",
+                       "seconds":  1550,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-162.jpg",
+                       "seconds":  1620,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/E80R3vE25tg-166.jpg",
+                       "seconds":  1660,
+                       "text":  "",
+                       "reviewed":  false
+                   }
+               ]
+}

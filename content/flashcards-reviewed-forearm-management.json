@@ -1,0 +1,172 @@
+[
+  {
+    "id": "reviewed-fm-galeazzi-fc-1",
+    "lectureId": "jflb-nvOTwc",
+    "front": "What joint injury completes a Galeazzi fracture-dislocation?",
+    "back": "Disruption of the distal radioulnar joint accompanying a radial shaft fracture.",
+    "explanation": "A radial shaft fracture with DRUJ disruption is a Galeazzi injury; wrist assessment prevents missing the unstable joint.",
+    "references": [
+      {
+        "title": "Source lecture and supplied slides",
+        "url": "https://www.youtube.com/watch?v=jflb-nvOTwc"
+      },
+      {
+        "title": "AO Surgery Reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/forearm-shaft/basic-technique/druj-stabilization-galeazzi-fracture-dislocation"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-fm-galeazzi-fc-2",
+    "lectureId": "jflb-nvOTwc",
+    "front": "What is the central sequence of adult Galeazzi fixation?",
+    "back": "Restore radial length and alignment, then verify DRUJ reduction and stability.",
+    "explanation": "Restoration of radial length and alignment often reduces the DRUJ; stability must then be checked.",
+    "references": [
+      {
+        "title": "Source lecture and supplied slides",
+        "url": "https://www.youtube.com/watch?v=jflb-nvOTwc"
+      },
+      {
+        "title": "AO Surgery Reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/forearm-shaft/basic-technique/druj-stabilization-galeazzi-fracture-dislocation"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-fm-galeazzi-fc-3",
+    "lectureId": "jflb-nvOTwc",
+    "front": "Why is one reduced DRUJ radiograph insufficient after Galeazzi fixation?",
+    "back": "The joint may remain unstable during forearm rotation; dynamic assessment is required.",
+    "explanation": "A static reduction does not establish dynamic stability; the joint is palpated and assessed during forearm rotation.",
+    "references": [
+      {
+        "title": "Source lecture and supplied slides",
+        "url": "https://www.youtube.com/watch?v=jflb-nvOTwc"
+      },
+      {
+        "title": "AO Surgery Reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/forearm-shaft/basic-technique/druj-stabilization-galeazzi-fracture-dislocation"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-fm-galeazzi-fc-4",
+    "lectureId": "jflb-nvOTwc",
+    "front": "What should be suspected when the DRUJ remains irreducible after anatomical radial fixation?",
+    "back": "Interposed soft tissue or another mechanical obstruction requiring exploration.",
+    "explanation": "When anatomical radial fixation has been confirmed, an irreducible DRUJ warrants exploration for obstruction.",
+    "references": [
+      {
+        "title": "Source lecture and supplied slides",
+        "url": "https://www.youtube.com/watch?v=jflb-nvOTwc"
+      },
+      {
+        "title": "AO Surgery Reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/forearm-shaft/basic-technique/druj-stabilization-galeazzi-fracture-dislocation"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-fm-galeazzi-fc-5",
+    "lectureId": "jflb-nvOTwc",
+    "front": "Does anatomical fixation of the radius guarantee a stable DRUJ?",
+    "back": "No. Residual instability may require position-specific immobilization or additional fixation.",
+    "explanation": "Persistent instability requires protection in a stable position and sometimes temporary transfixation, based on operative assessment.",
+    "references": [
+      {
+        "title": "Source lecture and supplied slides",
+        "url": "https://www.youtube.com/watch?v=jflb-nvOTwc"
+      },
+      {
+        "title": "AO Surgery Reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/forearm-shaft/basic-technique/druj-stabilization-galeazzi-fracture-dislocation"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-fm-monteggia-fc-1",
+    "lectureId": "_afYy_HDT6M",
+    "front": "Which alignment check helps detect the dislocation in a Monteggia injury?",
+    "back": "Confirm that the radial neck axis points to the capitellum on adequate elbow views.",
+    "explanation": "Failure of radiocapitellar alignment raises concern for radial head dislocation associated with the ulnar injury.",
+    "references": [
+      {
+        "title": "Source lecture and supplied slides",
+        "url": "https://www.youtube.com/watch?v=_afYy_HDT6M"
+      },
+      {
+        "title": "AO Surgery Reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/forearm-shaft/basic-technique/radial-head-stabilization-monteggia-fracture-dislocation"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-fm-monteggia-fc-2",
+    "lectureId": "_afYy_HDT6M",
+    "front": "What bony correction is central to reducing an adult Monteggia injury?",
+    "back": "Restoration of ulnar length and alignment.",
+    "explanation": "The ulna provides the structural relationship needed for reduction and stability of the radial head.",
+    "references": [
+      {
+        "title": "Source lecture and supplied slides",
+        "url": "https://www.youtube.com/watch?v=_afYy_HDT6M"
+      },
+      {
+        "title": "AO Surgery Reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/forearm-shaft/basic-technique/radial-head-stabilization-monteggia-fracture-dislocation"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-fm-monteggia-fc-3",
+    "lectureId": "_afYy_HDT6M",
+    "front": "What must be checked when the radial head remains displaced after Monteggia fixation?",
+    "back": "Confirm anatomical ulnar reduction before assuming a purely soft-tissue block.",
+    "explanation": "Ulnar malreduction can maintain radial head malalignment; correcting the bony relationship is essential.",
+    "references": [
+      {
+        "title": "Source lecture and supplied slides",
+        "url": "https://www.youtube.com/watch?v=_afYy_HDT6M"
+      },
+      {
+        "title": "AO Surgery Reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/forearm-shaft/basic-technique/radial-head-stabilization-monteggia-fracture-dislocation"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-fm-monteggia-fc-4",
+    "lectureId": "_afYy_HDT6M",
+    "front": "What can block radial head reduction despite anatomical ulnar fixation?",
+    "back": "Interposed annular ligament or other soft tissue.",
+    "explanation": "A soft-tissue block can prevent radial head reduction after the bony alignment has been corrected.",
+    "references": [
+      {
+        "title": "Source lecture and supplied slides",
+        "url": "https://www.youtube.com/watch?v=_afYy_HDT6M"
+      },
+      {
+        "title": "AO Surgery Reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/forearm-shaft/basic-technique/radial-head-stabilization-monteggia-fracture-dislocation"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-fm-monteggia-fc-5",
+    "lectureId": "_afYy_HDT6M",
+    "front": "What must be verified after radial head reduction in a Monteggia injury?",
+    "back": "Maintenance of reduction and stability through the assessed range of motion.",
+    "explanation": "A reduced image alone does not prove that the head will remain stable during functional movement.",
+    "references": [
+      {
+        "title": "Source lecture and supplied slides",
+        "url": "https://www.youtube.com/watch?v=_afYy_HDT6M"
+      },
+      {
+        "title": "AO Surgery Reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/forearm-shaft/basic-technique/radial-head-stabilization-monteggia-fracture-dislocation"
+      }
+    ]
+  }
+]

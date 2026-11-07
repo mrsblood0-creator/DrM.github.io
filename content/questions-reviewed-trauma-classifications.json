@@ -1,0 +1,1091 @@
+[
+  {
+    "id": "reviewed-tc-distal-radius-1",
+    "lectureId": "SIX17WxeLfM",
+    "category": "Orthopedics",
+    "title": "distal radius — pattern 1",
+    "prompt": "A 73-year-old woman falls onto her outstretched hand. Her wrist has a dorsal prominence, and radiographs show an extra-articular distal radial metaphyseal fracture with dorsal angulation of the distal fragment. The articular rim remains intact. Which distal radius fracture pattern is described?",
+    "answer": "Colles fracture",
+    "options": [
+      "Barton fracture",
+      "Chauffeur fracture",
+      "Die-punch fracture",
+      "Colles fracture",
+      "Smith fracture"
+    ],
+    "explanation": "Colles fracture: An extra-articular distal radius fracture with dorsal displacement or angulation.",
+    "distractorExplanations": {
+      "Colles fracture": "Colles fracture: An extra-articular distal radius fracture with dorsal displacement or angulation.",
+      "Smith fracture": "Smith fracture describes an extra-articular distal radius fracture with volar displacement or angulation. The case instead matches Colles fracture.",
+      "Barton fracture": "Barton fracture describes an intra-articular rim shear fracture with associated radiocarpal subluxation or dislocation. The case instead matches Colles fracture.",
+      "Chauffeur fracture": "Chauffeur fracture describes an intra-articular fracture of the radial styloid. The case instead matches Colles fracture.",
+      "Die-punch fracture": "Die-punch fracture describes an impacted depression of the distal radial lunate fossa. The case instead matches Colles fracture."
+    },
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=SIX17WxeLfM"
+      },
+      {
+        "title": "Orthopedic reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/distal-forearm"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tc-distal-radius-2",
+    "lectureId": "SIX17WxeLfM",
+    "category": "Orthopedics",
+    "title": "distal radius — pattern 2",
+    "prompt": "A 45-year-old man falls onto a flexed wrist. Radiographs show an extra-articular distal radial fracture with the distal fragment angulated toward the palm. There is no rim fragment carrying a subluxed carpus and no isolated styloid fracture. Which distal radius fracture pattern is described?",
+    "answer": "Smith fracture",
+    "options": [
+      "Die-punch fracture",
+      "Colles fracture",
+      "Smith fracture",
+      "Barton fracture",
+      "Chauffeur fracture"
+    ],
+    "explanation": "Smith fracture: An extra-articular distal radius fracture with volar displacement or angulation.",
+    "distractorExplanations": {
+      "Smith fracture": "Smith fracture: An extra-articular distal radius fracture with volar displacement or angulation.",
+      "Barton fracture": "Barton fracture describes an intra-articular rim shear fracture with associated radiocarpal subluxation or dislocation. The case instead matches Smith fracture.",
+      "Chauffeur fracture": "Chauffeur fracture describes an intra-articular fracture of the radial styloid. The case instead matches Smith fracture.",
+      "Die-punch fracture": "Die-punch fracture describes an impacted depression of the distal radial lunate fossa. The case instead matches Smith fracture.",
+      "Colles fracture": "Colles fracture describes an extra-articular distal radius fracture with dorsal displacement or angulation. The case instead matches Smith fracture."
+    },
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=SIX17WxeLfM"
+      },
+      {
+        "title": "Orthopedic reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/distal-forearm"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tc-distal-radius-3",
+    "lectureId": "SIX17WxeLfM",
+    "category": "Orthopedics",
+    "title": "distal radius — pattern 3",
+    "prompt": "After a bicycle crash, a patient has a fracture through the dorsal rim of the distal radius. The carpus remains aligned with the separated rim fragment but is subluxed relative to the remaining radius. The injury enters the joint. Which distal radius fracture pattern is described?",
+    "answer": "Barton fracture",
+    "options": [
+      "Smith fracture",
+      "Barton fracture",
+      "Chauffeur fracture",
+      "Die-punch fracture",
+      "Colles fracture"
+    ],
+    "explanation": "Barton fracture: An intra-articular rim shear fracture with associated radiocarpal subluxation or dislocation.",
+    "distractorExplanations": {
+      "Barton fracture": "Barton fracture: An intra-articular rim shear fracture with associated radiocarpal subluxation or dislocation.",
+      "Chauffeur fracture": "Chauffeur fracture describes an intra-articular fracture of the radial styloid. The case instead matches Barton fracture.",
+      "Die-punch fracture": "Die-punch fracture describes an impacted depression of the distal radial lunate fossa. The case instead matches Barton fracture.",
+      "Colles fracture": "Colles fracture describes an extra-articular distal radius fracture with dorsal displacement or angulation. The case instead matches Barton fracture.",
+      "Smith fracture": "Smith fracture describes an extra-articular distal radius fracture with volar displacement or angulation. The case instead matches Barton fracture."
+    },
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=SIX17WxeLfM"
+      },
+      {
+        "title": "Orthopedic reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/distal-forearm"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tc-distal-radius-4",
+    "lectureId": "SIX17WxeLfM",
+    "category": "Orthopedics",
+    "title": "distal radius — pattern 4",
+    "prompt": "A 32-year-old mechanic has radial-sided wrist pain after an axial and shearing injury. Imaging demonstrates an isolated fracture separating the radial styloid from the remaining distal radius. The central lunate facet is not depressed, and the carpus is not subluxed. Which distal radius fracture pattern is described?",
+    "answer": "Chauffeur fracture",
+    "options": [
+      "Chauffeur fracture",
+      "Die-punch fracture",
+      "Colles fracture",
+      "Smith fracture",
+      "Barton fracture"
+    ],
+    "explanation": "Chauffeur fracture: An intra-articular fracture of the radial styloid.",
+    "distractorExplanations": {
+      "Chauffeur fracture": "Chauffeur fracture: An intra-articular fracture of the radial styloid.",
+      "Die-punch fracture": "Die-punch fracture describes an impacted depression of the distal radial lunate fossa. The case instead matches Chauffeur fracture.",
+      "Colles fracture": "Colles fracture describes an extra-articular distal radius fracture with dorsal displacement or angulation. The case instead matches Chauffeur fracture.",
+      "Smith fracture": "Smith fracture describes an extra-articular distal radius fracture with volar displacement or angulation. The case instead matches Chauffeur fracture.",
+      "Barton fracture": "Barton fracture describes an intra-articular rim shear fracture with associated radiocarpal subluxation or dislocation. The case instead matches Chauffeur fracture."
+    },
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=SIX17WxeLfM"
+      },
+      {
+        "title": "Orthopedic reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/distal-forearm"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tc-distal-radius-5",
+    "lectureId": "SIX17WxeLfM",
+    "category": "Orthopedics",
+    "title": "distal radius — pattern 5",
+    "prompt": "A worker lands heavily on his hand after falling from a platform. CT shows an impacted central articular depression of the distal radius where the lunate transmitted axial force. There is no isolated styloid fracture or rim-associated carpal subluxation. Which distal radius fracture pattern is described?",
+    "answer": "Die-punch fracture",
+    "options": [
+      "Colles fracture",
+      "Smith fracture",
+      "Barton fracture",
+      "Chauffeur fracture",
+      "Die-punch fracture"
+    ],
+    "explanation": "Die-punch fracture: An impacted depression of the distal radial lunate fossa.",
+    "distractorExplanations": {
+      "Die-punch fracture": "Die-punch fracture: An impacted depression of the distal radial lunate fossa.",
+      "Colles fracture": "Colles fracture describes an extra-articular distal radius fracture with dorsal displacement or angulation. The case instead matches Die-punch fracture.",
+      "Smith fracture": "Smith fracture describes an extra-articular distal radius fracture with volar displacement or angulation. The case instead matches Die-punch fracture.",
+      "Barton fracture": "Barton fracture describes an intra-articular rim shear fracture with associated radiocarpal subluxation or dislocation. The case instead matches Die-punch fracture.",
+      "Chauffeur fracture": "Chauffeur fracture describes an intra-articular fracture of the radial styloid. The case instead matches Die-punch fracture."
+    },
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=SIX17WxeLfM"
+      },
+      {
+        "title": "Orthopedic reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/distal-forearm"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tc-gustilo-1",
+    "lectureId": "JeW8v0_o0kc",
+    "category": "Orthopedics",
+    "title": "gustilo — pattern 1",
+    "prompt": "During operative assessment of an open tibial fracture, the surgeon finds a clean 5-mm puncture caused by a bone spike. The injury was low energy, contamination is minimal, and there is little soft-tissue damage without vascular injury. Which Gustilo–Anderson grade best describes the injury?",
+    "answer": "Type I",
+    "options": [
+      "Type IIIA",
+      "Type IIIB",
+      "Type IIIC",
+      "Type I",
+      "Type II"
+    ],
+    "explanation": "Type I: A low-energy open fracture with a clean wound under 1 cm and minimal soft-tissue damage.",
+    "distractorExplanations": {
+      "Type I": "Type I: A low-energy open fracture with a clean wound under 1 cm and minimal soft-tissue damage.",
+      "Type II": "Type II describes an open fracture with a wound over 1 cm but without extensive soft-tissue destruction, flaps or avulsion. The case instead matches Type I.",
+      "Type IIIA": "Type IIIA describes a severe open fracture with adequate viable soft-tissue coverage of the bone. The case instead matches Type I.",
+      "Type IIIB": "Type IIIB describes an open fracture with extensive soft-tissue loss, periosteal stripping and inadequate bone coverage requiring flap reconstruction. The case instead matches Type I.",
+      "Type IIIC": "Type IIIC describes an open fracture associated with an arterial injury requiring repair, regardless of wound size. The case instead matches Type I."
+    },
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=JeW8v0_o0kc"
+      },
+      {
+        "title": "Orthopedic reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/further-reading/principles-of-management-of-open-fractures"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tc-gustilo-2",
+    "lectureId": "JeW8v0_o0kc",
+    "category": "Orthopedics",
+    "title": "gustilo — pattern 2",
+    "prompt": "An open forearm fracture follows a moderate-energy fall. At debridement, the wound measures 4 cm, with limited contamination and no extensive crushing, skin loss or periosteal stripping. Bone is easily covered and the artery does not require repair. Which Gustilo–Anderson grade best describes the injury?",
+    "answer": "Type II",
+    "options": [
+      "Type IIIC",
+      "Type I",
+      "Type II",
+      "Type IIIA",
+      "Type IIIB"
+    ],
+    "explanation": "Type II: An open fracture with a wound over 1 cm but without extensive soft-tissue destruction, flaps or avulsion.",
+    "distractorExplanations": {
+      "Type II": "Type II: An open fracture with a wound over 1 cm but without extensive soft-tissue destruction, flaps or avulsion.",
+      "Type IIIA": "Type IIIA describes a severe open fracture with adequate viable soft-tissue coverage of the bone. The case instead matches Type II.",
+      "Type IIIB": "Type IIIB describes an open fracture with extensive soft-tissue loss, periosteal stripping and inadequate bone coverage requiring flap reconstruction. The case instead matches Type II.",
+      "Type IIIC": "Type IIIC describes an open fracture associated with an arterial injury requiring repair, regardless of wound size. The case instead matches Type II.",
+      "Type I": "Type I describes a low-energy open fracture with a clean wound under 1 cm and minimal soft-tissue damage. The case instead matches Type II."
+    },
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=JeW8v0_o0kc"
+      },
+      {
+        "title": "Orthopedic reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/further-reading/principles-of-management-of-open-fractures"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tc-gustilo-3",
+    "lectureId": "JeW8v0_o0kc",
+    "category": "Orthopedics",
+    "title": "gustilo — pattern 3",
+    "prompt": "A high-energy motorcycle crash causes a comminuted open tibial fracture. After debridement there is extensive soft-tissue injury, but viable local tissues adequately cover the bone without a flap. Perfusion is intact and no arterial repair is required. Which Gustilo–Anderson grade best describes the injury?",
+    "answer": "Type IIIA",
+    "options": [
+      "Type II",
+      "Type IIIA",
+      "Type IIIB",
+      "Type IIIC",
+      "Type I"
+    ],
+    "explanation": "Type IIIA: A severe open fracture with adequate viable soft-tissue coverage of the bone.",
+    "distractorExplanations": {
+      "Type IIIA": "Type IIIA: A severe open fracture with adequate viable soft-tissue coverage of the bone.",
+      "Type IIIB": "Type IIIB describes an open fracture with extensive soft-tissue loss, periosteal stripping and inadequate bone coverage requiring flap reconstruction. The case instead matches Type IIIA.",
+      "Type IIIC": "Type IIIC describes an open fracture associated with an arterial injury requiring repair, regardless of wound size. The case instead matches Type IIIA.",
+      "Type I": "Type I describes a low-energy open fracture with a clean wound under 1 cm and minimal soft-tissue damage. The case instead matches Type IIIA.",
+      "Type II": "Type II describes an open fracture with a wound over 1 cm but without extensive soft-tissue destruction, flaps or avulsion. The case instead matches Type IIIA."
+    },
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=JeW8v0_o0kc"
+      },
+      {
+        "title": "Orthopedic reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/further-reading/principles-of-management-of-open-fractures"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tc-gustilo-4",
+    "lectureId": "JeW8v0_o0kc",
+    "category": "Orthopedics",
+    "title": "gustilo — pattern 4",
+    "prompt": "A patient has a contaminated open tibial fracture after an industrial crush injury. Debridement reveals periosteal stripping and exposed bone that cannot be covered by the remaining local tissue. A flap is needed, but the limb artery is intact. Which Gustilo–Anderson grade best describes the injury?",
+    "answer": "Type IIIB",
+    "options": [
+      "Type IIIB",
+      "Type IIIC",
+      "Type I",
+      "Type II",
+      "Type IIIA"
+    ],
+    "explanation": "Type IIIB: An open fracture with extensive soft-tissue loss, periosteal stripping and inadequate bone coverage requiring flap reconstruction.",
+    "distractorExplanations": {
+      "Type IIIB": "Type IIIB: An open fracture with extensive soft-tissue loss, periosteal stripping and inadequate bone coverage requiring flap reconstruction.",
+      "Type IIIC": "Type IIIC describes an open fracture associated with an arterial injury requiring repair, regardless of wound size. The case instead matches Type IIIB.",
+      "Type I": "Type I describes a low-energy open fracture with a clean wound under 1 cm and minimal soft-tissue damage. The case instead matches Type IIIB.",
+      "Type II": "Type II describes an open fracture with a wound over 1 cm but without extensive soft-tissue destruction, flaps or avulsion. The case instead matches Type IIIB.",
+      "Type IIIA": "Type IIIA describes a severe open fracture with adequate viable soft-tissue coverage of the bone. The case instead matches Type IIIB."
+    },
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=JeW8v0_o0kc"
+      },
+      {
+        "title": "Orthopedic reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/further-reading/principles-of-management-of-open-fractures"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tc-gustilo-5",
+    "lectureId": "JeW8v0_o0kc",
+    "category": "Orthopedics",
+    "title": "gustilo — pattern 5",
+    "prompt": "A man sustains an open tibial fracture with a relatively small skin wound. The foot is ischemic, and operative exploration identifies a disrupted artery requiring repair for limb perfusion. The amount of remaining soft tissue is otherwise sufficient for coverage. Which Gustilo–Anderson grade best describes the injury?",
+    "answer": "Type IIIC",
+    "options": [
+      "Type I",
+      "Type II",
+      "Type IIIA",
+      "Type IIIB",
+      "Type IIIC"
+    ],
+    "explanation": "Type IIIC: An open fracture associated with an arterial injury requiring repair, regardless of wound size.",
+    "distractorExplanations": {
+      "Type IIIC": "Type IIIC: An open fracture associated with an arterial injury requiring repair, regardless of wound size.",
+      "Type I": "Type I describes a low-energy open fracture with a clean wound under 1 cm and minimal soft-tissue damage. The case instead matches Type IIIC.",
+      "Type II": "Type II describes an open fracture with a wound over 1 cm but without extensive soft-tissue destruction, flaps or avulsion. The case instead matches Type IIIC.",
+      "Type IIIA": "Type IIIA describes a severe open fracture with adequate viable soft-tissue coverage of the bone. The case instead matches Type IIIC.",
+      "Type IIIB": "Type IIIB describes an open fracture with extensive soft-tissue loss, periosteal stripping and inadequate bone coverage requiring flap reconstruction. The case instead matches Type IIIC."
+    },
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=JeW8v0_o0kc"
+      },
+      {
+        "title": "Orthopedic reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/further-reading/principles-of-management-of-open-fractures"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tc-schatzker-1",
+    "lectureId": "LI-c_eBJGBM",
+    "category": "Orthopedics",
+    "title": "schatzker — pattern 1",
+    "prompt": "A young adult sustains a knee injury from a lateral force with axial loading. CT shows a vertical split through the lateral tibial plateau, but the joint surface is not depressed. The medial plateau and metaphyseal-diaphyseal continuity remain intact. Which Schatzker type best matches the CT description?",
+    "answer": "Type I",
+    "options": [
+      "Type III",
+      "Type IV",
+      "Type V",
+      "Type I",
+      "Type II"
+    ],
+    "explanation": "Type I: A pure split of the lateral tibial plateau without articular depression.",
+    "distractorExplanations": {
+      "Type I": "Type I: A pure split of the lateral tibial plateau without articular depression.",
+      "Type II": "Type II describes a lateral plateau split combined with articular depression. The case instead matches Type I.",
+      "Type III": "Type III describes a pure depression of the lateral plateau without a lateral cortical split. The case instead matches Type I.",
+      "Type IV": "Type IV describes a fracture involving the medial tibial plateau. The case instead matches Type I.",
+      "Type V": "Type V describes a bicondylar tibial plateau fracture without complete metaphyseal-diaphyseal dissociation. The case instead matches Type I."
+    },
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=LI-c_eBJGBM"
+      },
+      {
+        "title": "Orthopedic reference",
+        "url": "https://hslguides.med.nyu.edu/orthopedics/reftool"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tc-schatzker-2",
+    "lectureId": "LI-c_eBJGBM",
+    "category": "Orthopedics",
+    "title": "schatzker — pattern 2",
+    "prompt": "A 56-year-old woman falls onto a loaded knee. CT demonstrates both a lateral cortical split and a depressed segment of the lateral articular surface. The medial plateau is intact, and the metaphysis remains connected to the tibial shaft. Which Schatzker type best matches the CT description?",
+    "answer": "Type II",
+    "options": [
+      "Type V",
+      "Type VI",
+      "Type II",
+      "Type III",
+      "Type IV"
+    ],
+    "explanation": "Type II: A lateral plateau split combined with articular depression.",
+    "distractorExplanations": {
+      "Type II": "Type II: A lateral plateau split combined with articular depression.",
+      "Type III": "Type III describes a pure depression of the lateral plateau without a lateral cortical split. The case instead matches Type II.",
+      "Type IV": "Type IV describes a fracture involving the medial tibial plateau. The case instead matches Type II.",
+      "Type V": "Type V describes a bicondylar tibial plateau fracture without complete metaphyseal-diaphyseal dissociation. The case instead matches Type II.",
+      "Type VI": "Type VI describes a plateau fracture with metaphyseal-diaphyseal dissociation. The case instead matches Type II."
+    },
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=LI-c_eBJGBM"
+      },
+      {
+        "title": "Orthopedic reference",
+        "url": "https://hslguides.med.nyu.edu/orthopedics/reftool"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tc-schatzker-3",
+    "lectureId": "LI-c_eBJGBM",
+    "category": "Orthopedics",
+    "title": "schatzker — pattern 3",
+    "prompt": "An older patient with reduced bone density has knee pain after a relatively low-energy fall. CT shows depression of the lateral tibial articular surface, with no cortical split extending to the lateral side. The medial plateau is uninvolved. Which Schatzker type best matches the CT description?",
+    "answer": "Type III",
+    "options": [
+      "Type I",
+      "Type III",
+      "Type IV",
+      "Type V",
+      "Type VI"
+    ],
+    "explanation": "Type III: A pure depression of the lateral plateau without a lateral cortical split.",
+    "distractorExplanations": {
+      "Type III": "Type III: A pure depression of the lateral plateau without a lateral cortical split.",
+      "Type IV": "Type IV describes a fracture involving the medial tibial plateau. The case instead matches Type III.",
+      "Type V": "Type V describes a bicondylar tibial plateau fracture without complete metaphyseal-diaphyseal dissociation. The case instead matches Type III.",
+      "Type VI": "Type VI describes a plateau fracture with metaphyseal-diaphyseal dissociation. The case instead matches Type III.",
+      "Type I": "Type I describes a pure split of the lateral tibial plateau without articular depression. The case instead matches Type III."
+    },
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=LI-c_eBJGBM"
+      },
+      {
+        "title": "Orthopedic reference",
+        "url": "https://hslguides.med.nyu.edu/orthopedics/reftool"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tc-schatzker-4",
+    "lectureId": "LI-c_eBJGBM",
+    "category": "Orthopedics",
+    "title": "schatzker — pattern 4",
+    "prompt": "After high-energy trauma, a patient has a tibial plateau fracture confined to the medial side. CT shows a medial articular fragment with displacement; the lateral plateau is intact. The examiner specifically notes that both condyles are not fractured. Which Schatzker type best matches the CT description?",
+    "answer": "Type IV",
+    "options": [
+      "Type IV",
+      "Type V",
+      "Type VI",
+      "Type I",
+      "Type II"
+    ],
+    "explanation": "Type IV: A fracture involving the medial tibial plateau.",
+    "distractorExplanations": {
+      "Type IV": "Type IV: A fracture involving the medial tibial plateau.",
+      "Type V": "Type V describes a bicondylar tibial plateau fracture without complete metaphyseal-diaphyseal dissociation. The case instead matches Type IV.",
+      "Type VI": "Type VI describes a plateau fracture with metaphyseal-diaphyseal dissociation. The case instead matches Type IV.",
+      "Type I": "Type I describes a pure split of the lateral tibial plateau without articular depression. The case instead matches Type IV.",
+      "Type II": "Type II describes a lateral plateau split combined with articular depression. The case instead matches Type IV."
+    },
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=LI-c_eBJGBM"
+      },
+      {
+        "title": "Orthopedic reference",
+        "url": "https://hslguides.med.nyu.edu/orthopedics/reftool"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tc-schatzker-5",
+    "lectureId": "LI-c_eBJGBM",
+    "category": "Orthopedics",
+    "title": "schatzker — pattern 5",
+    "prompt": "CT after a road collision demonstrates fractures of both medial and lateral tibial plateaus. Despite the bicondylar articular injury, a portion of the plateau-metaphyseal segment remains in continuity with the diaphysis. There is no complete separation from the shaft. Which Schatzker type best matches the CT description?",
+    "answer": "Type V",
+    "options": [
+      "Type VI",
+      "Type I",
+      "Type II",
+      "Type III",
+      "Type V"
+    ],
+    "explanation": "Type V: A bicondylar tibial plateau fracture without complete metaphyseal-diaphyseal dissociation.",
+    "distractorExplanations": {
+      "Type V": "Type V: A bicondylar tibial plateau fracture without complete metaphyseal-diaphyseal dissociation.",
+      "Type VI": "Type VI describes a plateau fracture with metaphyseal-diaphyseal dissociation. The case instead matches Type V.",
+      "Type I": "Type I describes a pure split of the lateral tibial plateau without articular depression. The case instead matches Type V.",
+      "Type II": "Type II describes a lateral plateau split combined with articular depression. The case instead matches Type V.",
+      "Type III": "Type III describes a pure depression of the lateral plateau without a lateral cortical split. The case instead matches Type V."
+    },
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=LI-c_eBJGBM"
+      },
+      {
+        "title": "Orthopedic reference",
+        "url": "https://hslguides.med.nyu.edu/orthopedics/reftool"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tc-schatzker-6",
+    "lectureId": "LI-c_eBJGBM",
+    "category": "Orthopedics",
+    "title": "schatzker — pattern 6",
+    "prompt": "A high-energy fall produces a complex proximal tibial fracture. CT shows an articular plateau fracture and a separate transverse component that completely disconnects the plateau-metaphyseal segment from the tibial diaphysis. The shaft is no longer continuous with the proximal segment. Which Schatzker type best matches the CT description?",
+    "answer": "Type VI",
+    "options": [
+      "Type II",
+      "Type III",
+      "Type IV",
+      "Type VI",
+      "Type I"
+    ],
+    "explanation": "Type VI: A plateau fracture with metaphyseal-diaphyseal dissociation.",
+    "distractorExplanations": {
+      "Type VI": "Type VI: A plateau fracture with metaphyseal-diaphyseal dissociation.",
+      "Type I": "Type I describes a pure split of the lateral tibial plateau without articular depression. The case instead matches Type VI.",
+      "Type II": "Type II describes a lateral plateau split combined with articular depression. The case instead matches Type VI.",
+      "Type III": "Type III describes a pure depression of the lateral plateau without a lateral cortical split. The case instead matches Type VI.",
+      "Type IV": "Type IV describes a fracture involving the medial tibial plateau. The case instead matches Type VI."
+    },
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=LI-c_eBJGBM"
+      },
+      {
+        "title": "Orthopedic reference",
+        "url": "https://hslguides.med.nyu.edu/orthopedics/reftool"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tc-salter-harris-1",
+    "lectureId": "J3_iSJY8r7A",
+    "category": "Orthopedics",
+    "title": "salter harris — pattern 1",
+    "prompt": "A 9-year-old child has focal growth-plate pain after a twisting injury. Further imaging shows separation confined entirely to the physis, without a fracture line through the adjacent metaphysis or epiphysis. The articular surface itself remains intact. Which Salter–Harris type is represented?",
+    "answer": "Type I",
+    "options": [
+      "Type III",
+      "Type IV",
+      "Type V",
+      "Type I",
+      "Type II"
+    ],
+    "explanation": "Type I: A fracture through the physis alone, without metaphyseal or epiphyseal extension.",
+    "distractorExplanations": {
+      "Type I": "Type I: A fracture through the physis alone, without metaphyseal or epiphyseal extension.",
+      "Type II": "Type II describes a fracture through the physis that exits through the metaphysis. The case instead matches Type I.",
+      "Type III": "Type III describes a fracture through the physis and epiphysis that reaches the articular surface. The case instead matches Type I.",
+      "Type IV": "Type IV describes a fracture crossing metaphysis, physis and epiphysis, including the joint surface. The case instead matches Type I.",
+      "Type V": "Type V describes a compression or crush injury of the physis, often recognized through later growth disturbance. The case instead matches Type I."
+    },
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=J3_iSJY8r7A"
+      },
+      {
+        "title": "Orthopedic reference",
+        "url": "https://www.rch.org.au/fracture-education/growth_plate_injuries/Physeal_growth_plate_injuries/"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tc-salter-harris-2",
+    "lectureId": "J3_iSJY8r7A",
+    "category": "Orthopedics",
+    "title": "salter harris — pattern 2",
+    "prompt": "A 12-year-old child falls onto the wrist. Radiographs show a fracture along the distal radial growth plate that exits through the metaphysis, leaving a triangular metaphyseal fragment attached to the epiphysis. The articular surface is not crossed. Which Salter–Harris type is represented?",
+    "answer": "Type II",
+    "options": [
+      "Type V",
+      "Type I",
+      "Type II",
+      "Type III",
+      "Type IV"
+    ],
+    "explanation": "Type II: A fracture through the physis that exits through the metaphysis.",
+    "distractorExplanations": {
+      "Type II": "Type II: A fracture through the physis that exits through the metaphysis.",
+      "Type III": "Type III describes a fracture through the physis and epiphysis that reaches the articular surface. The case instead matches Type II.",
+      "Type IV": "Type IV describes a fracture crossing metaphysis, physis and epiphysis, including the joint surface. The case instead matches Type II.",
+      "Type V": "Type V describes a compression or crush injury of the physis, often recognized through later growth disturbance. The case instead matches Type II.",
+      "Type I": "Type I describes a fracture through the physis alone, without metaphyseal or epiphyseal extension. The case instead matches Type II."
+    },
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=J3_iSJY8r7A"
+      },
+      {
+        "title": "Orthopedic reference",
+        "url": "https://www.rch.org.au/fracture-education/growth_plate_injuries/Physeal_growth_plate_injuries/"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tc-salter-harris-3",
+    "lectureId": "J3_iSJY8r7A",
+    "category": "Orthopedics",
+    "title": "salter harris — pattern 3",
+    "prompt": "An adolescent sustains an ankle injury. CT demonstrates a fracture crossing the distal tibial epiphysis into the joint and then turning along the growth plate. The metaphysis is intact, with no fracture line extending proximally into it. Which Salter–Harris type is represented?",
+    "answer": "Type III",
+    "options": [
+      "Type II",
+      "Type III",
+      "Type IV",
+      "Type V",
+      "Type I"
+    ],
+    "explanation": "Type III: A fracture through the physis and epiphysis that reaches the articular surface.",
+    "distractorExplanations": {
+      "Type III": "Type III: A fracture through the physis and epiphysis that reaches the articular surface.",
+      "Type IV": "Type IV describes a fracture crossing metaphysis, physis and epiphysis, including the joint surface. The case instead matches Type III.",
+      "Type V": "Type V describes a compression or crush injury of the physis, often recognized through later growth disturbance. The case instead matches Type III.",
+      "Type I": "Type I describes a fracture through the physis alone, without metaphyseal or epiphyseal extension. The case instead matches Type III.",
+      "Type II": "Type II describes a fracture through the physis that exits through the metaphysis. The case instead matches Type III."
+    },
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=J3_iSJY8r7A"
+      },
+      {
+        "title": "Orthopedic reference",
+        "url": "https://www.rch.org.au/fracture-education/growth_plate_injuries/Physeal_growth_plate_injuries/"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tc-salter-harris-4",
+    "lectureId": "J3_iSJY8r7A",
+    "category": "Orthopedics",
+    "title": "salter harris — pattern 4",
+    "prompt": "A child has a displaced distal tibial fracture after a fall. The fracture line starts in the metaphysis, passes through the growth plate and epiphysis, and reaches the ankle joint. All three anatomic regions are involved. Which Salter–Harris type is represented?",
+    "answer": "Type IV",
+    "options": [
+      "Type IV",
+      "Type V",
+      "Type I",
+      "Type II",
+      "Type III"
+    ],
+    "explanation": "Type IV: A fracture crossing metaphysis, physis and epiphysis, including the joint surface.",
+    "distractorExplanations": {
+      "Type IV": "Type IV: A fracture crossing metaphysis, physis and epiphysis, including the joint surface.",
+      "Type V": "Type V describes a compression or crush injury of the physis, often recognized through later growth disturbance. The case instead matches Type IV.",
+      "Type I": "Type I describes a fracture through the physis alone, without metaphyseal or epiphyseal extension. The case instead matches Type IV.",
+      "Type II": "Type II describes a fracture through the physis that exits through the metaphysis. The case instead matches Type IV.",
+      "Type III": "Type III describes a fracture through the physis and epiphysis that reaches the articular surface. The case instead matches Type IV."
+    },
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=J3_iSJY8r7A"
+      },
+      {
+        "title": "Orthopedic reference",
+        "url": "https://www.rch.org.au/fracture-education/growth_plate_injuries/Physeal_growth_plate_injuries/"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tc-salter-harris-5",
+    "lectureId": "J3_iSJY8r7A",
+    "category": "Orthopedics",
+    "title": "salter harris — pattern 5",
+    "prompt": "A child experiences axial compression across the knee in a crush accident. Initial radiographs show no obvious displaced fracture. Follow-up demonstrates focal growth arrest attributed to a crushed growth plate rather than a fracture extending through the metaphysis or epiphysis. Which Salter–Harris type is represented?",
+    "answer": "Type V",
+    "options": [
+      "Type I",
+      "Type II",
+      "Type III",
+      "Type IV",
+      "Type V"
+    ],
+    "explanation": "Type V: A compression or crush injury of the physis, often recognized through later growth disturbance.",
+    "distractorExplanations": {
+      "Type V": "Type V: A compression or crush injury of the physis, often recognized through later growth disturbance.",
+      "Type I": "Type I describes a fracture through the physis alone, without metaphyseal or epiphyseal extension. The case instead matches Type V.",
+      "Type II": "Type II describes a fracture through the physis that exits through the metaphysis. The case instead matches Type V.",
+      "Type III": "Type III describes a fracture through the physis and epiphysis that reaches the articular surface. The case instead matches Type V.",
+      "Type IV": "Type IV describes a fracture crossing metaphysis, physis and epiphysis, including the joint surface. The case instead matches Type V."
+    },
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=J3_iSJY8r7A"
+      },
+      {
+        "title": "Orthopedic reference",
+        "url": "https://www.rch.org.au/fracture-education/growth_plate_injuries/Physeal_growth_plate_injuries/"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tc-mayo-1",
+    "lectureId": "IWq-2VXDRwI",
+    "category": "Orthopedics",
+    "title": "mayo — pattern 1",
+    "prompt": "A patient falls directly onto the elbow. Imaging shows a single olecranon fracture line without displacement, and the ulnohumeral joint remains congruent. There are no multiple fragments, and active extension is preserved on the clinical examination. Which Mayo olecranon fracture subtype best describes these findings?",
+    "answer": "Type IA",
+    "options": [
+      "Type IIA",
+      "Type IIB",
+      "Type IIIA",
+      "Type IA",
+      "Type IB"
+    ],
+    "explanation": "Type IA: A nondisplaced, noncomminuted olecranon fracture.",
+    "distractorExplanations": {
+      "Type IA": "Type IA: A nondisplaced, noncomminuted olecranon fracture.",
+      "Type IB": "Type IB describes a nondisplaced, comminuted olecranon fracture. The case instead matches Type IA.",
+      "Type IIA": "Type IIA describes a displaced, noncomminuted olecranon fracture with a stable ulnohumeral joint. The case instead matches Type IA.",
+      "Type IIB": "Type IIB describes a displaced, comminuted olecranon fracture with a stable ulnohumeral joint. The case instead matches Type IA.",
+      "Type IIIA": "Type IIIA describes a displaced, noncomminuted olecranon fracture with ulnohumeral instability. The case instead matches Type IA."
+    },
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=IWq-2VXDRwI"
+      },
+      {
+        "title": "Orthopedic reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/proximal-forearm"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tc-mayo-2",
+    "lectureId": "IWq-2VXDRwI",
+    "category": "Orthopedics",
+    "title": "mayo — pattern 2",
+    "prompt": "An older adult has posterior elbow pain after a fall. CT shows several olecranon fragments, but the fracture remains nondisplaced and the ulnohumeral joint is stable. The assessment distinguishes comminution from displacement when assigning the Mayo subtype. Which Mayo olecranon fracture subtype best describes these findings?",
+    "answer": "Type IB",
+    "options": [
+      "Type IIIA",
+      "Type IIIB",
+      "Type IB",
+      "Type IIA",
+      "Type IIB"
+    ],
+    "explanation": "Type IB: A nondisplaced, comminuted olecranon fracture.",
+    "distractorExplanations": {
+      "Type IB": "Type IB: A nondisplaced, comminuted olecranon fracture.",
+      "Type IIA": "Type IIA describes a displaced, noncomminuted olecranon fracture with a stable ulnohumeral joint. The case instead matches Type IB.",
+      "Type IIB": "Type IIB describes a displaced, comminuted olecranon fracture with a stable ulnohumeral joint. The case instead matches Type IB.",
+      "Type IIIA": "Type IIIA describes a displaced, noncomminuted olecranon fracture with ulnohumeral instability. The case instead matches Type IB.",
+      "Type IIIB": "Type IIIB describes a displaced, comminuted olecranon fracture with ulnohumeral instability. The case instead matches Type IB."
+    },
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=IWq-2VXDRwI"
+      },
+      {
+        "title": "Orthopedic reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/proximal-forearm"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tc-mayo-3",
+    "lectureId": "IWq-2VXDRwI",
+    "category": "Orthopedics",
+    "title": "mayo — pattern 3",
+    "prompt": "A patient has a 6-mm displaced olecranon fracture after a fall. The fracture is simple rather than comminuted, and the ulnohumeral articulation is stable and congruent. There is no associated elbow fracture-dislocation on the radiographs or stability assessment. Which Mayo olecranon fracture subtype best describes these findings?",
+    "answer": "Type IIA",
+    "options": [
+      "Type IA",
+      "Type IIA",
+      "Type IIB",
+      "Type IIIA",
+      "Type IIIB"
+    ],
+    "explanation": "Type IIA: A displaced, noncomminuted olecranon fracture with a stable ulnohumeral joint.",
+    "distractorExplanations": {
+      "Type IIA": "Type IIA: A displaced, noncomminuted olecranon fracture with a stable ulnohumeral joint.",
+      "Type IIB": "Type IIB describes a displaced, comminuted olecranon fracture with a stable ulnohumeral joint. The case instead matches Type IIA.",
+      "Type IIIA": "Type IIIA describes a displaced, noncomminuted olecranon fracture with ulnohumeral instability. The case instead matches Type IIA.",
+      "Type IIIB": "Type IIIB describes a displaced, comminuted olecranon fracture with ulnohumeral instability. The case instead matches Type IIA.",
+      "Type IA": "Type IA describes a nondisplaced, noncomminuted olecranon fracture. The case instead matches Type IIA."
+    },
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=IWq-2VXDRwI"
+      },
+      {
+        "title": "Orthopedic reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/proximal-forearm"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tc-mayo-4",
+    "lectureId": "IWq-2VXDRwI",
+    "category": "Orthopedics",
+    "title": "mayo — pattern 4",
+    "prompt": "A road collision produces a displaced olecranon fracture with multiple fragments. Although the olecranon is disrupted, the ulnohumeral joint remains stable and congruent. The surgeon records both displacement and comminution before selecting the Mayo fracture subtype. Which Mayo olecranon fracture subtype best describes these findings?",
+    "answer": "Type IIB",
+    "options": [
+      "Type IIB",
+      "Type IIIA",
+      "Type IIIB",
+      "Type IA",
+      "Type IB"
+    ],
+    "explanation": "Type IIB: A displaced, comminuted olecranon fracture with a stable ulnohumeral joint.",
+    "distractorExplanations": {
+      "Type IIB": "Type IIB: A displaced, comminuted olecranon fracture with a stable ulnohumeral joint.",
+      "Type IIIA": "Type IIIA describes a displaced, noncomminuted olecranon fracture with ulnohumeral instability. The case instead matches Type IIB.",
+      "Type IIIB": "Type IIIB describes a displaced, comminuted olecranon fracture with ulnohumeral instability. The case instead matches Type IIB.",
+      "Type IA": "Type IA describes a nondisplaced, noncomminuted olecranon fracture. The case instead matches Type IIB.",
+      "Type IB": "Type IB describes a nondisplaced, comminuted olecranon fracture. The case instead matches Type IIB."
+    },
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=IWq-2VXDRwI"
+      },
+      {
+        "title": "Orthopedic reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/proximal-forearm"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tc-mayo-5",
+    "lectureId": "IWq-2VXDRwI",
+    "category": "Orthopedics",
+    "title": "mayo — pattern 5",
+    "prompt": "A high-energy elbow injury causes a displaced simple olecranon fracture with associated ulnohumeral instability and dislocation. Imaging shows no comminution of the olecranon fragment. Which subtype incorporates the unstable joint rather than treating the injury as a stable displaced fracture? Which Mayo olecranon fracture subtype best describes these findings?",
+    "answer": "Type IIIA",
+    "options": [
+      "Type IIIB",
+      "Type IA",
+      "Type IB",
+      "Type IIA",
+      "Type IIIA"
+    ],
+    "explanation": "Type IIIA: A displaced, noncomminuted olecranon fracture with ulnohumeral instability.",
+    "distractorExplanations": {
+      "Type IIIA": "Type IIIA: A displaced, noncomminuted olecranon fracture with ulnohumeral instability.",
+      "Type IIIB": "Type IIIB describes a displaced, comminuted olecranon fracture with ulnohumeral instability. The case instead matches Type IIIA.",
+      "Type IA": "Type IA describes a nondisplaced, noncomminuted olecranon fracture. The case instead matches Type IIIA.",
+      "Type IB": "Type IB describes a nondisplaced, comminuted olecranon fracture. The case instead matches Type IIIA.",
+      "Type IIA": "Type IIA describes a displaced, noncomminuted olecranon fracture with a stable ulnohumeral joint. The case instead matches Type IIIA."
+    },
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=IWq-2VXDRwI"
+      },
+      {
+        "title": "Orthopedic reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/proximal-forearm"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tc-mayo-6",
+    "lectureId": "IWq-2VXDRwI",
+    "category": "Orthopedics",
+    "title": "mayo — pattern 6",
+    "prompt": "A patient presents after a major fall with a comminuted displaced olecranon fracture and an unstable dislocated ulnohumeral joint. The imaging shows several fragments and loss of elbow congruity. Both comminution and instability must be reflected in the classification. Which Mayo olecranon fracture subtype best describes these findings?",
+    "answer": "Type IIIB",
+    "options": [
+      "Type IB",
+      "Type IIA",
+      "Type IIB",
+      "Type IIIB",
+      "Type IA"
+    ],
+    "explanation": "Type IIIB: A displaced, comminuted olecranon fracture with ulnohumeral instability.",
+    "distractorExplanations": {
+      "Type IIIB": "Type IIIB: A displaced, comminuted olecranon fracture with ulnohumeral instability.",
+      "Type IA": "Type IA describes a nondisplaced, noncomminuted olecranon fracture. The case instead matches Type IIIB.",
+      "Type IB": "Type IB describes a nondisplaced, comminuted olecranon fracture. The case instead matches Type IIIB.",
+      "Type IIA": "Type IIA describes a displaced, noncomminuted olecranon fracture with a stable ulnohumeral joint. The case instead matches Type IIIB.",
+      "Type IIB": "Type IIB describes a displaced, comminuted olecranon fracture with a stable ulnohumeral joint. The case instead matches Type IIIB."
+    },
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=IWq-2VXDRwI"
+      },
+      {
+        "title": "Orthopedic reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/proximal-forearm"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tc-rockwood-1",
+    "lectureId": "Xy_UkeAafdc",
+    "category": "Orthopedics",
+    "title": "rockwood — pattern 1",
+    "prompt": "A rugby player lands on the lateral shoulder. There is focal AC joint tenderness, but radiographs show no displacement or increased coracoclavicular distance. Assessment indicates a mild AC ligament sprain with the coracoclavicular ligament complex remaining intact. Which Rockwood acromioclavicular injury type best fits this pattern?",
+    "answer": "Type I",
+    "options": [
+      "Type III",
+      "Type IV",
+      "Type V",
+      "Type I",
+      "Type II"
+    ],
+    "explanation": "Type I: An AC ligament sprain with intact coracoclavicular ligaments and no radiographic displacement.",
+    "distractorExplanations": {
+      "Type I": "Type I: An AC ligament sprain with intact coracoclavicular ligaments and no radiographic displacement.",
+      "Type II": "Type II describes aC ligament disruption with coracoclavicular ligament sprain and mild displacement. The case instead matches Type I.",
+      "Type III": "Type III describes complete AC and CC ligament disruption with superior displacement and a coracoclavicular distance increase of about 25–100%. The case instead matches Type I.",
+      "Type IV": "Type IV describes posterior displacement of the distal clavicle into or through the trapezius. The case instead matches Type I.",
+      "Type V": "Type V describes marked superior displacement with extensive deltotrapezial disruption and a coracoclavicular distance increase greater than 100%. The case instead matches Type I."
+    },
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=Xy_UkeAafdc"
+      },
+      {
+        "title": "Orthopedic reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-separation/"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tc-rockwood-2",
+    "lectureId": "Xy_UkeAafdc",
+    "category": "Orthopedics",
+    "title": "rockwood — pattern 2",
+    "prompt": "A cyclist has AC joint pain after a fall. The AC ligaments are disrupted, but the coracoclavicular ligaments are sprained rather than completely torn. Imaging shows mild AC displacement with only a small increase in coracoclavicular distance. Which Rockwood acromioclavicular injury type best fits this pattern?",
+    "answer": "Type II",
+    "options": [
+      "Type V",
+      "Type VI",
+      "Type II",
+      "Type III",
+      "Type IV"
+    ],
+    "explanation": "Type II: AC ligament disruption with coracoclavicular ligament sprain and mild displacement.",
+    "distractorExplanations": {
+      "Type II": "Type II: AC ligament disruption with coracoclavicular ligament sprain and mild displacement.",
+      "Type III": "Type III describes complete AC and CC ligament disruption with superior displacement and a coracoclavicular distance increase of about 25–100%. The case instead matches Type II.",
+      "Type IV": "Type IV describes posterior displacement of the distal clavicle into or through the trapezius. The case instead matches Type II.",
+      "Type V": "Type V describes marked superior displacement with extensive deltotrapezial disruption and a coracoclavicular distance increase greater than 100%. The case instead matches Type II.",
+      "Type VI": "Type VI describes inferior displacement of the distal clavicle, beneath the acromion or coracoid. The case instead matches Type II."
+    },
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=Xy_UkeAafdc"
+      },
+      {
+        "title": "Orthopedic reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-separation/"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tc-rockwood-3",
+    "lectureId": "Xy_UkeAafdc",
+    "category": "Orthopedics",
+    "title": "rockwood — pattern 3",
+    "prompt": "A patient has a visibly elevated distal clavicle after shoulder trauma. Both AC and coracoclavicular ligaments are completely torn. The coracoclavicular distance is approximately 60% greater than on the other side, without posterior or inferior clavicular displacement. Which Rockwood acromioclavicular injury type best fits this pattern?",
+    "answer": "Type III",
+    "options": [
+      "Type I",
+      "Type III",
+      "Type IV",
+      "Type V",
+      "Type VI"
+    ],
+    "explanation": "Type III: Complete AC and CC ligament disruption with superior displacement and a coracoclavicular distance increase of about 25–100%.",
+    "distractorExplanations": {
+      "Type III": "Type III: Complete AC and CC ligament disruption with superior displacement and a coracoclavicular distance increase of about 25–100%.",
+      "Type IV": "Type IV describes posterior displacement of the distal clavicle into or through the trapezius. The case instead matches Type III.",
+      "Type V": "Type V describes marked superior displacement with extensive deltotrapezial disruption and a coracoclavicular distance increase greater than 100%. The case instead matches Type III.",
+      "Type VI": "Type VI describes inferior displacement of the distal clavicle, beneath the acromion or coracoid. The case instead matches Type III.",
+      "Type I": "Type I describes an AC ligament sprain with intact coracoclavicular ligaments and no radiographic displacement. The case instead matches Type III."
+    },
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=Xy_UkeAafdc"
+      },
+      {
+        "title": "Orthopedic reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-separation/"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tc-rockwood-4",
+    "lectureId": "Xy_UkeAafdc",
+    "category": "Orthopedics",
+    "title": "rockwood — pattern 4",
+    "prompt": "Following a direct shoulder injury, an axillary view shows the distal clavicle displaced posteriorly into the trapezius. The deformity is not primarily inferior displacement or merely an increase in vertical coracoclavicular distance. The AC stabilizing ligaments are disrupted. Which Rockwood acromioclavicular injury type best fits this pattern?",
+    "answer": "Type IV",
+    "options": [
+      "Type IV",
+      "Type V",
+      "Type VI",
+      "Type I",
+      "Type II"
+    ],
+    "explanation": "Type IV: Posterior displacement of the distal clavicle into or through the trapezius.",
+    "distractorExplanations": {
+      "Type IV": "Type IV: Posterior displacement of the distal clavicle into or through the trapezius.",
+      "Type V": "Type V describes marked superior displacement with extensive deltotrapezial disruption and a coracoclavicular distance increase greater than 100%. The case instead matches Type IV.",
+      "Type VI": "Type VI describes inferior displacement of the distal clavicle, beneath the acromion or coracoid. The case instead matches Type IV.",
+      "Type I": "Type I describes an AC ligament sprain with intact coracoclavicular ligaments and no radiographic displacement. The case instead matches Type IV.",
+      "Type II": "Type II describes aC ligament disruption with coracoclavicular ligament sprain and mild displacement. The case instead matches Type IV."
+    },
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=Xy_UkeAafdc"
+      },
+      {
+        "title": "Orthopedic reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-separation/"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tc-rockwood-5",
+    "lectureId": "Xy_UkeAafdc",
+    "category": "Orthopedics",
+    "title": "rockwood — pattern 5",
+    "prompt": "A high-energy shoulder injury causes marked superior clavicular displacement. Coracoclavicular distance is approximately 180% greater than the opposite side, and the deltotrapezial soft-tissue envelope is extensively disrupted. There is no posterior displacement on the axillary view. Which Rockwood acromioclavicular injury type best fits this pattern?",
+    "answer": "Type V",
+    "options": [
+      "Type VI",
+      "Type I",
+      "Type II",
+      "Type III",
+      "Type V"
+    ],
+    "explanation": "Type V: Marked superior displacement with extensive deltotrapezial disruption and a coracoclavicular distance increase greater than 100%.",
+    "distractorExplanations": {
+      "Type V": "Type V: Marked superior displacement with extensive deltotrapezial disruption and a coracoclavicular distance increase greater than 100%.",
+      "Type VI": "Type VI describes inferior displacement of the distal clavicle, beneath the acromion or coracoid. The case instead matches Type V.",
+      "Type I": "Type I describes an AC ligament sprain with intact coracoclavicular ligaments and no radiographic displacement. The case instead matches Type V.",
+      "Type II": "Type II describes aC ligament disruption with coracoclavicular ligament sprain and mild displacement. The case instead matches Type V.",
+      "Type III": "Type III describes complete AC and CC ligament disruption with superior displacement and a coracoclavicular distance increase of about 25–100%. The case instead matches Type V."
+    },
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=Xy_UkeAafdc"
+      },
+      {
+        "title": "Orthopedic reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-separation/"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-tc-rockwood-6",
+    "lectureId": "Xy_UkeAafdc",
+    "category": "Orthopedics",
+    "title": "rockwood — pattern 6",
+    "prompt": "A patient sustains a rare high-energy AC joint injury. Imaging shows the distal clavicle displaced inferiorly beneath the coracoid rather than superiorly or posteriorly. The examiner checks carefully for associated neurovascular injury before planning specialist management. Which Rockwood acromioclavicular injury type best fits this pattern?",
+    "answer": "Type VI",
+    "options": [
+      "Type II",
+      "Type III",
+      "Type IV",
+      "Type VI",
+      "Type I"
+    ],
+    "explanation": "Type VI: Inferior displacement of the distal clavicle, beneath the acromion or coracoid.",
+    "distractorExplanations": {
+      "Type VI": "Type VI: Inferior displacement of the distal clavicle, beneath the acromion or coracoid.",
+      "Type I": "Type I describes an AC ligament sprain with intact coracoclavicular ligaments and no radiographic displacement. The case instead matches Type VI.",
+      "Type II": "Type II describes aC ligament disruption with coracoclavicular ligament sprain and mild displacement. The case instead matches Type VI.",
+      "Type III": "Type III describes complete AC and CC ligament disruption with superior displacement and a coracoclavicular distance increase of about 25–100%. The case instead matches Type VI.",
+      "Type IV": "Type IV describes posterior displacement of the distal clavicle into or through the trapezius. The case instead matches Type VI."
+    },
+    "references": [
+      {
+        "title": "Source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=Xy_UkeAafdc"
+      },
+      {
+        "title": "Orthopedic reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-separation/"
+      }
+    ]
+  }
+]

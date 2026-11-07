@@ -1,0 +1,87 @@
+[
+  {
+    "id": "reviewed-pk-fc-hBbso9LXNcg-1",
+    "lectureId": "hBbso9LXNcg",
+    "front": "In the six-hour-half-life example, what fraction remains after twelve hours without another dose?",
+    "back": "One quarter (25%).",
+    "explanation": "Two half-lives leave (1/2)^2 of the starting concentration under the simple first-order model.",
+    "references": [
+      {
+        "title": "Drug Elimination — source lecture",
+        "url": "https://www.youtube.com/watch?v=hBbso9LXNcg"
+      },
+      {
+        "title": "FDA — clinical pharmacology labeling guidance",
+        "url": "https://www.fda.gov/media/74346/download"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pk-fc-hBbso9LXNcg-2",
+    "lectureId": "hBbso9LXNcg",
+    "front": "How does the elimination half-time behave in an ideal zero-order range?",
+    "back": "It depends on the starting amount.",
+    "explanation": "A fixed mass removed per hour takes longer to remove half of a larger starting amount.",
+    "references": [
+      {
+        "title": "Drug Elimination — source lecture",
+        "url": "https://www.youtube.com/watch?v=hBbso9LXNcg"
+      },
+      {
+        "title": "FDA — clinical pharmacology labeling guidance",
+        "url": "https://www.fda.gov/media/74346/download"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pk-fc-hBbso9LXNcg-3",
+    "lectureId": "hBbso9LXNcg",
+    "front": "What units distinguish clearance from an elimination amount rate?",
+    "back": "Clearance is volume/time; elimination rate is mass/time.",
+    "explanation": "Multiplying clearance by concentration converts volume/time to mass/time.",
+    "references": [
+      {
+        "title": "Drug Elimination — source lecture",
+        "url": "https://www.youtube.com/watch?v=hBbso9LXNcg"
+      },
+      {
+        "title": "FDA — clinical pharmacology labeling guidance",
+        "url": "https://www.fda.gov/media/74346/download"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pk-fc-hBbso9LXNcg-4",
+    "lectureId": "hBbso9LXNcg",
+    "front": "Which parameter chiefly connects a target concentration to an IV loading amount?",
+    "back": "Apparent volume of distribution.",
+    "explanation": "In the simple model, loading amount = target concentration × Vd.",
+    "references": [
+      {
+        "title": "Drug Elimination — source lecture",
+        "url": "https://www.youtube.com/watch?v=hBbso9LXNcg"
+      },
+      {
+        "title": "FDA — clinical pharmacology labeling guidance",
+        "url": "https://www.fda.gov/media/74346/download"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pk-fc-hBbso9LXNcg-5",
+    "lectureId": "hBbso9LXNcg",
+    "front": "Does a loading dose shorten the intrinsic elimination half-life?",
+    "back": "No.",
+    "explanation": "It changes the initial amount or concentration, not the underlying elimination constant.",
+    "references": [
+      {
+        "title": "Drug Elimination — source lecture",
+        "url": "https://www.youtube.com/watch?v=hBbso9LXNcg"
+      },
+      {
+        "title": "FDA — clinical pharmacology labeling guidance",
+        "url": "https://www.fda.gov/media/74346/download"
+      }
+    ]
+  }
+]

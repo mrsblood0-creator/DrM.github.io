@@ -1,0 +1,132 @@
+[
+  {
+    "id": "reviewed-seizure-topiramate-fc-1",
+    "lectureId": "n1bTY2_BOsI",
+    "front": "What acid-base pattern can topiramate produce?",
+    "back": "Hyperchloremic, normal-anion-gap metabolic acidosis.",
+    "explanation": "Renal bicarbonate loss results from carbonic anhydrase inhibition.",
+    "references": [
+      {
+        "title": "DailyMed — topiramate prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ae63e0e2-ceb1-4cc7-88fa-92cfa4516960"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-seizure-topiramate-fc-2",
+    "lectureId": "n1bTY2_BOsI",
+    "front": "What urgent ocular complication is associated with topiramate?",
+    "back": "Acute secondary angle-closure glaucoma.",
+    "explanation": "An acute myopic shift may accompany eye pain and blurred vision.",
+    "references": [
+      {
+        "title": "DailyMed — topiramate prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ae63e0e2-ceb1-4cc7-88fa-92cfa4516960"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-seizure-topiramate-fc-3",
+    "lectureId": "n1bTY2_BOsI",
+    "front": "Which two urinary changes link topiramate to kidney stones?",
+    "back": "Higher urine pH and lower citrate excretion.",
+    "explanation": "This combination promotes calcium stone formation.",
+    "references": [
+      {
+        "title": "DailyMed — topiramate prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ae63e0e2-ceb1-4cc7-88fa-92cfa4516960"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-seizure-topiramate-fc-4",
+    "lectureId": "n1bTY2_BOsI",
+    "front": "Which language complaint can accompany topiramate-related cognitive slowing?",
+    "back": "Difficulty finding words.",
+    "explanation": "Processing speed and attention may also decline.",
+    "references": [
+      {
+        "title": "DailyMed — topiramate prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ae63e0e2-ceb1-4cc7-88fa-92cfa4516960"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-seizure-topiramate-fc-5",
+    "lectureId": "n1bTY2_BOsI",
+    "front": "Why can children taking topiramate overheat?",
+    "back": "Reduced sweating (oligohidrosis).",
+    "explanation": "Impaired evaporative cooling increases heat intolerance.",
+    "references": [
+      {
+        "title": "DailyMed — topiramate prescribing information",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ae63e0e2-ceb1-4cc7-88fa-92cfa4516960"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-seizure-levetiracetam-fc-1",
+    "lectureId": "vcWNw51yG8k",
+    "front": "Which synaptic protein does levetiracetam bind?",
+    "back": "SV2A.",
+    "explanation": "The binding may contribute to seizure suppression; the precise mechanism remains incompletely understood.",
+    "references": [
+      {
+        "title": "DailyMed — levetiracetam prescribing information",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=24f815ef-58e6-42b9-8137-adcd6c382aa6&type=display"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-seizure-levetiracetam-fc-2",
+    "lectureId": "vcWNw51yG8k",
+    "front": "What happens to levetiracetam clearance in renal impairment?",
+    "back": "It decreases.",
+    "explanation": "A substantial fraction is eliminated unchanged through the kidneys.",
+    "references": [
+      {
+        "title": "DailyMed — levetiracetam prescribing information",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=24f815ef-58e6-42b9-8137-adcd6c382aa6&type=display"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-seizure-levetiracetam-fc-3",
+    "lectureId": "vcWNw51yG8k",
+    "front": "Which new behavioral symptoms should prompt review during levetiracetam treatment?",
+    "back": "Irritability or aggression.",
+    "explanation": "These can be medication-associated behavioral effects.",
+    "references": [
+      {
+        "title": "DailyMed — levetiracetam prescribing information",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=24f815ef-58e6-42b9-8137-adcd6c382aa6&type=display"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-seizure-levetiracetam-fc-4",
+    "lectureId": "vcWNw51yG8k",
+    "front": "Which renal estimate guides adult levetiracetam dose adjustment?",
+    "back": "Creatinine clearance.",
+    "explanation": "Use the renal dosing table for the relevant formulation.",
+    "references": [
+      {
+        "title": "DailyMed — levetiracetam prescribing information",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=24f815ef-58e6-42b9-8137-adcd6c382aa6&type=display"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-seizure-levetiracetam-fc-5",
+    "lectureId": "vcWNw51yG8k",
+    "front": "How is levetiracetam ordinarily withdrawn in a nonemergency setting?",
+    "back": "Gradually under supervision.",
+    "explanation": "Abrupt withdrawal can worsen seizures.",
+    "references": [
+      {
+        "title": "DailyMed — levetiracetam prescribing information",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=24f815ef-58e6-42b9-8137-adcd6c382aa6&type=display"
+      }
+    ]
+  }
+]

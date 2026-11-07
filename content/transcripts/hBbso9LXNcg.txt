@@ -1,0 +1,882 @@
+YouTube transcript
+Video ID: hBbso9LXNcg
+Language: en
+Captions: auto-generated
+
+[0:00] hello everyone and welcome again
+[0:03] so continuing our discussion about the
+[0:06] clinical pharmacology basic principles
+[0:08] class
+[0:10] and now we are going to talk about the
+[0:13] drug elimination
+[0:15] uh now drug elimination is the final
+[0:18] process of the drug cycle we talked
+[0:21] about how the drug is first absorbed
+[0:24] into the plasma and then it gets
+[0:27] distributed into different body
+[0:28] compartments where it would have its
+[0:31] effect and then it would get metabolized
+[0:34] into more polar molecules
+[0:36] to be finally eliminated from the body
+[0:39] by the process of elimination so the
+[0:42] process of elimination is dealing with
+[0:45] the removal of a drug from the body so
+[0:48] removal
+[0:51] of a drug
+[0:53] and here we will talk about some
+[0:57] elimination Concepts starting with the
+[1:00] elimination half-life
+[1:02] then we will talk about the kinetics of
+[1:05] a drug elimination
+[1:07] uh the steady state of a plasma is a
+[1:10] steady-state plasma concentration also
+[1:12] known as the CSS
+[1:14] and the clinical significance of the
+[1:16] zero order elimination
+[1:18] and clearance and finally we will talk
+[1:21] about the drug monitoring
+[1:23] so let's start
+[1:25] so let's start by talking about the
+[1:28] elimination half-life
+[1:30] which is also known as the time of
+[1:36] so the elimination of life is the length
+[1:40] of time
+[1:41] required for the concentration of the
+[1:45] drug
+[1:46] to decrease to a half
+[1:49] from it is starting concentration in the
+[1:53] body
+[1:55] so the emulation housewife is the time
+[1:58] needed for the drug to decrease from
+[2:00] full full concentration into a half
+[2:03] concentration
+[2:04] and whatever that time this what we call
+[2:08] the half-life
+[2:11] so let's make a graph between the
+[2:14] concentration and time to make this more
+[2:17] clear to you
+[2:18] uh so
+[2:20] we let's say we have the time on the
+[2:23] horizontal axis here
+[2:25] and we have the concentration of the
+[2:27] drag on the y-axis or on the vertical
+[2:31] axis
+[2:32] and let's say we gave a person a 10
+[2:35] milligrams of a drug
+[2:38] intravenously meaning all of the 10
+[2:40] milligrams are in the circulation of
+[2:43] that person
+[2:45] and what we notice is that the drug
+[2:49] concentration would be decreasing with
+[2:52] time because of the process of the
+[2:54] metabolism and execulation of that drug
+[2:58] so when the drug reached its half
+[3:03] meaning the 10 milligrams would be 5
+[3:05] milligrams
+[3:06] here the time needed to achieve that
+[3:11] here if we block the light it here it
+[3:14] will be right here and that's what we
+[3:18] call the T half
+[3:22] so here we have more facts about the
+[3:24] half-life
+[3:27] so first of all when we say plasma
+[3:30] Health five it is more a precise than
+[3:34] just seeing the half-life it's the same
+[3:36] the same expression but the plasma half
+[3:41] life is more precise
+[3:43] because we have another type of
+[3:46] Half-Life which is the biological
+[3:47] half-life and it is the time needed to
+[3:50] eliminate 50 of the drug from the
+[3:53] tissues
+[3:54] in comparison with the plasma Health
+[3:56] life which is the time needed to
+[3:58] eliminate 50 of the drug from the plasma
+[4:02] so plasma from the plasma biological
+[4:04] from the tissues
+[4:07] another fact is that the hell of life is
+[4:10] calculated by two methods
+[4:12] the first one is by giving the drug and
+[4:15] to the patient and then calculating the
+[4:17] plasma concentration of the drug
+[4:19] and deploying it into the concentration
+[4:22] time curve and finding the half-life
+[4:27] and the other method is by the equation
+[4:30] which is a clearance equals so clearance
+[4:34] equals 0.7 and multiplied by the volume
+[4:39] of distribution divided by the T half
+[4:44] and we can find the T half because the
+[4:47] clearance of the drag is available in
+[4:49] resources and the volume of distribution
+[4:51] is also available in resources so I
+[4:54] tried to be easier to find the half-life
+[4:56] of any drug we want to you know the
+[5:00] half-life of
+[5:02] the half-life is the same as the time
+[5:06] when the drug is taken again
+[5:10] I like amoxicillin
+[5:12] q12 Edge which is which means the
+[5:16] amoxicillin is taking every 12 hours
+[5:19] meaning the half-life is the inter there
+[5:23] dosage time
+[5:25] enter dosage meaning it is the time
+[5:28] between uh the the doses of the drug so
+[5:33] uh in this example the amoxicillin is
+[5:35] taking if I take the amoxicillin light
+[5:37] right now I want to take the another
+[5:39] dose after 12 hours
+[5:43] uh now let's talk about the clinical
+[5:45] significance
+[5:46] of the half-life
+[5:49] first of all the health life is useful
+[5:52] in determination of the dosing frequency
+[5:54] of a drug
+[5:56] uh meaning uh if the half-life of a drug
+[6:00] let's say is 12 hours this drug is taken
+[6:03] every 12 hours
+[6:04] if the half-life of another drug is six
+[6:07] hours so this drug is taken every six
+[6:10] hours so it's helpful and determination
+[6:12] of Intel dosage time
+[6:16] it's also useful in determination of a
+[6:19] drug though is taken by a patient who is
+[6:22] unconscious
+[6:24] and that's if the timing when the dose
+[6:26] was taken is now and that's by
+[6:29] identifying the plasma concentration of
+[6:31] that drug and the unconscious patient
+[6:34] and then plotting it on the time
+[6:37] concentration
+[6:39] graph and you we can find the health
+[6:42] life from that
+[6:44] or we can't find the drug user from that
+[6:47] and there is another way to identify it
+[6:51] and that's from the volume of
+[6:54] distribution
+[6:55] which we talked about in the Vol and the
+[6:58] drug distribution video uh before
+[7:02] uh now let's talk about the kinetics of
+[7:05] a drug elimination
+[7:07] so the kinetics of drug elimination
+[7:09] refers to the study of the rate at which
+[7:13] the drug is eliminated from the body so
+[7:16] kinetics is related to the rate
+[7:20] at which the drug is eliminated from the
+[7:24] body
+[7:25] and we have two orders of a drug
+[7:29] elimination China text we have the first
+[7:32] order and we have the zero order
+[7:36] the main factors affecting the kinetics
+[7:38] by which the drug is eliminated is the
+[7:42] chemical properties of the drug itself
+[7:46] so different drugs would have different
+[7:48] kinetics of elimination
+[7:51] and also the dose of the drug is given
+[7:56] which is the second Factor here
+[8:00] understanding
+[8:01] the kinetics of drug elimination is
+[8:04] important to first predict the duration
+[8:09] of action of the drug
+[8:11] and it can also help to determine the
+[8:14] appropriate dose ingredients for the
+[8:16] different patient evolutions
+[8:19] and the most important one is to predict
+[8:23] the likelihood of the side effects
+[8:27] associated with a particular drug
+[8:30] so let's make a comparison between the
+[8:33] first order kinetics and the zero order
+[8:35] kinetics
+[8:37] and to make it uh to make it easy we
+[8:42] will make a graph between time and
+[8:45] concentration for each one of these
+[8:47] so it would be easier to understand and
+[8:50] let's start with the first order let's
+[8:52] make a graph between the time and the
+[8:55] concentration so time would be on the
+[8:58] horizontal axis and the concentration
+[9:01] would be on the vertical axis
+[9:03] and let's say we gave 100 milligrams of
+[9:07] a drug that has zero that has first
+[9:10] order kinetics uh properties to it
+[9:15] and what we notice is that the drug
+[9:17] concentration will decrease with time
+[9:20] and until it reaches uh zero
+[9:24] and what we notice is that when it
+[9:27] reaches its uh itself which is 50
+[9:31] and that would be by let's say a certain
+[9:35] amount of time it will be about let's
+[9:37] say six hours
+[9:39] and then it also gets halved Again by
+[9:42] the same amount of time by the same half
+[9:45] time here
+[9:46] so it will be half by
+[9:48] at 12 hours and it will be also helped
+[9:53] again
+[9:54] that's by 18 hours and that's into 12
+[9:58] and then into
+[10:00] uh six
+[10:04] that's by 24 and finally into three
+[10:11] and that's by 30 30 hours it will be
+[10:15] three and that's when it gets eliminated
+[10:19] fully from the body hypothetically to
+[10:23] get fully eliminated from the body
+[10:25] so if we count those we would have one
+[10:29] two three four five it will be by five
+[10:32] half-lives it would be fully almost
+[10:35] fully eliminated from the body
+[10:39] and that applies to all the first order
+[10:43] uh drugs it would be freely eliminated
+[10:46] by five files lives
+[10:49] the same would happen if we bring uh the
+[10:55] same interact but this time we give a
+[10:57] thousand milligrams of the same drug it
+[11:00] would also get
+[11:03] uh
+[11:04] to 500 add us by
+[11:07] six hours
+[11:10] until it gets to 250 and that's why at
+[11:15] 12.
+[11:16] and so on it will get
+[11:18] 225 by 18 and so on and what we notice
+[11:24] here in the first order is that a fixed
+[11:28] ratio of the drug is getting eliminated
+[11:30] eliminated
+[11:32] per unit time the fixed ratio which is
+[11:35] 50 percent
+[11:38] of the drug is getting eliminated per
+[11:42] unit time
+[11:43] and that's what it were differentiated
+[11:45] from the zero order uh let's let's make
+[11:49] also
+[11:50] a Time concentration graph here for the
+[11:55] zero order
+[11:56] so here we have the concentration on the
+[12:00] on the vertical and we have the time on
+[12:03] the horizontal
+[12:06] and let's give the patient also 100
+[12:08] milligrams but this time we we give them
+[12:11] a drug that is zero ordinary that is
+[12:15] eliminated by zero order kinetics
+[12:20] and the drug uh the the elimination of
+[12:23] this drug would be 10 milligrams
+[12:26] every hour every hour
+[12:29] so let's uh let's uh make there so
+[12:35] 190 80
+[12:37] 70 and so on until 0 and we have the
+[12:42] time here we have one hour two hours
+[12:45] three
+[12:47] and four and five and so on
+[12:51] uh and uh what we announced is that with
+[12:55] time is that the drug would be decreased
+[12:57] by 10 milligrams every hour so it will
+[13:00] be 90 by 1 hour
+[13:03] and it will be
+[13:05] 80 80 by 2 hours
+[13:08] and 70 by 3 hours and so on
+[13:12] and what we notice here is that
+[13:15] uh so let's let's say we give this
+[13:19] patient a thousand milligrams of the
+[13:21] same drug that is eliminated by zero
+[13:24] order concentration
+[13:27] what we notice here is that the drug is
+[13:31] still eliminated by 10 milligrams every
+[13:34] hour
+[13:35] so it would be
+[13:37] at 990 after one hour it would be then
+[13:41] 980 by 2 hours and so on and what we
+[13:45] notice here is that fixed amount of the
+[13:48] drug is getting eliminated fixed
+[13:50] amount of the drug is getting eliminated
+[13:53] and the amount is different for every
+[13:56] drug
+[13:57] like let's say this drug would have 10
+[14:00] milligrams every hour another another
+[14:02] drug would have 20 kilograms every hour
+[14:05] and it is different depending on the
+[14:07] type of drug or the chemical properties
+[14:09] of the drug itself
+[14:12] and that's the main difference is that
+[14:14] in the first order there is fixed ratio
+[14:17] 50 of the drug is getting eliminated
+[14:19] every unit time while here we have fixed
+[14:23] amount 10 milligrams every hour or a
+[14:26] different number every hour depending on
+[14:28] the type of drug
+[14:30] here we have more comparison points
+[14:33] between the first order and the zero
+[14:35] order
+[14:37] so again the in first order there is
+[14:39] constant ratio of the drug L is
+[14:42] eliminated per unit time and the ratio
+[14:44] is 50 so the drug is eliminated to a
+[14:48] half every every unit time
+[14:53] and this also means that the rate of
+[14:55] elimination is proportional to the to
+[14:58] the plasma concentration of the drug
+[15:00] the higher the concentration the greater
+[15:03] the rate of elimination as we saw in the
+[15:05] example
+[15:06] the drug level was Android and the uh
+[15:10] the it would reduce to 50. even if it's
+[15:14] thousand it would reduce to 500 and
+[15:17] that's in the same unit time
+[15:19] while in the zero order there's constant
+[15:22] amount there's constant amount like 10
+[15:24] milligrams
+[15:25] every hour
+[15:28] of drug is eliminated per unit time and
+[15:31] it does not proportional to plasma
+[15:34] concentration it was still 10 milligrams
+[15:37] in any concentration
+[15:40] and the first order kinetics is occurs
+[15:45] to most drugs like phenobarbital
+[15:48] while this so the zero order would occur
+[15:51] to a limited number of drugs like
+[15:53] alcohol
+[15:56] uh elimination in the first order
+[15:58] doesn't depend on saturable enzyme
+[16:01] system
+[16:02] the enzyme system and the elimination of
+[16:05] the first order kinetics which we were
+[16:07] able to handle any amount of drug
+[16:10] while here in the zero order it depends
+[16:14] on saturnable enzymes so once the
+[16:16] enzymes get saturated
+[16:18] the drug would stop the elimination
+[16:21] process would would be stopped that's
+[16:24] why
+[16:25] there is constant amount of the drug is
+[16:27] eliminated per unit time because once
+[16:30] the enzymes are saturated the the rest
+[16:34] of the drug would still will stay in the
+[16:36] circulation and can't be metabolic can't
+[16:39] be eliminated until the enzymes would be
+[16:42] free again and they will take the
+[16:45] another amount of drug and try to
+[16:47] eliminate it too
+[16:49] in the first order you can expect the
+[16:52] plasma concentration at any time and the
+[16:54] drug is eliminated after the fifth
+[16:56] half-life
+[16:58] as we mentioned in the example the drug
+[17:00] would be after five fireflies it would
+[17:03] be almost gone from the body
+[17:07] while here in the zero order you can't
+[17:10] expect the plasma concentration well
+[17:14] because there is a lot of factors
+[17:16] affecting it
+[17:18] in the first order the drug accumulation
+[17:21] is not common because
+[17:24] the the there is fixed ratio of the drug
+[17:27] is eliminated and we always can expect
+[17:30] the plasma concentration so the drug
+[17:33] accumulation would not be common while
+[17:35] in the zero order you drive accumulation
+[17:38] and toxicity is common because there is
+[17:42] a lot of factors affecting this
+[17:44] including the concentration of drug if
+[17:46] it is high this would be toxic to the
+[17:49] machine because it would take long time
+[17:52] for the drug to get eliminated from the
+[17:54] body
+[17:55] like for example of the patient took the
+[17:57] wrong videos it always be very toxic to
+[18:00] them because the body would not would
+[18:03] not metabolize the drug or eliminate the
+[18:07] drug very quickly the same with the
+[18:09] first order
+[18:12] and also the other factor is that there
+[18:16] is a competition on the same element
+[18:19] eliminating enzyme will lead to the same
+[18:22] problem meaning if the patient is taking
+[18:25] another drug that is also
+[18:28] eliminated by the same enzyme that is
+[18:31] eliminating less drug this would lead to
+[18:34] toxicity because one of those drugs
+[18:37] would not be eliminated and it would
+[18:39] accumulate in the circulation
+[18:43] uh another point is that the half-life
+[18:47] is a constant number in the first order
+[18:49] kinetics while the L5 is changing here
+[18:52] on the Zero order depending on the
+[18:55] concentration of the drug is available
+[18:58] if this if there is competition on the
+[19:01] same elementic enzyme or not and other
+[19:03] factors so the half-life will depend on
+[19:06] the concentration of the drug
+[19:08] and there is competition I mean on the
+[19:11] automating enzyme and other factors that
+[19:13] affect the half-life
+[19:15] and now let's talk about the steady
+[19:18] state plasma concentration which is
+[19:22] abbreviated as concentration steady
+[19:25] state the CSS
+[19:27] and the steady state plasma
+[19:28] concentration means the steady drug
+[19:32] level in the circulation and that's
+[19:35] achieved when the rate of administration
+[19:38] equals the rate of elimination
+[19:41] and we reached this total plasma
+[19:43] concentration by supplying the
+[19:46] eliminated part of the drug
+[19:48] and we try to reach the steady state
+[19:52] plasma concentration because the drug
+[19:55] would be effective all the time during
+[19:59] the CSS during the steady drug level it
+[20:02] would be effective all the time and try
+[20:05] to give us what would give us the effect
+[20:07] we want
+[20:10] so let's take example for the steady
+[20:13] steady state plasma concentration
+[20:16] and let's say we give a person a drug
+[20:20] dose of a hundred
+[20:22] and milligrams of a drug that is
+[20:25] eliminated by first order elimination
+[20:27] and the half-life of that drug would be
+[20:31] about six hours
+[20:35] unless you draw a graph between the
+[20:38] concentration
+[20:40] and the time
+[20:43] so we have the time here
+[20:46] we have the concentration
+[20:49] as a drug and we start with a hundred
+[20:53] as we mentioned
+[20:55] and let's say this is the 100 here
+[21:01] so 100 milligrams we give this person
+[21:03] 100 milligrams A first order donation
+[21:05] drug it will decrease into 50 and about
+[21:10] six hours
+[21:12] which is the first half life
+[21:16] and we would give we also mentioned that
+[21:19] the half life is the same as the Intel
+[21:21] dosage interval meaning we will give
+[21:24] this person another dose at the at the
+[21:28] same half-life so our six hours we give
+[21:31] them another uh those and it will be 150
+[21:36] so it would here decrease to 50 and we
+[21:39] give them 100 it will be 150
+[21:43] and it will decrease into
+[21:45] three degrees
+[21:48] uh into 75.
+[21:52] because half 150 is 75 and that's buying
+[21:56] another half life which is now 12 hours
+[22:01] and we would give another dose it would
+[22:03] be
+[22:04] 175
+[22:07] and
+[22:09] by another Half-Life it would be 87
+[22:14] which is here
+[22:18] and that's by 18.
+[22:20] and we would give another dose it would
+[22:23] be
+[22:24] 187 and it would also decrease this time
+[22:28] in 290
+[22:31] and we also give a lot of those it would
+[22:35] be
+[22:36] 190 and we decrease into 95
+[22:42] and this time
+[22:45] it will be about
+[22:47] 200
+[22:49] I'm a three child's life it would be
+[22:52] 100.
+[22:55] and that's by so we give here one half
+[22:58] life the second half by Third
+[23:01] the first Half-Life which is 24
+[23:04] and then the fifth house five here which
+[23:06] is 30.
+[23:08] and then at the 100th Mark when we give
+[23:11] a dose it would reach 200
+[23:16] and it will go down to a hundred
+[23:18] and if we do is 200 and it will go down
+[23:21] to 100 and so on
+[23:25] and that's when we reach the steady
+[23:27] state at this point so at this point
+[23:31] this what we call the steady state
+[23:34] plasma concentration
+[23:37] meaning the concentration of the drug
+[23:40] would be steady between 100 and 200.
+[23:45] and that we reached here after the first
+[23:49] the second the third the fourth the
+[23:52] fifth Half-Life which is so we reach the
+[23:56] CSS
+[23:58] after
+[23:59] five half-lives
+[24:04] uh yeah and that's after five doses of
+[24:08] the drug which the steady state plasma
+[24:11] concentration and the peak level of the
+[24:15] of the steady state and logical
+[24:17] concentration which is here 200 we would
+[24:20] call it the peak which is the highest
+[24:22] concentration and the lowest
+[24:24] concentration which is 100 we call it
+[24:26] the trough the trough level
+[24:31] and the range between the peak and the
+[24:34] trough would be called the therapeutic
+[24:38] range
+[24:42] therapeutic range
+[24:46] now here we have some general facts
+[24:48] about the steady state plasma
+[24:50] concentration
+[24:52] so again we reach the steady state
+[24:54] plasma concentration after five Health
+[24:56] lives as we saw in the example
+[25:00] and if we change the dose the new steady
+[25:04] state reached after Half-Life 500 lives
+[25:07] too so it would also take five Half
+[25:09] Lives if we change the dose
+[25:12] evidence stops the complete illumination
+[25:14] of the drug from the plasma occurs after
+[25:18] five valve lives too
+[25:21] so meaning we reach CSS after 500 lives
+[25:24] we if we change the dose we also reach
+[25:27] it after five half-lives and the drug is
+[25:29] fully eliminated after five half-lives
+[25:33] and the steady state plasma
+[25:35] concentration is 1.5 of the dose
+[25:39] in the previous example it was 100
+[25:43] videos we give and if the steady state
+[25:46] would be 1.5 so it will be about 150.
+[25:51] so at the steady stage would be 150 here
+[25:55] and you can reach the steady state
+[25:57] plasma concentration with one half life
+[26:00] and that's by using the loading dose
+[26:04] and this uh the login details would be
+[26:07] explained in the next slide
+[26:09] but all of this explanation is for for
+[26:12] the first order elimination
+[26:16] let's explain the steady state plasma
+[26:20] concentration and the zero order
+[26:23] elimination
+[26:25] so let's make a graph between time and
+[26:29] concentration
+[26:31] so here we have the time on the
+[26:33] horizontal axis and here we have the
+[26:35] concentration
+[26:37] and let's say we gave 100 milligrams of
+[26:40] a certain drug that is eliminated by 10
+[26:43] milligrams every per hour
+[26:47] to the patient
+[26:49] and after one hour we notice that the
+[26:52] drug level would be at 90 here so 1980
+[26:57] 70.
+[27:00] so it would be 90 after one hour
+[27:03] and to reach the steady state plasma
+[27:06] concentration we must Supply 10
+[27:08] milligrams every hour so we would give
+[27:11] 10 milligrams every hour and would reach
+[27:14] 100 and it would be like that
+[27:17] and that's hard because we can't give
+[27:22] the patient the drug every hour it would
+[27:25] be not suitable
+[27:27] Also let's say if we waited two hours or
+[27:31] three hours here and we give let's say
+[27:36] 30 milligrams of the drug
+[27:38] and it would be like that
+[27:41] it would be also
+[27:44] here we might if we reach 70 this would
+[27:48] this might be not the therapeutic level
+[27:52] we want so it would be also a little
+[27:56] harder
+[27:57] for us to reach the steady state plasma
+[27:59] concentration even if we wait because
+[28:02] the trough level would would might be
+[28:05] not therapeutic for the patient
+[28:08] and also three hours would not be that
+[28:12] great because it's hard to take the drug
+[28:15] every three hours for the patient
+[28:18] uh yeah and also if it if the searchable
+[28:22] enzyme that the drug was
+[28:26] is occupied by another drug which will
+[28:29] this would make it even harder for us to
+[28:31] reach this 36 plasma concentration so
+[28:34] there's a lot of factors affecting the
+[28:36] zero order and it is a little bit harder
+[28:38] for us to reach the steady state plasma
+[28:40] concentration with the zero order
+[28:41] elimination
+[28:44] uh but we need to monitor the drug more
+[28:48] during the zero order more than the
+[28:50] first order because uh if the let's say
+[28:54] the patient took the wrong details or if
+[28:57] there are the the patient is taking
+[29:00] another drug that is also metabolized by
+[29:03] the same enzyme this would lead to
+[29:05] toxicity to the patient and we want we
+[29:08] don't want that to happen so we need so
+[29:11] the zero order elimination status plasma
+[29:14] concentration is a little bit harder
+[29:16] than the first order
+[29:19] and now let's talk about the loading
+[29:21] those
+[29:22] we mentioned that we can reach the
+[29:24] steady state plasma concentration with
+[29:26] one half-life instead of five and that's
+[29:29] by using the routing dose so this would
+[29:32] be a faster way to reach the uh the
+[29:37] steady state plasma concentration and
+[29:40] that's very helpful in serious
+[29:42] infections and the arrhythmias emergency
+[29:45] conditions because we need to reach the
+[29:47] CSS very quickly so the patient would
+[29:50] have the good therapeutic effect
+[29:53] happening to them very quickly
+[29:56] but there is a risk or disadvantages to
+[30:00] allowing those is that there is an
+[30:03] increased risk of drug toxicity and
+[30:05] accumulation
+[30:06] and there is a longer time of for the
+[30:09] plasma concentration to fall if the drug
+[30:11] is accumulation occurred
+[30:14] so let's explain the loading though is
+[30:16] now on the time concentration curve
+[30:21] and let's take the same first order
+[30:23] example is that we give the patient 100
+[30:26] milligrams of a certain drug
+[30:29] by this time instead of 100 we give the
+[30:32] patient two two doses which is 200.
+[30:37] as the first dose
+[30:41] what we notice here is that the drug
+[30:42] would be eliminated in 200 and then at
+[30:46] the six hour mark we would give them
+[30:49] another dose to make it 200 again and it
+[30:53] would be 100 by the 6 12 hours
+[30:57] unlike that so as we notice here is that
+[31:00] we reached the steady state plasma
+[31:02] concentration with one half-life instead
+[31:06] of five in the in this example here
+[31:09] so it would be very
+[31:12] convenient for emergency conditions
+[31:14] because we would reach this steady state
+[31:18] very quickly and now let's talk about
+[31:20] let's talk more about the zero order
+[31:22] donation and that's the about the
+[31:25] clinical significance of the zero
+[31:27] ordered elimination
+[31:28] so important point to look for in the
+[31:31] zero article animation is that modest
+[31:34] change in drug details May produce
+[31:37] unexpected toxicity
+[31:39] so we need to be very cautious with the
+[31:43] zero order elimination drugs
+[31:45] while changing details
+[31:48] elimination over drugs or attainment of
+[31:51] the steady-state plasma concentration
+[31:53] takes long time as we mentioned before
+[31:57] also if the patient change formulations
+[32:00] by buying another type of the drug
+[32:03] this might lead to toxicity too because
+[32:05] other formulations might have additives
+[32:07] or have another drug combined with or it
+[32:12] would have higher dose and the patient
+[32:14] is not
+[32:15] attentive to that
+[32:19] and we mentioned that the drug
+[32:20] accumulation and the drug to drug
+[32:22] interactions are common in the zero
+[32:26] order elimination
+[32:29] now let's talk about clearance
+[32:32] so clearance is the volume of plasma
+[32:34] become cleared from some substance per
+[32:38] unit time
+[32:40] for example a drug clearance is 100
+[32:42] milliliter per minute meaning that 100
+[32:45] milliliter of plasma cleared from that
+[32:48] drug in one minute
+[32:50] so it is volume of plasma become cleared
+[32:53] from substance some substance per unit
+[32:56] time
+[32:58] so we have multiple routes of
+[33:00] elimination like the kidney which is the
+[33:04] most common one the liver is the second
+[33:06] most common are most drugs eliminated by
+[33:10] them and then we have the split tears
+[33:13] breast milk and lungs
+[33:18] kidney is the primary organ of drug
+[33:21] elimination and deliver comes next and
+[33:24] then we have the other routes
+[33:27] so here we have the kidney in the front
+[33:30] and we will explain the clearance on it
+[33:36] we all know from physiology is that the
+[33:39] blood will come from here through the
+[33:42] afferent arterial and it will go into
+[33:46] the ground malleolus and out through the
+[33:50] efferent arteriole
+[33:54] and the blood when it comes to the
+[33:57] glomerulus it will be filterated into
+[33:59] the Bowman capsule here
+[34:02] and into the proximal convolution tubule
+[34:08] so the drugs are filterated into the
+[34:12] department capsule by the filtration
+[34:14] process
+[34:16] and
+[34:18] some drugs would be secreted here by
+[34:22] active tubular secretion so active
+[34:26] tubular secretion we secrete summary
+[34:31] rocks into the filtrate of the kidney
+[34:35] and
+[34:37] uh most of them would be filtrated into
+[34:40] through the filtration process
+[34:43] and we all know that the clinomal
+[34:46] glomerular filtration rate
+[34:49] of the Glamorous would be about 100 of
+[34:52] the kidney will be 125 milliliter per
+[34:56] minute
+[34:57] and if they drag would have a a
+[35:01] clearance more than 125
+[35:04] uh we would assume that the drug is also
+[35:09] would be secreted by the active tubular
+[35:11] secretion because the GFR is 125 and if
+[35:15] the drug is higher than the 125 it means
+[35:18] that it not only gets filtrated it's
+[35:21] also actively secreted into the proximal
+[35:25] Community tutorial and it will be
+[35:27] executed by that method too
+[35:29] now the lungs primarily involved in
+[35:33] illumination of anesthetic gases like
+[35:36] isofluoride because they would be in gas
+[35:39] form and they would go out through the
+[35:42] uh the the air
+[35:45] so it would be the links would be
+[35:48] primarily involved in the in their
+[35:50] execution
+[35:51] the drug elimination through the breast
+[35:53] milk might expose the infant to
+[35:57] medications and metabolites taken by the
+[36:00] mother are lead to side effects of in
+[36:02] infants so we need to take into
+[36:05] consideration if we give a drug to A
+[36:09] lactating women we want to make sure
+[36:12] that the drug is safe for her
+[36:14] and the baby and uh the drugs that
+[36:18] conjugated in the liver are executed
+[36:20] through the bile and into the feces
+[36:23] so clinical significance of clearance
+[36:26] first of all avoiding injury of diseased
+[36:30] organs by avoiding drugs that are
+[36:33] cleared by that organ
+[36:35] so every patient has a renal impairment
+[36:40] or liver impairment
+[36:41] so if they have real impairment for
+[36:44] example we try to give them drugs that
+[36:46] are eliminated by the liver so it would
+[36:50] be so we would not expose the kidney
+[36:53] into
+[36:54] into more
+[36:56] toxicity and if the opposite like if the
+[37:01] liver is impaired we try to give them a
+[37:03] drugs that is cleared by the kidney
+[37:06] so solve by giving drugs that declared
+[37:09] by another organ if there is no
+[37:11] Alternatives then we try to dodge those
+[37:14] adjustments we try to decrease the dose
+[37:16] of the drug
+[37:19] also in the clinical significance of the
+[37:21] clearance clearance and we have this
+[37:24] formula it's a famous formula so
+[37:27] clearance would be equal to 0.7
+[37:29] multiplied by the volume of distribution
+[37:33] divided by the T house
+[37:37] foreign
+[37:38] this formula you can identify the
+[37:41] half-life and subsequently the dose of
+[37:44] the drug that you should give if you
+[37:46] know clearness of that drug thus
+[37:49] avoiding accumulation
+[37:51] so it has many uses this formula is
+[37:55] important to remember
+[37:59] also in the clinical significance of
+[38:01] clearance if the drug is clearly cleared
+[38:04] by certain organ we can make it a
+[38:07] targeted therapy for that organ like in
+[38:10] the urinary tract infections we use
+[38:13] antibiotics that are cleared by the
+[38:16] kidney like the nitrofurantoin so
+[38:19] actually to be cleared by the kidney and
+[38:21] it would work on the urinary tract
+[38:23] infections in the kidney because it will
+[38:26] be targeted through the through the
+[38:28] kidney
+[38:30] and also in the clinical significance of
+[38:33] the clearance is the iron crabbing
+[38:36] that's when we want to manipulate the
+[38:39] urine pH to trap drugs that are
+[38:43] accumulated in the body we would try to
+[38:46] trap them in the urine and execrate them
+[38:50] uh for example weak assets can be
+[38:54] eliminated by alkalinization of urine
+[38:57] that's using effervescence
+[39:02] effervescence
+[39:04] those are drugs that would alkalinize or
+[39:08] acid acidify the urine that's depending
+[39:10] if we have weak acid drug that has
+[39:13] toxicity we make the urine
+[39:16] alkalinization and if it's weak bases we
+[39:19] try acidify the urine
+[39:22] we talked more about the iron trapping
+[39:24] on the drug absorption video if you want
+[39:28] to check it out
+[39:30] finally let's talk about the drug
+[39:32] monitoring
+[39:34] so drug monitoring is monitoring of drug
+[39:37] levels any plasma to optimize therapy
+[39:40] and avoid toxicity
+[39:43] and not all drugs are monitored mostly
+[39:47] when we monitor the zero order drugs
+[39:50] zero order
+[39:52] drugs
+[39:55] uh so drug monitoring is calculated by
+[39:58] either calculating the drug level itself
+[40:01] in the blood
+[40:02] or calculating the effect of the drug
+[40:05] like in Warfare the anticoagulant we
+[40:07] calculate the international normalized
+[40:11] ratio of the blood which is an effect of
+[40:14] the Warframe if we give Wi-Fi if we the
+[40:17] iir which we will go up so we try to
+[40:21] to to monitor the Warframe by the INR
+[40:25] and it is level of coagulation of the
+[40:28] blood the usual number is 1.2 and when
+[40:31] giving warfaring it increases
+[40:35] so clinical significance of the drug
+[40:37] monitoring
+[40:38] when you enter the drug we of course we
+[40:40] try to avoid toxicity while using a drug
+[40:43] with narrow therapeutic index
+[40:46] meaning the dose gap between therapy and
+[40:49] toxicity is small
+[40:50] so drugs with neurotrophobic index would
+[40:54] require monitoring
+[40:56] I like the digoxin the boyfriend and the
+[40:59] lithium
+[41:01] and also avoid toxicity in patients who
+[41:04] have renal impairment or liver
+[41:06] impairment by monitoring the level of
+[41:08] the drug and adjusting it
+[41:12] and we also as we mentioned before that
+[41:15] we monitor the drugs with the zero order
+[41:17] elimination
+[41:19] so we have now we monitor an avoid
+[41:23] toxicity in non-attromatic index drugs
+[41:26] and in patients who have renal
+[41:29] impairment and liver impairment and it
+[41:31] also in zero Auto drugs
+[41:33] and differentiation between drug
+[41:36] resistance and patient non-compliance
+[41:40] we try to
+[41:42] we try to identify the drug level in the
+[41:45] plasma and if it is low means the
+[41:48] patient is not compliant to the
+[41:50] medication and if it is normal this
+[41:52] means there is resistance to the drug
+[41:54] like in the antibiotics is the drug is
+[41:58] normal levels in the plasma and there is
+[42:01] no effect this means the antibiotic is
+[42:03] not working
+[42:05] so with that we reach the end of this
+[42:08] video thank you guys for watching uh
+[42:10] please make sure to like And subscribe
+[42:14] and if you want to support more you can
+[42:16] by subscribing to the patreon link you
+[42:19] provided in the description of this
+[42:20] video thank you for watching and see you
+[42:23] soon peace

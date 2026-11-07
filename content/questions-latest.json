@@ -1,0 +1,89 @@
+[
+  {
+    "id": "path-part2-1",
+    "lectureId": "esgddQPQqSQ",
+    "title": "Radiation injury in rapidly renewing tissue",
+    "category": "Pathology",
+    "prompt": "A 48-year-old patient develops mucosal inflammation during pelvic radiotherapy. In a laboratory model, injury to intestinal epithelial cells is reduced when a compound scavenging hydroxyl radicals is present during irradiation. Which initiating event best explains this protective effect?",
+    "options": [
+      "Radiolysis of intracellular water",
+      "Activation of a death receptor by a cytotoxic lymphocyte",
+      "Failure of lysosomal acidification",
+      "Accumulation of misfolded secretory proteins",
+      "Inhibition of the sodium-potassium ATPase"
+    ],
+    "answer": "Radiolysis of intracellular water",
+    "explanation": "Ionizing radiation can generate reactive species from water. Radical scavenging interrupts this indirect route of molecular damage; DNA can also be damaged directly.",
+    "distractorExplanations": {
+      "Radiolysis of intracellular water": "This generates reactive species that can injure DNA, proteins and membranes.",
+      "Activation of a death receptor by a cytotoxic lymphocyte": "Death-receptor signaling is an extrinsic apoptosis pathway, not the event directly blocked by a radical scavenger.",
+      "Failure of lysosomal acidification": "Lysosomal acidification affects degradation but does not explain the immediate radiation-scavenging effect.",
+      "Accumulation of misfolded secretory proteins": "Misfolded proteins can trigger endoplasmic-reticulum stress; the experiment specifically implicates radicals.",
+      "Inhibition of the sodium-potassium ATPase": "Pump failure explains cellular swelling after energy depletion, not the initiating radical-generating event."
+    },
+    "references": [
+      {
+        "title": "Dr M — source topic discussion, Part 2",
+        "url": "https://www.youtube.com/watch?v=esgddQPQqSQ"
+      }
+    ]
+  },
+  {
+    "id": "path-part2-2",
+    "lectureId": "esgddQPQqSQ",
+    "title": "Protein turnover during muscle wasting",
+    "category": "Pathology",
+    "prompt": "A 63-year-old patient with advanced malignancy develops progressive loss of skeletal muscle mass despite nutritional support. Muscle cells are smaller, and studies demonstrate increased covalent attachment of a small regulatory protein to intracellular proteins before their degradation. Which system is most directly responsible?",
+    "options": [
+      "Caspase-mediated apoptotic fragmentation",
+      "Complement membrane attack complex",
+      "Lysosomal lipid storage pathway",
+      "Collagen cross-linking by lysyl oxidase",
+      "Ubiquitin-proteasome pathway"
+    ],
+    "answer": "Ubiquitin-proteasome pathway",
+    "explanation": "Ubiquitin tagging can target proteins to proteasomes. Increased breakdown of cellular proteins contributes to muscle atrophy in catabolic states.",
+    "distractorExplanations": {
+      "Ubiquitin-proteasome pathway": "The ubiquitin tag directs selected proteins toward proteasomal degradation.",
+      "Caspase-mediated apoptotic fragmentation": "Caspases participate in apoptosis, which involves cell dismantling rather than the described tagging of proteins in atrophic cells.",
+      "Complement membrane attack complex": "Complement pores damage cell membranes and do not selectively tag intracellular proteins.",
+      "Lysosomal lipid storage pathway": "Lipid storage reflects accumulation, not the described protein-targeting pathway.",
+      "Collagen cross-linking by lysyl oxidase": "Collagen cross-linking concerns extracellular matrix maturation rather than intracellular muscle protein degradation."
+    },
+    "references": [
+      {
+        "title": "Dr M — source topic discussion, Part 2",
+        "url": "https://www.youtube.com/watch?v=esgddQPQqSQ"
+      }
+    ]
+  },
+  {
+    "id": "path-part2-3",
+    "lectureId": "esgddQPQqSQ",
+    "title": "Sequential antioxidant enzyme reactions",
+    "category": "Pathology",
+    "prompt": "Following reperfusion of ischemic tissue, a researcher measures increased superoxide production. An enzyme preparation converts superoxide to hydrogen peroxide, but peroxide still accumulates unless a second detoxifying system is added. Which enzyme performs the first reaction?",
+    "options": [
+      "Glutathione peroxidase",
+      "NADPH oxidase",
+      "Myeloperoxidase",
+      "Superoxide dismutase",
+      "Catalase"
+    ],
+    "answer": "Superoxide dismutase",
+    "explanation": "Superoxide dismutase converts superoxide into hydrogen peroxide and oxygen. Catalase or glutathione peroxidase is needed for subsequent peroxide removal.",
+    "distractorExplanations": {
+      "Superoxide dismutase": "This enzyme performs superoxide dismutation.",
+      "Catalase": "Catalase removes hydrogen peroxide rather than producing it from superoxide.",
+      "Glutathione peroxidase": "Glutathione peroxidase reduces peroxide using glutathione.",
+      "NADPH oxidase": "NADPH oxidase generates superoxide in the respiratory burst.",
+      "Myeloperoxidase": "Myeloperoxidase uses peroxide and chloride to generate hypochlorous acid."
+    },
+    "references": [
+      {
+        "title": "Dr M — source topic discussion, Part 2",
+        "url": "https://www.youtube.com/watch?v=esgddQPQqSQ"
+      }
+    ]
+  }
+]

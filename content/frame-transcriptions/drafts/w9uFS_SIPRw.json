@@ -1,0 +1,67 @@
+﻿{
+    "lectureId":  "w9uFS_SIPRw",
+    "status":  "unreviewed-ocr",
+    "source":  "Windows OCR of low-resolution YouTube preview frames",
+    "frames":  [
+                   {
+                       "src":  "video-frames/w9uFS_SIPRw-0.jpg",
+                       "seconds":  0,
+                       "text":  "Bosic Principles of\nCliniccl Phormccology",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/w9uFS_SIPRw-11.jpg",
+                       "seconds":  55,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/w9uFS_SIPRw-22.jpg",
+                       "seconds":  110,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/w9uFS_SIPRw-29.jpg",
+                       "seconds":  145,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/w9uFS_SIPRw-37.jpg",
+                       "seconds":  185,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/w9uFS_SIPRw-41.jpg",
+                       "seconds":  205,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/w9uFS_SIPRw-47.jpg",
+                       "seconds":  235,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/w9uFS_SIPRw-49.jpg",
+                       "seconds":  245,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/w9uFS_SIPRw-56.jpg",
+                       "seconds":  280,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/w9uFS_SIPRw-66.jpg",
+                       "seconds":  330,
+                       "text":  "SoppoUos",
+                       "reviewed":  false
+                   }
+               ]
+}

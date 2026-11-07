@@ -1,0 +1,31 @@
+﻿{
+    "lectureId":  "9XK3e8-iZFA",
+    "status":  "unreviewed-ocr",
+    "source":  "Windows OCR of low-resolution YouTube preview frames",
+    "frames":  [
+                   {
+                       "src":  "video-frames/9XK3e8-iZFA-0.jpg",
+                       "seconds":  0,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/9XK3e8-iZFA-13.jpg",
+                       "seconds":  26,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/9XK3e8-iZFA-62.jpg",
+                       "seconds":  124,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/9XK3e8-iZFA-78.jpg",
+                       "seconds":  156,
+                       "text":  "",
+                       "reviewed":  false
+                   }
+               ]
+}

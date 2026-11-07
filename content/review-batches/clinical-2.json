@@ -1,0 +1,432 @@
+[
+  {
+    "id": "SlETVFSIn8A",
+    "title": "Sinus Bradycardia: EKG Characteristics, Causes and Treatment",
+    "category": "Clinical medicine",
+    "noteStatus": "Source presentation",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Sinus bradycardia"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "Sinus bradycardia has a sinus P wave before each QRS with a slower-than-expected heart rate."
+      },
+      {
+        "type": "li",
+        "text": "Athletic conditioning and sleep can produce physiologic slowing."
+      },
+      {
+        "type": "li",
+        "text": "Hypoperfusion rather than the heart-rate number alone determines urgent clinical significance."
+      },
+      {
+        "type": "li",
+        "text": "Medication effects and metabolic abnormalities are potentially reversible causes."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": []
+  },
+  {
+    "id": "3LKa8IO0QaE",
+    "title": "Premature Ventricular Contractions (PVCs): EKG Characteristics, Causes and Treatment",
+    "category": "Clinical medicine",
+    "noteStatus": "Source presentation",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Ventricular ectopy"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "Premature ventricular contractions originate in ventricular tissue before the next expected sinus beat."
+      },
+      {
+        "type": "li",
+        "text": "Wide QRS complexes are typical because activation does not follow the usual ventricular conduction sequence."
+      },
+      {
+        "type": "li",
+        "text": "Compensatory pauses often follow premature ventricular beats."
+      },
+      {
+        "type": "li",
+        "text": "Structural heart disease and symptom burden influence evaluation."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": []
+  },
+  {
+    "id": "Lht-xTYLiCs",
+    "title": "Rapid Sequence Intubation (RSI): Airway Risk Assessment, Technique, Induction and Paralytic Agents",
+    "category": "Clinical medicine",
+    "noteStatus": "Source presentation",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Rapid sequence intubation concepts"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "Preoxygenation increases the oxygen reserve before induction and apnea."
+      },
+      {
+        "type": "li",
+        "text": "Neuromuscular blockade facilitates intubation but does not provide sedation or analgesia."
+      },
+      {
+        "type": "li",
+        "text": "Waveform capnography is used to help confirm tracheal tube placement and monitor ventilation."
+      },
+      {
+        "type": "li",
+        "text": "Rescue oxygenation planning is essential before attempting a difficult airway."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": [
+      {
+        "title": "Further reading: airway establishment and control",
+        "url": "https://www.merckmanuals.com/professional/critical-care-medicine/respiratory-arrest/airway-establishment-and-control"
+      }
+    ]
+  },
+  {
+    "id": "dmRp5H85WMs",
+    "title": "Premature Atrial Contraction (PACs): ECG Characteristics, Causes, Diagnosis and Treatment",
+    "category": "Clinical medicine",
+    "noteStatus": "Source presentation",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Atrial ectopy"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "Premature atrial contractions arise from an atrial focus outside the sinus node."
+      },
+      {
+        "type": "li",
+        "text": "Abnormal P-wave morphology can distinguish an ectopic atrial beat from a sinus beat."
+      },
+      {
+        "type": "li",
+        "text": "Narrow QRS complexes are usual unless there is aberrant ventricular conduction."
+      },
+      {
+        "type": "li",
+        "text": "Blocked atrial beats occur when a premature impulse reaches a refractory AV node."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": []
+  },
+  {
+    "id": "x7i4lCVPhF0",
+    "title": "Extraglottic Airway: Supraglottic and Retroglottic Devices, Advantages and Disadvantages",
+    "category": "Clinical medicine",
+    "noteStatus": "Source presentation",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Extraglottic airway devices"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "Supraglottic devices establish a ventilatory pathway above the vocal cords."
+      },
+      {
+        "type": "li",
+        "text": "Rescue ventilation is an important role when mask ventilation or tracheal intubation is difficult."
+      },
+      {
+        "type": "li",
+        "text": "Aspiration protection is less complete than with a correctly positioned cuffed tracheal tube."
+      },
+      {
+        "type": "li",
+        "text": "Device position and an adequate seal are essential to effective ventilation."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": [
+      {
+        "title": "Further reading: airway establishment and control",
+        "url": "https://www.merckmanuals.com/professional/critical-care-medicine/respiratory-arrest/airway-establishment-and-control"
+      }
+    ]
+  },
+  {
+    "id": "3ZM6nOx4hpw",
+    "title": "Spine Motion Restriction: Indications, Equipment, Steps to Do it and Contraindications",
+    "category": "Clinical medicine",
+    "noteStatus": "Source presentation",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Spinal motion restriction"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "Motion restriction aims to limit additional movement when spinal injury is suspected."
+      },
+      {
+        "type": "li",
+        "text": "Neurologic examination documents motor and sensory function before and after movement when possible."
+      },
+      {
+        "type": "li",
+        "text": "Clinical assessment guides selection of patients who need spinal precautions."
+      },
+      {
+        "type": "li",
+        "text": "Prolonged immobilization can cause pressure injury and respiratory discomfort."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": []
+  },
+  {
+    "id": "flB-sPYNJ34",
+    "title": "Sinus Arrhythmia: ECG Characteristics, Presentation & Treatment",
+    "category": "Clinical medicine",
+    "noteStatus": "Source presentation",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Respiratory sinus arrhythmia"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "Respiratory sinus arrhythmia is cyclic variation in sinus rate with breathing."
+      },
+      {
+        "type": "li",
+        "text": "Inspiration commonly increases heart rate while expiration slows it."
+      },
+      {
+        "type": "li",
+        "text": "Sinus P waves remain present with the expected atrial morphology."
+      },
+      {
+        "type": "li",
+        "text": "Young healthy people commonly show this benign variation."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": []
+  },
+  {
+    "id": "_q0giMKf5Vc",
+    "title": "Bag Valve Mask Ventilation (BVM): steps to do it, Difficult BVM, Indications and Complications",
+    "category": "Clinical medicine",
+    "noteStatus": "Source presentation",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Bag-mask ventilation concepts"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "Mask seal is essential to limit leak during assisted ventilation."
+      },
+      {
+        "type": "li",
+        "text": "Airway positioning improves patency and the delivery of breaths."
+      },
+      {
+        "type": "li",
+        "text": "Visible chest rise helps assess whether ventilation is reaching the lungs."
+      },
+      {
+        "type": "li",
+        "text": "Excessive ventilation can increase gastric inflation and impair venous return."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": [
+      {
+        "title": "Further reading: airway establishment and control",
+        "url": "https://www.merckmanuals.com/professional/critical-care-medicine/respiratory-arrest/airway-establishment-and-control"
+      }
+    ]
+  },
+  {
+    "id": "qfSpLNr9S44",
+    "title": "CPAP and BiPAP: How it Works, Indications, Contraindications and Complications",
+    "category": "Clinical medicine",
+    "noteStatus": "Source presentation",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Noninvasive positive pressure"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "CPAP applies a continuous positive airway pressure throughout the respiratory cycle."
+      },
+      {
+        "type": "li",
+        "text": "Bilevel ventilation provides different inspiratory and expiratory pressures."
+      },
+      {
+        "type": "li",
+        "text": "Inspiratory pressure support helps reduce work of breathing and improve ventilation."
+      },
+      {
+        "type": "li",
+        "text": "Inability to protect the airway is an important limitation of noninvasive ventilation."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": []
+  },
+  {
+    "id": "xSrRSHHfLoU",
+    "title": "Head Tilt/Chin Lift, Jaw Thrust, Oropharyngeal Airway and Nasopharyngeal Airway",
+    "category": "Clinical medicine",
+    "noteStatus": "Source presentation",
+    "notes": [
+      {
+        "type": "h2",
+        "text": "Airway assessment and patency"
+      },
+      {
+        "type": "p",
+        "text": "A concise, newly authored revision guide for this topic. Use the video for the instructor’s full explanation; these notes do not claim to transcribe it."
+      },
+      {
+        "type": "li",
+        "text": "Tongue displacement can obstruct the upper airway in an unconscious person."
+      },
+      {
+        "type": "li",
+        "text": "Jaw thrust can help open the airway when cervical motion should be minimized."
+      },
+      {
+        "type": "li",
+        "text": "Oropharyngeal airways are generally used only when the gag reflex is absent."
+      },
+      {
+        "type": "li",
+        "text": "Oxygenation and ventilation must both be assessed because a patent airway alone does not guarantee adequate gas exchange."
+      },
+      {
+        "type": "h3",
+        "text": "Active recall"
+      },
+      {
+        "type": "p",
+        "text": "After watching, explain the key mechanism in your own words. Identify one distinguishing feature and one important limitation or complication, then answer the questions below."
+      }
+    ],
+    "references": [
+      {
+        "title": "Further reading: airway establishment and control",
+        "url": "https://www.merckmanuals.com/professional/critical-care-medicine/respiratory-arrest/airway-establishment-and-control"
+      }
+    ]
+  }
+]

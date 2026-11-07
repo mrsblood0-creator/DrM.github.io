@@ -1,0 +1,73 @@
+﻿{
+    "lectureId":  "MrwHTxs5WvE",
+    "status":  "unreviewed-ocr",
+    "source":  "Windows OCR of low-resolution YouTube preview frames",
+    "frames":  [
+                   {
+                       "src":  "video-frames/MrwHTxs5WvE-0.jpg",
+                       "seconds":  0,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/MrwHTxs5WvE-8.jpg",
+                       "seconds":  40,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/MrwHTxs5WvE-33.jpg",
+                       "seconds":  165,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/MrwHTxs5WvE-52.jpg",
+                       "seconds":  260,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/MrwHTxs5WvE-85.jpg",
+                       "seconds":  425,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/MrwHTxs5WvE-99.jpg",
+                       "seconds":  495,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/MrwHTxs5WvE-111.jpg",
+                       "seconds":  555,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/MrwHTxs5WvE-132.jpg",
+                       "seconds":  660,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/MrwHTxs5WvE-134.jpg",
+                       "seconds":  670,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/MrwHTxs5WvE-145.jpg",
+                       "seconds":  725,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/MrwHTxs5WvE-156.jpg",
+                       "seconds":  780,
+                       "text":  "",
+                       "reviewed":  false
+                   }
+               ]
+}

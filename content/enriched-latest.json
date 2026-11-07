@@ -1,0 +1,85 @@
+{
+  "esgddQPQqSQ": {
+    "overview": "An explanation map of the mechanisms discussed in the newly published Part 2 video. Section times follow the available auto-generated captions; these are paraphrased teaching notes, not a reproduction of the question stems or a verified slide transcript.",
+    "map": [
+      {
+        "label": "Trigger",
+        "detail": "Identify radiation, ischemia, restored blood flow, chronic inflammation or pressure overload."
+      },
+      {
+        "label": "Mechanism",
+        "detail": "Connect the trigger to oxidant injury, protein degradation, enzymatic digestion or increased protein synthesis."
+      },
+      {
+        "label": "Morphology",
+        "detail": "Use cell size, tissue architecture, pigment location and the organ involved to distinguish processes."
+      },
+      {
+        "label": "Answer",
+        "detail": "Choose the mechanism that explains the findings; a true statement about another process is still a distractor."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "0:47 — Radiation and oxidant injury",
+        "paragraphs": [
+          "Ionizing radiation can generate reactive species through radiolysis of water. These molecules can damage DNA, proteins and membrane lipids. The important causal chain is exposure, reactive species generation, molecular damage and tissue dysfunction. This explains why rapidly renewing intestinal epithelium is vulnerable."
+        ]
+      },
+      {
+        "heading": "3:00 — Muscle wasting and protein turnover",
+        "paragraphs": [
+          "Ubiquitin acts as a molecular tag that can direct proteins to the proteasome. Increased breakdown contributes to muscle loss in catabolic illness. Distinguish this regulated protein degradation from membrane rupture and leakage in necrosis. A mechanism of cell death is not automatically the mechanism of every decrease in tissue mass."
+        ]
+      },
+      {
+        "heading": "6:17 — Reperfusion and antioxidant defenses",
+        "paragraphs": [
+          "Restored circulation is essential to salvage threatened tissue, but it can also generate reactive oxygen species and amplify inflammation. Superoxide dismutase converts superoxide to hydrogen peroxide. Catalase and glutathione peroxidase then help remove peroxide. These enzymes act at different steps; converting one oxidant into another is not the entire detoxification pathway."
+        ]
+      },
+      {
+        "heading": "10:04 — Organ context determines necrosis pattern",
+        "paragraphs": [
+          "Ischemic injury in the kidney and many other solid organs typically produces coagulative necrosis, in which tissue outlines initially remain recognizable. In brain infarction, hydrolytic digestion produces liquefactive necrosis. Match the same initiating insult to the tissue involved before choosing a morphological pattern."
+        ]
+      },
+      {
+        "heading": "15:08 — Lipid peroxidation and iron",
+        "paragraphs": [
+          "Lipid peroxidation propagates damage through membrane lipids. Redox-active iron can facilitate radical chemistry, whereas sequestration in proteins limits access to reactive iron. Do not memorize an oversimplified claim that ferric iron cannot be stored: ferritin mineralizes and stores iron mainly in a ferric form. Glutathione is a small molecule; glutathione peroxidase is the enzyme."
+        ]
+      },
+      {
+        "heading": "17:01 — Adaptations, pigments and fat necrosis",
+        "paragraphs": [
+          "Chronic pressure loading stimulates cardiomyocyte enlargement: hypertrophy concerns cell size, while hyperplasia concerns cell number. Carbon pigment can accumulate in pulmonary macrophages and draining lymph nodes. In acute pancreatitis, escaped lipases damage adjacent fat, and released fatty acids can bind calcium to form soap-like deposits. Keep the tissue compartment and mechanism explicit when comparing answer choices."
+        ]
+      }
+    ],
+    "pearls": [
+      "Read the organ and tissue compartment before selecting a necrosis pattern.",
+      "Distinguish oxidant generation from detoxification.",
+      "Differentiate loss of cell substance from actual cell death."
+    ],
+    "references": [
+      {
+        "title": "Dr M — Part 2 source video (auto-caption-assisted review)",
+        "url": "https://www.youtube.com/watch?v=esgddQPQqSQ"
+      },
+      {
+        "title": "Ferritin mineralization and iron storage",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10441528/"
+      }
+    ],
+    "corrections": [
+      {
+        "clarification": "Ferritin stores iron mainly in a ferric mineral core. Its ferroxidase activity converts ferrous iron to ferric iron for storage; ferric iron is not inherently unable to bind storage proteins.",
+        "reference": {
+          "title": "Ferritin mineralization and iron storage",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/10441528/"
+        }
+      }
+    ]
+  }
+}

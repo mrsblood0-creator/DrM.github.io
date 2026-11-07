@@ -1,0 +1,73 @@
+﻿{
+    "lectureId":  "sVML-mz1Ato",
+    "status":  "unreviewed-ocr",
+    "source":  "Windows OCR of low-resolution YouTube preview frames",
+    "frames":  [
+                   {
+                       "src":  "video-frames/sVML-mz1Ato-0.jpg",
+                       "seconds":  0,
+                       "text":  "Surgical Needles",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/sVML-mz1Ato-7.jpg",
+                       "seconds":  35,
+                       "text":  "Like and Subscribe\nNeed!es\n. fiho\u0027uid be",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/sVML-mz1Ato-16.jpg",
+                       "seconds":  80,
+                       "text":  "• eHer\nuric/ there i\"\n• \u0027Waged\ninto\nthr ar.:t thc til\u0027\n.r•rt\nbut",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/sVML-mz1Ato-25.jpg",
+                       "seconds":  125,
+                       "text":  "Needle end\n• \"\u0027i Swager]\nthr thc athor\ni• ti\u0027,is\npossibiiii•$. \u0027hose\n\u0027suture\naieriel\ninto",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/sVML-mz1Ato-26.jpg",
+                       "seconds":  130,
+                       "text":  "Needle end\n• rit\u0027•edle\u0027i.\nO-;tirieeted 9.3 .\n• \"\u0027i 01 is\n3rud i:\n• into\nthr thc ti\u0027,e\ni\" bipu\npossibiiiiy",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/sVML-mz1Ato-35.jpg",
+                       "seconds":  175,
+                       "text":  "Ched\nf•oate\nthr ry\nsae\nholes",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/sVML-mz1Ato-36.jpg",
+                       "seconds":  180,
+                       "text":  "Needleend\niri\u0027\"iEe t;\u0027 the whet*\n• \"\u0027i swage\u0027S is.\ni: for\ninto\nthr thc\nhp\\e••• it\u0027 rr.,ve",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/sVML-mz1Ato-48.jpg",
+                       "seconds":  240,
+                       "text":  "Needle Body",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/sVML-mz1Ato-69.jpg",
+                       "seconds":  345,
+                       "text":  "",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/sVML-mz1Ato-77.jpg",
+                       "seconds":  385,
+                       "text":  "Needle Tip\nits",
+                       "reviewed":  false
+                   },
+                   {
+                       "src":  "video-frames/sVML-mz1Ato-102.jpg",
+                       "seconds":  510,
+                       "text":  "",
+                       "reviewed":  false
+                   }
+               ]
+}

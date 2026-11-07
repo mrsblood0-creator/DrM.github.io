@@ -1,0 +1,427 @@
+[
+  {
+    "id": "reviewed-gi5-encephalopathy-fc-1",
+    "lectureId": "YdGUbVePf-E",
+    "front": "Name common reversible precipitants of hepatic encephalopathy.",
+    "back": "Constipation, infection, GI bleeding, dehydration, electrolyte disturbances and sedating drugs.",
+    "explanation": "Reduced intestinal clearance of nitrogenous material can precipitate HE in a susceptible patient.",
+    "references": [
+      {
+        "title": "Clinical source for this study set",
+        "url": "https://www.aasld.org/liver-fellow-network/core-series/back-basics/back-basics-decoding-hepatic-encephalopathy"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=YdGUbVePf-E"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-gi5-encephalopathy-fc-2",
+    "lectureId": "YdGUbVePf-E",
+    "front": "Can an elevated ammonia level alone diagnose overt hepatic encephalopathy?",
+    "back": "No; the diagnosis is clinical and requires evaluation of alternatives.",
+    "explanation": "HE is a clinical diagnosis requiring assessment of cognition and alternative causes.",
+    "references": [
+      {
+        "title": "Clinical source for this study set",
+        "url": "https://www.aasld.org/liver-fellow-network/core-series/back-basics/back-basics-decoding-hepatic-encephalopathy"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=YdGUbVePf-E"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-gi5-encephalopathy-fc-3",
+    "lectureId": "YdGUbVePf-E",
+    "front": "How does lactulose’s colonic acidification reduce ammonia absorption?",
+    "back": "It favors conversion of NH3 to less absorbable NH4+.",
+    "explanation": "Luminal acidification favors ammonium formation; catharsis also promotes nitrogen elimination.",
+    "references": [
+      {
+        "title": "Clinical source for this study set",
+        "url": "https://www.aasld.org/liver-fellow-network/core-series/back-basics/back-basics-decoding-hepatic-encephalopathy"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=YdGUbVePf-E"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-gi5-encephalopathy-fc-4",
+    "lectureId": "YdGUbVePf-E",
+    "front": "What complication can result from excessive lactulose-induced diarrhea?",
+    "back": "Dehydration and electrolyte disturbance, which can worsen encephalopathy risk.",
+    "explanation": "Excessive catharsis can cause dehydration and electrolyte abnormalities that themselves worsen HE risk.",
+    "references": [
+      {
+        "title": "Clinical source for this study set",
+        "url": "https://www.aasld.org/liver-fellow-network/core-series/back-basics/back-basics-decoding-hepatic-encephalopathy"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=YdGUbVePf-E"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-gi5-encephalopathy-fc-5",
+    "lectureId": "YdGUbVePf-E",
+    "front": "Which minimally absorbed antibiotic is commonly added for recurrent HE despite lactulose?",
+    "back": "Rifaximin.",
+    "explanation": "Rifaximin is used as an adjunct for recurrence prevention in appropriate patients.",
+    "references": [
+      {
+        "title": "Clinical source for this study set",
+        "url": "https://www.aasld.org/liver-fellow-network/core-series/back-basics/back-basics-decoding-hepatic-encephalopathy"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=YdGUbVePf-E"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-gi5-gerd-fc-1",
+    "lectureId": "kmvJx7G2bSI",
+    "front": "What are two typical symptoms of GERD?",
+    "back": "Heartburn and regurgitation.",
+    "explanation": "Heartburn and regurgitation associated with meals and recumbency are typical reflux symptoms.",
+    "references": [
+      {
+        "title": "Clinical source for this study set",
+        "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/acid-reflux-ger-gerd-adults"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=kmvJx7G2bSI"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-gi5-gerd-fc-2",
+    "lectureId": "kmvJx7G2bSI",
+    "front": "Which reflux-associated symptoms warrant prompt investigation?",
+    "back": "Dysphagia, bleeding, persistent vomiting or unexplained weight loss.",
+    "explanation": "Progressive dysphagia and weight loss are alarm features requiring evaluation for structural disease and malignancy.",
+    "references": [
+      {
+        "title": "Clinical source for this study set",
+        "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/acid-reflux-ger-gerd-adults"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=kmvJx7G2bSI"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-gi5-gerd-fc-3",
+    "lectureId": "kmvJx7G2bSI",
+    "front": "What positional and meal-timing measures may reduce nocturnal GERD?",
+    "back": "Avoid late meals and elevate the head of the bed when appropriate.",
+    "explanation": "Meal timing and positioning can reduce nocturnal reflux.",
+    "references": [
+      {
+        "title": "Clinical source for this study set",
+        "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/acid-reflux-ger-gerd-adults"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=kmvJx7G2bSI"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-gi5-gerd-fc-4",
+    "lectureId": "kmvJx7G2bSI",
+    "front": "How can chronic reflux cause progressive solid-food dysphagia?",
+    "back": "Inflammation can lead to a fibrotic peptic stricture.",
+    "explanation": "Repeated acid injury can heal with fibrosis and narrowing.",
+    "references": [
+      {
+        "title": "Clinical source for this study set",
+        "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/acid-reflux-ger-gerd-adults"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=kmvJx7G2bSI"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-gi5-gerd-fc-5",
+    "lectureId": "kmvJx7G2bSI",
+    "front": "What should be reviewed when symptoms persist despite GERD therapy?",
+    "back": "Adherence, correct use, alarm symptoms and alternative causes.",
+    "explanation": "Apparent treatment failure requires reassessment, including delivery, adherence and diagnostic accuracy.",
+    "references": [
+      {
+        "title": "Clinical source for this study set",
+        "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/acid-reflux-ger-gerd-adults"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=kmvJx7G2bSI"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-gi5-hpylori-fc-1",
+    "lectureId": "W1j_saTcyXo",
+    "front": "What is a recommended ACG empiric H. pylori regimen when susceptibility is unknown?",
+    "back": "Optimized bismuth quadruple therapy for 14 days when appropriate.",
+    "explanation": "This is a recommended empiric regimen when susceptibility is unknown; local guidance and individual factors still matter.",
+    "references": [
+      {
+        "title": "Clinical source for this study set",
+        "url": "https://gi.org/journals-publications/ebgi/schoenfeld_sep2024/"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=W1j_saTcyXo"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-gi5-hpylori-fc-2",
+    "lectureId": "W1j_saTcyXo",
+    "front": "Which four agents form optimized bismuth quadruple therapy?",
+    "back": "A PPI, bismuth, tetracycline and metronidazole.",
+    "explanation": "Optimized BQT combines acid suppression, bismuth and two antibiotics.",
+    "references": [
+      {
+        "title": "Clinical source for this study set",
+        "url": "https://gi.org/journals-publications/ebgi/schoenfeld_sep2024/"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=W1j_saTcyXo"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-gi5-hpylori-fc-3",
+    "lectureId": "W1j_saTcyXo",
+    "front": "Does symptom resolution prove H. pylori eradication?",
+    "back": "No; use an appropriately timed test of cure.",
+    "explanation": "Symptom improvement does not establish eradication; a test of cure is required.",
+    "references": [
+      {
+        "title": "Clinical source for this study set",
+        "url": "https://gi.org/journals-publications/ebgi/schoenfeld_sep2024/"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=W1j_saTcyXo"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-gi5-hpylori-fc-4",
+    "lectureId": "W1j_saTcyXo",
+    "front": "What washout periods are important before H. pylori test of cure?",
+    "back": "At least four weeks after antibiotics/bismuth and two weeks off PPI or PCAB when appropriate.",
+    "explanation": "Antibiotics and acid suppression can suppress detection and distort test-of-cure results.",
+    "references": [
+      {
+        "title": "Clinical source for this study set",
+        "url": "https://gi.org/journals-publications/ebgi/schoenfeld_sep2024/"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=W1j_saTcyXo"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-gi5-hpylori-fc-5",
+    "lectureId": "W1j_saTcyXo",
+    "front": "Why should prior macrolide exposure matter when selecting H. pylori therapy?",
+    "back": "It raises resistance concerns and may reduce clarithromycin-regimen success.",
+    "explanation": "Prior exposure and resistance concerns affect regimen selection; clarithromycin therapy should be susceptibility guided.",
+    "references": [
+      {
+        "title": "Clinical source for this study set",
+        "url": "https://gi.org/journals-publications/ebgi/schoenfeld_sep2024/"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=W1j_saTcyXo"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-gi5-bismuth-fc-1",
+    "lectureId": "NDkTbRGw-Do",
+    "front": "What benign discoloration can occur with bismuth subsalicylate?",
+    "back": "Temporary darkening of the tongue and stool.",
+    "explanation": "Bismuth can temporarily darken the tongue and stool; concerning bleeding symptoms still need assessment.",
+    "references": [
+      {
+        "title": "Clinical source for this study set",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f7627bf1-da97-4875-b614-5029663f7482"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=NDkTbRGw-Do"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-gi5-bismuth-fc-2",
+    "lectureId": "NDkTbRGw-Do",
+    "front": "Why avoid bismuth subsalicylate in children or teenagers with influenza or chickenpox?",
+    "back": "Its salicylate component carries a Reye syndrome warning.",
+    "explanation": "Children and teenagers with or recovering from flu-like illness or chickenpox should avoid this product.",
+    "references": [
+      {
+        "title": "Clinical source for this study set",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f7627bf1-da97-4875-b614-5029663f7482"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=NDkTbRGw-Do"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-gi5-bismuth-fc-3",
+    "lectureId": "NDkTbRGw-Do",
+    "front": "Which component of bismuth subsalicylate matters in aspirin or salicylate allergy?",
+    "back": "Salicylate.",
+    "explanation": "Bismuth subsalicylate contains salicylate; the brand or metal component does not remove that exposure.",
+    "references": [
+      {
+        "title": "Clinical source for this study set",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f7627bf1-da97-4875-b614-5029663f7482"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=NDkTbRGw-Do"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-gi5-bismuth-fc-4",
+    "lectureId": "NDkTbRGw-Do",
+    "front": "What symptom during bismuth subsalicylate overuse can signal salicylate toxicity?",
+    "back": "Tinnitus or hearing changes.",
+    "explanation": "Tinnitus during excessive salicylate exposure is a warning sign; persistent diarrhea also needs reassessment.",
+    "references": [
+      {
+        "title": "Clinical source for this study set",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f7627bf1-da97-4875-b614-5029663f7482"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=NDkTbRGw-Do"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-gi5-bismuth-fc-5",
+    "lectureId": "NDkTbRGw-Do",
+    "front": "Which diarrhea features warrant medical assessment before relying on OTC bismuth?",
+    "back": "Bloody stool, fever, severe symptoms or persistent diarrhea.",
+    "explanation": "These findings can indicate invasive infection or another significant disorder requiring evaluation.",
+    "references": [
+      {
+        "title": "Clinical source for this study set",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f7627bf1-da97-4875-b614-5029663f7482"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=NDkTbRGw-Do"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-gi5-pud-fc-1",
+    "lectureId": "UjZ9BvqgOlc",
+    "front": "How do NSAIDs impair gastroduodenal mucosal protection?",
+    "back": "They reduce protective prostaglandin synthesis through COX inhibition.",
+    "explanation": "NSAIDs impair prostaglandin-supported mucosal defenses.",
+    "references": [
+      {
+        "title": "Clinical source for this study set",
+        "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/peptic-ulcers-stomach-ulcers"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=UjZ9BvqgOlc"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-gi5-pud-fc-2",
+    "lectureId": "UjZ9BvqgOlc",
+    "front": "What ulcer complication is suggested by melena with dizziness or tachycardia?",
+    "back": "Gastrointestinal bleeding.",
+    "explanation": "Melena with circulatory symptoms raises concern for significant GI blood loss.",
+    "references": [
+      {
+        "title": "Clinical source for this study set",
+        "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/peptic-ulcers-stomach-ulcers"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=UjZ9BvqgOlc"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-gi5-pud-fc-3",
+    "lectureId": "UjZ9BvqgOlc",
+    "front": "Which findings suggest peptic ulcer perforation?",
+    "back": "Sudden severe pain, peritonitis and free intraperitoneal air.",
+    "explanation": "A full-thickness defect can release luminal contents and cause acute peritonitis.",
+    "references": [
+      {
+        "title": "Clinical source for this study set",
+        "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/peptic-ulcers-stomach-ulcers"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=UjZ9BvqgOlc"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-gi5-pud-fc-4",
+    "lectureId": "UjZ9BvqgOlc",
+    "front": "Why treat H. pylori in an infected patient with peptic ulcer disease?",
+    "back": "Eradication treats the cause and lowers recurrence risk.",
+    "explanation": "Treating the infection addresses an underlying cause of recurrent ulcer disease.",
+    "references": [
+      {
+        "title": "Clinical source for this study set",
+        "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/peptic-ulcers-stomach-ulcers"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=UjZ9BvqgOlc"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-gi5-pud-fc-5",
+    "lectureId": "UjZ9BvqgOlc",
+    "front": "How can chronic peptic ulcer disease impair gastric emptying?",
+    "back": "Inflammation or scarring can cause gastric outlet obstruction.",
+    "explanation": "Inflammation and scarring near the outlet can narrow the passage; malignancy must also be considered.",
+    "references": [
+      {
+        "title": "Clinical source for this study set",
+        "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/peptic-ulcers-stomach-ulcers"
+      },
+      {
+        "title": "Related lecture",
+        "url": "https://www.youtube.com/watch?v=UjZ9BvqgOlc"
+      }
+    ]
+  }
+]

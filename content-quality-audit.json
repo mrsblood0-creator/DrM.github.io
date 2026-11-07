@@ -1,0 +1,2325 @@
+{
+  "targetPerLecture": 5,
+  "lectures": 257,
+  "minimumQuestions": 1485,
+  "minimumFlashcards": 1485,
+  "questions": 1488,
+  "flashcards": 1488,
+  "lecturesMeetingMinimum": 257,
+  "findings": [],
+  "coverage": [
+    {
+      "id": "esgddQPQqSQ",
+      "title": "Pathology USMLE Step 1 MCQ Practice Questions | Part 2",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Video and practice"
+    },
+    {
+      "id": "IdO0f5klcXI",
+      "title": "Pathology USMLE Step 1 MCQ Practice Questions | General Pathology Part 1",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Video and practice"
+    },
+    {
+      "id": "iFo2ROztdGs",
+      "title": "Intracellular Accumulations: Mechanism of Accumulation & Types- Lipids, Proteins, Carbon, Lipofuscin",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "I0ygFfqwhHw",
+      "title": "Amyloidosis: Classification, Appearance on Histological Slides, Clinical Features & Diagnosis",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "n9brM9pTw6I",
+      "title": "Oxidative Stress (Free Radical Injury): Physiologic & Pathologic Generation, Elimination & Examples",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "I-_HV25j_9s",
+      "title": "Cell Death: Morphologic Hallmarks, Mechanisms, Types of Necrosis, Pathways of Apoptosis",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "kHhJRk4qxPQ",
+      "title": "Cell Injury: Definition, Causes (Ischemia, Hypoxemia, Decrease O2 Carrying Capacity) and Features",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "DHphsnW-nYo",
+      "title": "Cellular Adaptations (Growth Adaptations): Hypertrophy, Hyperplasia, Atrophy, Metaplasia",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "PgxQl2pHeUI",
+      "title": "Cardiac Arrhythmias in Pediatrics: Pediatric Intensive Care #1",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "ARd1AOM8sxk",
+      "title": "Types of Necrosis: Coagulative, Liquefactive, Caseous ...",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "eFmMnrv5gHA",
+      "title": "Causes of Cell Injury: Hypoxia, Toxins, Infections ...",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "ionR1D5j3gI",
+      "title": "Pediatric Pneumonia: Latest Guidelines on Diagnosis and Treatment & a Comprehensive Explanation",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "tKbkO6dladc",
+      "title": "Bronchiolitis: Latest Guidelines on Diagnosis and Treatment, Clinical Features and Pathophysiology",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "rtPmnu09wto",
+      "title": "Peritonsillar Abscess (Quinsy): Pathophysiology, Clinical Features, Diagnosis and Treatment",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "sBp7NlJQME0",
+      "title": "Retropharyngeal Abscess & Lateral Pharyngeal Abscess and Lemierre Disease All Explained",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "1oZDzR-_QGk",
+      "title": "Airway Foreign Body: X Ray Examples, Clinical Features, Diagnosis and Treatment",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "M5FnKmsGxmM",
+      "title": "Bacterial Tracheitis: Clinical Features, Etiology, Diagnosis and Treatment",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "cozkYn9YcYo",
+      "title": "Epiglottitis: Signs and Symptoms, Causes, Diagnosis and Treatment All Explained",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "A8_qaIox3ys",
+      "title": "Croup (Laryngotracheobronchitis) Explained: Pathophysiology, Signs & Symptoms, Diagnosis & Treatment",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "vJOep88PVIk",
+      "title": "Junctional Rhythm: Pathophysiology, ECG Characteristics, Classification, Causes and Treatment",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "SlETVFSIn8A",
+      "title": "Sinus Bradycardia: EKG Characteristics, Causes and Treatment",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "3LKa8IO0QaE",
+      "title": "Premature Ventricular Contractions (PVCs): EKG Characteristics, Causes and Treatment",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "Lht-xTYLiCs",
+      "title": "Rapid Sequence Intubation (RSI): Airway Risk Assessment, Technique, Induction and Paralytic Agents",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "dmRp5H85WMs",
+      "title": "Premature Atrial Contraction (PACs): ECG Characteristics, Causes, Diagnosis and Treatment",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "x7i4lCVPhF0",
+      "title": "Extraglottic Airway: Supraglottic and Retroglottic Devices, Advantages and Disadvantages",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "3ZM6nOx4hpw",
+      "title": "Spine Motion Restriction: Indications, Equipment, Steps to Do it and Contraindications",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "flB-sPYNJ34",
+      "title": "Sinus Arrhythmia: ECG Characteristics, Presentation & Treatment",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "_q0giMKf5Vc",
+      "title": "Bag Valve Mask Ventilation (BVM): steps to do it, Difficult BVM, Indications and Complications",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "qfSpLNr9S44",
+      "title": "CPAP and BiPAP: How it Works, Indications, Contraindications and Complications",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "xSrRSHHfLoU",
+      "title": "Head Tilt/Chin Lift, Jaw Thrust, Oropharyngeal Airway and Nasopharyngeal Airway",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "SpjIi-cbawo",
+      "title": "Bedside Assessment of The Airway in Resuscitation",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "eWjC_Y3rUZQ",
+      "title": "Advanced Airway Support: Introduction",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "wBHtaw2Eoc8",
+      "title": "Scaphoid Fractures: Herbert Classification, Imaging, Clinical Features, Treatment and Complications",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "1dRHtMT16TI",
+      "title": "Wrist Injuries: Normal Anatomy, Sprains, TFCC tears and X ray imaging",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "cNyNVRXtPcA",
+      "title": "Rifaximin Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "CXq0c75lkPw",
+      "title": "Lactulose Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "YdGUbVePf-E",
+      "title": "Hepatic Encephalopathy: Pathophysiology, Clinical Features, Diagnosis & Treatment",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "Wnxr4dQ7-LU",
+      "title": "Ondansetron (Zofran): Mechanism of Action, Therapeutic Uses & Adverse Effects",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "bAt1Uc_SES0",
+      "title": "Metoclopramide (Plasil): Mechanism of Action, Therapeutic Uses & Adverse Effects",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "kmvJx7G2bSI",
+      "title": "Gastroesophageal Reflux Disease (GERD): Causes, Clinical Features, Classification, Treatment",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "W1j_saTcyXo",
+      "title": "H. Pylori Treatment: All Treatment Regimens Explained",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "rZ8U60NLNbs",
+      "title": "Misoprostol: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "NDkTbRGw-Do",
+      "title": "Bismuth Subsalicylates: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "cZA8FWRxv4g",
+      "title": "Sucralfate (Anti Ulcer Drug): Mechanism of Action, Therapeutic Uses & Adverse Effects",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "Hu5-Bv_eVJU",
+      "title": "Proton Pump Inhibitors: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "7VjKp18wQOo",
+      "title": "Histamine H2 Receptor Antagonists: Mechanism of Action, Therapeutic Uses and Adverse Effects",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "2F9awf5M5Ls",
+      "title": "Antacids: Types, Therapeutic Uses, Adverse Effects and Interactions",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "UjZ9BvqgOlc",
+      "title": "Therapy for Peptic Ulcer Disease Free Course Introduction",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "vsWmWR40M9Q",
+      "title": "Oxygen Therapy: Oxygen Delivery Devices, Indications, Adverse Effects, Monitoring and MORE",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "30mf-G9kNSc",
+      "title": "Mucoactive Drugs: N-Acetylcysteine, Guaifenesin and Carbocysteine",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "brQi0DrlKDI",
+      "title": "Cough Suppressants (Antitussives) Classification & Mechanism of Action",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "H9gxVi8Ewpg",
+      "title": "Emergency Treatment of Asthma Exacerbations According to GINA Guidelines",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "cjmcjjk5tr8",
+      "title": "Asthma Treatment According to GINA Guidelines 2026",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "-tT6ZT-W-v4",
+      "title": "Mepolizumab & Reslizumab: Mechanism of Action, Therapeutic Uses and Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "QuWsAM-O6RU",
+      "title": "Xolair (Omalizumab): Mechanism of Action, Therapeutic Uses & Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "SAPa-5H2GSE",
+      "title": "Mast Cell Stabilizers (Cromolyn Sodium & Ketotifen): Mechanism of Action & Therapeutic Uses",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "YkoLh829-Ro",
+      "title": "Anti Leukotrienes (Montelukast, Zafirlukast & Zileuton): Mechanism of Action & Therapeutic Uses",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "P0NWBHUUVmU",
+      "title": "Inhaled Corticosteroids (ICS): Mechanism of Action, Therapeutic Uses & Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "4tMkbauozAc",
+      "title": "Methylxanthines (Theophylline & Aminophylline): Mechanism of Action and Therapeutic Uses",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "YoZt94lBYcM",
+      "title": "Ipratropium Bromide in Asthma Treatment: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "v0redm4vFVA",
+      "title": "Beta 2 Adrenergic Agonists: Mechanism of Action, Therapeutic Uses and Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "4Gy3kBD4Zpw",
+      "title": "Bronchial Asthma: Causes, Pathophysiology, Triggers, Classification, Presentation & Treatment",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "u8LiXyMe0pk",
+      "title": "Fibrinolytic Drugs (Thrombolytics): Mechanism of Action, Therapeutic Uses and Adverse Effects",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "l81Mg1iU1hA",
+      "title": "Low Molecular Weight Heparin (LMWH): Mechanism of Action, Therapeutic Uses and Adverse Effects",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "zCQD-v2pz_M",
+      "title": "Unfractionated Heparin vs Warfarin: A Full Comparison",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "EwawYxqnlF8",
+      "title": "Wellbutrin (Bupropion) Side Effects & Why They Occur",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "fQ5OQIDBqgI",
+      "title": "Zoloft (Sertraline) Side Effects with Explanation",
+      "questions": 10,
+      "flashcards": 10,
+      "target": 10,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "lSLP81EqL8A",
+      "title": "Tofranil (Imipramine) Side Effects & Why They Occur",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "-QQ0-cWZcM4",
+      "title": "Adderall (Amphetamine) Side Effects & Why They Occur",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "4IBLbpsvAMs",
+      "title": "Strattera (Atomoxetine) Side Effects & Why They Occur",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "D7WUwKID7d0",
+      "title": "4 Foods That SLOW Fracture Healing",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "SIX17WxeLfM",
+      "title": "Distal Radius Fractures: Colles fracture, Smith Fracture, Barton Fracture, Chauffeur Fracture & MORE",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "fyE1r2M6AF8",
+      "title": "Elbow X ray Interpretation Explained and Simplified",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "jflb-nvOTwc",
+      "title": "Galeazzi Fracture Dislocation: Clinical Features, Imaging, Treatment and Complications",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "_afYy_HDT6M",
+      "title": "Monteggia Fracture Dislocation: Bado Classification, Clinical Features, Treatment and Complications",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "D3GxmDsCEBg",
+      "title": "Radius and Ulna Shaft Fractures: Anatomy, Clinical Features, Treatment & Complications",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "5YJsNcvelzg",
+      "title": "Elbow Dislocation: Reduction Techniques, PathoAnatomy, Diagnosis and Complications",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "NX3bxNPzqTM",
+      "title": "How to Accelerate Fracture Healing",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "22PhrOPHkR4",
+      "title": "3 Most Serious Clozapine Side Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "bHg14k22JqQ",
+      "title": "What Statins Do to The Body ?",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "p5UXQ3RS2Uc",
+      "title": "4 IMPORTANT Acetaminophen Side Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "sYMCbQ2OFsM",
+      "title": "What Ibuprofen Does to Your Body (Explained in 5 minutes)",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "MH_uA2e34PY",
+      "title": "5 AMLODIPINE Contraindications",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "NzkVcA6xfEY",
+      "title": "4 Most SERIOUS Amlodipine Side Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "-ekVYKeK_OY",
+      "title": "4 Most Common Amlodipine Side Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "Lk1CBijkKJQ",
+      "title": "Shoulder and Arm Trauma MasterClass | Introduction",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "IWq-2VXDRwI",
+      "title": "Olecranon Fractures: Mayo Classification, Clinical Features, Treatment and Complications",
+      "questions": 6,
+      "flashcards": 6,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "iIKLt1Y-23c",
+      "title": "Radial Head Fractures: Anatomy, Classification, Clinical Features, Treatment and Complication",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "qRLw6NOBqjI",
+      "title": "How to Read Shoulder X Rays",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "7kbQ5Jwj3Es",
+      "title": "Distal Humerus Fractures: AO Classification, Clinical Features, Treatment and Complications",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "5a1Qyb44wt0",
+      "title": "Humerus Shaft Fractures: Clinical Features, Classification, Treatment and Complications",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "Dqsqdmwn-Tc",
+      "title": "Proximal Humerus Fractures: Neer Classification, Anatomy, Imaging and Treatment",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "dXFZ3RUREwc",
+      "title": "Inferior Shoulder Dislocation: Clinical Features, Imaging, Treatment & Complications",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "KfbUapEyL-I",
+      "title": "Posterior Shoulder Dislocation: Reduction Technique, Clinical Features, Imaging & Complications",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "8Y68hgonnnQ",
+      "title": "Anterior Shoulder Dislocation: Reduction techniques, PathoAnatomy, Clinical Features & Complications",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "TiOGc1Yx12M",
+      "title": "Sternoclavicular Joint Injury: Clinical Features, Classification, Treatment and Complications",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "o0c7PvRFH_g",
+      "title": "Acromioclavicular Joint Injury: Rockwood Classification, Clinical Features and Treatment",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "tfOaWc3yni4",
+      "title": "Scapula Bone Fractures: Anatomy, Classification, Clinical Features and Treatment",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "8eGo8agSIBM",
+      "title": "Clavicle Bone Fractures: Anatomy, Classification, Clinical Features and Treatment",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "2y7SaQNkKPY",
+      "title": "Depression: Diagnostic Criteria According to ICD 11, PDD, Psychotic Depression & SAD",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "An7F4fR0514",
+      "title": "Gabapentin Pharmacology: Mechanism of Action, Therapeutic Uses and Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "vcWNw51yG8k",
+      "title": "Levetiracetam Pharmacology: Mechanism of Action, Therapeutic Uses and Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "n1bTY2_BOsI",
+      "title": "Topiramate Pharmacology: Mechanism of Action, Therapeutic Uses and Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "dM8s0FL7Tlc",
+      "title": "Lamotrigine Pharmacology: Mechanism of Action, Therapeutic Uses and Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "I6MQfP131AQ",
+      "title": "Ethosuximide Pharmacology: Mechanism of Action, Therapeutic Uses and Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "Ubq4Q7VcA4Y",
+      "title": "Valproic Acid Pharmacology: Mechanism of Action, Therapeutic Uses and Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "XwHpK7-kQuQ",
+      "title": "Carbamazepine Pharmacology: Mechanism of Action, Therapeutic Uses and Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "cOUIUnntEc8",
+      "title": "Phenytoin Pharmacology: Pharmacokinetics, Mechanism of Action, Therapeutic Uses and Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "2KhisN0i2UA",
+      "title": "Omphalocele: Pathophysiology, Risk Factors, Diagnosis and Treatment",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "9ORnGlJ3BK4",
+      "title": "Atelectasis Chest X Ray Signs",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "GvukcclgI08",
+      "title": "Pneumothorax Chest X Ray Signs",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "xxLnsZHOnOw",
+      "title": "Chest X-Ray: Normal Radiological Anatomy Explained",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "VGOgvCTZbWQ",
+      "title": "Epilepsy Explained: Causes, ILAE Classification, Status Epilepticus & Anti Seizure Meds",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "rtjRDUCv7DE",
+      "title": "Suvorexant Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "m9bhT4zjh3I",
+      "title": "Melatonin for Sleep: Mechanism of Action & Side Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "1rxyECFjZ68",
+      "title": "Buspirone Pharmacology: Mechanism of Action, Therapeutic Uses & Side Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "kqtm_xEGY5c",
+      "title": "Z Drugs Pharmacology: Zolpidem , Eszopiclone, Zaleplon All Explained",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "fCd7uzoqjlM",
+      "title": "Benzodiazepines Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "6hxAwUugSlA",
+      "title": "Barbiturates Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "9KcipF82jn4",
+      "title": "Antiparkinsonian Drugs Pharmacology: Levodopa and Carbidopa, Entacapone, Selegiline, Pramipexole",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "R2mubHSdhbM",
+      "title": "Abdominal Wall Anatomy: Anterolateral and Posterior Anatomy",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "3Ao-Pp7bIpI",
+      "title": "Gastroschisis: Pathophysiology, Diagnosis, Treatment and Comparison against Omphalocele",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "d7_u2fBF2cI",
+      "title": "Clozapine Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "heTyT33hjzs",
+      "title": "Risperidone Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "GHlXbNd_KxM",
+      "title": "Haloperidol Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "Tsqj4mgn0bQ",
+      "title": "Chlorpromazine Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "PB88X1wO4aA",
+      "title": "Neuroleptic Malignant Syndrome: Pathophysiology, Signs and Symptoms, Diagnosis and Treatment",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "Z6hYtxhTPaE",
+      "title": "Antipsychotic Drugs Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "8aPGCQHoemA",
+      "title": "Meconium Aspiration Syndrome: Pathophysiology, Signs and Symptoms, Diagnosis and Treatment",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "lY7WO4HwMOM",
+      "title": "Neonatal Sepsis: Early Onset vs Late Onset, Pathophysiology, Diagnosis and Treatment",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "R1mXf8QbFfw",
+      "title": "Neonatal Cyanosis: Pathophysiology, Types, Differential Diagnosis and Treatment",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "jbuCw02x5DE",
+      "title": "Hernia Treatment: Principles of Treatment, Surgical Approach, Mesh Types & Positioning",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "rSl7h5tIybc",
+      "title": "Hernia: Progression of Symptoms, Hernia Sac Content",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "WPPaustj2-w",
+      "title": "Novalgin Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "I6F9Cf5i6XM",
+      "title": "Nefopam (Acupan): Mechanism of Action, Therapeutic Uses & Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "6P-i2kgQxUU",
+      "title": "Acetaminophen Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "jpecDir_fgM",
+      "title": "Naloxone Pharmacology: Treatment of Opioid Overdose, Mechanism of Action & Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "nHYvCKW33TA",
+      "title": "Buprenorphine: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Partial slide transcription"
+    },
+    {
+      "id": "Aw_0lr3smWQ",
+      "title": "Alcoholic Hepatitis: Pathophysiology, Signs and Symptoms, Diagnosis and Treatment",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "WMV-SJtw68s",
+      "title": "Tramadol Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Partial slide transcription"
+    },
+    {
+      "id": "HU4JW4Pq8Ro",
+      "title": "Acute Liver Failure: Symptoms, Causes, Diagnosis and Treatment",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "UPR6LqAWHWA",
+      "title": "Methadone Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "DKeWI40yyzM",
+      "title": "Fentanyl Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "klzuCpi-K6k",
+      "title": "Pethidine: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "nuE3VoxlhdE",
+      "title": "Heroin Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "LHx60k474pQ",
+      "title": "Liver Function Test Interpretation: AST, ALT, ALP, GGT, Bilirubin and Albumin",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "bgso-5IGFMI",
+      "title": "Codeine Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "9gEZfHnIhlI",
+      "title": "Opioid Withdrawal: Symptoms, Mechanism of Withdrawal and Treatment All Explained in Details",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "6ryC99g9leI",
+      "title": "CNS Pharmacology MasterClass | Introduction",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Partial slide transcription"
+    },
+    {
+      "id": "yh3ZU7Tq1yw",
+      "title": "Burn Assessment Using Lund and Browder Chart, Rule of Nine and Rule of Palm All Explained in Details",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "8aAkfYdNA14",
+      "title": "Morphine Pharmacology: Mechanism of Action, Therapeutic Uses & Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "DveU0FiMVJk",
+      "title": "Opioids Pharmacology: Classification, Mechanism of Action, Therapeutic Uses & Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "A5nDUA9lUKQ",
+      "title": "4th Degree Burn Explained",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "Vodezs_gHVg",
+      "title": "3rd Degree Burn Explained",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "xRK6YWTL7C8",
+      "title": "2nd Degree Burn: Superficial and Deep Partial Thickness Burns Explained",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "GRf53MkN_7Q",
+      "title": "1st Degree Burn Explained - Why Skin Become RED and HOW to Treat It",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "BqTodHQegnQ",
+      "title": "IV Fluids Types and Uses (SIMPLIFIED): Normal Saline, Ringer's Lactate, D5W, D5NS & more",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "im-igoRM3D4",
+      "title": "Membranous Nephropathy: Pathophysiology, Signs and Symptoms, Diagnosis and Treatment",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "5n01Gu3A_YQ",
+      "title": "Focal Segmental Glomerulosclerosis (FSGS): Pathophysiology, Signs & Symptoms, Diagnosis & Treatment",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "CxnwlXJLVm4",
+      "title": "Minimal Change Disease: Pathophysiology, Signs and Symptoms, Diagnosis and Treatment",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "NFiVzPbHkGY",
+      "title": "Nephrotic Syndrome: Pathophysiology, Signs and Symptoms, Diagnosis and Treatment",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "lnE6Ju2x7nM",
+      "title": "Skin Graft and Skin Flap: Graft & Flap Types, Uses, Causes of Failure and Monitoring of Viability",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "0PWRTjdBjBk",
+      "title": "Hypertrophic Scar and Keloid Scar Explanation and Comparison",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "0_2fuz8UDCM",
+      "title": "Infectious Mononucleosis: Causes, Signs and Symptoms, Pathophysiology, Diagnosis and Treatment",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "E6-0zLX01A0",
+      "title": "Portal Hypertension: Pathophysiology, Signs and Symptoms, Diagnosis and Treatment",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "UXESa5Dtsmo",
+      "title": "CURB-65 Score for Estimating The Severity of Community Acquired Pneumonia",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "zkkSVcn982Y",
+      "title": "Wound Healing by Primary and Secondary Intention",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "T9lkiwrGB64",
+      "title": "Diabetes Insipidus VS SIADH (SIMPLIFIED)",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "LRSnJiTug_U",
+      "title": "Burkitt's Lymphoma: Types, Signs and Symptoms, Pathophysiology, Diagnosis and Treatment",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "6JqmBkahN18",
+      "title": "Pregnancy Naegele's Rule",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "pS4kTCLMFj0",
+      "title": "ASIA Scale For Spinal Cord Injury Explained",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "EW9Z7xQXGjg",
+      "title": "Serum Ascites Albumin Gradient (SAAG)",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "gcbGXbr3EjI",
+      "title": "Joint Injuries: Sprains, Strains, Subluxations and Dislocations Explained in Details",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "7rzMPd2UlDw",
+      "title": "Orthopedic X Ray Interpretation Basics Explained with Examples",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "LYmlFk-R7cc",
+      "title": "Complications of Fractures: Joint stiffness, Joint Instability and Osteoarthritis",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "JsU96oK0Mm0",
+      "title": "Complications of Fractures: Visceral, Vascular and Nerve Injuries Explained in Details",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "ZeLcyaud9yE",
+      "title": "Compartments Syndrome: Pathophysiology, Clinical Features, Diagnosis and Treatment",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "1ERoGc-oLEY",
+      "title": "Growth Plate Fractures: X ray Imaging, Clinical Features & Salter-Harris Classification",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "OU44V4OBZgg",
+      "title": "Pathological Fractures: X ray Imaging, Clinical Features and Treatment",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "Wzd0qEaGbTU",
+      "title": "Stress Fractures: Commonly Affected Bones, Imaging, Clinical Features and Treatment",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "Q1AMwkBMFyI",
+      "title": "Closed Fracture Treatment: Reduction Types, Holding Reduction Types and Exercising All Explained",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "e2UyJuIMzeo",
+      "title": "Open Fracture Treatment: Wound Debridement, Fracture Stabilization and Soft Tissue Reconstruction",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "JeW8v0_o0kc",
+      "title": "Gustilo Anderson Classification of Open Fractures",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "WascAsz4NLw",
+      "title": "Soft Tissue Injury: Contusion, Hematoma, Swelling, Blisters, Tenting & Degloving Injuries Explained",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "MNCW8GB40Mk",
+      "title": "History taking and Examination in Orthopedic Trauma",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "UXZhSHs5d3c",
+      "title": "Trauma Management Using ATLS: Airway, Breathing, Circulation ...",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "-1gKvuNoUbI",
+      "title": "Fracture Displacement Patterns & Fracture Description Explained in Details",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "JEwVXWfT7k8",
+      "title": "Fracture Healing Outcomes: Union, Delayed Union, Non Union, Malunion, Refracturing All Explained",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "ZD_5Why69IM",
+      "title": "Bone Healing Process Explained in Details",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "-v6qWPet_w4",
+      "title": "Types of Bone Fractures According to Fracture Displacement, Pattern, Causative Force and MORE",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "xQDr05DvYqU",
+      "title": "Bone Fracture Mechanisms: Traumatic Forces Types, Stress Fractures & Pathological Fractures",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "g9GM06BiySc",
+      "title": "Orthopedic Trauma Basic Principles Free Course | Introduction",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "E80R3vE25tg",
+      "title": "Patient Factors Affecting Response to Drugs: Drug Tolerance, Rebound and Withdrawal Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "AMJdEW9CxhA",
+      "title": "Drug Factors Affecting Patient Response: Drug Structure, Molecular Weight and Combination",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "BWkaZq3RdO0",
+      "title": "Types of Antagonists: Reversible Competitive, Irreversible Competitive and Non Competitive",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "2IQcqzDcOyo",
+      "title": "Drug Agonist Dose Response Curves, Quantal and Graded Responses and Efficacy VS Potency",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "rKEHswIToPc",
+      "title": "Drug Targets Pharmacology: Receptors, Ion Channels, Enzymes and Carrier Molecules All Explained",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "hBbso9LXNcg",
+      "title": "Drug Elimination: Elimination Half Life, First and Zero Order Kinetics, Loading Dose and Clearance",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "0ldidKshF8I",
+      "title": "Drug Metabolism: Phase I and Phase II of Hepatic Drug Metabolism",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "TOUAIJSzZxU",
+      "title": "Drug Distribution: Volume of Distribution, Binding of Drugs to Plasma Proteins and Tissue Proteins",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "zZfiOzx7CEo",
+      "title": "Drug Absorption: pKa, First Pass Metabolism, Bioavailability and Mechanisms of Drug Absorption",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "_m5Il0SK40g",
+      "title": "Routes of Drug Administration: Oral, Intravenous, Intramuscular, Intranasal and MORE",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "w9uFS_SIPRw",
+      "title": "Clinical Pharmacology Basic Principles Free Course | Introduction",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "n4ltqJIxIQk",
+      "title": "Urinary Antiseptics Pharmacology: Nitrofurantoin, Methenamine and Fosfomycin",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "wpR477xCMtA",
+      "title": "Metronidazole Pharmacology: Mechanism of Action, Spectrum, Therapeutic Uses and Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "amaIwmYCEkk",
+      "title": "Sulfonamides Pharmacology: Mechanism of Action, Spectrum, Therapeutic Uses and Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "ttJU_RcE06k",
+      "title": "Quinolones Pharmacology: Mechanism of Action, Spectrum, Therapeutic Uses and Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "LJKUUqWmcVM",
+      "title": "Quinolones Classification: All Quinolones Generations Explained",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "_gen54iRCWI",
+      "title": "Linezolid Pharmacology: Mechanism of Action, Spectrum, Therapeutic Uses and Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "7wnwMfGuPyM",
+      "title": "Quinupristin / Dalfopristin (SYNERCID): Mechanism of Action, Therapeutic Uses & Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "20ArLfzxfEE",
+      "title": "Clindamycin Pharmacology: Mechanism of Action, Spectrum, Therapeutic Uses and Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "VKm2uo2JjUA",
+      "title": "Chloramphenicol Pharmacology: Pharmacokinetics, Mechanism of Action, Spectrum & Therapeutic Uses",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "Hdnw0PJaTK8",
+      "title": "Tigecycline (Glycylcyclines) Pharmacology: Mechanism of Action, Therapeutic Uses and Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "qiCVMhbSfKs",
+      "title": "Tetracyclines Pharmacology: Mechanism of Action, Spectrum, Therapeutic Uses and Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "d-P8_wfjVJ0",
+      "title": "Macrolides Pharmacology: Mechanism of Action, Spectrum, Therapeutic Uses and Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "GNZaCAsJDBo",
+      "title": "Aminoglycosides Pharmacology: Mechanism of Action, Spectrum, Therapeutic Uses and Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "jO6RwevsOmY",
+      "title": "Protein Synthesis Inhibitors Introduction",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "5u6pe9HNZ9M",
+      "title": "Glycopeptides Pharmacology: Mechanism of Action, Spectrum, Therapeutic Uses and Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "Vbhds14MOag",
+      "title": "Monobactams and Carbapenems Pharmacology: Aztreonam, Imipenem & Carbapenems",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "Bl9T23NyMHU",
+      "title": "Cephalosporins Pharmacology: Mechanism of Action, Spectrum, Therapeutic Uses and Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "-4D-qe2G79A",
+      "title": "Cephalosporins Classification: All Five Generations Explained",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "yMqQIE1BgAE",
+      "title": "Penicillin Pharmacology: Mechanism of Action, Spectrum, Therapeutic Uses and Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "ornBG-kfd_w",
+      "title": "Penicillin Classification Explained: Penicillin G, Anti Staph, Amino & Antipseudomonal Penicillin",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "hvh86HzdHzs",
+      "title": "Cell Wall Synthesis Inhibitors Pharmacology Introduction",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "Kl9I2T7-iCY",
+      "title": "How to Choose Antibiotics (Antibiotic Prescription): Patient Factor and Drug Factor",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "tJtsmSfDyP0",
+      "title": "Antibiotics Pharmacology: Gram Stain, Antibiotics Classification & Combination, Bacterial Resistance",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "OHP-TllOYjk",
+      "title": "Osmotic Diuretics: Types, Mechanism of Action, Therapeutic Uses and Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "y_QNg88uHLU",
+      "title": "Carbonic Anhydrase Inhibitors: Types, Mechanism of Action, Therapeutic Uses and Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "8y8xLTZdAzU",
+      "title": "Potassium Sparing Diuretics: Types, Mechanism of Action, Therapeutic Uses and Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "m5txre8vTpA",
+      "title": "Thiazides Diuretics: Types, Mechanism of Action, Therapeutic Uses and Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "aA80ZoAvz18",
+      "title": "Loop Diuretics: Types, Mechanism of Action, Therapeutic Uses and Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "itlm6w0M2W0",
+      "title": "Introduction to Diuretics Pharmacology | The Basics are Explained",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "AMlntTP1YQA",
+      "title": "Selective Alpha Blockers Pharmacology: Prazosin, Doxazocin, Terazosin and Tamsulosin Explained",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "Y6Qf_lb3oKc",
+      "title": "Alpha Blockers Pharmacology: Phenoxybenzamine and Phentolamine Explained",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "7VzcxT1T-lM",
+      "title": "Odontoid Process Fractures: Anderson D'Alonzo Classification",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "J3_iSJY8r7A",
+      "title": "Salter Harris Classification for Pediatric Growth Plate Fractures",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "3cDJbezsavY",
+      "title": "Propranolol Pharmacology: Mechanism of Action , Clinical Uses , Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "8bJfYbY1E34",
+      "title": "Proton Pump Inhibitors: Mechanism of Action, Clinical Uses & Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "mB1bC69MFIA",
+      "title": "Celecoxib 200 mg Capsule (Celebrex)",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "pJM7PDwyL0A",
+      "title": "Danis Weber Classification of Malleolar Fractures of The Ankle",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "LI-c_eBJGBM",
+      "title": "Schatzker Classification of Tibial Plateau Fractures",
+      "questions": 6,
+      "flashcards": 6,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "s-FAbPatgwI",
+      "title": "Sutures Unboxing and Explanation",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Video and practice"
+    },
+    {
+      "id": "sVML-mz1Ato",
+      "title": "Surgical Needles: Suture Needle Components (Needle End, Needle Body, Needle Tip) Explained",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Partial slide transcription"
+    },
+    {
+      "id": "WZMpMej5toM",
+      "title": "Suturing Materials: Suture Types: Full Explanation",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Partial slide transcription"
+    },
+    {
+      "id": "GkgFNPpqWx4",
+      "title": "Approach to Acute Pancreatitis: Clinical Features, Diagnosis, Ranson's Criteria & Treatment",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Partial slide transcription"
+    },
+    {
+      "id": "MrwHTxs5WvE",
+      "title": "Approach to Acute Appendicitis: Clinical Features, Diagnosis, Alvardo score and Treatment",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Partial slide transcription"
+    },
+    {
+      "id": "zqm5uxGWGL4",
+      "title": "Approach to Acute Coronary Syndromes: Clinical Presentation, Diagnosis and Treatment",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Partial slide transcription"
+    },
+    {
+      "id": "FHHQhZuBBkw",
+      "title": "Septic Arthritis: Kocher Criteria, Synovial Fluid Analysis, Diagnosis and Treatment",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Partial slide transcription"
+    },
+    {
+      "id": "rJTSNkk_uvg",
+      "title": "Evans Jensen Classification of Intertrochanteric Fractures of The Hip",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "ay9sAvwxino",
+      "title": "Garden Classification of Femur Neck Fractures",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "F4FzJ2HcFSg",
+      "title": "Thompson Epstein Classification of Posterior Hip Dislocations",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "lDS-uGbi8Xk",
+      "title": "Pipkin Classification of Femoral Head Fractures",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "Xy_UkeAafdc",
+      "title": "Rockwood Classification of Acromioclavicular Joint Injury (Modified Allman and Tossy)",
+      "questions": 6,
+      "flashcards": 6,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "9XK3e8-iZFA",
+      "title": "Glasgow Coma Scale Assessment",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Partial slide transcription"
+    },
+    {
+      "id": "ginGW6ZPyOg",
+      "title": "NSAIDs Pharmacology: Mechanism of Action, Therapeutic Uses and Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Source presentation"
+    },
+    {
+      "id": "oGuZvQfNsFg",
+      "title": "How to Palm Needle Driver",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Video and practice"
+    },
+    {
+      "id": "uYPYhN3McKw",
+      "title": "Aspirin Pharmacology: Mechanism of Action, Therapeutic Uses and Adverse Effects",
+      "questions": 5,
+      "flashcards": 5,
+      "target": 5,
+      "minimumMet": true,
+      "source": "Partial slide transcription"
+    }
+  ]
+}

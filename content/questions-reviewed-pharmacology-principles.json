@@ -1,0 +1,927 @@
+[
+  {
+    "id": "reviewed-pp-absorption-1",
+    "lectureId": "zZfiOzx7CEo",
+    "category": "Pharmacology",
+    "title": "Absolute bioavailability",
+    "prompt": "In a crossover pharmacokinetic study, a drug has an AUC of 40 mg·h/L after a 100-mg intravenous dose and 60 mg·h/L after a 200-mg oral dose. Assuming linear kinetics and unchanged clearance, what is its absolute oral bioavailability?",
+    "answer": "75%",
+    "options": [
+      "100%",
+      "150%",
+      "75%",
+      "25%",
+      "50%"
+    ],
+    "explanation": "F = (60/200)/(40/100) = 0.75.",
+    "distractorExplanations": {
+      "75%": "F = (60/200)/(40/100) = 0.75.",
+      "25%": "This does not follow the dose-normalized AUC ratio.",
+      "50%": "The oral dose is doubled, but its AUC is 1.5 times the IV AUC.",
+      "100%": "Complete availability would produce an oral AUC of 80 at this dose.",
+      "150%": "This compares raw AUCs without correcting for the different doses."
+    },
+    "references": [
+      {
+        "title": "Dr M — source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=zZfiOzx7CEo"
+      },
+      {
+        "title": "IUPHAR Pharmacology Education Project",
+        "url": "https://pharmacologyeducation.org/pharmacodynamics/"
+      },
+      {
+        "title": "Clinical pharmacokinetics handbook — Ministry of Health Malaysia",
+        "url": "https://pharmacy.moh.gov.my/sites/default/files/document-upload/clinical-pharmacokinetics-pharmacy-handbook-ccph-2nd-edition-rev-2.0_0.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pp-absorption-2",
+    "lectureId": "zZfiOzx7CEo",
+    "category": "Pharmacology",
+    "title": "First-pass loss",
+    "prompt": "A drug is well absorbed from the intestine but only a small fraction of an oral dose reaches systemic blood unchanged. The same amount given intravenously produces much higher exposure. Which process best explains this difference despite good intestinal uptake?",
+    "answer": "Presystemic metabolism in the gut wall and liver",
+    "options": [
+      "Elimination before an IV dose enters systemic blood",
+      "Presystemic metabolism in the gut wall and liver",
+      "Complete failure to dissolve in the intestine",
+      "Distribution into tissues only after intravenous dosing",
+      "An obligatory lack of protein binding after oral dosing"
+    ],
+    "explanation": "First-pass metabolism can remove absorbed drug before it reaches systemic circulation.",
+    "distractorExplanations": {
+      "Presystemic metabolism in the gut wall and liver": "First-pass metabolism can remove absorbed drug before it reaches systemic circulation.",
+      "Complete failure to dissolve in the intestine": "The stem states that intestinal absorption is good.",
+      "Distribution into tissues only after intravenous dosing": "Distribution occurs after either route and does not explain presystemic loss.",
+      "An obligatory lack of protein binding after oral dosing": "Protein binding is not abolished by this route.",
+      "Elimination before an IV dose enters systemic blood": "An IV dose enters systemic blood directly."
+    },
+    "references": [
+      {
+        "title": "Dr M — source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=zZfiOzx7CEo"
+      },
+      {
+        "title": "IUPHAR Pharmacology Education Project",
+        "url": "https://pharmacologyeducation.org/pharmacodynamics/"
+      },
+      {
+        "title": "Clinical pharmacokinetics handbook — Ministry of Health Malaysia",
+        "url": "https://pharmacy.moh.gov.my/sites/default/files/document-upload/clinical-pharmacokinetics-pharmacy-handbook-ccph-2nd-edition-rev-2.0_0.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pp-absorption-3",
+    "lectureId": "zZfiOzx7CEo",
+    "category": "Pharmacology",
+    "title": "Weak-acid ionization",
+    "prompt": "A weakly acidic drug has a pKa of 4.0. A researcher places it in a solution with pH 6.0 and assumes equilibrium without protein binding. What is the approximate ratio of ionized to unionized drug in that solution?",
+    "answer": "100:1",
+    "options": [
+      "100:1",
+      "1:100",
+      "1:1",
+      "10:1",
+      "1:10"
+    ],
+    "explanation": "For a weak acid, A−/HA = 10^(pH−pKa) = 100.",
+    "distractorExplanations": {
+      "100:1": "For a weak acid, A−/HA = 10^(pH−pKa) = 100.",
+      "1:100": "This reverses the weak-acid relationship.",
+      "1:1": "Equal forms occur when pH equals pKa.",
+      "10:1": "A one-unit, not two-unit, pH difference gives this ratio.",
+      "1:10": "This has both the wrong direction and magnitude."
+    },
+    "references": [
+      {
+        "title": "Dr M — source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=zZfiOzx7CEo"
+      },
+      {
+        "title": "IUPHAR Pharmacology Education Project",
+        "url": "https://pharmacologyeducation.org/pharmacodynamics/"
+      },
+      {
+        "title": "Clinical pharmacokinetics handbook — Ministry of Health Malaysia",
+        "url": "https://pharmacy.moh.gov.my/sites/default/files/document-upload/clinical-pharmacokinetics-pharmacy-handbook-ccph-2nd-edition-rev-2.0_0.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pp-absorption-4",
+    "lectureId": "zZfiOzx7CEo",
+    "category": "Pharmacology",
+    "title": "A transport mechanism",
+    "prompt": "A drug crosses an intestinal membrane through a carrier. Transport becomes saturated at high concentrations, occurs down the concentration gradient, and does not require energy input. Which transport mechanism best fits all of these experimental observations?",
+    "answer": "Facilitated diffusion",
+    "options": [
+      "Simple passive diffusion",
+      "Primary active transport",
+      "Endocytosis",
+      "Glomerular filtration",
+      "Facilitated diffusion"
+    ],
+    "explanation": "Facilitated diffusion is carrier-mediated and saturable but does not drive movement against the gradient.",
+    "distractorExplanations": {
+      "Facilitated diffusion": "Facilitated diffusion is carrier-mediated and saturable but does not drive movement against the gradient.",
+      "Simple passive diffusion": "Simple diffusion is not carrier-mediated and is not saturable in this way.",
+      "Primary active transport": "Active transport requires energy and can oppose a concentration gradient.",
+      "Endocytosis": "This involves vesicular uptake rather than the described carrier process.",
+      "Glomerular filtration": "The experiment concerns intestinal membrane transport, not kidney filtration."
+    },
+    "references": [
+      {
+        "title": "Dr M — source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=zZfiOzx7CEo"
+      },
+      {
+        "title": "IUPHAR Pharmacology Education Project",
+        "url": "https://pharmacologyeducation.org/pharmacodynamics/"
+      },
+      {
+        "title": "Clinical pharmacokinetics handbook — Ministry of Health Malaysia",
+        "url": "https://pharmacy.moh.gov.my/sites/default/files/document-upload/clinical-pharmacokinetics-pharmacy-handbook-ccph-2nd-edition-rev-2.0_0.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pp-absorption-5",
+    "lectureId": "zZfiOzx7CEo",
+    "category": "Pharmacology",
+    "title": "Reduced perfusion at an injection site",
+    "prompt": "A patient in circulatory shock receives a drug into skeletal muscle. Its systemic effect is delayed compared with the same dose in a well-perfused volunteer. Which change most directly accounts for the slower absorption from this administration site?",
+    "answer": "Reduced local blood flow",
+    "options": [
+      "Increased renal clearance before absorption",
+      "An increase in systemic receptor number",
+      "Instantaneous equilibration with all tissues",
+      "Reduced local blood flow",
+      "Complete elimination of all first-pass metabolism"
+    ],
+    "explanation": "Poor perfusion slows transfer of an intramuscular dose into systemic circulation.",
+    "distractorExplanations": {
+      "Reduced local blood flow": "Poor perfusion slows transfer of an intramuscular dose into systemic circulation.",
+      "Complete elimination of all first-pass metabolism": "Avoidance of first-pass metabolism does not explain delayed uptake from muscle.",
+      "Increased renal clearance before absorption": "Renal clearance acts after the drug reaches the circulation.",
+      "An increase in systemic receptor number": "Receptor number changes response, not local drug absorption.",
+      "Instantaneous equilibration with all tissues": "Instantaneous distribution would not explain the delay."
+    },
+    "references": [
+      {
+        "title": "Dr M — source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=zZfiOzx7CEo"
+      },
+      {
+        "title": "IUPHAR Pharmacology Education Project",
+        "url": "https://pharmacologyeducation.org/pharmacodynamics/"
+      },
+      {
+        "title": "Clinical pharmacokinetics handbook — Ministry of Health Malaysia",
+        "url": "https://pharmacy.moh.gov.my/sites/default/files/document-upload/clinical-pharmacokinetics-pharmacy-handbook-ccph-2nd-edition-rev-2.0_0.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pp-distribution-1",
+    "lectureId": "TOUAIJSzZxU",
+    "category": "Pharmacology",
+    "title": "Calculating apparent distribution volume",
+    "prompt": "After distribution equilibrium, a patient has 600 mg of a drug remaining in the body and a plasma concentration of 10 mg/L. Assuming the sample is representative and the body amount is known, what is the apparent volume of distribution?",
+    "answer": "60 L",
+    "options": [
+      "600 L",
+      "6,000 L",
+      "60 L",
+      "6 L",
+      "10 L"
+    ],
+    "explanation": "Vd = amount in body / plasma concentration = 600/10.",
+    "distractorExplanations": {
+      "60 L": "Vd = amount in body / plasma concentration = 600/10.",
+      "6 L": "This is a tenfold calculation error.",
+      "10 L": "This confuses the concentration value with a volume.",
+      "600 L": "This ignores division by concentration.",
+      "6,000 L": "This multiplies rather than divides the values."
+    },
+    "references": [
+      {
+        "title": "Dr M — source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=TOUAIJSzZxU"
+      },
+      {
+        "title": "IUPHAR Pharmacology Education Project",
+        "url": "https://pharmacologyeducation.org/pharmacodynamics/"
+      },
+      {
+        "title": "Clinical pharmacokinetics handbook — Ministry of Health Malaysia",
+        "url": "https://pharmacy.moh.gov.my/sites/default/files/document-upload/clinical-pharmacokinetics-pharmacy-handbook-ccph-2nd-edition-rev-2.0_0.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pp-distribution-2",
+    "lectureId": "TOUAIJSzZxU",
+    "category": "Pharmacology",
+    "title": "A large apparent volume",
+    "prompt": "A drug has an apparent volume of distribution of 500 L in a 70-kg adult. A student argues that this is impossible because total body water is much smaller. Which explanation best resolves the apparent contradiction?",
+    "answer": "Extensive tissue binding can make plasma concentrations very low",
+    "options": [
+      "The drug must be completely unabsorbed",
+      "Extensive tissue binding can make plasma concentrations very low",
+      "The patient must contain 500 L of extracellular fluid",
+      "The drug cannot leave the bloodstream",
+      "The laboratory must always have made an error"
+    ],
+    "explanation": "Vd is a proportionality constant, not a literal anatomical fluid volume.",
+    "distractorExplanations": {
+      "Extensive tissue binding can make plasma concentrations very low": "Vd is a proportionality constant, not a literal anatomical fluid volume.",
+      "The patient must contain 500 L of extracellular fluid": "The value does not represent a physical compartment.",
+      "The drug cannot leave the bloodstream": "Plasma confinement generally gives a small Vd.",
+      "The laboratory must always have made an error": "A large apparent Vd can be pharmacologically plausible.",
+      "The drug must be completely unabsorbed": "The measured body amount and plasma concentration concern systemic distribution."
+    },
+    "references": [
+      {
+        "title": "Dr M — source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=TOUAIJSzZxU"
+      },
+      {
+        "title": "IUPHAR Pharmacology Education Project",
+        "url": "https://pharmacologyeducation.org/pharmacodynamics/"
+      },
+      {
+        "title": "Clinical pharmacokinetics handbook — Ministry of Health Malaysia",
+        "url": "https://pharmacy.moh.gov.my/sites/default/files/document-upload/clinical-pharmacokinetics-pharmacy-handbook-ccph-2nd-edition-rev-2.0_0.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pp-distribution-3",
+    "lectureId": "TOUAIJSzZxU",
+    "category": "Pharmacology",
+    "title": "Loading dose",
+    "prompt": "An intravenous drug has a volume of distribution of 40 L. The desired initial plasma concentration after distribution is 5 mg/L. Ignoring elimination during administration and assuming complete IV delivery, which loading dose is appropriate for this calculation?",
+    "answer": "200 mg",
+    "options": [
+      "200 mg",
+      "8 mg",
+      "40 mg",
+      "100 mg",
+      "1,000 mg"
+    ],
+    "explanation": "Loading dose = target concentration × Vd / F; IV F is 1.",
+    "distractorExplanations": {
+      "200 mg": "Loading dose = target concentration × Vd / F; IV F is 1.",
+      "8 mg": "This divides Vd by concentration rather than multiplying.",
+      "40 mg": "This ignores the target concentration.",
+      "100 mg": "This would give 2.5 mg/L under the stated assumptions.",
+      "1,000 mg": "This would give 25 mg/L, five times the target."
+    },
+    "references": [
+      {
+        "title": "Dr M — source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=TOUAIJSzZxU"
+      },
+      {
+        "title": "IUPHAR Pharmacology Education Project",
+        "url": "https://pharmacologyeducation.org/pharmacodynamics/"
+      },
+      {
+        "title": "Clinical pharmacokinetics handbook — Ministry of Health Malaysia",
+        "url": "https://pharmacy.moh.gov.my/sites/default/files/document-upload/clinical-pharmacokinetics-pharmacy-handbook-ccph-2nd-edition-rev-2.0_0.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pp-distribution-4",
+    "lectureId": "TOUAIJSzZxU",
+    "category": "Pharmacology",
+    "title": "Albumin binding",
+    "prompt": "Two otherwise similar drugs differ mainly in plasma albumin binding. Drug A remains strongly bound within plasma, while drug B binds less to albumin and enters tissues more readily. Which distribution pattern is most likely for drug A under these assumptions?",
+    "answer": "A smaller apparent volume of distribution",
+    "options": [
+      "A necessarily larger Vd",
+      "No measurable plasma concentration",
+      "Distribution only into adipose tissue",
+      "A Vd of zero",
+      "A smaller apparent volume of distribution"
+    ],
+    "explanation": "Greater plasma confinement tends to reduce Vd when other factors are comparable.",
+    "distractorExplanations": {
+      "A smaller apparent volume of distribution": "Greater plasma confinement tends to reduce Vd when other factors are comparable.",
+      "A necessarily larger Vd": "More plasma confinement does not favor a larger Vd.",
+      "No measurable plasma concentration": "Plasma-bound drug contributes to total plasma concentration.",
+      "Distribution only into adipose tissue": "Albumin binding does not imply selective fat distribution.",
+      "A Vd of zero": "Drug still occupies an apparent plasma distribution space."
+    },
+    "references": [
+      {
+        "title": "Dr M — source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=TOUAIJSzZxU"
+      },
+      {
+        "title": "IUPHAR Pharmacology Education Project",
+        "url": "https://pharmacologyeducation.org/pharmacodynamics/"
+      },
+      {
+        "title": "Clinical pharmacokinetics handbook — Ministry of Health Malaysia",
+        "url": "https://pharmacy.moh.gov.my/sites/default/files/document-upload/clinical-pharmacokinetics-pharmacy-handbook-ccph-2nd-edition-rev-2.0_0.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pp-distribution-5",
+    "lectureId": "TOUAIJSzZxU",
+    "category": "Pharmacology",
+    "title": "Redistribution after a bolus",
+    "prompt": "A highly lipid-soluble intravenous anesthetic causes rapid unconsciousness after one bolus. The patient awakens as the drug moves from the brain to other tissues, before most of the dose has been eliminated. Which process primarily explains this early recovery?",
+    "answer": "Redistribution",
+    "options": [
+      "Immediate irreversible receptor destruction",
+      "Failure of the IV dose to reach circulation",
+      "New synthesis of all plasma proteins",
+      "Redistribution",
+      "Complete renal elimination within seconds"
+    ],
+    "explanation": "Movement away from the brain can terminate a single-bolus effect before metabolic elimination is complete.",
+    "distractorExplanations": {
+      "Redistribution": "Movement away from the brain can terminate a single-bolus effect before metabolic elimination is complete.",
+      "Complete renal elimination within seconds": "The stem states that most of the dose remains in the body.",
+      "Immediate irreversible receptor destruction": "This would not explain normal recovery.",
+      "Failure of the IV dose to reach circulation": "The rapid onset shows systemic and brain delivery.",
+      "New synthesis of all plasma proteins": "This is not the rapid process described."
+    },
+    "references": [
+      {
+        "title": "Dr M — source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=TOUAIJSzZxU"
+      },
+      {
+        "title": "IUPHAR Pharmacology Education Project",
+        "url": "https://pharmacologyeducation.org/pharmacodynamics/"
+      },
+      {
+        "title": "Clinical pharmacokinetics handbook — Ministry of Health Malaysia",
+        "url": "https://pharmacy.moh.gov.my/sites/default/files/document-upload/clinical-pharmacokinetics-pharmacy-handbook-ccph-2nd-edition-rev-2.0_0.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pp-metabolism-1",
+    "lectureId": "0ldidKshF8I",
+    "category": "Pharmacology",
+    "title": "Phase I reaction",
+    "prompt": "A hepatic enzyme converts a drug into a more polar metabolite by adding oxygen to the molecule. No glucuronic acid, sulfate or other conjugating group is attached. Which classification best describes this biotransformation reaction?",
+    "answer": "Phase I oxidation",
+    "options": [
+      "Unchanged renal excretion",
+      "Plasma-protein binding",
+      "Phase I oxidation",
+      "Phase II glucuronidation",
+      "Phase II sulfation"
+    ],
+    "explanation": "Oxidation is a phase I functionalization reaction.",
+    "distractorExplanations": {
+      "Phase I oxidation": "Oxidation is a phase I functionalization reaction.",
+      "Phase II glucuronidation": "No glucuronic acid is attached.",
+      "Phase II sulfation": "No sulfate conjugate is formed.",
+      "Unchanged renal excretion": "The molecule is chemically altered in the liver.",
+      "Plasma-protein binding": "Binding is not the described chemical transformation."
+    },
+    "references": [
+      {
+        "title": "Dr M — source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=0ldidKshF8I"
+      },
+      {
+        "title": "IUPHAR Pharmacology Education Project",
+        "url": "https://pharmacologyeducation.org/pharmacodynamics/"
+      },
+      {
+        "title": "Clinical pharmacokinetics handbook — Ministry of Health Malaysia",
+        "url": "https://pharmacy.moh.gov.my/sites/default/files/document-upload/clinical-pharmacokinetics-pharmacy-handbook-ccph-2nd-edition-rev-2.0_0.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pp-metabolism-2",
+    "lectureId": "0ldidKshF8I",
+    "category": "Pharmacology",
+    "title": "Conjugation",
+    "prompt": "A laboratory identifies a drug metabolite containing a glucuronic acid group covalently attached to the parent molecule. The conjugate is more water soluble and is eliminated more readily. Which metabolic process produced this conjugated metabolite?",
+    "answer": "Phase II glucuronidation",
+    "options": [
+      "Receptor downregulation",
+      "Phase II glucuronidation",
+      "Phase I hydrolysis",
+      "Phase I reduction",
+      "Passive diffusion"
+    ],
+    "explanation": "Glucuronidation attaches glucuronic acid in a conjugation reaction.",
+    "distractorExplanations": {
+      "Phase II glucuronidation": "Glucuronidation attaches glucuronic acid in a conjugation reaction.",
+      "Phase I hydrolysis": "Hydrolysis cleaves bonds rather than adding glucuronic acid.",
+      "Phase I reduction": "Reduction is not glucuronic-acid conjugation.",
+      "Passive diffusion": "Diffusion moves molecules without chemically conjugating them.",
+      "Receptor downregulation": "This changes signaling rather than the drug molecule."
+    },
+    "references": [
+      {
+        "title": "Dr M — source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=0ldidKshF8I"
+      },
+      {
+        "title": "IUPHAR Pharmacology Education Project",
+        "url": "https://pharmacologyeducation.org/pharmacodynamics/"
+      },
+      {
+        "title": "Clinical pharmacokinetics handbook — Ministry of Health Malaysia",
+        "url": "https://pharmacy.moh.gov.my/sites/default/files/document-upload/clinical-pharmacokinetics-pharmacy-handbook-ccph-2nd-edition-rev-2.0_0.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pp-metabolism-3",
+    "lectureId": "0ldidKshF8I",
+    "category": "Pharmacology",
+    "title": "Enzyme induction of an active drug",
+    "prompt": "A patient is stable on an active medication cleared mainly by CYP3A4. A potent inducer of that enzyme is added, and no active metabolite contributes to efficacy. After induction develops, what change in the original drug’s exposure is most likely?",
+    "answer": "Lower exposure from increased metabolic clearance",
+    "options": [
+      "Lower exposure from increased metabolic clearance",
+      "Higher exposure from blocked metabolism",
+      "No interaction is possible with any CYP substrate",
+      "Complete conversion into a permanent receptor antagonist",
+      "Elimination becomes independent of enzyme activity"
+    ],
+    "explanation": "Enzyme induction can accelerate metabolism of an active substrate drug.",
+    "distractorExplanations": {
+      "Lower exposure from increased metabolic clearance": "Enzyme induction can accelerate metabolism of an active substrate drug.",
+      "Higher exposure from blocked metabolism": "Induction increases rather than blocks metabolic capacity.",
+      "No interaction is possible with any CYP substrate": "Substrates can be affected by induction.",
+      "Complete conversion into a permanent receptor antagonist": "Induction does not inherently change receptor activity in that way.",
+      "Elimination becomes independent of enzyme activity": "The stem specifies enzyme-dependent clearance."
+    },
+    "references": [
+      {
+        "title": "Dr M — source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=0ldidKshF8I"
+      },
+      {
+        "title": "IUPHAR Pharmacology Education Project",
+        "url": "https://pharmacologyeducation.org/pharmacodynamics/"
+      },
+      {
+        "title": "Clinical pharmacokinetics handbook — Ministry of Health Malaysia",
+        "url": "https://pharmacy.moh.gov.my/sites/default/files/document-upload/clinical-pharmacokinetics-pharmacy-handbook-ccph-2nd-edition-rev-2.0_0.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pp-metabolism-4",
+    "lectureId": "0ldidKshF8I",
+    "category": "Pharmacology",
+    "title": "Inhibiting prodrug activation",
+    "prompt": "A patient takes a prodrug that requires a particular hepatic enzyme to form its active metabolite. A second medicine strongly inhibits that enzyme. Assuming alternative activation pathways are negligible, which consequence is most likely?",
+    "answer": "Reduced formation of the active metabolite",
+    "options": [
+      "Guaranteed increase in the desired therapeutic effect",
+      "Immediate conversion to an unrelated active drug",
+      "No change because all prodrugs act directly",
+      "Increased activation by the inhibited enzyme",
+      "Reduced formation of the active metabolite"
+    ],
+    "explanation": "Blocking an essential activation step can reduce the effect of a prodrug.",
+    "distractorExplanations": {
+      "Reduced formation of the active metabolite": "Blocking an essential activation step can reduce the effect of a prodrug.",
+      "Guaranteed increase in the desired therapeutic effect": "Less active metabolite generally reduces the activation-dependent effect.",
+      "Immediate conversion to an unrelated active drug": "Enzyme inhibition does not create an unrelated pathway.",
+      "No change because all prodrugs act directly": "Prodrugs require metabolic activation.",
+      "Increased activation by the inhibited enzyme": "This contradicts inhibition of the required pathway."
+    },
+    "references": [
+      {
+        "title": "Dr M — source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=0ldidKshF8I"
+      },
+      {
+        "title": "IUPHAR Pharmacology Education Project",
+        "url": "https://pharmacologyeducation.org/pharmacodynamics/"
+      },
+      {
+        "title": "Clinical pharmacokinetics handbook — Ministry of Health Malaysia",
+        "url": "https://pharmacy.moh.gov.my/sites/default/files/document-upload/clinical-pharmacokinetics-pharmacy-handbook-ccph-2nd-edition-rev-2.0_0.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pp-metabolism-5",
+    "lectureId": "0ldidKshF8I",
+    "category": "Pharmacology",
+    "title": "Metabolism does not always inactivate",
+    "prompt": "A researcher finds that a parent drug has little activity, but its hepatic metabolite strongly stimulates the target receptor. The parent compound is administered clinically to produce that metabolite. Which statement best describes this relationship?",
+    "answer": "The parent drug is a prodrug activated by metabolism",
+    "options": [
+      "The metabolite is necessarily pharmacologically inert",
+      "The parent must act only by plasma binding",
+      "The drug cannot be administered by any route",
+      "The parent drug is a prodrug activated by metabolism",
+      "All metabolism must abolish pharmacologic activity"
+    ],
+    "explanation": "Biotransformation can activate a drug rather than invariably inactivate it.",
+    "distractorExplanations": {
+      "The parent drug is a prodrug activated by metabolism": "Biotransformation can activate a drug rather than invariably inactivate it.",
+      "All metabolism must abolish pharmacologic activity": "Metabolism can activate, inactivate or produce other active metabolites.",
+      "The metabolite is necessarily pharmacologically inert": "The experiment demonstrates receptor activity.",
+      "The parent must act only by plasma binding": "The therapeutic role is metabolic activation.",
+      "The drug cannot be administered by any route": "A prodrug can be clinically administered."
+    },
+    "references": [
+      {
+        "title": "Dr M — source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=0ldidKshF8I"
+      },
+      {
+        "title": "IUPHAR Pharmacology Education Project",
+        "url": "https://pharmacologyeducation.org/pharmacodynamics/"
+      },
+      {
+        "title": "Clinical pharmacokinetics handbook — Ministry of Health Malaysia",
+        "url": "https://pharmacy.moh.gov.my/sites/default/files/document-upload/clinical-pharmacokinetics-pharmacy-handbook-ccph-2nd-edition-rev-2.0_0.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pp-dose-response-1",
+    "lectureId": "2IQcqzDcOyo",
+    "category": "Pharmacology",
+    "title": "Potency versus efficacy",
+    "prompt": "Two agonists act at the same receptor in the same tissue. Both achieve an identical maximal response, but drug A requires one tenth the concentration of drug B to produce half of its maximum. Which comparison is correct?",
+    "answer": "A is more potent, with equal maximal efficacy",
+    "options": [
+      "B is more potent with equal efficacy",
+      "Potency cannot differ if maxima are equal",
+      "A is more potent, with equal maximal efficacy",
+      "A is less potent and more efficacious",
+      "A is more efficacious but equally potent"
+    ],
+    "explanation": "Lower EC50 indicates higher potency, while equal maxima indicate equal efficacy in this system.",
+    "distractorExplanations": {
+      "A is more potent, with equal maximal efficacy": "Lower EC50 indicates higher potency, while equal maxima indicate equal efficacy in this system.",
+      "A is less potent and more efficacious": "Both parts conflict with the observations.",
+      "A is more efficacious but equally potent": "The maxima are equal while EC50 differs.",
+      "B is more potent with equal efficacy": "B requires a higher concentration, indicating lower potency.",
+      "Potency cannot differ if maxima are equal": "Potency and maximal efficacy are distinct."
+    },
+    "references": [
+      {
+        "title": "Dr M — source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=2IQcqzDcOyo"
+      },
+      {
+        "title": "IUPHAR Pharmacology Education Project",
+        "url": "https://pharmacologyeducation.org/pharmacodynamics/"
+      },
+      {
+        "title": "Clinical pharmacokinetics handbook — Ministry of Health Malaysia",
+        "url": "https://pharmacy.moh.gov.my/sites/default/files/document-upload/clinical-pharmacokinetics-pharmacy-handbook-ccph-2nd-edition-rev-2.0_0.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pp-dose-response-2",
+    "lectureId": "2IQcqzDcOyo",
+    "category": "Pharmacology",
+    "title": "A partial agonist",
+    "prompt": "Two compounds occupy the same receptor population. At saturating concentrations, compound A produces the full tissue response, while compound B produces only 40% of that response despite occupying available receptors. Which description best fits compound B?",
+    "answer": "Partial agonist",
+    "options": [
+      "Irreversible enzyme inhibitor by definition",
+      "Partial agonist",
+      "Full agonist with identical efficacy",
+      "Neutral antagonist with no activity",
+      "Drug with necessarily zero receptor affinity"
+    ],
+    "explanation": "A partial agonist has lower intrinsic efficacy than a full agonist in the same system.",
+    "distractorExplanations": {
+      "Partial agonist": "A partial agonist has lower intrinsic efficacy than a full agonist in the same system.",
+      "Full agonist with identical efficacy": "Its maximal response is lower.",
+      "Neutral antagonist with no activity": "B produces a positive response.",
+      "Drug with necessarily zero receptor affinity": "It occupies receptors, indicating affinity.",
+      "Irreversible enzyme inhibitor by definition": "The observations concern receptor agonism, not a specified enzyme mechanism."
+    },
+    "references": [
+      {
+        "title": "Dr M — source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=2IQcqzDcOyo"
+      },
+      {
+        "title": "IUPHAR Pharmacology Education Project",
+        "url": "https://pharmacologyeducation.org/pharmacodynamics/"
+      },
+      {
+        "title": "Clinical pharmacokinetics handbook — Ministry of Health Malaysia",
+        "url": "https://pharmacy.moh.gov.my/sites/default/files/document-upload/clinical-pharmacokinetics-pharmacy-handbook-ccph-2nd-edition-rev-2.0_0.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pp-dose-response-3",
+    "lectureId": "2IQcqzDcOyo",
+    "category": "Pharmacology",
+    "title": "Quantal response",
+    "prompt": "Investigators administer increasing doses of an analgesic to different groups of patients. For each patient, the outcome is recorded only as whether a predefined pain-relief threshold was reached. Which type of dose–response measurement is being collected?",
+    "answer": "Quantal response",
+    "options": [
+      "Quantal response",
+      "Graded response in a single tissue",
+      "A direct measure of plasma clearance",
+      "A receptor-binding dissociation constant",
+      "A volume-of-distribution measurement"
+    ],
+    "explanation": "A quantal endpoint records whether a specified effect occurs in each individual.",
+    "distractorExplanations": {
+      "Quantal response": "A quantal endpoint records whether a specified effect occurs in each individual.",
+      "Graded response in a single tissue": "The endpoint is yes/no across individuals rather than response magnitude in one preparation.",
+      "A direct measure of plasma clearance": "The study records an effect, not elimination.",
+      "A receptor-binding dissociation constant": "Clinical yes/no response does not directly measure binding affinity.",
+      "A volume-of-distribution measurement": "No body amount-to-plasma concentration ratio is measured."
+    },
+    "references": [
+      {
+        "title": "Dr M — source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=2IQcqzDcOyo"
+      },
+      {
+        "title": "IUPHAR Pharmacology Education Project",
+        "url": "https://pharmacologyeducation.org/pharmacodynamics/"
+      },
+      {
+        "title": "Clinical pharmacokinetics handbook — Ministry of Health Malaysia",
+        "url": "https://pharmacy.moh.gov.my/sites/default/files/document-upload/clinical-pharmacokinetics-pharmacy-handbook-ccph-2nd-edition-rev-2.0_0.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pp-dose-response-4",
+    "lectureId": "2IQcqzDcOyo",
+    "category": "Pharmacology",
+    "title": "Therapeutic index",
+    "prompt": "In a population study, the median effective dose of a drug is 5 mg and the median toxic dose is 50 mg for a defined toxicity. Using TD50 divided by ED50, what is the drug’s therapeutic index?",
+    "answer": "10",
+    "options": [
+      "0.1",
+      "5",
+      "45",
+      "250",
+      "10"
+    ],
+    "explanation": "Therapeutic index = 50/5 = 10.",
+    "distractorExplanations": {
+      "5": "This gives ED50 alone.",
+      "10": "Therapeutic index = 50/5 = 10.",
+      "45": "This subtracts rather than divides.",
+      "250": "This multiplies rather than divides.",
+      "0.1": "This reverses the ratio."
+    },
+    "references": [
+      {
+        "title": "Dr M — source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=2IQcqzDcOyo"
+      },
+      {
+        "title": "IUPHAR Pharmacology Education Project",
+        "url": "https://pharmacologyeducation.org/pharmacodynamics/"
+      },
+      {
+        "title": "Clinical pharmacokinetics handbook — Ministry of Health Malaysia",
+        "url": "https://pharmacy.moh.gov.my/sites/default/files/document-upload/clinical-pharmacokinetics-pharmacy-handbook-ccph-2nd-edition-rev-2.0_0.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pp-dose-response-5",
+    "lectureId": "2IQcqzDcOyo",
+    "category": "Pharmacology",
+    "title": "Maximum response",
+    "prompt": "In an isolated tissue experiment, drug X has a lower EC50 than drug Y but cannot produce as large a maximal response, even at saturating concentrations. Which conclusion distinguishes the two pharmacodynamic properties correctly in this experiment?",
+    "answer": "X is more potent but less efficacious than Y",
+    "options": [
+      "X is more potent and more efficacious",
+      "X and Y must have equal efficacy",
+      "X must be a neutral antagonist",
+      "X is more potent but less efficacious than Y",
+      "X is less potent but more efficacious"
+    ],
+    "explanation": "Potency follows EC50, whereas efficacy follows the achievable maximum in the specified system.",
+    "distractorExplanations": {
+      "X is more potent but less efficacious than Y": "Potency follows EC50, whereas efficacy follows the achievable maximum in the specified system.",
+      "X is less potent but more efficacious": "Both relationships are reversed.",
+      "X is more potent and more efficacious": "Its lower maximum indicates lower efficacy.",
+      "X and Y must have equal efficacy": "The measured maxima differ.",
+      "X must be a neutral antagonist": "X produces a response and therefore is not a neutral antagonist."
+    },
+    "references": [
+      {
+        "title": "Dr M — source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=2IQcqzDcOyo"
+      },
+      {
+        "title": "IUPHAR Pharmacology Education Project",
+        "url": "https://pharmacologyeducation.org/pharmacodynamics/"
+      },
+      {
+        "title": "Clinical pharmacokinetics handbook — Ministry of Health Malaysia",
+        "url": "https://pharmacy.moh.gov.my/sites/default/files/document-upload/clinical-pharmacokinetics-pharmacy-handbook-ccph-2nd-edition-rev-2.0_0.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pp-antagonists-1",
+    "lectureId": "BWkaZq3RdO0",
+    "category": "Pharmacology",
+    "title": "Surmountable antagonism",
+    "prompt": "An agonist’s concentration–response curve shifts to the right after a second drug is added. The same maximal response can still be achieved by increasing agonist concentration. The antagonist binds reversibly at the agonist site. Which mechanism is demonstrated?",
+    "answer": "Reversible competitive antagonism",
+    "options": [
+      "Positive allosteric enhancement",
+      "Agonism at every occupied receptor",
+      "Reversible competitive antagonism",
+      "Irreversible receptor destruction",
+      "Noncompetitive reduction of maximal response"
+    ],
+    "explanation": "Competition lowers apparent agonist potency but can be overcome with sufficient agonist.",
+    "distractorExplanations": {
+      "Reversible competitive antagonism": "Competition lowers apparent agonist potency but can be overcome with sufficient agonist.",
+      "Irreversible receptor destruction": "This is inconsistent with the stated reversible binding.",
+      "Noncompetitive reduction of maximal response": "The observed maximum remains unchanged.",
+      "Positive allosteric enhancement": "The curve shifts toward lower apparent potency, not enhancement.",
+      "Agonism at every occupied receptor": "The second drug blocks rather than activates the receptor."
+    },
+    "references": [
+      {
+        "title": "Dr M — source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=BWkaZq3RdO0"
+      },
+      {
+        "title": "IUPHAR Pharmacology Education Project",
+        "url": "https://pharmacologyeducation.org/pharmacodynamics/"
+      },
+      {
+        "title": "Clinical pharmacokinetics handbook — Ministry of Health Malaysia",
+        "url": "https://pharmacy.moh.gov.my/sites/default/files/document-upload/clinical-pharmacokinetics-pharmacy-handbook-ccph-2nd-edition-rev-2.0_0.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pp-antagonists-2",
+    "lectureId": "BWkaZq3RdO0",
+    "category": "Pharmacology",
+    "title": "Insurmountable loss of response",
+    "prompt": "An antagonist blocks signaling through a receptor at a site distinct from the agonist-binding site. Increasing agonist concentration cannot restore the original maximal response. Which type of antagonism best describes this experiment?",
+    "answer": "Noncompetitive antagonism",
+    "options": [
+      "Enhanced agonist absorption",
+      "Noncompetitive antagonism",
+      "Reversible competition at the same binding site",
+      "A simple increase in agonist potency",
+      "A full agonist with higher efficacy"
+    ],
+    "explanation": "An insurmountable signaling blockade reduces the attainable response.",
+    "distractorExplanations": {
+      "Noncompetitive antagonism": "An insurmountable signaling blockade reduces the attainable response.",
+      "Reversible competition at the same binding site": "The stem specifies a different site and failure to overcome blockade.",
+      "A simple increase in agonist potency": "The maximum response falls.",
+      "A full agonist with higher efficacy": "The added compound blocks signaling.",
+      "Enhanced agonist absorption": "The experiment concerns receptor signaling, not absorption."
+    },
+    "references": [
+      {
+        "title": "Dr M — source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=BWkaZq3RdO0"
+      },
+      {
+        "title": "IUPHAR Pharmacology Education Project",
+        "url": "https://pharmacologyeducation.org/pharmacodynamics/"
+      },
+      {
+        "title": "Clinical pharmacokinetics handbook — Ministry of Health Malaysia",
+        "url": "https://pharmacy.moh.gov.my/sites/default/files/document-upload/clinical-pharmacokinetics-pharmacy-handbook-ccph-2nd-edition-rev-2.0_0.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pp-antagonists-3",
+    "lectureId": "BWkaZq3RdO0",
+    "category": "Pharmacology",
+    "title": "Irreversible blockade",
+    "prompt": "A drug forms a covalent bond at the agonist-binding site and remains attached after extensive washing of the tissue preparation. Increasing agonist concentration cannot displace it. Which description best fits this antagonist’s interaction with the receptor?",
+    "answer": "Irreversible competitive-site antagonism",
+    "options": [
+      "Irreversible competitive-site antagonism",
+      "Reversible competitive antagonism",
+      "Physiologic antagonism through a separate receptor",
+      "Chemical neutralization in solution",
+      "Full agonism"
+    ],
+    "explanation": "Covalent binding at the agonist site produces persistent receptor blockade.",
+    "distractorExplanations": {
+      "Irreversible competitive-site antagonism": "Covalent binding at the agonist site produces persistent receptor blockade.",
+      "Reversible competitive antagonism": "The persistent covalent attachment is not reversible competition.",
+      "Physiologic antagonism through a separate receptor": "The stem specifies the same agonist-binding site.",
+      "Chemical neutralization in solution": "The drug binds the receptor rather than neutralizing agonist in solution.",
+      "Full agonism": "The drug blocks, rather than reproduces, agonist activation."
+    },
+    "references": [
+      {
+        "title": "Dr M — source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=BWkaZq3RdO0"
+      },
+      {
+        "title": "IUPHAR Pharmacology Education Project",
+        "url": "https://pharmacologyeducation.org/pharmacodynamics/"
+      },
+      {
+        "title": "Clinical pharmacokinetics handbook — Ministry of Health Malaysia",
+        "url": "https://pharmacy.moh.gov.my/sites/default/files/document-upload/clinical-pharmacokinetics-pharmacy-handbook-ccph-2nd-edition-rev-2.0_0.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pp-antagonists-4",
+    "lectureId": "BWkaZq3RdO0",
+    "category": "Pharmacology",
+    "title": "Spare receptors",
+    "prompt": "A tissue initially maintains its maximal response after a small fraction of receptors is irreversibly blocked. Further blockade eventually lowers the maximum. Which feature best explains why limited receptor loss did not immediately reduce the maximal response?",
+    "answer": "A reserve of spare receptors",
+    "options": [
+      "The antagonist has no affinity despite covalent binding",
+      "Every receptor must always be occupied for any response",
+      "The tissue has no downstream signal amplification",
+      "The agonist has been converted into an antagonist",
+      "A reserve of spare receptors"
+    ],
+    "explanation": "A maximal response may require activation of fewer than all available receptors.",
+    "distractorExplanations": {
+      "A reserve of spare receptors": "A maximal response may require activation of fewer than all available receptors.",
+      "The antagonist has no affinity despite covalent binding": "Binding demonstrates receptor interaction.",
+      "Every receptor must always be occupied for any response": "That would not explain preserved response after receptor loss.",
+      "The tissue has no downstream signal amplification": "Signal amplification helps explain receptor reserve.",
+      "The agonist has been converted into an antagonist": "This does not explain the response pattern."
+    },
+    "references": [
+      {
+        "title": "Dr M — source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=BWkaZq3RdO0"
+      },
+      {
+        "title": "IUPHAR Pharmacology Education Project",
+        "url": "https://pharmacologyeducation.org/pharmacodynamics/"
+      },
+      {
+        "title": "Clinical pharmacokinetics handbook — Ministry of Health Malaysia",
+        "url": "https://pharmacy.moh.gov.my/sites/default/files/document-upload/clinical-pharmacokinetics-pharmacy-handbook-ccph-2nd-edition-rev-2.0_0.pdf"
+      }
+    ]
+  },
+  {
+    "id": "reviewed-pp-antagonists-5",
+    "lectureId": "BWkaZq3RdO0",
+    "category": "Pharmacology",
+    "title": "Partial agonist in the presence of a full agonist",
+    "prompt": "A full agonist produces a strong response. A high-affinity partial agonist is then added and displaces some full agonist from the same receptors. The total response falls. Why can a drug with agonist activity reduce the response in this situation?",
+    "answer": "It replaces a higher-efficacy agonist with lower-efficacy stimulation",
+    "options": [
+      "It necessarily destroys all receptors",
+      "It converts the full agonist into an inactive molecule",
+      "It increases the full agonist’s maximal efficacy",
+      "It replaces a higher-efficacy agonist with lower-efficacy stimulation",
+      "It must have zero intrinsic activity"
+    ],
+    "explanation": "A partial agonist can antagonize a full agonist by competing for occupancy while producing less activation.",
+    "distractorExplanations": {
+      "It replaces a higher-efficacy agonist with lower-efficacy stimulation": "A partial agonist can antagonize a full agonist by competing for occupancy while producing less activation.",
+      "It must have zero intrinsic activity": "Partial agonists have positive but lower efficacy.",
+      "It necessarily destroys all receptors": "Receptor destruction is not required.",
+      "It converts the full agonist into an inactive molecule": "The mechanism is receptor competition, not chemical conversion.",
+      "It increases the full agonist’s maximal efficacy": "The observed response decreases."
+    },
+    "references": [
+      {
+        "title": "Dr M — source lecture and supplied presentation",
+        "url": "https://www.youtube.com/watch?v=BWkaZq3RdO0"
+      },
+      {
+        "title": "IUPHAR Pharmacology Education Project",
+        "url": "https://pharmacologyeducation.org/pharmacodynamics/"
+      },
+      {
+        "title": "Clinical pharmacokinetics handbook — Ministry of Health Malaysia",
+        "url": "https://pharmacy.moh.gov.my/sites/default/files/document-upload/clinical-pharmacokinetics-pharmacy-handbook-ccph-2nd-edition-rev-2.0_0.pdf"
+      }
+    ]
+  }
+]

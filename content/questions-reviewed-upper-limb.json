@@ -1,0 +1,2202 @@
+[
+  {
+    "id": "reviewed-upper-limb-Lk1CBijkKJQ-1",
+    "lectureId": "Lk1CBijkKJQ",
+    "title": "Shoulder and arm trauma foundations: 1",
+    "prompt": "A patient arrives with a deformed arm after a fall. Before splinting, the clinician records pulses, capillary refill, sensation and motor function, then repeats them afterward. Which assessment principle is being applied to this injury?",
+    "options": [
+      "CT to define the injury and adjacent structures",
+      "Urgent specialist evaluation and controlled treatment",
+      "Protected early motion when stability permits",
+      "Assess associated injuries beyond the visible fracture",
+      "Document neurovascular status before and after intervention"
+    ],
+    "answer": "Document neurovascular status before and after intervention",
+    "explanation": "Serial motor, sensory and perfusion examinations establish baseline function and detect new deficits after reduction or splinting.",
+    "distractorExplanations": {
+      "Document neurovascular status before and after intervention": "Serial motor, sensory and perfusion examinations establish baseline function and detect new deficits after reduction or splinting.",
+      "CT to define the injury and adjacent structures": "CT helps evaluate complex bony anatomy, articular involvement or sternoclavicular relationships when indicated. This does not best answer the specific question in this case.",
+      "Urgent specialist evaluation and controlled treatment": "Threatened neurovascular or mediastinal structures require urgent appropriately supported care, not casual manipulation. This does not best answer the specific question in this case.",
+      "Protected early motion when stability permits": "Appropriate early motion reduces stiffness; timing depends on stability and the treatment plan. This does not best answer the specific question in this case.",
+      "Assess associated injuries beyond the visible fracture": "High-energy injuries can coexist with chest, neurovascular or adjacent-joint injuries that alter priorities. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Lk1CBijkKJQ"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-Lk1CBijkKJQ-2",
+    "lectureId": "Lk1CBijkKJQ",
+    "title": "Shoulder and arm trauma foundations: 2",
+    "prompt": "A patient with a midshaft humeral injury cannot extend the wrist or finger metacarpophalangeal joints. Sensation is reduced in the dorsal first web space. Which nerve is most likely affected by the fracture?",
+    "options": [
+      "Ulnar nerve",
+      "Median nerve",
+      "Musculocutaneous nerve",
+      "Radial nerve",
+      "Axillary nerve"
+    ],
+    "answer": "Radial nerve",
+    "explanation": "The radial nerve supplies wrist and finger extensors; humeral shaft injury can cause wrist drop and dorsal first-web-space sensory loss.",
+    "distractorExplanations": {
+      "Radial nerve": "The radial nerve supplies wrist and finger extensors; humeral shaft injury can cause wrist drop and dorsal first-web-space sensory loss.",
+      "Axillary nerve": "The axillary nerve supplies deltoid and sensation over the lateral shoulder; it is vulnerable with shoulder dislocation or proximal humeral injury. This does not best answer the specific question in this case.",
+      "Ulnar nerve": "The ulnar nerve passes behind the medial epicondyle and supplies interossei and sensation to the little finger. This does not best answer the specific question in this case.",
+      "Median nerve": "Median nerve injury can impair thumb opposition and sensation in the radial palmar digits. This does not best answer the specific question in this case.",
+      "Musculocutaneous nerve": "This nerve supplies major elbow flexors and sensation over the lateral forearm. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Lk1CBijkKJQ"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-Lk1CBijkKJQ-3",
+    "lectureId": "Lk1CBijkKJQ",
+    "title": "Shoulder and arm trauma foundations: 3",
+    "prompt": "A rugby player lands with the shoulder abducted and externally rotated. The shoulder contour is flattened and imaging shows the head anterior to the glenoid. Which shoulder injury best explains the deformity described?",
+    "options": [
+      "Acromioclavicular separation",
+      "Posterior sternoclavicular dislocation",
+      "Anterior shoulder dislocation",
+      "Posterior shoulder dislocation",
+      "Inferior shoulder dislocation"
+    ],
+    "answer": "Anterior shoulder dislocation",
+    "explanation": "Anterior glenohumeral displacement often follows abduction and external rotation and places the head anterior to the glenoid.",
+    "distractorExplanations": {
+      "Anterior shoulder dislocation": "Anterior glenohumeral displacement often follows abduction and external rotation and places the head anterior to the glenoid.",
+      "Posterior shoulder dislocation": "Posterior dislocation may follow seizures or electrical injury and can present with fixed internal rotation. This does not best answer the specific question in this case.",
+      "Inferior shoulder dislocation": "Luxatio erecta places the humeral head below the glenoid, often with the arm fixed overhead. This does not best answer the specific question in this case.",
+      "Acromioclavicular separation": "AC injury disrupts the clavicle-acromion relationship while the humeral head may remain normally located. This does not best answer the specific question in this case.",
+      "Posterior sternoclavicular dislocation": "Posterior medial clavicular displacement threatens mediastinal structures and warrants urgent specialist care. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Lk1CBijkKJQ"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-Lk1CBijkKJQ-4",
+    "lectureId": "Lk1CBijkKJQ",
+    "title": "Shoulder and arm trauma foundations: 4",
+    "prompt": "A motorcyclist has a scapular fracture, chest bruising and shortness of breath. The visible shoulder injury does not explain the respiratory findings. Which principle should guide the trauma assessment before focusing on definitive scapular treatment?",
+    "options": [
+      "Protected early motion when stability permits",
+      "Assess associated injuries beyond the visible fracture",
+      "Document neurovascular status before and after intervention",
+      "CT to define the injury and adjacent structures",
+      "Urgent specialist evaluation and controlled treatment"
+    ],
+    "answer": "Assess associated injuries beyond the visible fracture",
+    "explanation": "High-energy injuries can coexist with chest, neurovascular or adjacent-joint injuries that alter priorities.",
+    "distractorExplanations": {
+      "Assess associated injuries beyond the visible fracture": "High-energy injuries can coexist with chest, neurovascular or adjacent-joint injuries that alter priorities.",
+      "Document neurovascular status before and after intervention": "Serial motor, sensory and perfusion examinations establish baseline function and detect new deficits after reduction or splinting. This does not best answer the specific question in this case.",
+      "CT to define the injury and adjacent structures": "CT helps evaluate complex bony anatomy, articular involvement or sternoclavicular relationships when indicated. This does not best answer the specific question in this case.",
+      "Urgent specialist evaluation and controlled treatment": "Threatened neurovascular or mediastinal structures require urgent appropriately supported care, not casual manipulation. This does not best answer the specific question in this case.",
+      "Protected early motion when stability permits": "Appropriate early motion reduces stiffness; timing depends on stability and the treatment plan. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Lk1CBijkKJQ"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-Lk1CBijkKJQ-5",
+    "lectureId": "Lk1CBijkKJQ",
+    "title": "Shoulder and arm trauma foundations: 5",
+    "prompt": "After a stable upper-limb injury heals, a patient has limited movement following prolonged immobilization. Imaging shows union without new fracture, and examination suggests capsular restriction. Which common complication best explains the persistent loss of motion?",
+    "options": [
+      "Joint stiffness",
+      "Osteonecrosis",
+      "Nonunion",
+      "Post-traumatic osteoarthritis",
+      "Acute compartment syndrome"
+    ],
+    "answer": "Joint stiffness",
+    "explanation": "Capsular contracture, adhesions and prolonged immobilization can restrict motion after injury.",
+    "distractorExplanations": {
+      "Joint stiffness": "Capsular contracture, adhesions and prolonged immobilization can restrict motion after injury.",
+      "Osteonecrosis": "Disruption of blood supply can lead to death and collapse of an injured bony segment. This does not best answer the specific question in this case.",
+      "Nonunion": "Persistent failure of fracture healing requires assessment of stability, biology, infection and patient factors. This does not best answer the specific question in this case.",
+      "Post-traumatic osteoarthritis": "Articular incongruity or cartilage damage can cause later degenerative joint changes. This does not best answer the specific question in this case.",
+      "Acute compartment syndrome": "Rising compartment pressure impairs perfusion; escalating pain and pain on passive stretch require urgent assessment. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Lk1CBijkKJQ"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-iIKLt1Y-23c-1",
+    "lectureId": "iIKLt1Y-23c",
+    "title": "Radial head fractures: 1",
+    "prompt": "An adult falls onto an outstretched hand and develops lateral elbow pain. Imaging shows a minimally displaced radial head fracture, and forearm rotation has no mechanical block. Which Mason category best describes the fracture?",
+    "options": [
+      "Mason type I",
+      "Mason type II",
+      "Mason type III",
+      "Mason type IV in the modified classification",
+      "Essex-Lopresti injury"
+    ],
+    "answer": "Mason type I",
+    "explanation": "An undisplaced or minimally displaced radial head fracture without mechanical block is type I.",
+    "distractorExplanations": {
+      "Mason type I": "An undisplaced or minimally displaced radial head fracture without mechanical block is type I.",
+      "Mason type II": "A displaced partial radial head fracture is type II; mechanical block and stability affect treatment. This does not best answer the specific question in this case.",
+      "Mason type III": "A comminuted radial head fracture involving the whole head is type III. This does not best answer the specific question in this case.",
+      "Mason type IV in the modified classification": "A radial head fracture associated with elbow dislocation is type IV in the modified system. This does not best answer the specific question in this case.",
+      "Essex-Lopresti injury": "Radial head fracture with interosseous membrane disruption and DRUJ injury causes longitudinal forearm instability. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=iIKLt1Y-23c"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-iIKLt1Y-23c-2",
+    "lectureId": "iIKLt1Y-23c",
+    "title": "Radial head fractures: 2",
+    "prompt": "A patient has a displaced fracture involving part of the radial head. The remaining head is intact rather than globally comminuted, and there is no elbow dislocation. Which Mason type best matches this partial-articular pattern?",
+    "options": [
+      "Mason type I",
+      "Mason type III",
+      "Mason type IV in the modified classification",
+      "Essex-Lopresti injury",
+      "Mason type II"
+    ],
+    "answer": "Mason type II",
+    "explanation": "A displaced partial radial head fracture is type II; mechanical block and stability affect treatment.",
+    "distractorExplanations": {
+      "Mason type II": "A displaced partial radial head fracture is type II; mechanical block and stability affect treatment.",
+      "Mason type I": "An undisplaced or minimally displaced radial head fracture without mechanical block is type I. This does not best answer the specific question in this case.",
+      "Mason type III": "A comminuted radial head fracture involving the whole head is type III. This does not best answer the specific question in this case.",
+      "Mason type IV in the modified classification": "A radial head fracture associated with elbow dislocation is type IV in the modified system. This does not best answer the specific question in this case.",
+      "Essex-Lopresti injury": "Radial head fracture with interosseous membrane disruption and DRUJ injury causes longitudinal forearm instability. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=iIKLt1Y-23c"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-iIKLt1Y-23c-3",
+    "lectureId": "iIKLt1Y-23c",
+    "title": "Radial head fractures: 3",
+    "prompt": "An adult sustains an elbow injury with multiple displaced fragments involving the entire radial head. There is no associated elbow dislocation on imaging. Which Mason category best describes this extensively comminuted radial head fracture?",
+    "options": [
+      "Mason type II",
+      "Mason type IV in the modified classification",
+      "Essex-Lopresti injury",
+      "Mason type III",
+      "Mason type I"
+    ],
+    "answer": "Mason type III",
+    "explanation": "A comminuted radial head fracture involving the whole head is type III.",
+    "distractorExplanations": {
+      "Mason type III": "A comminuted radial head fracture involving the whole head is type III.",
+      "Mason type I": "An undisplaced or minimally displaced radial head fracture without mechanical block is type I. This does not best answer the specific question in this case.",
+      "Mason type II": "A displaced partial radial head fracture is type II; mechanical block and stability affect treatment. This does not best answer the specific question in this case.",
+      "Mason type IV in the modified classification": "A radial head fracture associated with elbow dislocation is type IV in the modified system. This does not best answer the specific question in this case.",
+      "Essex-Lopresti injury": "Radial head fracture with interosseous membrane disruption and DRUJ injury causes longitudinal forearm instability. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=iIKLt1Y-23c"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-iIKLt1Y-23c-4",
+    "lectureId": "iIKLt1Y-23c",
+    "title": "Radial head fractures: 4",
+    "prompt": "A patient with a radial head fracture also reports wrist pain. Examination and imaging identify interosseous membrane disruption and distal radioulnar instability. Which combined injury must be recognized before treating the elbow injury as isolated?",
+    "options": [
+      "Mason type III",
+      "Mason type IV in the modified classification",
+      "Essex-Lopresti injury",
+      "Mason type I",
+      "Mason type II"
+    ],
+    "answer": "Essex-Lopresti injury",
+    "explanation": "Radial head fracture with interosseous membrane disruption and DRUJ injury causes longitudinal forearm instability.",
+    "distractorExplanations": {
+      "Essex-Lopresti injury": "Radial head fracture with interosseous membrane disruption and DRUJ injury causes longitudinal forearm instability.",
+      "Mason type I": "An undisplaced or minimally displaced radial head fracture without mechanical block is type I. This does not best answer the specific question in this case.",
+      "Mason type II": "A displaced partial radial head fracture is type II; mechanical block and stability affect treatment. This does not best answer the specific question in this case.",
+      "Mason type III": "A comminuted radial head fracture involving the whole head is type III. This does not best answer the specific question in this case.",
+      "Mason type IV in the modified classification": "A radial head fracture associated with elbow dislocation is type IV in the modified system. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=iIKLt1Y-23c"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-iIKLt1Y-23c-5",
+    "lectureId": "iIKLt1Y-23c",
+    "title": "Radial head fractures: 5",
+    "prompt": "A stable minimally displaced radial head fracture has no mechanical block or associated instability. After a brief period of support, the clinician plans supervised movement as tolerated. Which principle helps prevent unnecessary elbow stiffness during recovery?",
+    "options": [
+      "Assess associated injuries beyond the visible fracture",
+      "Protected early motion when stability permits",
+      "Document neurovascular status before and after intervention",
+      "CT to define the injury and adjacent structures",
+      "Urgent specialist evaluation and controlled treatment"
+    ],
+    "answer": "Protected early motion when stability permits",
+    "explanation": "Appropriate early motion reduces stiffness; timing depends on stability and the treatment plan.",
+    "distractorExplanations": {
+      "Protected early motion when stability permits": "Appropriate early motion reduces stiffness; timing depends on stability and the treatment plan.",
+      "Document neurovascular status before and after intervention": "Serial motor, sensory and perfusion examinations establish baseline function and detect new deficits after reduction or splinting. This does not best answer the specific question in this case.",
+      "CT to define the injury and adjacent structures": "CT helps evaluate complex bony anatomy, articular involvement or sternoclavicular relationships when indicated. This does not best answer the specific question in this case.",
+      "Urgent specialist evaluation and controlled treatment": "Threatened neurovascular or mediastinal structures require urgent appropriately supported care, not casual manipulation. This does not best answer the specific question in this case.",
+      "Assess associated injuries beyond the visible fracture": "High-energy injuries can coexist with chest, neurovascular or adjacent-joint injuries that alter priorities. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=iIKLt1Y-23c"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-7kbQ5Jwj3Es-1",
+    "lectureId": "7kbQ5Jwj3Es",
+    "title": "Distal humerus fractures: 1",
+    "prompt": "An adult has a distal humerus fracture lying entirely above the joint surface. The trochlea and capitellum are intact, and the fracture does not enter the articulation. Which broad AO category applies to this injury?",
+    "options": [
+      "AO type A: extra-articular",
+      "AO type B: partial articular",
+      "AO type C: complete articular",
+      "Simple diaphyseal fracture",
+      "Segmental shaft fracture"
+    ],
+    "answer": "AO type A: extra-articular",
+    "explanation": "The articular surface is not involved in an extra-articular distal humerus fracture.",
+    "distractorExplanations": {
+      "AO type A: extra-articular": "The articular surface is not involved in an extra-articular distal humerus fracture.",
+      "AO type B: partial articular": "Part of the articular surface remains connected to the shaft in a partial-articular fracture. This does not best answer the specific question in this case.",
+      "AO type C: complete articular": "The articular component is entirely separated from the shaft in a complete-articular fracture. This does not best answer the specific question in this case.",
+      "Simple diaphyseal fracture": "A shaft fracture without intermediate fragments is distinct from an articular classification. This does not best answer the specific question in this case.",
+      "Segmental shaft fracture": "Separate fracture levels isolate an intervening segment of the diaphysis. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=7kbQ5Jwj3Es"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-7kbQ5Jwj3Es-2",
+    "lectureId": "7kbQ5Jwj3Es",
+    "title": "Distal humerus fractures: 2",
+    "prompt": "CT of a distal humerus fracture shows one articular portion separated while the remaining articular surface stays connected to the shaft. Which broad AO category best describes this relationship between the joint surface and diaphysis?",
+    "options": [
+      "AO type A: extra-articular",
+      "AO type C: complete articular",
+      "Simple diaphyseal fracture",
+      "Segmental shaft fracture",
+      "AO type B: partial articular"
+    ],
+    "answer": "AO type B: partial articular",
+    "explanation": "Part of the articular surface remains connected to the shaft in a partial-articular fracture.",
+    "distractorExplanations": {
+      "AO type B: partial articular": "Part of the articular surface remains connected to the shaft in a partial-articular fracture.",
+      "AO type A: extra-articular": "The articular surface is not involved in an extra-articular distal humerus fracture. This does not best answer the specific question in this case.",
+      "AO type C: complete articular": "The articular component is entirely separated from the shaft in a complete-articular fracture. This does not best answer the specific question in this case.",
+      "Simple diaphyseal fracture": "A shaft fracture without intermediate fragments is distinct from an articular classification. This does not best answer the specific question in this case.",
+      "Segmental shaft fracture": "Separate fracture levels isolate an intervening segment of the diaphysis. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=7kbQ5Jwj3Es"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-7kbQ5Jwj3Es-3",
+    "lectureId": "7kbQ5Jwj3Es",
+    "title": "Distal humerus fractures: 3",
+    "prompt": "A distal humerus fracture separates the entire articular block from the shaft. Additional fracture lines divide the articular surface itself. Which broad AO category identifies this complete separation of the joint component from the diaphysis?",
+    "options": [
+      "AO type B: partial articular",
+      "Simple diaphyseal fracture",
+      "Segmental shaft fracture",
+      "AO type C: complete articular",
+      "AO type A: extra-articular"
+    ],
+    "answer": "AO type C: complete articular",
+    "explanation": "The articular component is entirely separated from the shaft in a complete-articular fracture.",
+    "distractorExplanations": {
+      "AO type C: complete articular": "The articular component is entirely separated from the shaft in a complete-articular fracture.",
+      "AO type A: extra-articular": "The articular surface is not involved in an extra-articular distal humerus fracture. This does not best answer the specific question in this case.",
+      "AO type B: partial articular": "Part of the articular surface remains connected to the shaft in a partial-articular fracture. This does not best answer the specific question in this case.",
+      "Simple diaphyseal fracture": "A shaft fracture without intermediate fragments is distinct from an articular classification. This does not best answer the specific question in this case.",
+      "Segmental shaft fracture": "Separate fracture levels isolate an intervening segment of the diaphysis. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=7kbQ5Jwj3Es"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-7kbQ5Jwj3Es-4",
+    "lectureId": "7kbQ5Jwj3Es",
+    "title": "Distal humerus fractures: 4",
+    "prompt": "After a distal humerus injury, a patient has numbness of the little finger and weakness spreading the fingers. The affected nerve courses behind the medial epicondyle. Which nerve best accounts for these examination findings?",
+    "options": [
+      "Median nerve",
+      "Musculocutaneous nerve",
+      "Ulnar nerve",
+      "Radial nerve",
+      "Axillary nerve"
+    ],
+    "answer": "Ulnar nerve",
+    "explanation": "The ulnar nerve passes behind the medial epicondyle and supplies interossei and sensation to the little finger.",
+    "distractorExplanations": {
+      "Ulnar nerve": "The ulnar nerve passes behind the medial epicondyle and supplies interossei and sensation to the little finger.",
+      "Radial nerve": "The radial nerve supplies wrist and finger extensors; humeral shaft injury can cause wrist drop and dorsal first-web-space sensory loss. This does not best answer the specific question in this case.",
+      "Axillary nerve": "The axillary nerve supplies deltoid and sensation over the lateral shoulder; it is vulnerable with shoulder dislocation or proximal humeral injury. This does not best answer the specific question in this case.",
+      "Median nerve": "Median nerve injury can impair thumb opposition and sensation in the radial palmar digits. This does not best answer the specific question in this case.",
+      "Musculocutaneous nerve": "This nerve supplies major elbow flexors and sensation over the lateral forearm. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=7kbQ5Jwj3Es"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-7kbQ5Jwj3Es-5",
+    "lectureId": "7kbQ5Jwj3Es",
+    "title": "Distal humerus fractures: 5",
+    "prompt": "A patient recovering from an intra-articular distal humerus fracture develops marked limitation of elbow flexion and extension. Union has occurred, but prolonged protection and capsular scarring have restricted motion. Which common complication is described?",
+    "options": [
+      "Acute compartment syndrome",
+      "Joint stiffness",
+      "Osteonecrosis",
+      "Nonunion",
+      "Post-traumatic osteoarthritis"
+    ],
+    "answer": "Joint stiffness",
+    "explanation": "Capsular contracture, adhesions and prolonged immobilization can restrict motion after injury.",
+    "distractorExplanations": {
+      "Joint stiffness": "Capsular contracture, adhesions and prolonged immobilization can restrict motion after injury.",
+      "Osteonecrosis": "Disruption of blood supply can lead to death and collapse of an injured bony segment. This does not best answer the specific question in this case.",
+      "Nonunion": "Persistent failure of fracture healing requires assessment of stability, biology, infection and patient factors. This does not best answer the specific question in this case.",
+      "Post-traumatic osteoarthritis": "Articular incongruity or cartilage damage can cause later degenerative joint changes. This does not best answer the specific question in this case.",
+      "Acute compartment syndrome": "Rising compartment pressure impairs perfusion; escalating pain and pain on passive stretch require urgent assessment. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=7kbQ5Jwj3Es"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-5a1Qyb44wt0-1",
+    "lectureId": "5a1Qyb44wt0",
+    "title": "Humeral shaft fractures: 1",
+    "prompt": "A patient with a spiral humeral shaft fracture has new wrist drop. Finger extension is weak and dorsal first-web-space sensation is reduced. Which peripheral nerve is most closely associated with this fracture complication?",
+    "options": [
+      "Median nerve",
+      "Musculocutaneous nerve",
+      "Radial nerve",
+      "Axillary nerve",
+      "Ulnar nerve"
+    ],
+    "answer": "Radial nerve",
+    "explanation": "The radial nerve supplies wrist and finger extensors; humeral shaft injury can cause wrist drop and dorsal first-web-space sensory loss.",
+    "distractorExplanations": {
+      "Radial nerve": "The radial nerve supplies wrist and finger extensors; humeral shaft injury can cause wrist drop and dorsal first-web-space sensory loss.",
+      "Axillary nerve": "The axillary nerve supplies deltoid and sensation over the lateral shoulder; it is vulnerable with shoulder dislocation or proximal humeral injury. This does not best answer the specific question in this case.",
+      "Ulnar nerve": "The ulnar nerve passes behind the medial epicondyle and supplies interossei and sensation to the little finger. This does not best answer the specific question in this case.",
+      "Median nerve": "Median nerve injury can impair thumb opposition and sensation in the radial palmar digits. This does not best answer the specific question in this case.",
+      "Musculocutaneous nerve": "This nerve supplies major elbow flexors and sensation over the lateral forearm. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=5a1Qyb44wt0"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-5a1Qyb44wt0-2",
+    "lectureId": "5a1Qyb44wt0",
+    "title": "Humeral shaft fractures: 2",
+    "prompt": "A clinician documents intact wrist extension and distal perfusion before applying a humeral brace. The same findings are reassessed afterward. Which practice is essential for identifying whether a deficit existed before treatment or appeared following it?",
+    "options": [
+      "Assess associated injuries beyond the visible fracture",
+      "Document neurovascular status before and after intervention",
+      "CT to define the injury and adjacent structures",
+      "Urgent specialist evaluation and controlled treatment",
+      "Protected early motion when stability permits"
+    ],
+    "answer": "Document neurovascular status before and after intervention",
+    "explanation": "Serial motor, sensory and perfusion examinations establish baseline function and detect new deficits after reduction or splinting.",
+    "distractorExplanations": {
+      "Document neurovascular status before and after intervention": "Serial motor, sensory and perfusion examinations establish baseline function and detect new deficits after reduction or splinting.",
+      "CT to define the injury and adjacent structures": "CT helps evaluate complex bony anatomy, articular involvement or sternoclavicular relationships when indicated. This does not best answer the specific question in this case.",
+      "Urgent specialist evaluation and controlled treatment": "Threatened neurovascular or mediastinal structures require urgent appropriately supported care, not casual manipulation. This does not best answer the specific question in this case.",
+      "Protected early motion when stability permits": "Appropriate early motion reduces stiffness; timing depends on stability and the treatment plan. This does not best answer the specific question in this case.",
+      "Assess associated injuries beyond the visible fracture": "High-energy injuries can coexist with chest, neurovascular or adjacent-joint injuries that alter priorities. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=5a1Qyb44wt0"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-5a1Qyb44wt0-3",
+    "lectureId": "5a1Qyb44wt0",
+    "title": "Humeral shaft fractures: 3",
+    "prompt": "Months after a humeral shaft fracture, the patient still has pain and abnormal movement at the fracture site. Serial radiographs show no meaningful healing progression. Which complication should trigger evaluation of mechanical stability and biological factors?",
+    "options": [
+      "Nonunion",
+      "Joint stiffness",
+      "Osteonecrosis",
+      "Post-traumatic osteoarthritis",
+      "Acute compartment syndrome"
+    ],
+    "answer": "Nonunion",
+    "explanation": "Persistent failure of fracture healing requires assessment of stability, biology, infection and patient factors.",
+    "distractorExplanations": {
+      "Nonunion": "Persistent failure of fracture healing requires assessment of stability, biology, infection and patient factors.",
+      "Joint stiffness": "Capsular contracture, adhesions and prolonged immobilization can restrict motion after injury. This does not best answer the specific question in this case.",
+      "Osteonecrosis": "Disruption of blood supply can lead to death and collapse of an injured bony segment. This does not best answer the specific question in this case.",
+      "Post-traumatic osteoarthritis": "Articular incongruity or cartilage damage can cause later degenerative joint changes. This does not best answer the specific question in this case.",
+      "Acute compartment syndrome": "Rising compartment pressure impairs perfusion; escalating pain and pain on passive stretch require urgent assessment. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=5a1Qyb44wt0"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-5a1Qyb44wt0-4",
+    "lectureId": "5a1Qyb44wt0",
+    "title": "Humeral shaft fractures: 4",
+    "prompt": "A patient with a humeral shaft fracture has a cool hand, delayed capillary refill and an absent distal pulse after trauma. Which management priority takes precedence over routine outpatient bracing of the fracture alone?",
+    "options": [
+      "Document neurovascular status before and after intervention",
+      "CT to define the injury and adjacent structures",
+      "Protected early motion when stability permits",
+      "Assess associated injuries beyond the visible fracture",
+      "Urgent specialist evaluation and controlled treatment"
+    ],
+    "answer": "Urgent specialist evaluation and controlled treatment",
+    "explanation": "Threatened neurovascular or mediastinal structures require urgent appropriately supported care, not casual manipulation.",
+    "distractorExplanations": {
+      "Urgent specialist evaluation and controlled treatment": "Threatened neurovascular or mediastinal structures require urgent appropriately supported care, not casual manipulation.",
+      "Document neurovascular status before and after intervention": "Serial motor, sensory and perfusion examinations establish baseline function and detect new deficits after reduction or splinting. This does not best answer the specific question in this case.",
+      "CT to define the injury and adjacent structures": "CT helps evaluate complex bony anatomy, articular involvement or sternoclavicular relationships when indicated. This does not best answer the specific question in this case.",
+      "Protected early motion when stability permits": "Appropriate early motion reduces stiffness; timing depends on stability and the treatment plan. This does not best answer the specific question in this case.",
+      "Assess associated injuries beyond the visible fracture": "High-energy injuries can coexist with chest, neurovascular or adjacent-joint injuries that alter priorities. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=5a1Qyb44wt0"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-5a1Qyb44wt0-5",
+    "lectureId": "5a1Qyb44wt0",
+    "title": "Humeral shaft fractures: 5",
+    "prompt": "A patient with a satisfactorily aligned humeral shaft fracture is managed with a functional brace. The clinician prescribes appropriate shoulder and elbow exercises while protecting the fracture. Which recovery principle supports this rehabilitation plan?",
+    "options": [
+      "CT to define the injury and adjacent structures",
+      "Urgent specialist evaluation and controlled treatment",
+      "Assess associated injuries beyond the visible fracture",
+      "Protected early motion when stability permits",
+      "Document neurovascular status before and after intervention"
+    ],
+    "answer": "Protected early motion when stability permits",
+    "explanation": "Appropriate early motion reduces stiffness; timing depends on stability and the treatment plan.",
+    "distractorExplanations": {
+      "Protected early motion when stability permits": "Appropriate early motion reduces stiffness; timing depends on stability and the treatment plan.",
+      "Document neurovascular status before and after intervention": "Serial motor, sensory and perfusion examinations establish baseline function and detect new deficits after reduction or splinting. This does not best answer the specific question in this case.",
+      "CT to define the injury and adjacent structures": "CT helps evaluate complex bony anatomy, articular involvement or sternoclavicular relationships when indicated. This does not best answer the specific question in this case.",
+      "Urgent specialist evaluation and controlled treatment": "Threatened neurovascular or mediastinal structures require urgent appropriately supported care, not casual manipulation. This does not best answer the specific question in this case.",
+      "Assess associated injuries beyond the visible fracture": "High-energy injuries can coexist with chest, neurovascular or adjacent-joint injuries that alter priorities. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=5a1Qyb44wt0"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-Dqsqdmwn-Tc-1",
+    "lectureId": "Dqsqdmwn-Tc",
+    "title": "Proximal humerus and Neer classification: 1",
+    "prompt": "An older patient has several fracture lines in the proximal humerus, but none of the major segments is displaced beyond the classic Neer thresholds. Which Neer part designation applies despite the presence of multiple visible lines?",
+    "options": [
+      "Four-part fracture",
+      "Displacement greater than 1 cm or angulation greater than 45 degrees",
+      "One-part fracture",
+      "Two-part fracture",
+      "Three-part fracture"
+    ],
+    "answer": "One-part fracture",
+    "explanation": "In the classic Neer system, fragments not exceeding displacement criteria remain a one-part fracture even if several fracture lines exist.",
+    "distractorExplanations": {
+      "One-part fracture": "In the classic Neer system, fragments not exceeding displacement criteria remain a one-part fracture even if several fracture lines exist.",
+      "Two-part fracture": "One segment displaced relative to the others creates a two-part pattern in the classic Neer system. This does not best answer the specific question in this case.",
+      "Three-part fracture": "A displaced shaft and one displaced tuberosity, with the other tuberosity attached to the head, form a three-part pattern. This does not best answer the specific question in this case.",
+      "Four-part fracture": "The head, shaft and both tuberosities are separated as displaced parts in a four-part pattern. This does not best answer the specific question in this case.",
+      "Displacement greater than 1 cm or angulation greater than 45 degrees": "These are the classic Neer displacement thresholds; specific tuberosity treatment thresholds can differ. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Dqsqdmwn-Tc"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-Dqsqdmwn-Tc-2",
+    "lectureId": "Dqsqdmwn-Tc",
+    "title": "Proximal humerus and Neer classification: 2",
+    "prompt": "A trainee is deciding whether a major proximal humeral fragment counts as a displaced part under the classic Neer classification. Which displacement criterion should be applied rather than simply counting every visible fracture line?",
+    "options": [
+      "Four-part fracture",
+      "Displacement greater than 1 cm or angulation greater than 45 degrees",
+      "One-part fracture",
+      "Two-part fracture",
+      "Three-part fracture"
+    ],
+    "answer": "Displacement greater than 1 cm or angulation greater than 45 degrees",
+    "explanation": "These are the classic Neer displacement thresholds; specific tuberosity treatment thresholds can differ.",
+    "distractorExplanations": {
+      "Displacement greater than 1 cm or angulation greater than 45 degrees": "These are the classic Neer displacement thresholds; specific tuberosity treatment thresholds can differ.",
+      "One-part fracture": "In the classic Neer system, fragments not exceeding displacement criteria remain a one-part fracture even if several fracture lines exist. This does not best answer the specific question in this case.",
+      "Two-part fracture": "One segment displaced relative to the others creates a two-part pattern in the classic Neer system. This does not best answer the specific question in this case.",
+      "Three-part fracture": "A displaced shaft and one displaced tuberosity, with the other tuberosity attached to the head, form a three-part pattern. This does not best answer the specific question in this case.",
+      "Four-part fracture": "The head, shaft and both tuberosities are separated as displaced parts in a four-part pattern. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Dqsqdmwn-Tc"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-Dqsqdmwn-Tc-3",
+    "lectureId": "Dqsqdmwn-Tc",
+    "title": "Proximal humerus and Neer classification: 3",
+    "prompt": "Imaging shows a displaced surgical-neck fracture and a separately displaced greater tuberosity. The lesser tuberosity remains attached to the humeral head. Which classic Neer part pattern best describes the three major displaced components present?",
+    "options": [
+      "Three-part fracture",
+      "One-part fracture",
+      "Two-part fracture",
+      "Four-part fracture",
+      "Displacement greater than 1 cm or angulation greater than 45 degrees"
+    ],
+    "answer": "Three-part fracture",
+    "explanation": "A displaced shaft and one displaced tuberosity, with the other tuberosity attached to the head, form a three-part pattern.",
+    "distractorExplanations": {
+      "Three-part fracture": "A displaced shaft and one displaced tuberosity, with the other tuberosity attached to the head, form a three-part pattern.",
+      "One-part fracture": "In the classic Neer system, fragments not exceeding displacement criteria remain a one-part fracture even if several fracture lines exist. This does not best answer the specific question in this case.",
+      "Two-part fracture": "One segment displaced relative to the others creates a two-part pattern in the classic Neer system. This does not best answer the specific question in this case.",
+      "Four-part fracture": "The head, shaft and both tuberosities are separated as displaced parts in a four-part pattern. This does not best answer the specific question in this case.",
+      "Displacement greater than 1 cm or angulation greater than 45 degrees": "These are the classic Neer displacement thresholds; specific tuberosity treatment thresholds can differ. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Dqsqdmwn-Tc"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-Dqsqdmwn-Tc-4",
+    "lectureId": "Dqsqdmwn-Tc",
+    "title": "Proximal humerus and Neer classification: 4",
+    "prompt": "A patient with a displaced proximal humerus fracture has reduced sensation over the lateral shoulder and weakness of deltoid contraction. Which nerve near the surgical neck best explains the motor and sensory deficits described?",
+    "options": [
+      "Radial nerve",
+      "Ulnar nerve",
+      "Median nerve",
+      "Musculocutaneous nerve",
+      "Axillary nerve"
+    ],
+    "answer": "Axillary nerve",
+    "explanation": "The axillary nerve supplies deltoid and sensation over the lateral shoulder; it is vulnerable with shoulder dislocation or proximal humeral injury.",
+    "distractorExplanations": {
+      "Axillary nerve": "The axillary nerve supplies deltoid and sensation over the lateral shoulder; it is vulnerable with shoulder dislocation or proximal humeral injury.",
+      "Radial nerve": "The radial nerve supplies wrist and finger extensors; humeral shaft injury can cause wrist drop and dorsal first-web-space sensory loss. This does not best answer the specific question in this case.",
+      "Ulnar nerve": "The ulnar nerve passes behind the medial epicondyle and supplies interossei and sensation to the little finger. This does not best answer the specific question in this case.",
+      "Median nerve": "Median nerve injury can impair thumb opposition and sensation in the radial palmar digits. This does not best answer the specific question in this case.",
+      "Musculocutaneous nerve": "This nerve supplies major elbow flexors and sensation over the lateral forearm. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Dqsqdmwn-Tc"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-Dqsqdmwn-Tc-5",
+    "lectureId": "Dqsqdmwn-Tc",
+    "title": "Proximal humerus and Neer classification: 5",
+    "prompt": "Following a severe proximal humeral fracture, the humeral head later collapses despite initial alignment. The fracture pattern had threatened the head’s blood supply. Which complication best explains this delayed structural failure of the articular segment?",
+    "options": [
+      "Nonunion",
+      "Post-traumatic osteoarthritis",
+      "Acute compartment syndrome",
+      "Osteonecrosis",
+      "Joint stiffness"
+    ],
+    "answer": "Osteonecrosis",
+    "explanation": "Disruption of blood supply can lead to death and collapse of an injured bony segment.",
+    "distractorExplanations": {
+      "Osteonecrosis": "Disruption of blood supply can lead to death and collapse of an injured bony segment.",
+      "Joint stiffness": "Capsular contracture, adhesions and prolonged immobilization can restrict motion after injury. This does not best answer the specific question in this case.",
+      "Nonunion": "Persistent failure of fracture healing requires assessment of stability, biology, infection and patient factors. This does not best answer the specific question in this case.",
+      "Post-traumatic osteoarthritis": "Articular incongruity or cartilage damage can cause later degenerative joint changes. This does not best answer the specific question in this case.",
+      "Acute compartment syndrome": "Rising compartment pressure impairs perfusion; escalating pain and pain on passive stretch require urgent assessment. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=Dqsqdmwn-Tc"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-8Y68hgonnnQ-1",
+    "lectureId": "8Y68hgonnnQ",
+    "title": "Anterior shoulder dislocation: 1",
+    "prompt": "A young athlete experiences shoulder pain after forced abduction and external rotation. Radiographs show the humeral head lying anterior to the glenoid rather than behind or directly below it. Which type of dislocation has occurred?",
+    "options": [
+      "Posterior shoulder dislocation",
+      "Inferior shoulder dislocation",
+      "Acromioclavicular separation",
+      "Posterior sternoclavicular dislocation",
+      "Anterior shoulder dislocation"
+    ],
+    "answer": "Anterior shoulder dislocation",
+    "explanation": "Anterior glenohumeral displacement often follows abduction and external rotation and places the head anterior to the glenoid.",
+    "distractorExplanations": {
+      "Anterior shoulder dislocation": "Anterior glenohumeral displacement often follows abduction and external rotation and places the head anterior to the glenoid.",
+      "Posterior shoulder dislocation": "Posterior dislocation may follow seizures or electrical injury and can present with fixed internal rotation. This does not best answer the specific question in this case.",
+      "Inferior shoulder dislocation": "Luxatio erecta places the humeral head below the glenoid, often with the arm fixed overhead. This does not best answer the specific question in this case.",
+      "Acromioclavicular separation": "AC injury disrupts the clavicle-acromion relationship while the humeral head may remain normally located. This does not best answer the specific question in this case.",
+      "Posterior sternoclavicular dislocation": "Posterior medial clavicular displacement threatens mediastinal structures and warrants urgent specialist care. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=8Y68hgonnnQ"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-8Y68hgonnnQ-2",
+    "lectureId": "8Y68hgonnnQ",
+    "title": "Anterior shoulder dislocation: 2",
+    "prompt": "After an anterior shoulder dislocation, imaging demonstrates detachment of the anteroinferior glenoid labrum. The patient subsequently reports recurrent instability. Which named lesion best describes the glenoid-side injury associated with this clinical course?",
+    "options": [
+      "Reverse Hill-Sachs lesion",
+      "Rotator cuff tear",
+      "Recurrent instability",
+      "Bankart lesion",
+      "Hill-Sachs lesion"
+    ],
+    "answer": "Bankart lesion",
+    "explanation": "A Bankart lesion involves the anteroinferior glenoid labrum, commonly after anterior dislocation.",
+    "distractorExplanations": {
+      "Bankart lesion": "A Bankart lesion involves the anteroinferior glenoid labrum, commonly after anterior dislocation.",
+      "Hill-Sachs lesion": "An anterior dislocation may impact the posterolateral humeral head against the glenoid rim. This does not best answer the specific question in this case.",
+      "Reverse Hill-Sachs lesion": "Posterior dislocation may cause an anteromedial humeral head impaction defect. This does not best answer the specific question in this case.",
+      "Rotator cuff tear": "Persistent weakness after reduction, especially in older patients, warrants assessment for associated cuff injury. This does not best answer the specific question in this case.",
+      "Recurrent instability": "Capsulolabral injury can predispose to recurrent glenohumeral dislocation. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=8Y68hgonnnQ"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-8Y68hgonnnQ-3",
+    "lectureId": "8Y68hgonnnQ",
+    "title": "Anterior shoulder dislocation: 3",
+    "prompt": "A patient with an anterior shoulder dislocation has an impaction defect on the posterolateral humeral head. The defect resulted from contact with the glenoid rim during displacement. Which named bony lesion is being described?",
+    "options": [
+      "Rotator cuff tear",
+      "Recurrent instability",
+      "Hill-Sachs lesion",
+      "Bankart lesion",
+      "Reverse Hill-Sachs lesion"
+    ],
+    "answer": "Hill-Sachs lesion",
+    "explanation": "An anterior dislocation may impact the posterolateral humeral head against the glenoid rim.",
+    "distractorExplanations": {
+      "Hill-Sachs lesion": "An anterior dislocation may impact the posterolateral humeral head against the glenoid rim.",
+      "Bankart lesion": "A Bankart lesion involves the anteroinferior glenoid labrum, commonly after anterior dislocation. This does not best answer the specific question in this case.",
+      "Reverse Hill-Sachs lesion": "Posterior dislocation may cause an anteromedial humeral head impaction defect. This does not best answer the specific question in this case.",
+      "Rotator cuff tear": "Persistent weakness after reduction, especially in older patients, warrants assessment for associated cuff injury. This does not best answer the specific question in this case.",
+      "Recurrent instability": "Capsulolabral injury can predispose to recurrent glenohumeral dislocation. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=8Y68hgonnnQ"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-8Y68hgonnnQ-4",
+    "lectureId": "8Y68hgonnnQ",
+    "title": "Anterior shoulder dislocation: 4",
+    "prompt": "Before reducing an anterior shoulder dislocation, the clinician checks sensation over the lateral deltoid region and asks about deltoid contraction. Which nerve is being assessed because it is vulnerable in this shoulder injury?",
+    "options": [
+      "Musculocutaneous nerve",
+      "Axillary nerve",
+      "Radial nerve",
+      "Ulnar nerve",
+      "Median nerve"
+    ],
+    "answer": "Axillary nerve",
+    "explanation": "The axillary nerve supplies deltoid and sensation over the lateral shoulder; it is vulnerable with shoulder dislocation or proximal humeral injury.",
+    "distractorExplanations": {
+      "Axillary nerve": "The axillary nerve supplies deltoid and sensation over the lateral shoulder; it is vulnerable with shoulder dislocation or proximal humeral injury.",
+      "Radial nerve": "The radial nerve supplies wrist and finger extensors; humeral shaft injury can cause wrist drop and dorsal first-web-space sensory loss. This does not best answer the specific question in this case.",
+      "Ulnar nerve": "The ulnar nerve passes behind the medial epicondyle and supplies interossei and sensation to the little finger. This does not best answer the specific question in this case.",
+      "Median nerve": "Median nerve injury can impair thumb opposition and sensation in the radial palmar digits. This does not best answer the specific question in this case.",
+      "Musculocutaneous nerve": "This nerve supplies major elbow flexors and sensation over the lateral forearm. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=8Y68hgonnnQ"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-8Y68hgonnnQ-5",
+    "lectureId": "8Y68hgonnnQ",
+    "title": "Anterior shoulder dislocation: 5",
+    "prompt": "An older patient has persistent inability to actively elevate the arm after a successfully reduced shoulder dislocation. Passive motion is substantially better, and imaging confirms reduction. Which associated soft-tissue injury should be investigated?",
+    "options": [
+      "Rotator cuff tear",
+      "Bankart lesion",
+      "Hill-Sachs lesion",
+      "Reverse Hill-Sachs lesion",
+      "Recurrent instability"
+    ],
+    "answer": "Rotator cuff tear",
+    "explanation": "Persistent weakness after reduction, especially in older patients, warrants assessment for associated cuff injury.",
+    "distractorExplanations": {
+      "Rotator cuff tear": "Persistent weakness after reduction, especially in older patients, warrants assessment for associated cuff injury.",
+      "Bankart lesion": "A Bankart lesion involves the anteroinferior glenoid labrum, commonly after anterior dislocation. This does not best answer the specific question in this case.",
+      "Hill-Sachs lesion": "An anterior dislocation may impact the posterolateral humeral head against the glenoid rim. This does not best answer the specific question in this case.",
+      "Reverse Hill-Sachs lesion": "Posterior dislocation may cause an anteromedial humeral head impaction defect. This does not best answer the specific question in this case.",
+      "Recurrent instability": "Capsulolabral injury can predispose to recurrent glenohumeral dislocation. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=8Y68hgonnnQ"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-KfbUapEyL-I-1",
+    "lectureId": "KfbUapEyL-I",
+    "title": "Posterior shoulder dislocation: 1",
+    "prompt": "After a generalized seizure, a patient holds the arm adducted and internally rotated and cannot externally rotate the shoulder. The initial AP image is subtle. Which dislocation should be specifically excluded with appropriate additional imaging?",
+    "options": [
+      "Posterior shoulder dislocation",
+      "Anterior shoulder dislocation",
+      "Inferior shoulder dislocation",
+      "Acromioclavicular separation",
+      "Posterior sternoclavicular dislocation"
+    ],
+    "answer": "Posterior shoulder dislocation",
+    "explanation": "Posterior dislocation may follow seizures or electrical injury and can present with fixed internal rotation.",
+    "distractorExplanations": {
+      "Posterior shoulder dislocation": "Posterior dislocation may follow seizures or electrical injury and can present with fixed internal rotation.",
+      "Anterior shoulder dislocation": "Anterior glenohumeral displacement often follows abduction and external rotation and places the head anterior to the glenoid. This does not best answer the specific question in this case.",
+      "Inferior shoulder dislocation": "Luxatio erecta places the humeral head below the glenoid, often with the arm fixed overhead. This does not best answer the specific question in this case.",
+      "Acromioclavicular separation": "AC injury disrupts the clavicle-acromion relationship while the humeral head may remain normally located. This does not best answer the specific question in this case.",
+      "Posterior sternoclavicular dislocation": "Posterior medial clavicular displacement threatens mediastinal structures and warrants urgent specialist care. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=KfbUapEyL-I"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-KfbUapEyL-I-2",
+    "lectureId": "KfbUapEyL-I",
+    "title": "Posterior shoulder dislocation: 2",
+    "prompt": "An axial image confirms posterior shoulder dislocation and an impaction defect in the anteromedial humeral head. The defect differs in location from that associated with anterior dislocation. Which named lesion best describes this finding?",
+    "options": [
+      "Bankart lesion",
+      "Hill-Sachs lesion",
+      "Rotator cuff tear",
+      "Recurrent instability",
+      "Reverse Hill-Sachs lesion"
+    ],
+    "answer": "Reverse Hill-Sachs lesion",
+    "explanation": "Posterior dislocation may cause an anteromedial humeral head impaction defect.",
+    "distractorExplanations": {
+      "Reverse Hill-Sachs lesion": "Posterior dislocation may cause an anteromedial humeral head impaction defect.",
+      "Bankart lesion": "A Bankart lesion involves the anteroinferior glenoid labrum, commonly after anterior dislocation. This does not best answer the specific question in this case.",
+      "Hill-Sachs lesion": "An anterior dislocation may impact the posterolateral humeral head against the glenoid rim. This does not best answer the specific question in this case.",
+      "Rotator cuff tear": "Persistent weakness after reduction, especially in older patients, warrants assessment for associated cuff injury. This does not best answer the specific question in this case.",
+      "Recurrent instability": "Capsulolabral injury can predispose to recurrent glenohumeral dislocation. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=KfbUapEyL-I"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-KfbUapEyL-I-3",
+    "lectureId": "KfbUapEyL-I",
+    "title": "Posterior shoulder dislocation: 3",
+    "prompt": "A patient with a locked posterior shoulder dislocation has a suspected large humeral head defect. The surgeon needs to define bony involvement before planning treatment. Which listed imaging strategy helps characterize the complex articular injury?",
+    "options": [
+      "Urgent specialist evaluation and controlled treatment",
+      "Protected early motion when stability permits",
+      "Assess associated injuries beyond the visible fracture",
+      "CT to define the injury and adjacent structures",
+      "Document neurovascular status before and after intervention"
+    ],
+    "answer": "CT to define the injury and adjacent structures",
+    "explanation": "CT helps evaluate complex bony anatomy, articular involvement or sternoclavicular relationships when indicated.",
+    "distractorExplanations": {
+      "CT to define the injury and adjacent structures": "CT helps evaluate complex bony anatomy, articular involvement or sternoclavicular relationships when indicated.",
+      "Document neurovascular status before and after intervention": "Serial motor, sensory and perfusion examinations establish baseline function and detect new deficits after reduction or splinting. This does not best answer the specific question in this case.",
+      "Urgent specialist evaluation and controlled treatment": "Threatened neurovascular or mediastinal structures require urgent appropriately supported care, not casual manipulation. This does not best answer the specific question in this case.",
+      "Protected early motion when stability permits": "Appropriate early motion reduces stiffness; timing depends on stability and the treatment plan. This does not best answer the specific question in this case.",
+      "Assess associated injuries beyond the visible fracture": "High-energy injuries can coexist with chest, neurovascular or adjacent-joint injuries that alter priorities. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=KfbUapEyL-I"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-KfbUapEyL-I-4",
+    "lectureId": "KfbUapEyL-I",
+    "title": "Posterior shoulder dislocation: 4",
+    "prompt": "A patient is assessed before and after reduction of a posterior shoulder dislocation. Pulses, hand perfusion, motor function and sensation are documented on both occasions. Which principle helps identify treatment-associated or previously missed deficits?",
+    "options": [
+      "Protected early motion when stability permits",
+      "Assess associated injuries beyond the visible fracture",
+      "Document neurovascular status before and after intervention",
+      "CT to define the injury and adjacent structures",
+      "Urgent specialist evaluation and controlled treatment"
+    ],
+    "answer": "Document neurovascular status before and after intervention",
+    "explanation": "Serial motor, sensory and perfusion examinations establish baseline function and detect new deficits after reduction or splinting.",
+    "distractorExplanations": {
+      "Document neurovascular status before and after intervention": "Serial motor, sensory and perfusion examinations establish baseline function and detect new deficits after reduction or splinting.",
+      "CT to define the injury and adjacent structures": "CT helps evaluate complex bony anatomy, articular involvement or sternoclavicular relationships when indicated. This does not best answer the specific question in this case.",
+      "Urgent specialist evaluation and controlled treatment": "Threatened neurovascular or mediastinal structures require urgent appropriately supported care, not casual manipulation. This does not best answer the specific question in this case.",
+      "Protected early motion when stability permits": "Appropriate early motion reduces stiffness; timing depends on stability and the treatment plan. This does not best answer the specific question in this case.",
+      "Assess associated injuries beyond the visible fracture": "High-energy injuries can coexist with chest, neurovascular or adjacent-joint injuries that alter priorities. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=KfbUapEyL-I"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-KfbUapEyL-I-5",
+    "lectureId": "KfbUapEyL-I",
+    "title": "Posterior shoulder dislocation: 5",
+    "prompt": "A posterior shoulder dislocation remained unrecognized for weeks and produced substantial articular injury. Years later, the patient has pain, stiffness and joint-space narrowing. Which delayed complication best links the old injury to the current degeneration?",
+    "options": [
+      "Acute compartment syndrome",
+      "Post-traumatic osteoarthritis",
+      "Joint stiffness",
+      "Osteonecrosis",
+      "Nonunion"
+    ],
+    "answer": "Post-traumatic osteoarthritis",
+    "explanation": "Articular incongruity or cartilage damage can cause later degenerative joint changes.",
+    "distractorExplanations": {
+      "Post-traumatic osteoarthritis": "Articular incongruity or cartilage damage can cause later degenerative joint changes.",
+      "Joint stiffness": "Capsular contracture, adhesions and prolonged immobilization can restrict motion after injury. This does not best answer the specific question in this case.",
+      "Osteonecrosis": "Disruption of blood supply can lead to death and collapse of an injured bony segment. This does not best answer the specific question in this case.",
+      "Nonunion": "Persistent failure of fracture healing requires assessment of stability, biology, infection and patient factors. This does not best answer the specific question in this case.",
+      "Acute compartment syndrome": "Rising compartment pressure impairs perfusion; escalating pain and pain on passive stretch require urgent assessment. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=KfbUapEyL-I"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-dXFZ3RUREwc-1",
+    "lectureId": "dXFZ3RUREwc",
+    "title": "Inferior shoulder dislocation: 1",
+    "prompt": "After a hyperabduction injury, a patient arrives with the arm fixed overhead and is unable to bring it comfortably to the side. Imaging shows the humeral head below the glenoid. Which dislocation pattern is present?",
+    "options": [
+      "Inferior shoulder dislocation",
+      "Anterior shoulder dislocation",
+      "Posterior shoulder dislocation",
+      "Acromioclavicular separation",
+      "Posterior sternoclavicular dislocation"
+    ],
+    "answer": "Inferior shoulder dislocation",
+    "explanation": "Luxatio erecta places the humeral head below the glenoid, often with the arm fixed overhead.",
+    "distractorExplanations": {
+      "Inferior shoulder dislocation": "Luxatio erecta places the humeral head below the glenoid, often with the arm fixed overhead.",
+      "Anterior shoulder dislocation": "Anterior glenohumeral displacement often follows abduction and external rotation and places the head anterior to the glenoid. This does not best answer the specific question in this case.",
+      "Posterior shoulder dislocation": "Posterior dislocation may follow seizures or electrical injury and can present with fixed internal rotation. This does not best answer the specific question in this case.",
+      "Acromioclavicular separation": "AC injury disrupts the clavicle-acromion relationship while the humeral head may remain normally located. This does not best answer the specific question in this case.",
+      "Posterior sternoclavicular dislocation": "Posterior medial clavicular displacement threatens mediastinal structures and warrants urgent specialist care. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=dXFZ3RUREwc"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-dXFZ3RUREwc-2",
+    "lectureId": "dXFZ3RUREwc",
+    "title": "Inferior shoulder dislocation: 2",
+    "prompt": "Following an inferior shoulder dislocation, sensation over the lateral shoulder is reduced and deltoid activation is weak. Distal hand movement remains present. Which nerve best accounts for this specific motor and sensory pattern?",
+    "options": [
+      "Radial nerve",
+      "Ulnar nerve",
+      "Median nerve",
+      "Musculocutaneous nerve",
+      "Axillary nerve"
+    ],
+    "answer": "Axillary nerve",
+    "explanation": "The axillary nerve supplies deltoid and sensation over the lateral shoulder; it is vulnerable with shoulder dislocation or proximal humeral injury.",
+    "distractorExplanations": {
+      "Axillary nerve": "The axillary nerve supplies deltoid and sensation over the lateral shoulder; it is vulnerable with shoulder dislocation or proximal humeral injury.",
+      "Radial nerve": "The radial nerve supplies wrist and finger extensors; humeral shaft injury can cause wrist drop and dorsal first-web-space sensory loss. This does not best answer the specific question in this case.",
+      "Ulnar nerve": "The ulnar nerve passes behind the medial epicondyle and supplies interossei and sensation to the little finger. This does not best answer the specific question in this case.",
+      "Median nerve": "Median nerve injury can impair thumb opposition and sensation in the radial palmar digits. This does not best answer the specific question in this case.",
+      "Musculocutaneous nerve": "This nerve supplies major elbow flexors and sensation over the lateral forearm. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=dXFZ3RUREwc"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-dXFZ3RUREwc-3",
+    "lectureId": "dXFZ3RUREwc",
+    "title": "Inferior shoulder dislocation: 3",
+    "prompt": "A patient with luxatio erecta has severe shoulder deformity. Before and after controlled reduction, clinicians document distal perfusion and a detailed nerve examination. Which practice is particularly important because this injury can stretch neurovascular structures?",
+    "options": [
+      "Urgent specialist evaluation and controlled treatment",
+      "Protected early motion when stability permits",
+      "Assess associated injuries beyond the visible fracture",
+      "Document neurovascular status before and after intervention",
+      "CT to define the injury and adjacent structures"
+    ],
+    "answer": "Document neurovascular status before and after intervention",
+    "explanation": "Serial motor, sensory and perfusion examinations establish baseline function and detect new deficits after reduction or splinting.",
+    "distractorExplanations": {
+      "Document neurovascular status before and after intervention": "Serial motor, sensory and perfusion examinations establish baseline function and detect new deficits after reduction or splinting.",
+      "CT to define the injury and adjacent structures": "CT helps evaluate complex bony anatomy, articular involvement or sternoclavicular relationships when indicated. This does not best answer the specific question in this case.",
+      "Urgent specialist evaluation and controlled treatment": "Threatened neurovascular or mediastinal structures require urgent appropriately supported care, not casual manipulation. This does not best answer the specific question in this case.",
+      "Protected early motion when stability permits": "Appropriate early motion reduces stiffness; timing depends on stability and the treatment plan. This does not best answer the specific question in this case.",
+      "Assess associated injuries beyond the visible fracture": "High-energy injuries can coexist with chest, neurovascular or adjacent-joint injuries that alter priorities. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=dXFZ3RUREwc"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-dXFZ3RUREwc-4",
+    "lectureId": "dXFZ3RUREwc",
+    "title": "Inferior shoulder dislocation: 4",
+    "prompt": "After reduction of an inferior shoulder dislocation, the humeral head is located but active elevation remains markedly weak. The clinician investigates associated tendon damage rather than assuming alignment proves full recovery. Which injury is being considered?",
+    "options": [
+      "Reverse Hill-Sachs lesion",
+      "Recurrent instability",
+      "Rotator cuff tear",
+      "Bankart lesion",
+      "Hill-Sachs lesion"
+    ],
+    "answer": "Rotator cuff tear",
+    "explanation": "Persistent weakness after reduction, especially in older patients, warrants assessment for associated cuff injury.",
+    "distractorExplanations": {
+      "Rotator cuff tear": "Persistent weakness after reduction, especially in older patients, warrants assessment for associated cuff injury.",
+      "Bankart lesion": "A Bankart lesion involves the anteroinferior glenoid labrum, commonly after anterior dislocation. This does not best answer the specific question in this case.",
+      "Hill-Sachs lesion": "An anterior dislocation may impact the posterolateral humeral head against the glenoid rim. This does not best answer the specific question in this case.",
+      "Reverse Hill-Sachs lesion": "Posterior dislocation may cause an anteromedial humeral head impaction defect. This does not best answer the specific question in this case.",
+      "Recurrent instability": "Capsulolabral injury can predispose to recurrent glenohumeral dislocation. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=dXFZ3RUREwc"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-dXFZ3RUREwc-5",
+    "lectureId": "dXFZ3RUREwc",
+    "title": "Inferior shoulder dislocation: 5",
+    "prompt": "A patient with inferior shoulder dislocation has a cool, poorly perfused hand and an abnormal pulse examination. Which management priority best addresses the threatened limb while arranging appropriate reduction and evaluation of vascular injury?",
+    "options": [
+      "Assess associated injuries beyond the visible fracture",
+      "Urgent specialist evaluation and controlled treatment",
+      "Document neurovascular status before and after intervention",
+      "CT to define the injury and adjacent structures",
+      "Protected early motion when stability permits"
+    ],
+    "answer": "Urgent specialist evaluation and controlled treatment",
+    "explanation": "Threatened neurovascular or mediastinal structures require urgent appropriately supported care, not casual manipulation.",
+    "distractorExplanations": {
+      "Urgent specialist evaluation and controlled treatment": "Threatened neurovascular or mediastinal structures require urgent appropriately supported care, not casual manipulation.",
+      "Document neurovascular status before and after intervention": "Serial motor, sensory and perfusion examinations establish baseline function and detect new deficits after reduction or splinting. This does not best answer the specific question in this case.",
+      "CT to define the injury and adjacent structures": "CT helps evaluate complex bony anatomy, articular involvement or sternoclavicular relationships when indicated. This does not best answer the specific question in this case.",
+      "Protected early motion when stability permits": "Appropriate early motion reduces stiffness; timing depends on stability and the treatment plan. This does not best answer the specific question in this case.",
+      "Assess associated injuries beyond the visible fracture": "High-energy injuries can coexist with chest, neurovascular or adjacent-joint injuries that alter priorities. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=dXFZ3RUREwc"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-TiOGc1Yx12M-1",
+    "lectureId": "TiOGc1Yx12M",
+    "title": "Sternoclavicular injury: 1",
+    "prompt": "After shoulder trauma, a patient has a prominent medial clavicular end projecting forward at the sternoclavicular joint. There is localized pain without dysphagia or respiratory compromise. Which displacement direction best matches the palpable deformity?",
+    "options": [
+      "Urgent reduction with appropriate specialist support",
+      "Anterior medial-clavicle displacement",
+      "Posterior medial-clavicle displacement",
+      "Medial clavicular physeal injury",
+      "CT assessment of the SC region"
+    ],
+    "answer": "Anterior medial-clavicle displacement",
+    "explanation": "Anterior SC dislocation commonly produces a palpable prominence over the joint.",
+    "distractorExplanations": {
+      "Anterior medial-clavicle displacement": "Anterior SC dislocation commonly produces a palpable prominence over the joint.",
+      "Posterior medial-clavicle displacement": "Posterior displacement can compress the trachea, esophagus and major vessels. This does not best answer the specific question in this case.",
+      "Medial clavicular physeal injury": "The late-closing medial clavicular physis can mimic SC dislocation in young patients. This does not best answer the specific question in this case.",
+      "CT assessment of the SC region": "Plain radiographs can be difficult to interpret; CT defines SC displacement and adjacent anatomy. This does not best answer the specific question in this case.",
+      "Urgent reduction with appropriate specialist support": "Posterior SC dislocation requires a controlled setting because manipulation can endanger adjacent major vessels. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=TiOGc1Yx12M"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/diseases--conditions/sternoclavicular-sc-joint-disorders/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-TiOGc1Yx12M-2",
+    "lectureId": "TiOGc1Yx12M",
+    "title": "Sternoclavicular injury: 2",
+    "prompt": "A patient has medial clavicular pain after a collision, accompanied by dysphagia and shortness of breath. The team is concerned about compression of structures behind the sternum. Which displacement direction is the dangerous possibility?",
+    "options": [
+      "Posterior medial-clavicle displacement",
+      "Anterior medial-clavicle displacement",
+      "Medial clavicular physeal injury",
+      "CT assessment of the SC region",
+      "Urgent reduction with appropriate specialist support"
+    ],
+    "answer": "Posterior medial-clavicle displacement",
+    "explanation": "Posterior displacement can compress the trachea, esophagus and major vessels.",
+    "distractorExplanations": {
+      "Posterior medial-clavicle displacement": "Posterior displacement can compress the trachea, esophagus and major vessels.",
+      "Anterior medial-clavicle displacement": "Anterior SC dislocation commonly produces a palpable prominence over the joint. This does not best answer the specific question in this case.",
+      "Medial clavicular physeal injury": "The late-closing medial clavicular physis can mimic SC dislocation in young patients. This does not best answer the specific question in this case.",
+      "CT assessment of the SC region": "Plain radiographs can be difficult to interpret; CT defines SC displacement and adjacent anatomy. This does not best answer the specific question in this case.",
+      "Urgent reduction with appropriate specialist support": "Posterior SC dislocation requires a controlled setting because manipulation can endanger adjacent major vessels. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=TiOGc1Yx12M"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/diseases--conditions/sternoclavicular-sc-joint-disorders/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-TiOGc1Yx12M-3",
+    "lectureId": "TiOGc1Yx12M",
+    "title": "Sternoclavicular injury: 3",
+    "prompt": "Plain radiographs are inconclusive in a patient with suspected sternoclavicular dislocation. The clinician needs to establish the direction of displacement and its relationship to adjacent structures. Which investigation is most helpful among the listed options?",
+    "options": [
+      "Anterior medial-clavicle displacement",
+      "Posterior medial-clavicle displacement",
+      "Medial clavicular physeal injury",
+      "Urgent reduction with appropriate specialist support",
+      "CT assessment of the SC region"
+    ],
+    "answer": "CT assessment of the SC region",
+    "explanation": "Plain radiographs can be difficult to interpret; CT defines SC displacement and adjacent anatomy.",
+    "distractorExplanations": {
+      "CT assessment of the SC region": "Plain radiographs can be difficult to interpret; CT defines SC displacement and adjacent anatomy.",
+      "Anterior medial-clavicle displacement": "Anterior SC dislocation commonly produces a palpable prominence over the joint. This does not best answer the specific question in this case.",
+      "Posterior medial-clavicle displacement": "Posterior displacement can compress the trachea, esophagus and major vessels. This does not best answer the specific question in this case.",
+      "Medial clavicular physeal injury": "The late-closing medial clavicular physis can mimic SC dislocation in young patients. This does not best answer the specific question in this case.",
+      "Urgent reduction with appropriate specialist support": "Posterior SC dislocation requires a controlled setting because manipulation can endanger adjacent major vessels. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=TiOGc1Yx12M"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/diseases--conditions/sternoclavicular-sc-joint-disorders/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-TiOGc1Yx12M-4",
+    "lectureId": "TiOGc1Yx12M",
+    "title": "Sternoclavicular injury: 4",
+    "prompt": "A teenager sustains an injury resembling sternoclavicular dislocation. The clinician considers the late closure of the medial clavicular growth plate before making a final diagnosis. Which alternative injury can mimic dislocation at this age?",
+    "options": [
+      "Posterior medial-clavicle displacement",
+      "CT assessment of the SC region",
+      "Urgent reduction with appropriate specialist support",
+      "Medial clavicular physeal injury",
+      "Anterior medial-clavicle displacement"
+    ],
+    "answer": "Medial clavicular physeal injury",
+    "explanation": "The late-closing medial clavicular physis can mimic SC dislocation in young patients.",
+    "distractorExplanations": {
+      "Medial clavicular physeal injury": "The late-closing medial clavicular physis can mimic SC dislocation in young patients.",
+      "Anterior medial-clavicle displacement": "Anterior SC dislocation commonly produces a palpable prominence over the joint. This does not best answer the specific question in this case.",
+      "Posterior medial-clavicle displacement": "Posterior displacement can compress the trachea, esophagus and major vessels. This does not best answer the specific question in this case.",
+      "CT assessment of the SC region": "Plain radiographs can be difficult to interpret; CT defines SC displacement and adjacent anatomy. This does not best answer the specific question in this case.",
+      "Urgent reduction with appropriate specialist support": "Posterior SC dislocation requires a controlled setting because manipulation can endanger adjacent major vessels. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=TiOGc1Yx12M"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/diseases--conditions/sternoclavicular-sc-joint-disorders/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-TiOGc1Yx12M-5",
+    "lectureId": "TiOGc1Yx12M",
+    "title": "Sternoclavicular injury: 5",
+    "prompt": "CT confirms posterior sternoclavicular dislocation near major vessels. The patient needs reduction, but uncontrolled manipulation could disrupt adjacent structures. Which treatment setting and approach best reflect the special risk posed by this injury?",
+    "options": [
+      "Medial clavicular physeal injury",
+      "CT assessment of the SC region",
+      "Urgent reduction with appropriate specialist support",
+      "Anterior medial-clavicle displacement",
+      "Posterior medial-clavicle displacement"
+    ],
+    "answer": "Urgent reduction with appropriate specialist support",
+    "explanation": "Posterior SC dislocation requires a controlled setting because manipulation can endanger adjacent major vessels.",
+    "distractorExplanations": {
+      "Urgent reduction with appropriate specialist support": "Posterior SC dislocation requires a controlled setting because manipulation can endanger adjacent major vessels.",
+      "Anterior medial-clavicle displacement": "Anterior SC dislocation commonly produces a palpable prominence over the joint. This does not best answer the specific question in this case.",
+      "Posterior medial-clavicle displacement": "Posterior displacement can compress the trachea, esophagus and major vessels. This does not best answer the specific question in this case.",
+      "Medial clavicular physeal injury": "The late-closing medial clavicular physis can mimic SC dislocation in young patients. This does not best answer the specific question in this case.",
+      "CT assessment of the SC region": "Plain radiographs can be difficult to interpret; CT defines SC displacement and adjacent anatomy. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=TiOGc1Yx12M"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/diseases--conditions/sternoclavicular-sc-joint-disorders/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-o0c7PvRFH_g-1",
+    "lectureId": "o0c7PvRFH_g",
+    "title": "Acromioclavicular injury: 1",
+    "prompt": "A cyclist lands directly on the lateral shoulder and develops superior shoulder pain with an elevated distal clavicle. The humeral head remains centered in the glenoid. Which joint injury best explains the localized deformity?",
+    "options": [
+      "Anterior shoulder dislocation",
+      "Posterior shoulder dislocation",
+      "Inferior shoulder dislocation",
+      "Posterior sternoclavicular dislocation",
+      "Acromioclavicular separation"
+    ],
+    "answer": "Acromioclavicular separation",
+    "explanation": "AC injury disrupts the clavicle-acromion relationship while the humeral head may remain normally located.",
+    "distractorExplanations": {
+      "Acromioclavicular separation": "AC injury disrupts the clavicle-acromion relationship while the humeral head may remain normally located.",
+      "Anterior shoulder dislocation": "Anterior glenohumeral displacement often follows abduction and external rotation and places the head anterior to the glenoid. This does not best answer the specific question in this case.",
+      "Posterior shoulder dislocation": "Posterior dislocation may follow seizures or electrical injury and can present with fixed internal rotation. This does not best answer the specific question in this case.",
+      "Inferior shoulder dislocation": "Luxatio erecta places the humeral head below the glenoid, often with the arm fixed overhead. This does not best answer the specific question in this case.",
+      "Posterior sternoclavicular dislocation": "Posterior medial clavicular displacement threatens mediastinal structures and warrants urgent specialist care. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=o0c7PvRFH_g"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-o0c7PvRFH_g-2",
+    "lectureId": "o0c7PvRFH_g",
+    "title": "Acromioclavicular injury: 2",
+    "prompt": "A patient with a markedly displaced AC injury undergoes a full upper-limb examination, including pulses, sensation and motor function. Which assessment principle prevents the visible superior-shoulder deformity from distracting from clinically important associated deficits?",
+    "options": [
+      "Urgent specialist evaluation and controlled treatment",
+      "Protected early motion when stability permits",
+      "Assess associated injuries beyond the visible fracture",
+      "Document neurovascular status before and after intervention",
+      "CT to define the injury and adjacent structures"
+    ],
+    "answer": "Document neurovascular status before and after intervention",
+    "explanation": "Serial motor, sensory and perfusion examinations establish baseline function and detect new deficits after reduction or splinting.",
+    "distractorExplanations": {
+      "Document neurovascular status before and after intervention": "Serial motor, sensory and perfusion examinations establish baseline function and detect new deficits after reduction or splinting.",
+      "CT to define the injury and adjacent structures": "CT helps evaluate complex bony anatomy, articular involvement or sternoclavicular relationships when indicated. This does not best answer the specific question in this case.",
+      "Urgent specialist evaluation and controlled treatment": "Threatened neurovascular or mediastinal structures require urgent appropriately supported care, not casual manipulation. This does not best answer the specific question in this case.",
+      "Protected early motion when stability permits": "Appropriate early motion reduces stiffness; timing depends on stability and the treatment plan. This does not best answer the specific question in this case.",
+      "Assess associated injuries beyond the visible fracture": "High-energy injuries can coexist with chest, neurovascular or adjacent-joint injuries that alter priorities. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=o0c7PvRFH_g"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-o0c7PvRFH_g-3",
+    "lectureId": "o0c7PvRFH_g",
+    "title": "Acromioclavicular injury: 3",
+    "prompt": "A patient with AC separation was injured in a high-speed crash and also has chest tenderness and scapular pain. Which assessment principle should guide the clinician before attributing all symptoms to the AC joint alone?",
+    "options": [
+      "Urgent specialist evaluation and controlled treatment",
+      "Protected early motion when stability permits",
+      "Assess associated injuries beyond the visible fracture",
+      "Document neurovascular status before and after intervention",
+      "CT to define the injury and adjacent structures"
+    ],
+    "answer": "Assess associated injuries beyond the visible fracture",
+    "explanation": "High-energy injuries can coexist with chest, neurovascular or adjacent-joint injuries that alter priorities.",
+    "distractorExplanations": {
+      "Assess associated injuries beyond the visible fracture": "High-energy injuries can coexist with chest, neurovascular or adjacent-joint injuries that alter priorities.",
+      "Document neurovascular status before and after intervention": "Serial motor, sensory and perfusion examinations establish baseline function and detect new deficits after reduction or splinting. This does not best answer the specific question in this case.",
+      "CT to define the injury and adjacent structures": "CT helps evaluate complex bony anatomy, articular involvement or sternoclavicular relationships when indicated. This does not best answer the specific question in this case.",
+      "Urgent specialist evaluation and controlled treatment": "Threatened neurovascular or mediastinal structures require urgent appropriately supported care, not casual manipulation. This does not best answer the specific question in this case.",
+      "Protected early motion when stability permits": "Appropriate early motion reduces stiffness; timing depends on stability and the treatment plan. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=o0c7PvRFH_g"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-o0c7PvRFH_g-4",
+    "lectureId": "o0c7PvRFH_g",
+    "title": "Acromioclavicular injury: 4",
+    "prompt": "A low-grade stable AC injury is managed with comfort support followed by gradual rehabilitation as symptoms allow. The clinician avoids unnecessarily prolonged shoulder immobilization. Which principle explains the planned progression to appropriate movement?",
+    "options": [
+      "Assess associated injuries beyond the visible fracture",
+      "Protected early motion when stability permits",
+      "Document neurovascular status before and after intervention",
+      "CT to define the injury and adjacent structures",
+      "Urgent specialist evaluation and controlled treatment"
+    ],
+    "answer": "Protected early motion when stability permits",
+    "explanation": "Appropriate early motion reduces stiffness; timing depends on stability and the treatment plan.",
+    "distractorExplanations": {
+      "Protected early motion when stability permits": "Appropriate early motion reduces stiffness; timing depends on stability and the treatment plan.",
+      "Document neurovascular status before and after intervention": "Serial motor, sensory and perfusion examinations establish baseline function and detect new deficits after reduction or splinting. This does not best answer the specific question in this case.",
+      "CT to define the injury and adjacent structures": "CT helps evaluate complex bony anatomy, articular involvement or sternoclavicular relationships when indicated. This does not best answer the specific question in this case.",
+      "Urgent specialist evaluation and controlled treatment": "Threatened neurovascular or mediastinal structures require urgent appropriately supported care, not casual manipulation. This does not best answer the specific question in this case.",
+      "Assess associated injuries beyond the visible fracture": "High-energy injuries can coexist with chest, neurovascular or adjacent-joint injuries that alter priorities. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=o0c7PvRFH_g"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-o0c7PvRFH_g-5",
+    "lectureId": "o0c7PvRFH_g",
+    "title": "Acromioclavicular injury: 5",
+    "prompt": "Years after an AC injury, a patient develops focal superior-shoulder pain with cross-body movement. Imaging shows degenerative narrowing at the previously injured joint. Which late complication best explains the localized pain and radiographic changes?",
+    "options": [
+      "Post-traumatic osteoarthritis",
+      "Joint stiffness",
+      "Osteonecrosis",
+      "Nonunion",
+      "Acute compartment syndrome"
+    ],
+    "answer": "Post-traumatic osteoarthritis",
+    "explanation": "Articular incongruity or cartilage damage can cause later degenerative joint changes.",
+    "distractorExplanations": {
+      "Post-traumatic osteoarthritis": "Articular incongruity or cartilage damage can cause later degenerative joint changes.",
+      "Joint stiffness": "Capsular contracture, adhesions and prolonged immobilization can restrict motion after injury. This does not best answer the specific question in this case.",
+      "Osteonecrosis": "Disruption of blood supply can lead to death and collapse of an injured bony segment. This does not best answer the specific question in this case.",
+      "Nonunion": "Persistent failure of fracture healing requires assessment of stability, biology, infection and patient factors. This does not best answer the specific question in this case.",
+      "Acute compartment syndrome": "Rising compartment pressure impairs perfusion; escalating pain and pain on passive stretch require urgent assessment. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=o0c7PvRFH_g"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-tfOaWc3yni4-1",
+    "lectureId": "tfOaWc3yni4",
+    "title": "Scapula fractures: 1",
+    "prompt": "A motorcyclist has posterior shoulder bruising after a high-energy collision. Imaging identifies a fracture of the flat triangular bone overlying the posterior chest wall. Which bone injury should prompt a careful search for associated thoracic trauma?",
+    "options": [
+      "Radial head fracture",
+      "Humeral shaft fracture",
+      "Proximal humeral fracture",
+      "Clavicle fracture",
+      "Scapular fracture"
+    ],
+    "answer": "Scapular fracture",
+    "explanation": "Scapular injury often follows high-energy trauma and should prompt evaluation for thoracic and other associated injuries.",
+    "distractorExplanations": {
+      "Scapular fracture": "Scapular injury often follows high-energy trauma and should prompt evaluation for thoracic and other associated injuries.",
+      "Radial head fracture": "Lateral elbow tenderness and painful forearm rotation after axial loading suggest radial head injury. This does not best answer the specific question in this case.",
+      "Humeral shaft fracture": "A diaphyseal humeral fracture is associated with radial nerve vulnerability and may be treated with bracing or surgery depending on circumstances. This does not best answer the specific question in this case.",
+      "Proximal humeral fracture": "Low-energy falls in older osteoporotic patients commonly cause proximal humeral fractures. This does not best answer the specific question in this case.",
+      "Clavicle fracture": "A direct shoulder impact can fracture the clavicle; skin and neurovascular status require assessment. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=tfOaWc3yni4"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-tfOaWc3yni4-2",
+    "lectureId": "tfOaWc3yni4",
+    "title": "Scapula fractures: 2",
+    "prompt": "A patient with a scapular fracture has chest pain and reduced breath sounds. The fracture is visible, but the respiratory findings require separate urgent assessment. Which trauma principle best guides the clinician’s next priorities?",
+    "options": [
+      "CT to define the injury and adjacent structures",
+      "Urgent specialist evaluation and controlled treatment",
+      "Protected early motion when stability permits",
+      "Assess associated injuries beyond the visible fracture",
+      "Document neurovascular status before and after intervention"
+    ],
+    "answer": "Assess associated injuries beyond the visible fracture",
+    "explanation": "High-energy injuries can coexist with chest, neurovascular or adjacent-joint injuries that alter priorities.",
+    "distractorExplanations": {
+      "Assess associated injuries beyond the visible fracture": "High-energy injuries can coexist with chest, neurovascular or adjacent-joint injuries that alter priorities.",
+      "Document neurovascular status before and after intervention": "Serial motor, sensory and perfusion examinations establish baseline function and detect new deficits after reduction or splinting. This does not best answer the specific question in this case.",
+      "CT to define the injury and adjacent structures": "CT helps evaluate complex bony anatomy, articular involvement or sternoclavicular relationships when indicated. This does not best answer the specific question in this case.",
+      "Urgent specialist evaluation and controlled treatment": "Threatened neurovascular or mediastinal structures require urgent appropriately supported care, not casual manipulation. This does not best answer the specific question in this case.",
+      "Protected early motion when stability permits": "Appropriate early motion reduces stiffness; timing depends on stability and the treatment plan. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=tfOaWc3yni4"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-tfOaWc3yni4-3",
+    "lectureId": "tfOaWc3yni4",
+    "title": "Scapula fractures: 3",
+    "prompt": "Radiographs show a scapular fracture extending toward the glenoid. The surgeon needs precise information about articular displacement and fracture configuration. Which listed imaging method best supports assessment of this complex bony anatomy?",
+    "options": [
+      "Protected early motion when stability permits",
+      "Assess associated injuries beyond the visible fracture",
+      "CT to define the injury and adjacent structures",
+      "Document neurovascular status before and after intervention",
+      "Urgent specialist evaluation and controlled treatment"
+    ],
+    "answer": "CT to define the injury and adjacent structures",
+    "explanation": "CT helps evaluate complex bony anatomy, articular involvement or sternoclavicular relationships when indicated.",
+    "distractorExplanations": {
+      "CT to define the injury and adjacent structures": "CT helps evaluate complex bony anatomy, articular involvement or sternoclavicular relationships when indicated.",
+      "Document neurovascular status before and after intervention": "Serial motor, sensory and perfusion examinations establish baseline function and detect new deficits after reduction or splinting. This does not best answer the specific question in this case.",
+      "Urgent specialist evaluation and controlled treatment": "Threatened neurovascular or mediastinal structures require urgent appropriately supported care, not casual manipulation. This does not best answer the specific question in this case.",
+      "Protected early motion when stability permits": "Appropriate early motion reduces stiffness; timing depends on stability and the treatment plan. This does not best answer the specific question in this case.",
+      "Assess associated injuries beyond the visible fracture": "High-energy injuries can coexist with chest, neurovascular or adjacent-joint injuries that alter priorities. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=tfOaWc3yni4"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-tfOaWc3yni4-4",
+    "lectureId": "tfOaWc3yni4",
+    "title": "Scapula fractures: 4",
+    "prompt": "A displaced intra-articular glenoid fracture heals with persistent joint-surface incongruity. Over time the patient develops pain, restricted movement and degenerative changes. Which complication best explains the consequences of the residual articular mismatch?",
+    "options": [
+      "Acute compartment syndrome",
+      "Post-traumatic osteoarthritis",
+      "Joint stiffness",
+      "Osteonecrosis",
+      "Nonunion"
+    ],
+    "answer": "Post-traumatic osteoarthritis",
+    "explanation": "Articular incongruity or cartilage damage can cause later degenerative joint changes.",
+    "distractorExplanations": {
+      "Post-traumatic osteoarthritis": "Articular incongruity or cartilage damage can cause later degenerative joint changes.",
+      "Joint stiffness": "Capsular contracture, adhesions and prolonged immobilization can restrict motion after injury. This does not best answer the specific question in this case.",
+      "Osteonecrosis": "Disruption of blood supply can lead to death and collapse of an injured bony segment. This does not best answer the specific question in this case.",
+      "Nonunion": "Persistent failure of fracture healing requires assessment of stability, biology, infection and patient factors. This does not best answer the specific question in this case.",
+      "Acute compartment syndrome": "Rising compartment pressure impairs perfusion; escalating pain and pain on passive stretch require urgent assessment. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=tfOaWc3yni4"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-tfOaWc3yni4-5",
+    "lectureId": "tfOaWc3yni4",
+    "title": "Scapula fractures: 5",
+    "prompt": "A stable scapular body fracture is managed without surgery. As pain improves and stability is confirmed, a supervised movement program is introduced. Which treatment principle helps reduce unnecessary loss of shoulder function during recovery?",
+    "options": [
+      "Protected early motion when stability permits",
+      "Document neurovascular status before and after intervention",
+      "CT to define the injury and adjacent structures",
+      "Urgent specialist evaluation and controlled treatment",
+      "Assess associated injuries beyond the visible fracture"
+    ],
+    "answer": "Protected early motion when stability permits",
+    "explanation": "Appropriate early motion reduces stiffness; timing depends on stability and the treatment plan.",
+    "distractorExplanations": {
+      "Protected early motion when stability permits": "Appropriate early motion reduces stiffness; timing depends on stability and the treatment plan.",
+      "Document neurovascular status before and after intervention": "Serial motor, sensory and perfusion examinations establish baseline function and detect new deficits after reduction or splinting. This does not best answer the specific question in this case.",
+      "CT to define the injury and adjacent structures": "CT helps evaluate complex bony anatomy, articular involvement or sternoclavicular relationships when indicated. This does not best answer the specific question in this case.",
+      "Urgent specialist evaluation and controlled treatment": "Threatened neurovascular or mediastinal structures require urgent appropriately supported care, not casual manipulation. This does not best answer the specific question in this case.",
+      "Assess associated injuries beyond the visible fracture": "High-energy injuries can coexist with chest, neurovascular or adjacent-joint injuries that alter priorities. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=tfOaWc3yni4"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-8eGo8agSIBM-1",
+    "lectureId": "8eGo8agSIBM",
+    "title": "Clavicle fractures: 1",
+    "prompt": "After falling directly onto the shoulder, a patient has focal pain and a palpable step along the mid-collarbone. Imaging confirms a fracture between the sternum and acromion. Which shoulder-girdle bone is injured in this case?",
+    "options": [
+      "Radial head fracture",
+      "Humeral shaft fracture",
+      "Proximal humeral fracture",
+      "Scapular fracture",
+      "Clavicle fracture"
+    ],
+    "answer": "Clavicle fracture",
+    "explanation": "A direct shoulder impact can fracture the clavicle; skin and neurovascular status require assessment.",
+    "distractorExplanations": {
+      "Clavicle fracture": "A direct shoulder impact can fracture the clavicle; skin and neurovascular status require assessment.",
+      "Radial head fracture": "Lateral elbow tenderness and painful forearm rotation after axial loading suggest radial head injury. This does not best answer the specific question in this case.",
+      "Humeral shaft fracture": "A diaphyseal humeral fracture is associated with radial nerve vulnerability and may be treated with bracing or surgery depending on circumstances. This does not best answer the specific question in this case.",
+      "Proximal humeral fracture": "Low-energy falls in older osteoporotic patients commonly cause proximal humeral fractures. This does not best answer the specific question in this case.",
+      "Scapular fracture": "Scapular injury often follows high-energy trauma and should prompt evaluation for thoracic and other associated injuries. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=8eGo8agSIBM"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-8eGo8agSIBM-2",
+    "lectureId": "8eGo8agSIBM",
+    "title": "Clavicle fractures: 2",
+    "prompt": "A clavicle fracture produces a sharp fragment that tents and blanches the overlying skin. The hand remains perfused, but the skin appears threatened. Which management priority is appropriate rather than routine delayed review without reassessment?",
+    "options": [
+      "CT to define the injury and adjacent structures",
+      "Protected early motion when stability permits",
+      "Assess associated injuries beyond the visible fracture",
+      "Urgent specialist evaluation and controlled treatment",
+      "Document neurovascular status before and after intervention"
+    ],
+    "answer": "Urgent specialist evaluation and controlled treatment",
+    "explanation": "Threatened neurovascular or mediastinal structures require urgent appropriately supported care, not casual manipulation.",
+    "distractorExplanations": {
+      "Urgent specialist evaluation and controlled treatment": "Threatened neurovascular or mediastinal structures require urgent appropriately supported care, not casual manipulation.",
+      "Document neurovascular status before and after intervention": "Serial motor, sensory and perfusion examinations establish baseline function and detect new deficits after reduction or splinting. This does not best answer the specific question in this case.",
+      "CT to define the injury and adjacent structures": "CT helps evaluate complex bony anatomy, articular involvement or sternoclavicular relationships when indicated. This does not best answer the specific question in this case.",
+      "Protected early motion when stability permits": "Appropriate early motion reduces stiffness; timing depends on stability and the treatment plan. This does not best answer the specific question in this case.",
+      "Assess associated injuries beyond the visible fracture": "High-energy injuries can coexist with chest, neurovascular or adjacent-joint injuries that alter priorities. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=8eGo8agSIBM"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-8eGo8agSIBM-3",
+    "lectureId": "8eGo8agSIBM",
+    "title": "Clavicle fractures: 3",
+    "prompt": "A patient with a displaced clavicle fracture reports tingling in the arm. The examiner evaluates pulses, capillary refill and motor and sensory function throughout the limb. Which assessment principle addresses possible injury beneath the clavicle?",
+    "options": [
+      "Protected early motion when stability permits",
+      "Assess associated injuries beyond the visible fracture",
+      "Document neurovascular status before and after intervention",
+      "CT to define the injury and adjacent structures",
+      "Urgent specialist evaluation and controlled treatment"
+    ],
+    "answer": "Document neurovascular status before and after intervention",
+    "explanation": "Serial motor, sensory and perfusion examinations establish baseline function and detect new deficits after reduction or splinting.",
+    "distractorExplanations": {
+      "Document neurovascular status before and after intervention": "Serial motor, sensory and perfusion examinations establish baseline function and detect new deficits after reduction or splinting.",
+      "CT to define the injury and adjacent structures": "CT helps evaluate complex bony anatomy, articular involvement or sternoclavicular relationships when indicated. This does not best answer the specific question in this case.",
+      "Urgent specialist evaluation and controlled treatment": "Threatened neurovascular or mediastinal structures require urgent appropriately supported care, not casual manipulation. This does not best answer the specific question in this case.",
+      "Protected early motion when stability permits": "Appropriate early motion reduces stiffness; timing depends on stability and the treatment plan. This does not best answer the specific question in this case.",
+      "Assess associated injuries beyond the visible fracture": "High-energy injuries can coexist with chest, neurovascular or adjacent-joint injuries that alter priorities. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=8eGo8agSIBM"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-8eGo8agSIBM-4",
+    "lectureId": "8eGo8agSIBM",
+    "title": "Clavicle fractures: 4",
+    "prompt": "A patient remains painful at the clavicle fracture months after injury. There is persistent movement at the site and no progressive bridging on serial films. Which healing complication should be assessed in this clinical situation?",
+    "options": [
+      "Acute compartment syndrome",
+      "Nonunion",
+      "Joint stiffness",
+      "Osteonecrosis",
+      "Post-traumatic osteoarthritis"
+    ],
+    "answer": "Nonunion",
+    "explanation": "Persistent failure of fracture healing requires assessment of stability, biology, infection and patient factors.",
+    "distractorExplanations": {
+      "Nonunion": "Persistent failure of fracture healing requires assessment of stability, biology, infection and patient factors.",
+      "Joint stiffness": "Capsular contracture, adhesions and prolonged immobilization can restrict motion after injury. This does not best answer the specific question in this case.",
+      "Osteonecrosis": "Disruption of blood supply can lead to death and collapse of an injured bony segment. This does not best answer the specific question in this case.",
+      "Post-traumatic osteoarthritis": "Articular incongruity or cartilage damage can cause later degenerative joint changes. This does not best answer the specific question in this case.",
+      "Acute compartment syndrome": "Rising compartment pressure impairs perfusion; escalating pain and pain on passive stretch require urgent assessment. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=8eGo8agSIBM"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  },
+  {
+    "id": "reviewed-upper-limb-8eGo8agSIBM-5",
+    "lectureId": "8eGo8agSIBM",
+    "title": "Clavicle fractures: 5",
+    "prompt": "A patient with a clavicle fracture after high-energy trauma also has pleuritic pain and breathlessness. Which principle requires evaluation of the chest and other injuries instead of assuming the clavicle fracture explains every symptom?",
+    "options": [
+      "Assess associated injuries beyond the visible fracture",
+      "Document neurovascular status before and after intervention",
+      "CT to define the injury and adjacent structures",
+      "Urgent specialist evaluation and controlled treatment",
+      "Protected early motion when stability permits"
+    ],
+    "answer": "Assess associated injuries beyond the visible fracture",
+    "explanation": "High-energy injuries can coexist with chest, neurovascular or adjacent-joint injuries that alter priorities.",
+    "distractorExplanations": {
+      "Assess associated injuries beyond the visible fracture": "High-energy injuries can coexist with chest, neurovascular or adjacent-joint injuries that alter priorities.",
+      "Document neurovascular status before and after intervention": "Serial motor, sensory and perfusion examinations establish baseline function and detect new deficits after reduction or splinting. This does not best answer the specific question in this case.",
+      "CT to define the injury and adjacent structures": "CT helps evaluate complex bony anatomy, articular involvement or sternoclavicular relationships when indicated. This does not best answer the specific question in this case.",
+      "Urgent specialist evaluation and controlled treatment": "Threatened neurovascular or mediastinal structures require urgent appropriately supported care, not casual manipulation. This does not best answer the specific question in this case.",
+      "Protected early motion when stability permits": "Appropriate early motion reduces stiffness; timing depends on stability and the treatment plan. This does not best answer the specific question in this case."
+    },
+    "references": [
+      {
+        "title": "Lecture and supplied source presentation",
+        "url": "https://www.youtube.com/watch?v=8eGo8agSIBM"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://surgeryreference.aofoundation.org/orthopedic-trauma"
+      },
+      {
+        "title": "Clinical reference",
+        "url": "https://www.orthoinfo.org/en/diseases--conditions/shoulder-trauma-fractures-and-dislocations/"
+      }
+    ],
+    "provenance": "Original educational case; not copied from a commercial examination bank."
+  }
+]
