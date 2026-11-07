@@ -103,6 +103,15 @@ for(const lecture of data.videos){
   }
   for(const section of sections){
     if(!section.heading){body+=section.content;continue;}
+    if(lecture.id==='n9brM9pTw6I'&&section.heading==='Examples of Free radical injury'){
+      // The presentation repeats the same example list across two slides.
+      // Retain one list while preserving the intervening figures and captions.
+      let examplesSeen=false;
+      section.content=section.content.replace(/<ul><li>CCl4<\/li><li>Reperfusion injury<\/li><\/ul>/g,list=>{
+        if(examplesSeen)return '';
+        examplesSeen=true;return list;
+      });
+    }
     const id=`note-${lecture.id}-${outline.length+1}`;
     const children=[];
     const sectionContent=section.content.replace(/<h3>([\s\S]*?)<\/h3>/g,(all,heading)=>{

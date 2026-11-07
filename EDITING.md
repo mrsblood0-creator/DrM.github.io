@@ -109,3 +109,10 @@ The importer also handles pharmacology through this configuration. It preserves 
 
 
 `content/lecture-note-policy.json` lists video demonstrations for which the user requested no lecture notes. These videos remain in the library; their note panel is hidden in the app and omitted from static pages. This exemption does not remove their questions or flashcards.
+
+
+## Google Analytics
+
+`analytics.js` uses GA4 measurement ID `G-933HR3MDFY` on the main app and generated pages. It sends initial and hash-route page views, deduplicates identical routes, and skips localhost/file previews. Deployment of the updated dist directory is required.
+
+In GA4 Admin → Data streams → your web stream → Enhanced measurement → Page views → Advanced settings, disable **Page changes based on browser history events** because this site sends its own route page views. Keep ordinary Page views enabled. Verify the published site in Realtime; local checks do not confirm receipt by Google.
