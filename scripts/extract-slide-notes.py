@@ -1,4 +1,5 @@
 import os,json,zipfile,xml.etree.ElementTree as ET,posixpath,hashlib,html,io
+import sys
 from PIL import Image
 from pathlib import Path
 from slide_image_filter import annotation_only
@@ -9,8 +10,12 @@ mapping={}
 for file in Path('.').glob('slide-map-*.json'):mapping.update(json.load(open(file,encoding='utf8')))
 E=html.escape
 result={};issues=[];counts={'slides':0,'images':0,'tables':0}; filtered=[]; image_checks={}
+selected=set(sys.argv[1:])
+if selected:result=json.load(open('slide-notes.json',encoding='utf8'))
 manual_exclusions=json.load(open('content/excluded-slide-images.json',encoding='utf8'))
+keep_small={'23843b71a4d46de75bb0d624.jpeg'} # Reviewed ATLS head-tilt/chin-lift photograph.
 for vid,m in mapping.items():
+ if selected and vid not in selected:continue
  if not m['decks']:continue
  sections=[];sources=[];seen=set();number=0;figures=0;tables=0;outline=[]
  for path in m['decks']:
@@ -52,7 +57,7 @@ for vid,m in mapping.items():
      continue
     try:
      image=Image.open(io.BytesIO(data));w,h=image.size
-     if w<130 or h<60:continue # Exclude small ink strokes and decorative markers.
+     if (w<130 or h<60) and asset_name not in keep_small:continue
      image_key=hashlib.sha256(data).hexdigest()
      if image_key not in image_checks:image_checks[image_key]=annotation_only(image)
      if image_checks[image_key]:
@@ -60,6 +65,7 @@ for vid,m in mapping.items():
       continue
     except:pass
     digest=hashlib.sha256(data).hexdigest()[:24];ext=Path(target).suffix.lower()
+    if ext=='.jfif':ext='.jpg'
     if digest in seen:continue
     if ext not in ['.png','.jpg','.jpeg','.gif','.svg','.webp','.bmp']:
      issues.append({'video':vid,'deck':os.path.basename(path),'slide':no,'issue':'Unsupported embedded figure '+ext});continue
@@ -73,6 +79,6 @@ for vid,m in mapping.items():
  result[vid]={'html':''.join(sections),'sources':sources,'slideCount':number,'imageCount':figures,'tableCount':tables,'outline':outline,'reason':m['reason']}
  counts['slides']+=number;counts['images']+=figures;counts['tables']+=tables
 json.dump(result,open('slide-notes.json','w',encoding='utf8'),ensure_ascii=False)
-json.dump({'lectures':len(result),**counts,'issues':issues},open('slide-extraction-audit.json','w',encoding='utf8'),ensure_ascii=False,indent=2)
-json.dump(filtered,open('excluded-slide-annotations.json','w',encoding='utf8'),ensure_ascii=False,indent=2)
+json.dump({'lectures':len(selected) if selected else len(result),**counts,'issues':issues},open('content/targeted-slide-extraction-audit.json' if selected else 'slide-extraction-audit.json','w',encoding='utf8'),ensure_ascii=False,indent=2)
+json.dump(filtered,open('content/targeted-excluded-slide-annotations.json' if selected else 'excluded-slide-annotations.json','w',encoding='utf8'),ensure_ascii=False,indent=2)
 print(json.dumps({'lectures':len(result),**counts,'issues':len(issues)}))

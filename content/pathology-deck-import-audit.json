@@ -15,11 +15,41 @@
       7,
       8
     ],
-    "importedFigures": 11,
+    "importedFigures": 0,
     "excludedImages": [
       {
         "slide": 1,
         "source": "ppt/media/image1.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 2,
+        "source": "ppt/media/image2.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 3,
+        "source": "ppt/media/image3.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 3,
+        "source": "ppt/media/image4.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 4,
+        "source": "ppt/media/image5.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 4,
+        "source": "ppt/media/image6.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 5,
+        "source": "ppt/media/image7.png",
         "reason": "Small decorative asset, blank image or annotation-only layer"
       },
       {
@@ -46,6 +76,31 @@
         "slide": 6,
         "source": "ppt/media/image12.png",
         "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 6,
+        "source": "ppt/media/image13.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 6,
+        "source": "ppt/media/image14.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 7,
+        "source": "ppt/media/image15.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 8,
+        "source": "ppt/media/image16.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 8,
+        "source": "ppt/media/image17.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
       }
     ]
   },
@@ -65,7 +120,7 @@
       7,
       8
     ],
-    "importedFigures": 21,
+    "importedFigures": 7,
     "excludedImages": [
       {
         "slide": 1,
@@ -103,8 +158,43 @@
         "reason": "Small decorative asset, blank image or annotation-only layer"
       },
       {
+        "slide": 2,
+        "source": "ppt/media/image8.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 3,
+        "source": "ppt/media/image10.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 3,
+        "source": "ppt/media/image11.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 3,
+        "source": "ppt/media/image12.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 4,
+        "source": "ppt/media/image14.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 4,
+        "source": "ppt/media/image15.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
         "slide": 4,
         "source": "ppt/media/image16.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 5,
+        "source": "ppt/media/image19.png",
         "reason": "Small decorative asset, blank image or annotation-only layer"
       },
       {
@@ -113,13 +203,48 @@
         "reason": "Small decorative asset, blank image or annotation-only layer"
       },
       {
+        "slide": 6,
+        "source": "ppt/media/image22.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 6,
+        "source": "ppt/media/image23.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 6,
+        "source": "ppt/media/image24.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
         "slide": 7,
         "source": "ppt/media/image26.png",
         "reason": "Small decorative asset, blank image or annotation-only layer"
       },
       {
+        "slide": 7,
+        "source": "ppt/media/image27.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 7,
+        "source": "ppt/media/image28.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 8,
+        "source": "ppt/media/image30.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
         "slide": 8,
         "source": "ppt/media/image31.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 8,
+        "source": "ppt/media/image32.png",
         "reason": "Small decorative asset, blank image or annotation-only layer"
       }
     ]
@@ -146,7 +271,7 @@
       14,
       15
     ],
-    "importedFigures": 8,
+    "importedFigures": 4,
     "excludedImages": [
       {
         "slide": 2,
@@ -156,6 +281,16 @@
       {
         "slide": 3,
         "source": "ppt/media/image2.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 4,
+        "source": "ppt/media/image3.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 5,
+        "source": "ppt/media/image4.png",
         "reason": "Small decorative asset, blank image or annotation-only layer"
       },
       {
@@ -199,6 +334,11 @@
         "reason": "Small decorative asset, blank image or annotation-only layer"
       },
       {
+        "slide": 10,
+        "source": "ppt/media/image13.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
         "slide": 11,
         "source": "ppt/media/image14.png",
         "reason": "Small decorative asset, blank image or annotation-only layer"
@@ -206,6 +346,11 @@
       {
         "slide": 12,
         "source": "ppt/media/image15.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 13,
+        "source": "ppt/media/image17.png",
         "reason": "Small decorative asset, blank image or annotation-only layer"
       },
       {
@@ -246,7 +391,7 @@
       18,
       19
     ],
-    "importedFigures": 14,
+    "importedFigures": 6,
     "excludedImages": [
       {
         "slide": 2,
@@ -294,13 +439,43 @@
         "reason": "Small decorative asset, blank image or annotation-only layer"
       },
       {
+        "slide": 7,
+        "source": "ppt/media/image11.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 8,
+        "source": "ppt/media/image12.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 8,
+        "source": "ppt/media/image13.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
         "slide": 9,
         "source": "ppt/media/image14.png",
         "reason": "Small decorative asset, blank image or annotation-only layer"
       },
       {
+        "slide": 10,
+        "source": "ppt/media/image15.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 11,
+        "source": "ppt/media/image16.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
         "slide": 12,
         "source": "ppt/media/image17.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 13,
+        "source": "ppt/media/image18.png",
         "reason": "Small decorative asset, blank image or annotation-only layer"
       },
       {
@@ -311,6 +486,11 @@
       {
         "slide": 15,
         "source": "ppt/media/image20.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 16,
+        "source": "ppt/media/image21.png",
         "reason": "Small decorative asset, blank image or annotation-only layer"
       },
       {
@@ -326,6 +506,11 @@
       {
         "slide": 18,
         "source": "ppt/media/image25.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 19,
+        "source": "ppt/media/image26.png",
         "reason": "Small decorative asset, blank image or annotation-only layer"
       }
     ]
@@ -373,11 +558,21 @@
       32,
       33
     ],
-    "importedFigures": 17,
+    "importedFigures": 14,
     "excludedImages": [
       {
         "slide": 1,
         "source": "ppt/media/image2.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 2,
+        "source": "ppt/media/image3.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 2,
+        "source": "ppt/media/image4.png",
         "reason": "Small decorative asset, blank image or annotation-only layer"
       },
       {
@@ -481,6 +676,11 @@
         "reason": "Small decorative asset, blank image or annotation-only layer"
       },
       {
+        "slide": 18,
+        "source": "ppt/media/image29.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
         "slide": 19,
         "source": "ppt/media/image30.png",
         "reason": "Small decorative asset, blank image or annotation-only layer"
@@ -523,6 +723,11 @@
       {
         "slide": 27,
         "source": "ppt/media/image40.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 28,
+        "source": "ppt/media/image41.png",
         "reason": "Small decorative asset, blank image or annotation-only layer"
       },
       {
@@ -576,7 +781,7 @@
       10,
       11
     ],
-    "importedFigures": 6,
+    "importedFigures": 2,
     "excludedImages": [
       {
         "slide": 1,
@@ -609,6 +814,11 @@
         "reason": "Small decorative asset, blank image or annotation-only layer"
       },
       {
+        "slide": 4,
+        "source": "ppt/media/image8.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
         "slide": 5,
         "source": "ppt/media/image9.png",
         "reason": "Small decorative asset, blank image or annotation-only layer"
@@ -616,6 +826,11 @@
       {
         "slide": 5,
         "source": "ppt/media/image10.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 5,
+        "source": "ppt/media/image11.png",
         "reason": "Small decorative asset, blank image or annotation-only layer"
       },
       {
@@ -665,7 +880,17 @@
       },
       {
         "slide": 8,
+        "source": "ppt/media/image21.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 8,
         "source": "ppt/media/image22.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 9,
+        "source": "ppt/media/image23.png",
         "reason": "Small decorative asset, blank image or annotation-only layer"
       },
       {
@@ -711,7 +936,7 @@
       21,
       22
     ],
-    "importedFigures": 7,
+    "importedFigures": 8,
     "excludedImages": [
       {
         "slide": 1,
@@ -981,7 +1206,7 @@
       11,
       12
     ],
-    "importedFigures": 3,
+    "importedFigures": 2,
     "excludedImages": [
       {
         "slide": 3,
@@ -1016,6 +1241,11 @@
       {
         "slide": 7,
         "source": "ppt/media/image9.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 8,
+        "source": "ppt/media/image10.png",
         "reason": "Small decorative asset, blank image or annotation-only layer"
       },
       {
@@ -1097,7 +1327,7 @@
       28,
       29
     ],
-    "importedFigures": 24,
+    "importedFigures": 23,
     "excludedImages": [
       {
         "slide": 3,
@@ -1182,6 +1412,11 @@
       {
         "slide": 14,
         "source": "ppt/media/image26.png",
+        "reason": "Small decorative asset, blank image or annotation-only layer"
+      },
+      {
+        "slide": 19,
+        "source": "ppt/media/image31.png",
         "reason": "Small decorative asset, blank image or annotation-only layer"
       },
       {

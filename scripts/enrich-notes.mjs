@@ -32,8 +32,9 @@ function cleanSlide(inner){
   const missing=[...new Set(credits)].filter(c=>!captions.some(text=>text.includes(plainText(c))));
   if(missing.length){
     const credit=missing.join(' · ');
-    // When several figures share a slide, retain its collective credit below the gallery.
-    inner+=`<div class="figure-credit">${credit}</div>`;
+    // Keep slide-level credits below the actual figure instead of as loose prose.
+    if(inner.includes('</figcaption>'))inner=inner.replace('</figcaption>',` · ${credit}</figcaption>`);
+    else inner+=`<div class="figure-credit">${credit}</div>`;
   }
   // Turn explicit lists into semantic bullets without changing their wording.
   const cue=/(?:divided into|classified|classification|types|mechanisms|pathways|examples|loss of nucleus via|occurs? in|includes?|consists? of)/i;
@@ -64,13 +65,35 @@ for(const lecture of data.videos){
     // Native source figures are permitted; captured video frames and generated
     // supplementary notes remain excluded.
     const text=source.html;
+    const sourceHeadings=new Set([...text.matchAll(/<h3[^>]*>([\s\S]*?)<\/h3>/g)].map(m=>plainText(m[1]).toLowerCase()));
+    let introFigures='';
+    let sourceIndex=0;
     for(const match of text.matchAll(/<section\b[^>]*>([\s\S]*?)<\/section>/g)){
+      sourceIndex++;
       if(lecture.id==='I0ygFfqwhHw' && /<h3[^>]*>Slide 1<\/h3>/.test(match[1]))continue;
       if(/<h3[^>]*>\s*thanks?\s+to\s+our\s+members\s*[.!]?\s*<\/h3>/i.test(match[1]))continue;
       const inner=cleanSlide(match[1].replace(/<span class="slide-number">[\s\S]*?<\/span>/g,''));
       let heading=inner.match(/<h3[^>]*>([\s\S]*?)<\/h3>/)?.[1]||'Presentation section';
       if(/^(?:thanks?(?: a lot| you| to our members)?|thank you(?: for (?:watching|listening|your attention))?)[.! ]*$/i.test(plainText(heading)))continue;
-      const content=inner.replace(/<h3[^>]*>[\s\S]*?<\/h3>/,'');
+      let content=inner.replace(/<h3[^>]*>[\s\S]*?<\/h3>/,'');
+      const agendaItems=[...content.matchAll(/<(?:p|li)\b[^>]*>([^<]+)<\/(?:p|li)>/g)].map(m=>plainText(m[1]));
+      const agendaMatches=agendaItems.filter(t=>sourceHeadings.has(t.toLowerCase())).length;
+      const standardTopics=/^(definition|introduction|overview|epidemiology|causes|etiology|aetiology|risk factors|pathophysiology|pathogenesis|classification|types|clinical features(?: \(signs and symptoms\))?|signs(?: and symptoms)?|symptoms|presentation|diagnosis|investigations|differential diagnosis|treatment|management|complications|prognosis|prevention)$/i;
+      const standardMatches=agendaItems.filter(t=>standardTopics.test(t)).length;
+      const agenda=(lecture.id==='ionR1D5j3gI'&&sourceIndex===1)||((sourceIndex<=3||/^(?:lecture )?(?:contents|outline|agenda|topics covered)$/i.test(heading))&&agendaItems.length>=3&&agendaItems.every(t=>t.split(/\s+/).length<=9)&&(agendaMatches/agendaItems.length>=.7||standardMatches/agendaItems.length>=.8));
+      if(agenda){
+        introFigures+=(content.match(/<div class="slide-gallery">[\s\S]*?<\/div>/g)||[]).join('');
+        introFigures+=(content.match(/<div class="figure-credit">[\s\S]*?<\/div>/g)||[]).join('');
+        continue;
+      }
+      if(introFigures){
+        content+=introFigures;
+        introFigures='';
+        // A repeated source credit belongs to the retained picture, not the prose.
+        const credits=[...content.matchAll(/<div class="figure-credit">([\s\S]*?)<\/div>/g)].map(m=>m[1]);
+        content=content.replace(/<div class="figure-credit">[\s\S]*?<\/div>/g,'');
+        if(credits.length)content=content.replace('</figcaption>',` · ${[...new Set(credits)].join(' · ')}</figcaption>`);
+      }
       if(!content.replace(/<[^>]+>/g,'').trim())continue;
       const figureOnly=heading==='Source figures'||(/^Slide \d+$/i.test(heading)&&!/<(?:p|table|ul)\b/.test(content));
       if(figureOnly){
