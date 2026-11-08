@@ -1,171 +1,142 @@
 [
   {
-    "id": "PLEexNWypa754",
-    "title": "Pathology: Growth Adaptations, Cell Injury & Cell Death",
-    "description": "Follow the channel’s playlist in its published teaching order.",
-    "category": "Pathology",
+    "id": "orthopedic-trauma-basic-principles",
+    "title": "Orthopedic Trauma Basic Principles",
+    "description": "Build a foundation in fracture mechanisms, bone healing, trauma assessment, treatment and complications.",
+    "category": "Orthopedics",
     "lectureIds": [
-      "DHphsnW-nYo",
-      "kHhJRk4qxPQ",
-      "I-_HV25j_9s",
-      "n9brM9pTw6I",
-      "I0ygFfqwhHw",
-      "iFo2ROztdGs",
-      "IdO0f5klcXI",
-      "esgddQPQqSQ"
+      "g9GM06BiySc",
+      "xQDr05DvYqU",
+      "-v6qWPet_w4",
+      "ZD_5Why69IM",
+      "JEwVXWfT7k8",
+      "-1gKvuNoUbI",
+      "UXZhSHs5d3c",
+      "MNCW8GB40Mk",
+      "WascAsz4NLw",
+      "JeW8v0_o0kc",
+      "e2UyJuIMzeo",
+      "Q1AMwkBMFyI",
+      "Wzd0qEaGbTU",
+      "OU44V4OBZgg",
+      "1ERoGc-oLEY",
+      "ZeLcyaud9yE",
+      "JsU96oK0Mm0",
+      "LYmlFk-R7cc",
+      "7rzMPd2UlDw",
+      "gcbGXbr3EjI"
     ],
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLEexNWypa754",
+    "orderSource": "Oldest-first channel publication order; grouped from supplied course presentations"
+  },
+  {
+    "id": "PLllTTKSgGCnk8iznUdxRRMAN3xdI9M86C",
+    "title": "Shoulder & Arm Trauma MasterClass",
+    "description": "Follow the channel’s playlist in its published teaching order.",
+    "category": "Orthopedics",
+    "lectureIds": [
+      "Lk1CBijkKJQ",
+      "8eGo8agSIBM",
+      "tfOaWc3yni4",
+      "o0c7PvRFH_g",
+      "TiOGc1Yx12M",
+      "8Y68hgonnnQ",
+      "KfbUapEyL-I",
+      "dXFZ3RUREwc",
+      "Dqsqdmwn-Tc",
+      "5a1Qyb44wt0",
+      "qRLw6NOBqjI"
+    ],
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnk8iznUdxRRMAN3xdI9M86C",
     "orderSource": "YouTube playlist",
     "syncedAt": "2026-11-04T21:59:53.030Z"
   },
   {
-    "id": "PLMo46Bhy_j5U",
-    "title": "General Pathology",
+    "id": "PLllTTKSgGCnnolsjnWBx5Sby0SvhqHfkM",
+    "title": "Elbow & Forearm Trauma MasterClass",
     "description": "Follow the channel’s playlist in its published teaching order.",
-    "category": "Pathology",
+    "category": "Orthopedics",
     "lectureIds": [
-      "DHphsnW-nYo",
-      "kHhJRk4qxPQ",
-      "I-_HV25j_9s",
-      "n9brM9pTw6I",
-      "I0ygFfqwhHw",
-      "iFo2ROztdGs"
+      "7kbQ5Jwj3Es",
+      "iIKLt1Y-23c",
+      "IWq-2VXDRwI",
+      "5YJsNcvelzg",
+      "D3GxmDsCEBg",
+      "_afYy_HDT6M",
+      "jflb-nvOTwc",
+      "fyE1r2M6AF8"
     ],
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLMo46Bhy_j5U",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnnolsjnWBx5Sby0SvhqHfkM",
     "orderSource": "YouTube playlist",
     "syncedAt": "2026-11-04T21:59:53.030Z"
   },
   {
-    "id": "PLllTTKSgGCnmVntX0KJweCc4C0n9aruJh",
-    "title": "Pediatric Respiratory Diseases",
+    "id": "PLllTTKSgGCnlYBCttm9Qtq-h3-tIBPP6-",
+    "title": "Wrist and Hand Trauma MasterClass",
     "description": "Follow the channel’s playlist in its published teaching order.",
-    "category": "Pediatrics",
+    "category": "Orthopedics",
     "lectureIds": [
-      "ionR1D5j3gI",
-      "tKbkO6dladc",
-      "rtPmnu09wto",
-      "sBp7NlJQME0",
-      "1oZDzR-_QGk",
-      "M5FnKmsGxmM",
-      "cozkYn9YcYo",
-      "A8_qaIox3ys"
+      "wBHtaw2Eoc8",
+      "1dRHtMT16TI",
+      "SIX17WxeLfM"
     ],
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnmVntX0KJweCc4C0n9aruJh",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnlYBCttm9Qtq-h3-tIBPP6-",
     "orderSource": "YouTube playlist",
     "syncedAt": "2026-11-04T21:59:53.030Z"
   },
   {
-    "id": "PLllTTKSgGCnlcXMXskcGfzaZba-ufR6LC",
-    "title": "Management of Cardiac Arrhythmias",
+    "id": "PLllTTKSgGCnlO-0Kx4ImXx7MQ4D_JK9hY",
+    "title": "Orthopedics Imaging MasterClass",
     "description": "Follow the channel’s playlist in its published teaching order.",
-    "category": "Clinical medicine",
+    "category": "Orthopedics",
     "lectureIds": [
-      "flB-sPYNJ34",
-      "dmRp5H85WMs",
-      "3LKa8IO0QaE",
-      "SlETVFSIn8A",
-      "vJOep88PVIk"
+      "7rzMPd2UlDw",
+      "qRLw6NOBqjI",
+      "fyE1r2M6AF8"
     ],
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnlcXMXskcGfzaZba-ufR6LC",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnlO-0Kx4ImXx7MQ4D_JK9hY",
     "orderSource": "YouTube playlist",
     "syncedAt": "2026-11-04T21:59:53.030Z"
   },
   {
-    "id": "PLllTTKSgGCnmgmizdJg58aZO1b8sDt9E3",
-    "title": "Advanced Airway Support",
+    "id": "PLllTTKSgGCnn9bB4kjX0tJ3qZ2ExdL5xb",
+    "title": "Orthopedics Classifications",
     "description": "Follow the channel’s playlist in its published teaching order.",
-    "category": "Clinical medicine",
+    "category": "Orthopedics",
     "lectureIds": [
-      "eWjC_Y3rUZQ",
-      "SpjIi-cbawo",
-      "xSrRSHHfLoU",
-      "qfSpLNr9S44",
-      "_q0giMKf5Vc",
-      "3ZM6nOx4hpw",
-      "x7i4lCVPhF0",
-      "Lht-xTYLiCs"
+      "LI-c_eBJGBM",
+      "Xy_UkeAafdc",
+      "rJTSNkk_uvg",
+      "pJM7PDwyL0A",
+      "ay9sAvwxino",
+      "7VzcxT1T-lM",
+      "J3_iSJY8r7A",
+      "lDS-uGbi8Xk",
+      "F4FzJ2HcFSg",
+      "JeW8v0_o0kc"
     ],
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnmgmizdJg58aZO1b8sDt9E3",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnn9bB4kjX0tJ3qZ2ExdL5xb",
     "orderSource": "YouTube playlist",
     "syncedAt": "2026-11-04T21:59:53.030Z"
   },
   {
-    "id": "PLllTTKSgGCnnqi2iFgAX6YzVehUbnes4o",
-    "title": "Therapy for Liver Disease",
+    "id": "PLllTTKSgGCnlPzFFTYPaRTtObpOagHk--",
+    "title": "Clinical Pharmacology Basic Principles MasterClass",
     "description": "Follow the channel’s playlist in its published teaching order.",
     "category": "Pharmacology",
     "lectureIds": [
-      "cNyNVRXtPcA",
-      "CXq0c75lkPw",
-      "YdGUbVePf-E"
+      "w9uFS_SIPRw",
+      "_m5Il0SK40g",
+      "zZfiOzx7CEo",
+      "TOUAIJSzZxU",
+      "0ldidKshF8I",
+      "hBbso9LXNcg",
+      "rKEHswIToPc",
+      "2IQcqzDcOyo",
+      "BWkaZq3RdO0",
+      "AMJdEW9CxhA",
+      "E80R3vE25tg"
     ],
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnnqi2iFgAX6YzVehUbnes4o",
-    "orderSource": "YouTube playlist",
-    "syncedAt": "2026-11-04T21:59:53.030Z"
-  },
-  {
-    "id": "PLllTTKSgGCnnLpMyI1yGHI8H16Hyg0_vq",
-    "title": "Therapy for Gastroesophageal Reflux Disease Free Course",
-    "description": "Follow the channel’s playlist in its published teaching order.",
-    "category": "Pharmacology",
-    "lectureIds": [
-      "kmvJx7G2bSI",
-      "2F9awf5M5Ls",
-      "7VjKp18wQOo",
-      "Hu5-Bv_eVJU",
-      "bAt1Uc_SES0",
-      "Wnxr4dQ7-LU"
-    ],
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnnLpMyI1yGHI8H16Hyg0_vq",
-    "orderSource": "YouTube playlist",
-    "syncedAt": "2026-11-04T21:59:53.030Z"
-  },
-  {
-    "id": "PLllTTKSgGCnlnFMkN0_-dqNx5Jax0ndkP",
-    "title": "Therapy for Peptic Ulcer Disease Free Course",
-    "description": "Follow the channel’s playlist in its published teaching order.",
-    "category": "Pharmacology",
-    "lectureIds": [
-      "UjZ9BvqgOlc",
-      "2F9awf5M5Ls",
-      "7VjKp18wQOo",
-      "Hu5-Bv_eVJU",
-      "cZA8FWRxv4g",
-      "NDkTbRGw-Do",
-      "rZ8U60NLNbs",
-      "W1j_saTcyXo"
-    ],
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnlnFMkN0_-dqNx5Jax0ndkP",
-    "orderSource": "YouTube playlist",
-    "syncedAt": "2026-11-04T21:59:53.030Z"
-  },
-  {
-    "id": "PLllTTKSgGCnknMPKaAiwuamj1XEM3k4zc",
-    "title": "Respiratory Pharmacology",
-    "description": "Follow the channel’s playlist in its published teaching order.",
-    "category": "Pharmacology",
-    "lectureIds": [
-      "brQi0DrlKDI",
-      "30mf-G9kNSc",
-      "vsWmWR40M9Q"
-    ],
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnknMPKaAiwuamj1XEM3k4zc",
-    "orderSource": "YouTube playlist",
-    "syncedAt": "2026-11-04T21:59:53.030Z"
-  },
-  {
-    "id": "PLllTTKSgGCnlZp9J4KFxwk5jyyLxlKAkU",
-    "title": "Antidepressants Side Effects",
-    "description": "Follow the channel’s playlist in its published teaching order.",
-    "category": "Pharmacology",
-    "lectureIds": [
-      "4IBLbpsvAMs",
-      "-QQ0-cWZcM4",
-      "lSLP81EqL8A",
-      "fQ5OQIDBqgI",
-      "EwawYxqnlF8"
-    ],
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnlZp9J4KFxwk5jyyLxlKAkU",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnlPzFFTYPaRTtObpOagHk--",
     "orderSource": "YouTube playlist",
     "syncedAt": "2026-11-04T21:59:53.030Z"
   },
@@ -192,161 +163,52 @@
     "syncedAt": "2026-11-04T21:59:53.030Z"
   },
   {
-    "id": "PLllTTKSgGCnm9a8A8icYVwgaqK-Yp4sRQ",
-    "title": "Anticoagulants & Fibrinolytics Pharmacology MasterClass",
+    "id": "PLllTTKSgGCnlnFMkN0_-dqNx5Jax0ndkP",
+    "title": "Therapy for Peptic Ulcer Disease Free Course",
     "description": "Follow the channel’s playlist in its published teaching order.",
     "category": "Pharmacology",
     "lectureIds": [
-      "zCQD-v2pz_M",
-      "l81Mg1iU1hA",
-      "u8LiXyMe0pk"
+      "UjZ9BvqgOlc",
+      "2F9awf5M5Ls",
+      "7VjKp18wQOo",
+      "Hu5-Bv_eVJU",
+      "cZA8FWRxv4g",
+      "NDkTbRGw-Do",
+      "rZ8U60NLNbs",
+      "W1j_saTcyXo"
     ],
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnm9a8A8icYVwgaqK-Yp4sRQ",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnlnFMkN0_-dqNx5Jax0ndkP",
     "orderSource": "YouTube playlist",
     "syncedAt": "2026-11-04T21:59:53.030Z"
   },
   {
-    "id": "PLllTTKSgGCnnRd5olCUte3LsDc_j50IEL",
-    "title": "Amlodipine side effects",
+    "id": "PLllTTKSgGCnnLpMyI1yGHI8H16Hyg0_vq",
+    "title": "Therapy for Gastroesophageal Reflux Disease Free Course",
     "description": "Follow the channel’s playlist in its published teaching order.",
     "category": "Pharmacology",
     "lectureIds": [
-      "NzkVcA6xfEY",
-      "-ekVYKeK_OY",
-      "MH_uA2e34PY"
+      "kmvJx7G2bSI",
+      "2F9awf5M5Ls",
+      "7VjKp18wQOo",
+      "Hu5-Bv_eVJU",
+      "bAt1Uc_SES0",
+      "Wnxr4dQ7-LU"
     ],
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnnRd5olCUte3LsDc_j50IEL",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnnLpMyI1yGHI8H16Hyg0_vq",
     "orderSource": "YouTube playlist",
     "syncedAt": "2026-11-04T21:59:53.030Z"
   },
   {
-    "id": "PLllTTKSgGCnlYBCttm9Qtq-h3-tIBPP6-",
-    "title": "Wrist and Hand Trauma MasterClass",
+    "id": "PLllTTKSgGCnnqi2iFgAX6YzVehUbnes4o",
+    "title": "Therapy for Liver Disease",
     "description": "Follow the channel’s playlist in its published teaching order.",
-    "category": "Orthopedics",
+    "category": "Pharmacology",
     "lectureIds": [
-      "wBHtaw2Eoc8",
-      "1dRHtMT16TI",
-      "SIX17WxeLfM"
+      "cNyNVRXtPcA",
+      "CXq0c75lkPw",
+      "YdGUbVePf-E"
     ],
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnlYBCttm9Qtq-h3-tIBPP6-",
-    "orderSource": "YouTube playlist",
-    "syncedAt": "2026-11-04T21:59:53.030Z"
-  },
-  {
-    "id": "PLllTTKSgGCnnolsjnWBx5Sby0SvhqHfkM",
-    "title": "Elbow & Forearm Trauma MasterClass",
-    "description": "Follow the channel’s playlist in its published teaching order.",
-    "category": "Orthopedics",
-    "lectureIds": [
-      "7kbQ5Jwj3Es",
-      "iIKLt1Y-23c",
-      "IWq-2VXDRwI",
-      "5YJsNcvelzg",
-      "D3GxmDsCEBg",
-      "_afYy_HDT6M",
-      "jflb-nvOTwc",
-      "fyE1r2M6AF8"
-    ],
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnnolsjnWBx5Sby0SvhqHfkM",
-    "orderSource": "YouTube playlist",
-    "syncedAt": "2026-11-04T21:59:53.030Z"
-  },
-  {
-    "id": "PLllTTKSgGCnk8iznUdxRRMAN3xdI9M86C",
-    "title": "Shoulder & Arm Trauma MasterClass",
-    "description": "Follow the channel’s playlist in its published teaching order.",
-    "category": "Orthopedics",
-    "lectureIds": [
-      "Lk1CBijkKJQ",
-      "8eGo8agSIBM",
-      "tfOaWc3yni4",
-      "o0c7PvRFH_g",
-      "TiOGc1Yx12M",
-      "8Y68hgonnnQ",
-      "KfbUapEyL-I",
-      "dXFZ3RUREwc",
-      "Dqsqdmwn-Tc",
-      "5a1Qyb44wt0",
-      "qRLw6NOBqjI"
-    ],
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnk8iznUdxRRMAN3xdI9M86C",
-    "orderSource": "YouTube playlist",
-    "syncedAt": "2026-11-04T21:59:53.030Z"
-  },
-  {
-    "id": "PLllTTKSgGCnk8zmWbKoJLYMzOdKlLeEkR",
-    "title": "Chest X ray MasterClass",
-    "description": "Follow the channel’s playlist in its published teaching order.",
-    "category": "Clinical medicine",
-    "lectureIds": [
-      "xxLnsZHOnOw",
-      "GvukcclgI08",
-      "9ORnGlJ3BK4"
-    ],
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnk8zmWbKoJLYMzOdKlLeEkR",
-    "orderSource": "YouTube playlist",
-    "syncedAt": "2026-11-04T21:59:53.030Z"
-  },
-  {
-    "id": "PLllTTKSgGCnkF6E-_pI4MdH8Kly8LfwAy",
-    "title": "Real Examples of Seizures",
-    "description": "Follow the channel’s playlist in its published teaching order.",
-    "category": "Clinical medicine",
-    "lectureIds": [
-      "VGOgvCTZbWQ"
-    ],
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnkF6E-_pI4MdH8Kly8LfwAy",
-    "orderSource": "YouTube playlist",
-    "syncedAt": "2026-11-04T21:59:53.030Z"
-  },
-  {
-    "id": "PLllTTKSgGCnkV2TZ3-xgpkXVdASGxnzSf",
-    "title": "Pediatrics Emergency Medicine",
-    "description": "Follow the channel’s playlist in its published teaching order.",
-    "category": "Pediatrics",
-    "lectureIds": [
-      "A8_qaIox3ys",
-      "R1mXf8QbFfw",
-      "lY7WO4HwMOM",
-      "8aPGCQHoemA",
-      "cozkYn9YcYo",
-      "M5FnKmsGxmM",
-      "1oZDzR-_QGk",
-      "sBp7NlJQME0",
-      "rtPmnu09wto",
-      "tKbkO6dladc",
-      "ionR1D5j3gI"
-    ],
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnkV2TZ3-xgpkXVdASGxnzSf",
-    "orderSource": "YouTube playlist",
-    "syncedAt": "2026-11-04T21:59:53.030Z"
-  },
-  {
-    "id": "PLllTTKSgGCnm-QrQjMiqR6dZ7OHrD0bZY",
-    "title": "General Surgery MasterClass",
-    "description": "Follow the channel’s playlist in its published teaching order.",
-    "category": "Clinical medicine",
-    "lectureIds": [
-      "rSl7h5tIybc",
-      "jbuCw02x5DE",
-      "R2mubHSdhbM"
-    ],
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnm-QrQjMiqR6dZ7OHrD0bZY",
-    "orderSource": "YouTube playlist",
-    "syncedAt": "2026-11-04T21:59:53.030Z"
-  },
-  {
-    "id": "PLllTTKSgGCnmbijl8v9oSkzhEBxqI7OLU",
-    "title": "Hepatology MasterClass",
-    "description": "Follow the channel’s playlist in its published teaching order.",
-    "category": "Clinical medicine",
-    "lectureIds": [
-      "LHx60k474pQ",
-      "HU4JW4Pq8Ro",
-      "Aw_0lr3smWQ"
-    ],
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnmbijl8v9oSkzhEBxqI7OLU",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnnqi2iFgAX6YzVehUbnes4o",
     "orderSource": "YouTube playlist",
     "syncedAt": "2026-11-04T21:59:53.030Z"
   },
@@ -396,89 +258,6 @@
       "2y7SaQNkKPY"
     ],
     "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnkX3-1pudkLqmRD_TnwuF0Y",
-    "orderSource": "YouTube playlist",
-    "syncedAt": "2026-11-04T21:59:53.030Z"
-  },
-  {
-    "id": "PLllTTKSgGCnmlxrkNwobH3pYiGaMqi1TJ",
-    "title": "Plastic Surgery MasterClass",
-    "description": "Follow the channel’s playlist in its published teaching order.",
-    "category": "Clinical medicine",
-    "lectureIds": [
-      "yh3ZU7Tq1yw",
-      "0PWRTjdBjBk",
-      "lnE6Ju2x7nM",
-      "GRf53MkN_7Q",
-      "xRK6YWTL7C8",
-      "Vodezs_gHVg",
-      "A5nDUA9lUKQ",
-      "zkkSVcn982Y"
-    ],
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnmlxrkNwobH3pYiGaMqi1TJ",
-    "orderSource": "YouTube playlist",
-    "syncedAt": "2026-11-04T21:59:53.030Z"
-  },
-  {
-    "id": "PLllTTKSgGCnk7061EvF54AvrGt-BWnRsa",
-    "title": "Nephrology MasterClass",
-    "description": "Follow the channel’s playlist in its published teaching order.",
-    "category": "Clinical medicine",
-    "lectureIds": [
-      "NFiVzPbHkGY",
-      "CxnwlXJLVm4",
-      "5n01Gu3A_YQ",
-      "im-igoRM3D4"
-    ],
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnk7061EvF54AvrGt-BWnRsa",
-    "orderSource": "YouTube playlist",
-    "syncedAt": "2026-11-04T21:59:53.030Z"
-  },
-  {
-    "id": "PLllTTKSgGCnlO-0Kx4ImXx7MQ4D_JK9hY",
-    "title": "Orthopedics Imaging MasterClass",
-    "description": "Follow the channel’s playlist in its published teaching order.",
-    "category": "Orthopedics",
-    "lectureIds": [
-      "7rzMPd2UlDw",
-      "qRLw6NOBqjI",
-      "fyE1r2M6AF8"
-    ],
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnlO-0Kx4ImXx7MQ4D_JK9hY",
-    "orderSource": "YouTube playlist",
-    "syncedAt": "2026-11-04T21:59:53.030Z"
-  },
-  {
-    "id": "PLllTTKSgGCnlPzFFTYPaRTtObpOagHk--",
-    "title": "Clinical Pharmacology Basic Principles MasterClass",
-    "description": "Follow the channel’s playlist in its published teaching order.",
-    "category": "Pharmacology",
-    "lectureIds": [
-      "w9uFS_SIPRw",
-      "_m5Il0SK40g",
-      "zZfiOzx7CEo",
-      "TOUAIJSzZxU",
-      "0ldidKshF8I",
-      "hBbso9LXNcg",
-      "rKEHswIToPc",
-      "2IQcqzDcOyo",
-      "BWkaZq3RdO0",
-      "AMJdEW9CxhA",
-      "E80R3vE25tg"
-    ],
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnlPzFFTYPaRTtObpOagHk--",
-    "orderSource": "YouTube playlist",
-    "syncedAt": "2026-11-04T21:59:53.030Z"
-  },
-  {
-    "id": "PLllTTKSgGCnkPmlNgXSQ_HIzA3sHi4jc8",
-    "title": "Alpha Blockers",
-    "description": "Follow the channel’s playlist in its published teaching order.",
-    "category": "Pharmacology",
-    "lectureIds": [
-      "Y6Qf_lb3oKc",
-      "AMlntTP1YQA"
-    ],
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnkPmlNgXSQ_HIzA3sHi4jc8",
     "orderSource": "YouTube playlist",
     "syncedAt": "2026-11-04T21:59:53.030Z"
   },
@@ -534,15 +313,16 @@
     "syncedAt": "2026-11-04T21:59:53.030Z"
   },
   {
-    "id": "PLllTTKSgGCnkbunZifZCUwrv2qlPMMJwk",
-    "title": "Alpha Blockers",
+    "id": "PLllTTKSgGCnl3V_01gIwwAy-Y5s-n4uLO",
+    "title": "NSAIDs",
     "description": "Follow the channel’s playlist in its published teaching order.",
     "category": "Pharmacology",
     "lectureIds": [
-      "Y6Qf_lb3oKc",
-      "AMlntTP1YQA"
+      "mB1bC69MFIA",
+      "ginGW6ZPyOg",
+      "uYPYhN3McKw"
     ],
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnkbunZifZCUwrv2qlPMMJwk",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnl3V_01gIwwAy-Y5s-n4uLO",
     "orderSource": "YouTube playlist",
     "syncedAt": "2026-11-04T21:59:53.030Z"
   },
@@ -563,30 +343,176 @@
     "syncedAt": "2026-11-04T21:59:53.030Z"
   },
   {
-    "id": "PLllTTKSgGCnl3V_01gIwwAy-Y5s-n4uLO",
-    "title": "NSAIDs",
+    "id": "PLllTTKSgGCnlT1WVxBTCq0OzAteZM-3qb",
+    "title": "Pharmacology of Inflammation",
     "description": "Follow the channel’s playlist in its published teaching order.",
     "category": "Pharmacology",
     "lectureIds": [
-      "mB1bC69MFIA",
-      "ginGW6ZPyOg",
-      "uYPYhN3McKw"
+      "uYPYhN3McKw",
+      "ginGW6ZPyOg"
     ],
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnl3V_01gIwwAy-Y5s-n4uLO",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnlT1WVxBTCq0OzAteZM-3qb",
     "orderSource": "YouTube playlist",
     "syncedAt": "2026-11-04T21:59:53.030Z"
   },
   {
-    "id": "PLllTTKSgGCnlbbKSVVgft8sSn4m8MLegD",
-    "title": "Suturing Materials and Needles",
+    "id": "PLllTTKSgGCnkPmlNgXSQ_HIzA3sHi4jc8",
+    "title": "Alpha Blockers",
     "description": "Follow the channel’s playlist in its published teaching order.",
-    "category": "Clinical medicine",
+    "category": "Pharmacology",
     "lectureIds": [
-      "WZMpMej5toM",
-      "sVML-mz1Ato",
-      "s-FAbPatgwI"
+      "Y6Qf_lb3oKc",
+      "AMlntTP1YQA"
     ],
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnlbbKSVVgft8sSn4m8MLegD",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnkPmlNgXSQ_HIzA3sHi4jc8",
+    "orderSource": "YouTube playlist",
+    "syncedAt": "2026-11-04T21:59:53.030Z"
+  },
+  {
+    "id": "PLllTTKSgGCnkbunZifZCUwrv2qlPMMJwk",
+    "title": "Alpha Blockers",
+    "description": "Follow the channel’s playlist in its published teaching order.",
+    "category": "Pharmacology",
+    "lectureIds": [
+      "Y6Qf_lb3oKc",
+      "AMlntTP1YQA"
+    ],
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnkbunZifZCUwrv2qlPMMJwk",
+    "orderSource": "YouTube playlist",
+    "syncedAt": "2026-11-04T21:59:53.030Z"
+  },
+  {
+    "id": "PLllTTKSgGCnnRd5olCUte3LsDc_j50IEL",
+    "title": "Amlodipine side effects",
+    "description": "Follow the channel’s playlist in its published teaching order.",
+    "category": "Pharmacology",
+    "lectureIds": [
+      "NzkVcA6xfEY",
+      "-ekVYKeK_OY",
+      "MH_uA2e34PY"
+    ],
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnnRd5olCUte3LsDc_j50IEL",
+    "orderSource": "YouTube playlist",
+    "syncedAt": "2026-11-04T21:59:53.030Z"
+  },
+  {
+    "id": "PLllTTKSgGCnlZp9J4KFxwk5jyyLxlKAkU",
+    "title": "Antidepressants Side Effects",
+    "description": "Follow the channel’s playlist in its published teaching order.",
+    "category": "Pharmacology",
+    "lectureIds": [
+      "4IBLbpsvAMs",
+      "-QQ0-cWZcM4",
+      "lSLP81EqL8A",
+      "fQ5OQIDBqgI",
+      "EwawYxqnlF8"
+    ],
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnlZp9J4KFxwk5jyyLxlKAkU",
+    "orderSource": "YouTube playlist",
+    "syncedAt": "2026-11-04T21:59:53.030Z"
+  },
+  {
+    "id": "PLllTTKSgGCnm9a8A8icYVwgaqK-Yp4sRQ",
+    "title": "Anticoagulants & Fibrinolytics Pharmacology MasterClass",
+    "description": "Follow the channel’s playlist in its published teaching order.",
+    "category": "Pharmacology",
+    "lectureIds": [
+      "zCQD-v2pz_M",
+      "l81Mg1iU1hA",
+      "u8LiXyMe0pk"
+    ],
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnm9a8A8icYVwgaqK-Yp4sRQ",
+    "orderSource": "YouTube playlist",
+    "syncedAt": "2026-11-04T21:59:53.030Z"
+  },
+  {
+    "id": "PLllTTKSgGCnknMPKaAiwuamj1XEM3k4zc",
+    "title": "Respiratory Pharmacology",
+    "description": "Follow the channel’s playlist in its published teaching order.",
+    "category": "Pharmacology",
+    "lectureIds": [
+      "brQi0DrlKDI",
+      "30mf-G9kNSc",
+      "vsWmWR40M9Q"
+    ],
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnknMPKaAiwuamj1XEM3k4zc",
+    "orderSource": "YouTube playlist",
+    "syncedAt": "2026-11-04T21:59:53.030Z"
+  },
+  {
+    "id": "PLMo46Bhy_j5U",
+    "title": "General Pathology",
+    "description": "Follow the channel’s playlist in its published teaching order.",
+    "category": "Pathology",
+    "lectureIds": [
+      "DHphsnW-nYo",
+      "kHhJRk4qxPQ",
+      "I-_HV25j_9s",
+      "n9brM9pTw6I",
+      "I0ygFfqwhHw",
+      "iFo2ROztdGs"
+    ],
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLMo46Bhy_j5U",
+    "orderSource": "YouTube playlist",
+    "syncedAt": "2026-11-04T21:59:53.030Z"
+  },
+  {
+    "id": "PLEexNWypa754",
+    "title": "Pathology: Growth Adaptations, Cell Injury & Cell Death",
+    "description": "Follow the channel’s playlist in its published teaching order.",
+    "category": "Pathology",
+    "lectureIds": [
+      "DHphsnW-nYo",
+      "kHhJRk4qxPQ",
+      "I-_HV25j_9s",
+      "n9brM9pTw6I",
+      "I0ygFfqwhHw",
+      "iFo2ROztdGs",
+      "IdO0f5klcXI",
+      "esgddQPQqSQ"
+    ],
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLEexNWypa754",
+    "orderSource": "YouTube playlist",
+    "syncedAt": "2026-11-04T21:59:53.030Z"
+  },
+  {
+    "id": "PLllTTKSgGCnkV2TZ3-xgpkXVdASGxnzSf",
+    "title": "Pediatrics Emergency Medicine",
+    "description": "Follow the channel’s playlist in its published teaching order.",
+    "category": "Pediatrics",
+    "lectureIds": [
+      "A8_qaIox3ys",
+      "R1mXf8QbFfw",
+      "lY7WO4HwMOM",
+      "8aPGCQHoemA",
+      "cozkYn9YcYo",
+      "M5FnKmsGxmM",
+      "1oZDzR-_QGk",
+      "sBp7NlJQME0",
+      "rtPmnu09wto",
+      "tKbkO6dladc",
+      "ionR1D5j3gI"
+    ],
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnkV2TZ3-xgpkXVdASGxnzSf",
+    "orderSource": "YouTube playlist",
+    "syncedAt": "2026-11-04T21:59:53.030Z"
+  },
+  {
+    "id": "PLllTTKSgGCnmVntX0KJweCc4C0n9aruJh",
+    "title": "Pediatric Respiratory Diseases",
+    "description": "Follow the channel’s playlist in its published teaching order.",
+    "category": "Pediatrics",
+    "lectureIds": [
+      "ionR1D5j3gI",
+      "tKbkO6dladc",
+      "rtPmnu09wto",
+      "sBp7NlJQME0",
+      "1oZDzR-_QGk",
+      "M5FnKmsGxmM",
+      "cozkYn9YcYo",
+      "A8_qaIox3ys"
+    ],
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnmVntX0KJweCc4C0n9aruJh",
     "orderSource": "YouTube playlist",
     "syncedAt": "2026-11-04T21:59:53.030Z"
   },
@@ -606,36 +532,139 @@
     "syncedAt": "2026-11-04T21:59:53.030Z"
   },
   {
-    "id": "PLllTTKSgGCnn9bB4kjX0tJ3qZ2ExdL5xb",
-    "title": "Orthopedics Classifications",
+    "id": "PLllTTKSgGCnlbbKSVVgft8sSn4m8MLegD",
+    "title": "Suturing Materials and Needles",
     "description": "Follow the channel’s playlist in its published teaching order.",
-    "category": "Orthopedics",
+    "category": "Clinical medicine",
     "lectureIds": [
-      "LI-c_eBJGBM",
-      "Xy_UkeAafdc",
-      "rJTSNkk_uvg",
-      "pJM7PDwyL0A",
-      "ay9sAvwxino",
-      "7VzcxT1T-lM",
-      "J3_iSJY8r7A",
-      "lDS-uGbi8Xk",
-      "F4FzJ2HcFSg",
-      "JeW8v0_o0kc"
+      "WZMpMej5toM",
+      "sVML-mz1Ato",
+      "s-FAbPatgwI"
     ],
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnn9bB4kjX0tJ3qZ2ExdL5xb",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnlbbKSVVgft8sSn4m8MLegD",
     "orderSource": "YouTube playlist",
     "syncedAt": "2026-11-04T21:59:53.030Z"
   },
   {
-    "id": "PLllTTKSgGCnlT1WVxBTCq0OzAteZM-3qb",
-    "title": "Pharmacology of Inflammation",
+    "id": "PLllTTKSgGCnmlxrkNwobH3pYiGaMqi1TJ",
+    "title": "Plastic Surgery MasterClass",
     "description": "Follow the channel’s playlist in its published teaching order.",
-    "category": "Pharmacology",
+    "category": "Clinical medicine",
     "lectureIds": [
-      "uYPYhN3McKw",
-      "ginGW6ZPyOg"
+      "yh3ZU7Tq1yw",
+      "0PWRTjdBjBk",
+      "lnE6Ju2x7nM",
+      "GRf53MkN_7Q",
+      "xRK6YWTL7C8",
+      "Vodezs_gHVg",
+      "A5nDUA9lUKQ",
+      "zkkSVcn982Y"
     ],
-    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnlT1WVxBTCq0OzAteZM-3qb",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnmlxrkNwobH3pYiGaMqi1TJ",
+    "orderSource": "YouTube playlist",
+    "syncedAt": "2026-11-04T21:59:53.030Z"
+  },
+  {
+    "id": "PLllTTKSgGCnk7061EvF54AvrGt-BWnRsa",
+    "title": "Nephrology MasterClass",
+    "description": "Follow the channel’s playlist in its published teaching order.",
+    "category": "Clinical medicine",
+    "lectureIds": [
+      "NFiVzPbHkGY",
+      "CxnwlXJLVm4",
+      "5n01Gu3A_YQ",
+      "im-igoRM3D4"
+    ],
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnk7061EvF54AvrGt-BWnRsa",
+    "orderSource": "YouTube playlist",
+    "syncedAt": "2026-11-04T21:59:53.030Z"
+  },
+  {
+    "id": "PLllTTKSgGCnmbijl8v9oSkzhEBxqI7OLU",
+    "title": "Hepatology MasterClass",
+    "description": "Follow the channel’s playlist in its published teaching order.",
+    "category": "Clinical medicine",
+    "lectureIds": [
+      "LHx60k474pQ",
+      "HU4JW4Pq8Ro",
+      "Aw_0lr3smWQ"
+    ],
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnmbijl8v9oSkzhEBxqI7OLU",
+    "orderSource": "YouTube playlist",
+    "syncedAt": "2026-11-04T21:59:53.030Z"
+  },
+  {
+    "id": "PLllTTKSgGCnm-QrQjMiqR6dZ7OHrD0bZY",
+    "title": "General Surgery MasterClass",
+    "description": "Follow the channel’s playlist in its published teaching order.",
+    "category": "Clinical medicine",
+    "lectureIds": [
+      "rSl7h5tIybc",
+      "jbuCw02x5DE",
+      "R2mubHSdhbM"
+    ],
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnm-QrQjMiqR6dZ7OHrD0bZY",
+    "orderSource": "YouTube playlist",
+    "syncedAt": "2026-11-04T21:59:53.030Z"
+  },
+  {
+    "id": "PLllTTKSgGCnkF6E-_pI4MdH8Kly8LfwAy",
+    "title": "Real Examples of Seizures",
+    "description": "Follow the channel’s playlist in its published teaching order.",
+    "category": "Clinical medicine",
+    "lectureIds": [
+      "VGOgvCTZbWQ"
+    ],
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnkF6E-_pI4MdH8Kly8LfwAy",
+    "orderSource": "YouTube playlist",
+    "syncedAt": "2026-11-04T21:59:53.030Z"
+  },
+  {
+    "id": "PLllTTKSgGCnk8zmWbKoJLYMzOdKlLeEkR",
+    "title": "Chest X ray MasterClass",
+    "description": "Follow the channel’s playlist in its published teaching order.",
+    "category": "Clinical medicine",
+    "lectureIds": [
+      "xxLnsZHOnOw",
+      "GvukcclgI08",
+      "9ORnGlJ3BK4"
+    ],
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnk8zmWbKoJLYMzOdKlLeEkR",
+    "orderSource": "YouTube playlist",
+    "syncedAt": "2026-11-04T21:59:53.030Z"
+  },
+  {
+    "id": "PLllTTKSgGCnmgmizdJg58aZO1b8sDt9E3",
+    "title": "Advanced Airway Support",
+    "description": "Follow the channel’s playlist in its published teaching order.",
+    "category": "Clinical medicine",
+    "lectureIds": [
+      "eWjC_Y3rUZQ",
+      "SpjIi-cbawo",
+      "xSrRSHHfLoU",
+      "qfSpLNr9S44",
+      "_q0giMKf5Vc",
+      "3ZM6nOx4hpw",
+      "x7i4lCVPhF0",
+      "Lht-xTYLiCs"
+    ],
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnmgmizdJg58aZO1b8sDt9E3",
+    "orderSource": "YouTube playlist",
+    "syncedAt": "2026-11-04T21:59:53.030Z"
+  },
+  {
+    "id": "PLllTTKSgGCnlcXMXskcGfzaZba-ufR6LC",
+    "title": "Management of Cardiac Arrhythmias",
+    "description": "Follow the channel’s playlist in its published teaching order.",
+    "category": "Clinical medicine",
+    "lectureIds": [
+      "flB-sPYNJ34",
+      "dmRp5H85WMs",
+      "3LKa8IO0QaE",
+      "SlETVFSIn8A",
+      "vJOep88PVIk"
+    ],
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLllTTKSgGCnlcXMXskcGfzaZba-ufR6LC",
     "orderSource": "YouTube playlist",
     "syncedAt": "2026-11-04T21:59:53.030Z"
   },
@@ -665,24 +694,6 @@
       "6JqmBkahN18",
       "pS4kTCLMFj0",
       "EW9Z7xQXGjg",
-      "gcbGXbr3EjI",
-      "LYmlFk-R7cc",
-      "JsU96oK0Mm0",
-      "ZeLcyaud9yE",
-      "1ERoGc-oLEY",
-      "OU44V4OBZgg",
-      "Wzd0qEaGbTU",
-      "Q1AMwkBMFyI",
-      "e2UyJuIMzeo",
-      "WascAsz4NLw",
-      "MNCW8GB40Mk",
-      "UXZhSHs5d3c",
-      "-1gKvuNoUbI",
-      "JEwVXWfT7k8",
-      "ZD_5Why69IM",
-      "-v6qWPet_w4",
-      "xQDr05DvYqU",
-      "g9GM06BiySc",
       "9XK3e8-iZFA",
       "oGuZvQfNsFg"
     ],

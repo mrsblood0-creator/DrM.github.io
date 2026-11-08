@@ -1,4 +1,5 @@
 import { minimumForLecture } from './study-targets.mjs';
+import { orderCourses } from './course-order.mjs';
 import fs from "node:fs";
 import vm from "node:vm";
 const ctx = { window: {} };
@@ -41,6 +42,8 @@ for (const v of d.videos) {
 }
 if (fs.existsSync("content/courses.json"))
   d.courses = JSON.parse(fs.readFileSync("content/courses.json"));
+d.courses = orderCourses(d.courses);
+fs.writeFileSync('content/courses.json', JSON.stringify(d.courses, null, 2));
 for (const c of d.courses)
   c.lectureIds = c.lectureIds.filter((id) => valid.has(id));
 d.courses = d.courses.filter((c) => c.lectureIds.length);

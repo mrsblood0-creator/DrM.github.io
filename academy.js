@@ -162,27 +162,36 @@ $("#lecture-grid").onclick = (e) => {
   const b = e.target.closest("[data-save]");
   if (b) toggleLecture(b.dataset.save);
 };
+function courseDuration(c) {
+  const durations=c.lectureIds.map(id=>byId.get(id)?.duration||'');
+  const known=durations.filter(t=>/^\d+(?::\d{2}){1,2}$/.test(t));
+  const seconds=known.reduce((total,t)=>total+t.split(':').reduce((n,x)=>n*60+Number(x),0),0);
+  const minutes=Math.round(seconds/60);
+  return (minutes>=60?`${Math.floor(minutes/60)} hr ${minutes%60} min`:`${minutes} min`)+(known.length<durations.length?' recorded':'');
+}
 function renderCourses() {
   const query = $("#course-search").value.toLowerCase().trim();
-  const list = C.filter((c) =>
-    (c.title + " " + c.category + " " + c.description)
-      .toLowerCase()
-      .includes(query),
-  );
+  const list = C.filter(c=>(c.title+' '+c.category+' '+c.description).toLowerCase().includes(query));
   $("#course-results").textContent = `${list.length} courses to explore`;
-  $("#course-grid").innerHTML =
-    list
-      .map(
-        (c, i) =>
-          `<article class="course-card"><div class="course-icon">${["▤", "✚", "◎", "⌘"][i % 4]}</div><span class="subject">${esc(c.category)}</span><h3><a href="#course/${c.id}">${esc(c.title)}</a></h3><p>${esc(c.description)}</p>${c.playlistUrl ? `<a class="playlist-source" href="${esc(c.playlistUrl)}" target="_blank" rel="noopener">View source playlist ↗</a>` : ""}<div class="course-meta"><span>${c.lectureIds.length} lectures</span><span>${progress(c)} completed</span></div><div class="progress-track" aria-label="${pct(c)} percent complete"><span style="width:${pct(c)}%"></span></div><a class="button outline" href="#course/${c.id}">${progress(c) ? "Continue course" : "Explore course"} ↗</a></article>`,
-      )
-      .join("") || '<p class="empty">No matching courses.</p>';
+  const specialties=[...new Set(['Orthopedics','Pharmacology',...C.map(c=>c.category)])].filter(category=>list.some(c=>c.category===category));
+  $("#course-grid").innerHTML = specialties.map((category,groupIndex)=>{
+    const courses=list.filter(c=>c.category===category);
+    return `<section class="course-specialty" aria-labelledby="specialty-${groupIndex}"><div class="specialty-heading"><h2 id="specialty-${groupIndex}">${esc(category)}</h2><span>${courses.length} ${courses.length===1?'course':'courses'}</span></div><div class="specialty-courses">`+courses.map((c,i)=>{
+    const featured=byId.get(c.lectureIds[0]);
+    const next=c.lectureIds.find(id=>!done.has(id))||c.lectureIds[0];
+    return `<details class="course-disclosure">
+      <summary><span class="course-index">${String(i+1).padStart(2,'0')}</span><span class="course-summary-copy"><span class="subject">${esc(c.category)}</span><span class="course-summary-title">${esc(c.title)}</span><span class="course-summary-meta">${c.lectureIds.length} lectures <span aria-hidden="true">·</span> ${courseDuration(c)}${progress(c)?` · ${pct(c)}% complete`:''}</span></span><span class="course-expand"><span class="expand-label">Explore</span><span class="collapse-label">Close</span><span class="course-chevron" aria-hidden="true">＋</span></span></summary>
+      <div class="course-expanded"><div class="course-feature"><a href="#lecture/${featured.id}?course=${c.id}" class="course-feature-image" aria-label="Watch ${esc(featured.title)}"><img src="${esc(featured.thumbnail||`https://i.ytimg.com/vi/${featured.id}/hqdefault.jpg`)}" alt="${esc(featured.title)}" loading="lazy"><span>▶ Watch first lecture</span></a><div class="course-feature-copy"><span class="eyebrow">YOUR LEARNING PATH</span><h3>${esc(c.title)}</h3><p>${esc(c.description)}</p><div class="course-facts"><span><strong>${courseDuration(c)}</strong>video learning</span><span><strong>${c.lectureIds.length} lectures</strong>in playlist order</span></div><div class="course-completion"><span>${progress(c)} of ${c.lectureIds.length} completed</span><span>${pct(c)}%</span></div><div class="progress-track" aria-label="${pct(c)} percent complete"><span style="width:${pct(c)}%"></span></div><div class="course-actions"><a class="button" href="#lecture/${next}?course=${c.id}">${progress(c)?'Continue learning':'Start learning'} →</a><a class="button outline" href="#course/${c.id}">Open course</a></div>${c.playlistUrl?`<a class="playlist-source" href="${esc(c.playlistUrl)}" target="_blank" rel="noopener">View YouTube playlist ↗</a>`:''}</div></div>
+      <div class="course-syllabus"><div class="course-syllabus-heading"><h3>What you’ll learn</h3><span>${c.lectureIds.length} ordered lectures</span></div><ol>${c.lectureIds.map((id,n)=>{const v=byId.get(id);return `<li><a href="#lecture/${id}?course=${c.id}"><span class="syllabus-number">${done.has(id)?'✓':String(n+1).padStart(2,'0')}</span><span>${esc(v.title)}</span><span class="syllabus-duration">${esc(v.duration||'Video')} <span aria-hidden="true">↗</span></span></a></li>`;}).join('')}</ol></div></div></details>`;
+  }).join('')+'</div></section>';
+  }).join('')||'<p class="empty">No matching courses. Try another topic or subject.</p>';
 }
 $("#course-search").oninput = renderCourses;
 function openCourse(c) {
   const next = c.lectureIds.find((id) => !done.has(id)) || c.lectureIds[0];
-  $("#course-header").innerHTML =
-    `<span class="eyebrow">${esc(c.category)} · ${c.lectureIds.length} LECTURES</span><h1>${esc(c.title)}</h1><p>${esc(c.description)}</p><div class="course-meta"><span>${progress(c)} of ${c.lectureIds.length} completed</span><span>${pct(c)}%</span></div><div class="progress-track"><span style="width:${pct(c)}%"></span></div><a class="button" href="#lecture/${next}?course=${c.id}">${progress(c) ? "Continue learning" : "Start this course"} →</a>`;
+  const featured=byId.get(c.lectureIds[0]);
+  const questionCount=c.lectureIds.reduce((n,id)=>n+(byId.get(id)?.questions.length||0),0);
+  $("#course-header").innerHTML = `<div class="course-detail-hero"><div><span class="eyebrow">${esc(c.category)} · FREE MEDICAL COURSE</span><h1>${esc(c.title)}</h1><p>${esc(c.description)}</p><div class="course-facts"><span><strong>${courseDuration(c)}</strong>video learning</span><span><strong>${c.lectureIds.length} lectures</strong>ordered curriculum</span><span><strong>${questionCount} questions</strong>practice & review</span></div><div class="course-completion"><span>${progress(c)} of ${c.lectureIds.length} completed</span><span>${pct(c)}%</span></div><div class="progress-track"><span style="width:${pct(c)}%"></span></div><div class="course-actions"><a class="button" href="#lecture/${next}?course=${c.id}">${progress(c)?'Continue learning':'Start this course'} →</a>${c.playlistUrl?`<a class="button outline" href="${esc(c.playlistUrl)}" target="_blank" rel="noopener">YouTube playlist ↗</a>`:''}</div></div><a class="course-feature-image" href="#lecture/${featured.id}?course=${c.id}" aria-label="Preview ${esc(featured.title)}"><img src="${esc(featured.thumbnail||`https://i.ytimg.com/vi/${featured.id}/hqdefault.jpg`)}" alt="${esc(featured.title)}"><span>▶ Preview first lecture</span></a></div>`;
   $("#curriculum-count").textContent = c.lectureIds.length + " lectures";
   $("#curriculum").innerHTML = c.lectureIds
     .map((id, i) => {

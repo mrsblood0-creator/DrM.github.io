@@ -10,6 +10,8 @@ const verifiedText=JSON.parse(fs.readFileSync('content/verified-slide-text.json'
 const E=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const withoutNotes=new Set(JSON.parse(fs.readFileSync('content/lecture-note-policy.json','utf8')).withoutNotes);
 const audit=[];
+const figureAliases=JSON.parse(fs.readFileSync('content/figure-aliases.json','utf8'));
+const duplicateAudit=[];
 const annotationLayers=new Set(JSON.parse(fs.readFileSync('content/annotation-layer-exclusions.json','utf8')));
 const plainText=html=>html.replace(/<[^>]+>/g,' ').replace(/\s+/g,' ').trim();
 const isCredit=html=>/\b(?:courtesy|wikimedia commons|CC\s*BY(?:-SA)?|CC0|public domain|image credit|photo credit)\b/i.test(plainText(html));
@@ -59,6 +61,7 @@ for(const lecture of data.videos){
   const source=slides[lecture.id] || (transcription ? {html:transcription.sections.map(section=>`<section><h3>${E(section.heading)}</h3><p class="slide-timestamp"><a href="https://www.youtube.com/watch?v=${lecture.id}&amp;t=${section.seconds}s" target="_blank" rel="noopener">${Math.floor(section.seconds/60)}:${String(section.seconds%60).padStart(2,'0')} in the video</a></p>${section.paragraphs.map(p=>`<p>${E(p)}</p>`).join('')}${section.bullets?.length?`<ul>${section.bullets.map(p=>`<li>${E(p)}</li>`).join('')}</ul>`:''}</section>`).join('')} : null);
   const outline=[];
   const sections=[];
+  const seenFigures=new Set();
   let currentSection=null;
   let body='';
   if(source){
@@ -76,6 +79,11 @@ for(const lecture of data.videos){
       let heading=inner.match(/<h3[^>]*>([\s\S]*?)<\/h3>/)?.[1]||'Presentation section';
       if(/^(?:thanks?(?: a lot| you| to our members)?|thank you(?: for (?:watching|listening|your attention))?)[.! ]*$/i.test(plainText(heading)))continue;
       let content=inner.replace(/<h3[^>]*>[\s\S]*?<\/h3>/,'');
+      if(/^Slide\s+\d+\s*[.:]?$/i.test(plainText(heading))&&currentSection){
+        currentSection.content+=content;
+        continue;
+      }
+      if(/^Slide\s+\d+\s*[.:]?$/i.test(plainText(heading)))heading='Overview';
       const agendaItems=[...content.matchAll(/<(?:p|li)\b[^>]*>([^<]+)<\/(?:p|li)>/g)].map(m=>plainText(m[1]));
       const agendaMatches=agendaItems.filter(t=>sourceHeadings.has(t.toLowerCase())).length;
       const standardTopics=/^(definition|introduction|overview|epidemiology|causes|etiology|aetiology|risk factors|pathophysiology|pathogenesis|classification|types|clinical features(?: \(signs and symptoms\))?|signs(?: and symptoms)?|symptoms|presentation|diagnosis|investigations|differential diagnosis|treatment|management|complications|prognosis|prevention)$/i;
@@ -123,6 +131,28 @@ for(const lecture of data.videos){
       currentSection=section;
       section.content+=(group!==heading?`<h3>${heading}</h3>`:'')+content;
     }
+  }
+  // Deduplicate within a lecture, retaining all distinct source attributions.
+  const figures=new Map();
+  const canonical=src=>{const visited=new Set();while(figureAliases[src]&&!visited.has(src)){visited.add(src);src=figureAliases[src];}return src;};
+  for(const section of sections){
+    section.content=section.content.replace(/<figure\b[^>]*>[\s\S]*?<\/figure>/g,figure=>{
+      const src=figure.match(/src="([^"]+)"/)?.[1];
+      if(!src)return figure;
+      const key=canonical(src),caption=figure.match(/<figcaption\b[^>]*>([\s\S]*?)<\/figcaption>/)?.[1];
+      if(figures.has(key)){
+        const first=figures.get(key);
+        if(caption&&!first.captions.includes(caption))first.captions.push(caption);
+        duplicateAudit.push({lecture:lecture.id,removed:src,retained:first.src});
+        return '';
+      }
+      const token='<!--retained-figure-'+figures.size+'-->';
+      figures.set(key,{src,figure,token,captions:caption?[caption]:[]});return token;
+    }).replace(/<div class="slide-gallery">\s*<\/div>/g,'');
+  }
+  for(const section of sections)for(const item of figures.values()){
+    const figure=item.figure.replace(/<figcaption\b[^>]*>[\s\S]*?<\/figcaption>/,'<figcaption>'+item.captions.join(' · ')+'</figcaption>');
+    section.content=section.content.replace(item.token,()=>figure);
   }
   for(const section of sections){
     if(!section.heading){body+=section.content;continue;}
@@ -176,3 +206,5 @@ for(const lecture of data.videos){
 fs.writeFileSync('library-data.js','window.LIBRARY = '+JSON.stringify(data)+';\n');
 fs.writeFileSync('expanded-notes-audit.json',JSON.stringify(audit,null,2)+'\n');
 console.log(`Built source lecture notes: ${audit.filter(x=>x.selectableSections).length} lectures with source content; ${audit.filter(x=>x.status==='Slide transcription pending').length} pending transcriptions.`);
+
+fs.writeFileSync('content/duplicate-figures-audit.json',JSON.stringify(duplicateAudit,null,2));
