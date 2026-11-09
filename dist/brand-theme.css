@@ -238,3 +238,85 @@ h1, h2, h3, h4 { font-family: var(--font-sans); font-weight: 600; letter-spacing
   .syllabus-duration { grid-column: 2; }
   .course-syllabus-heading { align-items: start; flex-direction: column; }
 }
+
+/* Consistent, softer emphasis for lecture-note subtopics on all note pages. */
+.lecture-text-section :is(h3, h4),
+.lecture-text-section :is(h3, h4) strong {
+  color: #9b365f;
+  font-weight: 500;
+  line-height: 1.35;
+}
+.lecture-text-section h3 { font-size: 1.15em; margin: 1.35em 0 .55em; }
+.lecture-text-section h4 { font-size: 1.03em; margin: 1.1em 0 .45em; }
+.lecture-text-section ul { padding-inline-start: 1.4em; margin-block: .45em 1.25em; }
+.lecture-text-section li { margin-block: .35em; }
+.lecture-text-section li::marker { color: #9b365f; }
+
+.privacy-page { max-width: 900px; margin: 0 auto; padding: 28px clamp(16px, 4vw, 48px) 48px; background: #fff; border: 1px solid #dce5ec; border-radius: 18px; }
+.privacy-intro h1 { font-size: clamp(34px, 5vw, 52px); margin: 12px 0; }
+.privacy-page p, .privacy-page li { font-size: 18px; line-height: 1.55; }
+.privacy-page p { margin: 0 0 1.2em; }
+.privacy-page h2 { color: #9b365f; font-size: 25px; font-weight: 500; margin: 1.6em 0 .7em; }
+.privacy-page section { scroll-margin-top: 130px; }
+.privacy-contents { display: flex; flex-wrap: wrap; gap: 12px 22px; padding: 20px; background: #f7f8fa; border-radius: 12px; margin: 26px 0; }
+.privacy-contents strong { width: 100%; font-weight: 500; }
+.privacy-page a { overflow-wrap: anywhere; text-decoration: underline; text-underline-offset: 3px; }
+.cookie-dialog { width: min(540px, calc(100% - 32px)); max-height: 85vh; overflow: auto; border: 1px solid #dce5ec; border-radius: 20px; padding: 28px; color: #16324d; background: #faf9f6; }
+.cookie-dialog::backdrop { background: #102d4b80; }
+.cookie-dialog h2 { color: #9b365f; font-weight: 500; }
+.cookie-dialog label { display: flex; align-items: start; gap: 12px; margin: 18px 0; }
+.cookie-dialog input { flex: 0 0 auto; width: 20px; height: 20px; accent-color: #9b365f; }
+.cookie-actions { display: flex; flex-wrap: wrap; gap: 10px; margin: 24px 0; }
+.cookie-actions button, [data-cookie-settings], .video-consent button { border: 1px solid #12618a; background: #fff; color: #075b8d; border-radius: 22px; padding: 10px 16px; cursor: pointer; font: inherit; }
+.cookie-actions button { flex: 1 1 130px; }
+.video-consent { padding: 30px; background: #f5f7fa; border: 1px solid #dce5ec; border-radius: 12px; text-align: center; }
+iframe[data-consent-src][hidden] { display: none !important; }
+
+footer button[data-cookie-settings] {
+  appearance: none;
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+  padding: 0;
+  margin: 0;
+  color: inherit;
+  font: inherit;
+  line-height: inherit;
+  cursor: pointer;
+  text-align: inherit;
+}
+footer button[data-cookie-settings]:hover { text-decoration: underline; }
+footer button[data-cookie-settings]:focus-visible { outline: 2px solid #075b8d; outline-offset: 4px; }
+footer button[data-cookie-settings] { text-decoration: underline; color: #38669b; }
+
+/* Individual question pages: readable cases and clear next steps. */
+.question-article { max-width: 880px; margin: 0 auto; padding: 12px 0 40px; }
+.question-breadcrumb { display: flex; flex-wrap: wrap; gap: 10px; font-size: 15px; color: #536477; margin-bottom: 28px; }
+.question-heading h1 { font-size: clamp(30px, 4vw, 44px); line-height: 1.15; margin: 12px 0 16px; }
+.question-heading { margin-bottom: 28px; }
+.question-case, .question-solution, .question-related { background: #fff; border: 1px solid #dce5ec; border-radius: 18px; margin: 20px 0; }
+.question-case { padding: clamp(20px, 4vw, 36px); }
+.question-stem { font-size: 20px; line-height: 1.6; margin: 0 0 26px; }
+.question-options { padding-left: 30px; margin: 0; }
+.question-options li { padding: 13px 16px; margin: 10px 0; background: #f5f8fb; border-radius: 10px; line-height: 1.45; }
+.question-options li::marker { color: #075b8d; font-weight: 500; }
+.question-solution summary { padding: 22px 26px; cursor: pointer; font-size: 19px; font-weight: 500; color: #9b365f; }
+.question-solution summary:focus-visible, .question-practice-button:focus-visible { outline: 3px solid #086caa; outline-offset: 4px; }
+.question-solution-body { padding: 0 26px 26px; line-height: 1.55; }
+.question-solution-body h2 { font-size: 26px; margin: 10px 0 16px; }
+.question-solution-body h3 { color: #9b365f; font-size: 21px; font-weight: 500; margin-top: 28px; }
+.question-rationales div { padding: 16px 0; border-bottom: 1px solid #e5ebf1; }
+.question-rationales div:last-child { border-bottom: 0; }
+.question-rationales dt { font-weight: 500; color: #153956; }
+.question-rationales dd { margin: 6px 0 0; color: #46576a; }
+.question-related { padding: 24px 26px; }
+.question-related h2, .question-next h2 { font-size: 22px; margin: 0 0 12px; font-weight: 500; }
+.question-related a { text-decoration: underline; text-underline-offset: 3px; }
+.question-next { padding: 28px; border-radius: 18px; background: #eaf2f8; margin-top: 28px; display: flex; flex-direction: column; align-items: flex-start; gap: 16px; }
+.question-next p { margin: 0; line-height: 1.5; }
+.question-practice-button { display: inline-flex; align-items: center; justify-content: center; gap: 16px; padding: 14px 24px; min-height: 48px; background: #075b8d; color: white; border-radius: 999px; text-decoration: none; font-size: 17px; font-weight: 500; white-space: normal; text-align: center; }
+.question-practice-button:hover { background: #064b73; color: white; text-decoration: none; }
+.question-all-link { font-size: 16px; text-decoration: underline; text-underline-offset: 3px; }
+@media(max-width: 600px) { .question-practice-button { width: 100%; box-sizing: border-box; } .question-stem { font-size: 18px; } .question-next { padding: 22px; } }
+.lecture-text-section .note-label { color: #9b365f; font-weight: 500; }

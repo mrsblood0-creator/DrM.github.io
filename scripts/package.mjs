@@ -15,6 +15,7 @@ for (const file of [
   "article.js",
   "notes-tools.js",
   "analytics.js",
+  "consent.js",
 ])
   fs.copyFileSync(file, "dist/" + file);
 fs.mkdirSync("dist/images", { recursive: true });

@@ -19,12 +19,33 @@ const header = `<header class="topbar"><a class="brand" href="/"><img class="bra
 function page(route, title, description, body, schema = {}) {
   const url = base + route;
   const meta = { ...schema, "@context": "https://schema.org", url };
-  const html = `<!doctype html><html lang="en"><head><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1037790802847977" crossorigin="anonymous"></script><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${E(title)} | Dr M</title><meta name="description" content="${E(description.slice(0, 170))}"><link rel="canonical" href="${E(url)}"><meta property="og:title" content="${E(title)}"><meta property="og:description" content="${E(description.slice(0, 170))}"><meta property="og:type" content="article"><meta property="og:url" content="${E(url)}"><link rel="stylesheet" href="/academy.css"><link rel="stylesheet" href="/brand-theme.css"><link rel="icon" type="image/png" href="/images/logo.png"><meta property="og:image" content="${E(base)}/images/banner.jpg"><script defer src="/article.js"></script><script defer src="/analytics.js"></script><script defer src="/notes-tools.js"></script><script type="application/ld+json">${JSON.stringify(meta).replace(/</g, "\\u003c")}</script></head><body>${header}<main class="view">${body}</main><footer><a class="brand" href="/"><img class="brand-logo" src="/images/logo.png" alt="Dr M home" width="112" height="112"></a><a href="/lectures/">Lecture notes</a><a href="/courses/">Courses</a><a href="/questions/pathology-usmle-questions/">Pathology USMLE-style questions</a><span id="copyright">© ${new Date().getFullYear()}. All rights reserved.</span></footer></body></html>`;
+  let html = `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${E(title)} | Dr M</title><meta name="description" content="${E(description.slice(0, 170))}"><link rel="canonical" href="${E(url)}"><meta property="og:title" content="${E(title)}"><meta property="og:description" content="${E(description.slice(0, 170))}"><meta property="og:type" content="article"><meta property="og:url" content="${E(url)}"><link rel="stylesheet" href="/academy.css"><link rel="stylesheet" href="/brand-theme.css"><link rel="icon" type="image/png" href="/images/logo.png"><meta property="og:image" content="${E(base)}/images/banner.jpg"><script defer src="/article.js"></script><script defer src="/consent.js"></script><script defer src="/analytics.js"></script><script defer src="/notes-tools.js"></script><script type="application/ld+json">${JSON.stringify(meta).replace(/</g, "\\u003c")}</script></head><body>${header}<main class="view">${body}</main><footer><a class="brand" href="/"><img class="brand-logo" src="/images/logo.png" alt="Dr M home" width="112" height="112"></a><a href="/lectures/">Lecture notes</a><a href="/courses/">Courses</a><a href="/questions/pathology-usmle-questions/">Pathology USMLE-style questions</a><a href="/privacy/">Privacy policy</a><a href="/about/">About us</a><button type="button" data-cookie-settings>Cookie settings</button><span id="copyright">© ${new Date().getFullYear()}. All rights reserved.</span></footer></body></html>`;
+  // Real relative HTML destinations work on hosts and direct file previews.
+  // Canonicals and sitemap entries retain the clean public directory URLs.
+  for (const target of ['/privacy/', '/about/']) {
+    const relative = path.posix.relative(route, target + 'index.html');
+    html = html.replaceAll('href="' + target + '"', 'href="' + relative + '"');
+  }
+  html = html.replace(/\b(href|src)="\/(?!\/)([^"]*)"/g, (all, attribute, target) => {
+    const split = target.search(/[?#]/);
+    let pathname = split < 0 ? target : target.slice(0, split);
+    const suffix = split < 0 ? '' : target.slice(split);
+    if (!pathname || pathname.endsWith('/')) pathname += 'index.html';
+    return `${attribute}="${path.posix.relative(route, '/' + pathname)}${suffix}"`;
+  });
   const folder = "dist" + route;
   fs.mkdirSync(folder, { recursive: true });
   fs.writeFileSync(folder + "index.html", html);
+  // Keep informational pages available when previewing the source directory too.
+  if (route === '/privacy/' || route === '/about/') {
+    const sourceFolder = '.' + route;
+    fs.mkdirSync(sourceFolder, { recursive: true });
+    fs.writeFileSync(sourceFolder + 'index.html', html);
+  }
   pages.push(route);
 }
+page('/privacy/', 'Privacy policy', 'How Dr M Courses handles study progress, analytics, advertising, embedded videos, and privacy choices.', fs.readFileSync('content/privacy-policy.html', 'utf8'), {'@type':'WebPage',name:'Privacy policy'});
+page('/about/', 'About us', 'Meet Mustafa Salahalden, medical doctor and pathology resident, and discover the mission behind Dr M Courses.', fs.readFileSync('content/about.html','utf8'), {'@type':'AboutPage',name:'About Dr M Courses'});
 const byId = new Map(d.videos.map((v) => [v.id, v]));
 for (const v of d.videos) {
   const refs = (v.references || [])
@@ -43,7 +64,7 @@ for (const v of d.videos) {
     "/lectures/" + v.id + "/",
     v.title + " — lecture notes",
     `Study ${v.title}. ${v.notesDisabled ? "Video and related practice." : "Video and selectable presentation text with an outline and related practice."}`,
-    `<a class="back" href="/lectures/">← Lecture library</a><div class="static-layout"><article><div class="eyebrow">${E(v.category)}</div><h1 class="static-title">${E(v.title)}</h1><p class="muted">${E(v.noteStatus)}${v.notesDisabled ? "" : " · "+v.readingMinutes+" min read"}</p><iframe class="static-video" loading="lazy" src="https://www.youtube-nocookie.com/embed/${v.id}" title="${E(v.title)}" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><p><a class="button" href="/#lecture/${v.id}">Open study tools</a></p><div class="prose">${notes}</div></article><aside class="static-toc"><strong>Related learning</strong>${d.courses
+    `<a class="back" href="/lectures/">← Lecture library</a><div class="static-layout"><article><div class="eyebrow">${E(v.category)}</div><h1 class="static-title">${E(v.title)}</h1><p class="muted">${E(v.noteStatus)}${v.notesDisabled ? "" : " · "+v.readingMinutes+" min read"}</p><iframe class="static-video" loading="lazy" data-consent-src="https://www.youtube-nocookie.com/embed/${v.id}" title="${E(v.title)}" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><p><a class="button" href="/#lecture/${v.id}">Open study tools</a></p><div class="prose">${notes}</div></article><aside class="static-toc"><strong>Related learning</strong>${d.courses
       .filter((c) => c.lectureIds.includes(v.id))
       .map((c) => `<a href="/courses/${c.id}/">${E(c.title)}</a>`)
       .join(
@@ -126,13 +147,8 @@ for (const q of qs)
     "/questions/" + q.id + "/",
     questionTitle(q),
     q.prompt,
-    `<a class="back" href="/questions/">← Question bank</a><div class="eyebrow">ORIGINAL USMLE-STYLE PRACTICE</div><h1 class="static-title">${E(questionTitle(q))}</h1><div class="prose"><p>${E(q.prompt)}</p><ol type="A">${q.options.map((o) => "<li>" + E(o) + "</li>").join("")}</ol><details class="notes-reveal"><summary>Answer and explanation</summary><h2>${E(q.answer)}</h2><p>${E(q.explanation)}</p><h3>Option explanations</h3>${Object.entries(
-      q.distractorExplanations || {},
-    )
-      .map(([o, t]) => `<p><strong>${E(o)}</strong>: ${E(t)}</p>`)
-      .join(
-        "",
-      )}</details><h2>Related lecture</h2><a href="/lectures/${q.lectureId}/">${E(byId.get(q.lectureId).title)}</a><h2>References</h2><ul>${(q.references || []).map((r) => `<li><a href="${E(r.url)}">${E(r.title)}</a></li>`).join("")}</ul><p><a class="button" href="/#bank">Practice with scoring and review</a></p></div>`,
+    `<article class="question-article"><nav class="question-breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a><span aria-hidden="true">/</span><a href="/questions/">Question bank</a><span aria-hidden="true">/</span><span>${E(q.category)}</span></nav><header class="question-heading"><div class="eyebrow">USMLE-style practice · ${E(q.category)}</div><h1>${E(questionTitle(q))}</h1><p class="muted">Choose the single best answer, then reveal the explanation.</p></header><section class="question-case" aria-label="Clinical question"><p class="question-stem">${E(q.prompt)}</p><ol class="question-options" type="A">${q.options.map(o=>'<li>'+E(o)+'</li>').join('')}</ol></section><details class="question-solution"><summary>Reveal answer and explanation</summary><div class="question-solution-body"><div class="eyebrow">Correct answer</div><h2>${E(q.answer)}</h2><p>${E(q.explanation)}</p>${Object.keys(q.distractorExplanations||{}).length?'<h3>Understanding the options</h3><dl class="question-rationales">'+Object.entries(q.distractorExplanations||{}).map(([o,t])=>'<div><dt>'+E(o)+'</dt><dd>'+E(t)+'</dd></div>').join('')+'</dl>':''}</div></details><section class="question-related"><h2>Explore the related lecture</h2><a href="/lectures/${q.lectureId}/">${E(byId.get(q.lectureId).title)}</a></section><section class="question-next"><div><h2>Ready for more practice?</h2><p>Study this lecture’s questions with scoring and answer review.</p></div><a class="question-practice-button" href="/#bank/${q.lectureId}">Practice this lecture <span aria-hidden="true">→</span></a><a class="question-all-link" href="/#bank">Browse the full question bank</a></section></article>`,
+
     {
       "@type": "LearningResource",
       name: questionTitle(q),

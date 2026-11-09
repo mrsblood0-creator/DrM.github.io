@@ -1,5 +1,9 @@
 /* GA4: shared by the app and generated article pages. */
 (() => {
+  let started=false;
+  function start(){
+  if(started || !window.drmConsent?.allows('analytics'))return;
+  started=true;
   const measurementId = 'G-933HR3MDFY';
   if (!/^https?:$/.test(location.protocol) ||
       ['localhost', '127.0.0.1', '[::1]'].includes(location.hostname)) return;
@@ -33,4 +37,7 @@
   }
   pageView();
   window.addEventListener('hashchange', pageView);
+  }
+  window.addEventListener('drm-consent-change',start);
+  start();
 })();

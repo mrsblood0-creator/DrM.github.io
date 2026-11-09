@@ -235,7 +235,7 @@ function openLesson(v, context) {
     ? "← " + courseContext.title
     : "← Lecture library";
   $("#video-player").innerHTML =
-    `<iframe src="https://www.youtube-nocookie.com/embed/${v.id}" title="${esc(v.title)}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`;
+    `<iframe data-consent-src="https://www.youtube-nocookie.com/embed/${v.id}" title="${esc(v.title)}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`;
   $("#lesson-title").textContent = v.title;
   $("#lesson-subject").textContent = v.category;
   $("#save-lecture").textContent = saved.has(v.id)

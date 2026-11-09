@@ -151,11 +151,75 @@ for(const lecture of data.videos){
     }).replace(/<div class="slide-gallery">\s*<\/div>/g,'');
   }
   for(const section of sections)for(const item of figures.values()){
-    const figure=item.figure.replace(/<figcaption\b[^>]*>[\s\S]*?<\/figcaption>/,'<figcaption>'+item.captions.join(' · ')+'</figcaption>');
+    const seenCredits=new Set();
+    let sourceLabelSeen=false;
+    const captions=item.captions.flatMap(c=>c.split(/\s+·\s+/)).filter(part=>{
+      const key=plainText(part).toLowerCase().replace(/\s+/g,' ').trim();
+      if(!key||seenCredits.has(key))return false;
+      if(/^original slide \d+ figure$/i.test(key)){
+        if(sourceLabelSeen)return false;
+        sourceLabelSeen=true;
+      }
+      seenCredits.add(key);return true;
+    });
+    const figure=item.figure.replace(/<figcaption\b[^>]*>[\s\S]*?<\/figcaption>/,'<figcaption>'+captions.join(' · ')+'</figcaption>');
     section.content=section.content.replace(item.token,()=>figure);
   }
   for(const section of sections){
     if(!section.heading){body+=section.content;continue;}
+    if(/complications?/i.test(section.heading)){
+      // A short named complication followed by explanatory prose is a subtopic,
+      // rather than another bullet at the same level as its explanation.
+      let previousTopic='';
+      section.content=section.content.replace(/<p>([^<>]+)<\/p>/g,(all,text)=>{
+        const label=plainText(text).replace(/:$/,'').trim();
+        const named=/\b(?:injur(?:y|ies)|palsy|syndrome|union|nonunion|malunion|stiffness|necrosis|arthritis|osteoarthritis|infection|instability|displacement|dislocation|synostosis|rupture|tear|capsulitis|compression|edema|failure|thrombosis|sepsis|pneumothorax|hypoglycemia|encephalopathy|coagulopathy|hemarthrosis|deformity|lymphoma|arrhythmias|seizures)\b/i;
+        if(label.split(/\s+/).length>8||!named.test(label)||/[.;]/.test(label)||/^(?:treated|treatment|rate|risk|more|if|can|the|this|it|all|no|most)\b/i.test(label))return all;
+        if(previousTopic===label.toLowerCase())return '';
+        previousTopic=label.toLowerCase();
+        return '<h3>'+text+'</h3>';
+      });
+    }
+    if(lecture.id==='qRLw6NOBqjI'){
+      // Keep the initial joint checklist; promote subsequent source topic labels.
+      let jointMentions=0;
+      section.content=section.content.replace(/<p>([\s\S]*?)<\/p>/g,(all,text)=>{
+        if(text==='AC joint'){
+          jointMentions++;
+          return jointMentions===1?all:jointMentions===2?'<h3>AC joint</h3>':'';
+        }
+        if(/^(Glenohumeral joint|AC joint series):/i.test(text)){
+          const colon=text.indexOf(':');return '<h3>'+text.slice(0,colon)+'</h3><p>'+text.slice(colon+1).trim()+'</p>';
+        }
+        if(/^(Shoulder|Clavicle|SC joint) series$/i.test(text))return '<h3>'+text+'</h3>';
+        return all;
+      });
+    }
+    // Use the same study-note layout throughout the library.
+    const stepSection=true;
+    let listActive=stepSection,lastLabel='';
+    const labels=/^(?:symptoms|signs|signs and symptoms|physical examination|examination|inspection|palpation|auscultation|percussion|indications|contraindications|absolute contraindications|relative contraindications|advantages|disadvantages|risk factors|clinical features|investigations|differential diagnosis|non[ -]?operative(?: treatment)?|operative(?: treatment)?|conservative treatment|surgical treatment|medical treatment|early complications|late complications)$/i;
+    section.content=section.content.replace(/<(?:figure|table)\b[^>]*>[\s\S]*?<\/(?:figure|table)>|<h[34]\b[^>]*>[\s\S]*?<\/h[34]>|<p>([\s\S]*?)<\/p>/g,(paragraph,text)=>{
+      if(text===undefined){listActive=stepSection;lastLabel='';return paragraph;}
+      const label=plainText(text).replace(/[:.]$/,'').trim();
+      const examLabel=/^(look|feel|move)$/i.test(label)&&/clinical|examination/i.test(section.heading);
+      const timingLabel=/^(early|late|immediate|delayed)$/i.test(label)&&/complication/i.test(section.heading);
+      const descriptionLabel=/^when describing .{1,100}(?:comment on|assess)$/i.test(label);
+      const checklistLabel=/^(?:assess|check|look for|evaluate|examine|assessment includes|check the following|consider the following|indications (?:of|for) (?:operative|surgical|non operative) treatment)$/i.test(label);
+      if(labels.test(label)||examLabel||timingLabel||descriptionLabel||checklistLabel){
+        listActive=true;
+        if(label.toLowerCase()===lastLabel)return '';
+        lastLabel=label.toLowerCase();
+        const tag=examLabel?'h4':'h3';
+        return '<'+tag+'>'+text+'</'+tag+'>';
+      }
+      return listActive?'<ul><li>'+text+'</li></ul>':paragraph;
+    }).replace(/<\/ul>\s*<ul>/g,'');
+    // Emphasize short, explicit labels without guessing new medical headings.
+    section.content=section.content.replace(/<li>([^<>:]{2,70}):\s*([^<][\s\S]*?)<\/li>/g,(all,label,detail)=>{
+      if(label.trim().split(/\s+/).length>8||/https?|\d$/.test(label))return all;
+      return '<li><strong class="note-label">'+label+':</strong> '+detail+'</li>';
+    });
     if(lecture.id==='n9brM9pTw6I'&&section.heading==='Examples of Free radical injury'){
       // The presentation repeats the same example list across two slides.
       // Retain one list while preserving the intervening figures and captions.
