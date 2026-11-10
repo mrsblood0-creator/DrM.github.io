@@ -21,12 +21,11 @@ for (const file of [
 fs.mkdirSync("dist/images", { recursive: true });
 for (const asset of ["logo.png", "banner.jpg"]) fs.copyFileSync("images/" + asset, "dist/images/" + asset);
 fs.rmSync("dist/originals.js", { force: true });
-fs.cpSync("illustrations", "dist/illustrations", { recursive: true });
 const refs = new Set(
   d.videos.flatMap((v) =>
     [
       ...(v.notesHtml || "").matchAll(
-        /(?:src|href)="((?:slide-assets|video-frames)\/[^"]+)"/g,
+        /(?:src|href)="((?:slide-assets|video-frames|illustrations)\/[^"]+)"/g,
       ),
     ].map((m) => m[1]),
   ),
@@ -38,7 +37,7 @@ for (const file of refs) {
 }
 // Prune only generated media files inside these exact deployment directories.
 // This keeps removed annotation layers out of the downloadable website too.
-for (const folder of ['slide-assets', 'video-frames']) {
+for (const folder of ['slide-assets', 'video-frames', 'illustrations']) {
   const root = path.resolve('dist', folder);
   if (!fs.existsSync(root)) continue;
   for (const entry of fs.readdirSync(root, {withFileTypes:true})) {
