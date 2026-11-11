@@ -27,22 +27,20 @@
   }
   const dialog=document.createElement('dialog');dialog.className='cookie-dialog';
   dialog.setAttribute('aria-labelledby','cookie-title');
-  dialog.innerHTML='<h2 id="cookie-title">Your privacy choices</h2><p>Choose optional services. Essential storage keeps your study progress and privacy preferences on this browser.</p><p><a href="/privacy/">Read our privacy policy</a></p><label><input type="checkbox" name="analytics"> Analytics — help us understand site usage</label><label><input type="checkbox" name="ads"> Advertising — allow Google AdSense cookies and requests</label><label><input type="checkbox" name="videos"> YouTube — allow embedded video players</label><div class="cookie-actions"><button data-choice="reject">Reject optional</button><button data-choice="save">Save choices</button><button data-choice="accept">Accept all</button></div><p class="muted">You can change your choices using Cookie settings in the footer.</p>';
+  dialog.innerHTML='<h2 id="cookie-title">Your privacy choices</h2><p>Choose optional services. Essential storage keeps your study progress and privacy preferences on this browser.</p><label><input type="checkbox" name="analytics"> Analytics — help us understand site usage</label><label><input type="checkbox" name="ads"> Advertising — allow Google AdSense cookies and requests</label><label><input type="checkbox" name="videos"> YouTube — allow embedded video players</label><div class="cookie-actions"><button data-choice="reject">Reject optional</button><button data-choice="save">Save choices</button><button data-choice="accept">Accept all</button></div><p class="muted">You can change your choices using Cookie settings in the footer.</p>';
   document.body.append(dialog);
   if(googleAdvertisingConsent){
     dialog.querySelector('input[name="ads"]').closest('label').remove();
     const advertising=document.createElement('div');
-    advertising.innerHTML='<p>Google manages advertising privacy choices separately. Depending on your choices and location, eligible ads may be personalized, non-personalized, limited, or unavailable.</p><button type="button" data-ad-privacy>Advertising privacy settings</button><p role="status" data-ad-status></p>';
-    advertising.querySelector('button').onclick=()=>{
-      if(typeof window.googlefc?.showRevocationMessage==='function'){
-        dialog.close();window.googlefc.showRevocationMessage();
-      }else advertising.querySelector('[data-ad-status]').textContent='Google advertising settings are not available here yet. This may depend on your location or a blocked Google service.';
-    };
+    advertising.innerHTML='<p>Google manages advertising privacy choices separately. Depending on your choices and location, eligible ads may be personalized, non-personalized, limited, or unavailable.</p>';
     dialog.append(advertising);
     dialog.querySelector('[data-choice="reject"]').textContent='Reject analytics and videos';
     dialog.querySelector('[data-choice="accept"]').textContent='Allow analytics and videos';
   }
-  dialog.querySelector('a').href=privacyUrl;
+  const policy=document.createElement('p');
+  const policyLink=document.createElement('a');
+  policyLink.href=privacyUrl;policyLink.textContent='Website privacy policy';
+  policy.append(policyLink);dialog.append(policy);
   function open(){for(const input of dialog.querySelectorAll('input'))input.checked=choice[input.name]===true;if(!dialog.open)dialog.showModal();}
   dialog.addEventListener('click',event=>{
     const action=event.target.dataset.choice;if(!action)return;
@@ -56,7 +54,15 @@
     }
     activate();
   });
-  document.addEventListener('click',event=>{if(event.target.closest('[data-cookie-settings]')){event.preventDefault();open();}});
+  document.addEventListener('click',event=>{
+    const adSettings=event.target.closest('[data-ad-privacy]');
+    if(adSettings){
+      event.preventDefault();
+      if(typeof window.googlefc?.showRevocationMessage==='function')window.googlefc.showRevocationMessage();
+      else {const status=document.querySelector('[data-ad-status]');if(status)status.textContent='Google advertising settings are not available here yet. This may depend on your location or a blocked Google service.';}
+      return;
+    }
+    if(event.target.closest('[data-cookie-settings]')){event.preventDefault();open();}});
   window.addEventListener('storage',event=>{if(event.key===key)location.reload();});
   new MutationObserver(()=>videos()).observe(document.body,{childList:true,subtree:true});
   activate();if(!saved)open();
