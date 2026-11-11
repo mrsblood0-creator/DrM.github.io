@@ -1,5 +1,7 @@
-/* Optional services stay blocked until the visitor makes an explicit choice. */
+/* Analytics/video choices are local; certified advertising consent can be delegated to Google. */
 (() => {
+  // Enable only after the AdSense Privacy & messaging message is published.
+  const googleAdvertisingConsent = true;
   const privacyUrl=new URL('privacy/index.html',document.currentScript?.src || location.href).href;
   const key='drm-consent-v1', expiry=180*24*60*60*1000;
   let saved=null;
@@ -10,7 +12,7 @@
   window.drmConsent={allows:name=>choice[name]===true,open:()=>open()};
   function activate(){
     window.dispatchEvent(new Event('drm-consent-change'));
-    if(choice.ads && !adsLoaded){
+    if((googleAdvertisingConsent || choice.ads) && !adsLoaded && /^https?:$/.test(location.protocol) && !['localhost','127.0.0.1','[::1]'].includes(location.hostname)){
       adsLoaded=true;
       const s=document.createElement('script');s.async=true;s.crossOrigin='anonymous';
       s.src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1037790802847977';document.head.append(s);
@@ -27,6 +29,19 @@
   dialog.setAttribute('aria-labelledby','cookie-title');
   dialog.innerHTML='<h2 id="cookie-title">Your privacy choices</h2><p>Choose optional services. Essential storage keeps your study progress and privacy preferences on this browser.</p><p><a href="/privacy/">Read our privacy policy</a></p><label><input type="checkbox" name="analytics"> Analytics — help us understand site usage</label><label><input type="checkbox" name="ads"> Advertising — allow Google AdSense cookies and requests</label><label><input type="checkbox" name="videos"> YouTube — allow embedded video players</label><div class="cookie-actions"><button data-choice="reject">Reject optional</button><button data-choice="save">Save choices</button><button data-choice="accept">Accept all</button></div><p class="muted">You can change your choices using Cookie settings in the footer.</p>';
   document.body.append(dialog);
+  if(googleAdvertisingConsent){
+    dialog.querySelector('input[name="ads"]').closest('label').remove();
+    const advertising=document.createElement('div');
+    advertising.innerHTML='<p>Google manages advertising privacy choices separately. Depending on your choices and location, eligible ads may be personalized, non-personalized, limited, or unavailable.</p><button type="button" data-ad-privacy>Advertising privacy settings</button><p role="status" data-ad-status></p>';
+    advertising.querySelector('button').onclick=()=>{
+      if(typeof window.googlefc?.showRevocationMessage==='function'){
+        dialog.close();window.googlefc.showRevocationMessage();
+      }else advertising.querySelector('[data-ad-status]').textContent='Google advertising settings are not available here yet. This may depend on your location or a blocked Google service.';
+    };
+    dialog.append(advertising);
+    dialog.querySelector('[data-choice="reject"]').textContent='Reject analytics and videos';
+    dialog.querySelector('[data-choice="accept"]').textContent='Allow analytics and videos';
+  }
   dialog.querySelector('a').href=privacyUrl;
   function open(){for(const input of dialog.querySelectorAll('input'))input.checked=choice[input.name]===true;if(!dialog.open)dialog.showModal();}
   dialog.addEventListener('click',event=>{
@@ -34,7 +49,7 @@
     const old={...choice};for(const input of dialog.querySelectorAll('input'))choice[input.name]=action==='accept'||(action==='save'&&input.checked);
     try{localStorage.setItem(key,JSON.stringify({version:1,at:Date.now(),choices:choice}));}catch{}
     dialog.close();
-    if((old.analytics&&!choice.analytics)||(old.ads&&!choice.ads)){
+    if((old.analytics&&!choice.analytics)||(!googleAdvertisingConsent&&old.ads&&!choice.ads)){
       window['ga-disable-G-933HR3MDFY']=true;
       for(const cookie of document.cookie.split(';')){const name=cookie.split('=')[0].trim();if(/^(_ga|_gid|_gat|_gcl)/.test(name))for(const domain of ['',location.hostname,'.'+location.hostname,'.drmcourses.com'])document.cookie=name+'=; Max-Age=0; path=/'+(domain?'; domain='+domain:'');}
       location.reload();return;
