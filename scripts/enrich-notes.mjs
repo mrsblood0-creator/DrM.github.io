@@ -171,10 +171,14 @@ for(const lecture of data.videos){
       // A short named complication followed by explanatory prose is a subtopic,
       // rather than another bullet at the same level as its explanation.
       let previousTopic='';
-      section.content=section.content.replace(/<p>([^<>]+)<\/p>/g,(all,text)=>{
+      section.content=section.content.replace(/<p>([^<>]+)<\/p>/g,(all,text,offset,sourceHtml)=>{
         const label=plainText(text).replace(/:$/,'').trim();
         const named=/\b(?:injur(?:y|ies)|palsy|syndrome|union|nonunion|malunion|stiffness|necrosis|arthritis|osteoarthritis|infection|instability|displacement|dislocation|synostosis|rupture|tear|capsulitis|compression|edema|failure|thrombosis|sepsis|pneumothorax|hypoglycemia|encephalopathy|coagulopathy|hemarthrosis|deformity|lymphoma|arrhythmias|seizures)\b/i;
         if(label.split(/\s+/).length>8||!named.test(label)||/[.;]/.test(label)||/^(?:treated|treatment|rate|risk|more|if|can|the|this|it|all|no|most)\b/i.test(label))return all;
+        const following=[...sourceHtml.slice(offset+all.length).matchAll(/<p>([^<>]+)<\/p>/g)].slice(0,2).map(m=>plainText(m[1]));
+        const next=following[0]||'';
+        const hasExplanation=next.split(/\s+/).length>8||(/^(?:early|late|common) complication/i.test(next)&&(following[1]||'').split(/\s+/).length>8);
+        if(!hasExplanation)return all;
         if(previousTopic===label.toLowerCase())return '';
         previousTopic=label.toLowerCase();
         return '<h3>'+text+'</h3>';
@@ -202,6 +206,8 @@ for(const lecture of data.videos){
     section.content=section.content.replace(/<(?:figure|table)\b[^>]*>[\s\S]*?<\/(?:figure|table)>|<h[34]\b[^>]*>[\s\S]*?<\/h[34]>|<p>([\s\S]*?)<\/p>/g,(paragraph,text)=>{
       if(text===undefined){listActive=stepSection;lastLabel='';return paragraph;}
       const label=plainText(text).replace(/[:.]$/,'').trim();
+      // A list introduction is ordinary prose, not a list item or a heading.
+      if(/[:：]\s*$/.test(plainText(text)))return '<p class="note-list-intro">'+text+'</p>';
       const examLabel=/^(look|feel|move)$/i.test(label)&&/clinical|examination/i.test(section.heading);
       const timingLabel=/^(early|late|immediate|delayed)$/i.test(label)&&/complication/i.test(section.heading);
       const descriptionLabel=/^when describing .{1,100}(?:comment on|assess)$/i.test(label);
@@ -215,11 +221,6 @@ for(const lecture of data.videos){
       }
       return listActive?'<ul><li>'+text+'</li></ul>':paragraph;
     }).replace(/<\/ul>\s*<ul>/g,'');
-    // Emphasize short, explicit labels without guessing new medical headings.
-    section.content=section.content.replace(/<li>([^<>:]{2,70}):\s*([^<][\s\S]*?)<\/li>/g,(all,label,detail)=>{
-      if(label.trim().split(/\s+/).length>8||/https?|\d$/.test(label))return all;
-      return '<li><strong class="note-label">'+label+':</strong> '+detail+'</li>';
-    });
     if(lecture.id==='n9brM9pTw6I'&&section.heading==='Examples of Free radical injury'){
       // The presentation repeats the same example list across two slides.
       // Retain one list while preserving the intervening figures and captions.

@@ -1,3 +1,4 @@
+import { renderFooter } from './site-footer.mjs';
 import fs from "node:fs";
 import vm from "node:vm";
 import path from "node:path";
@@ -5,6 +6,8 @@ const ctx = { window: {} };
 vm.runInNewContext(fs.readFileSync("library-data.js", "utf8"), ctx);
 const d = ctx.window.LIBRARY;
 fs.mkdirSync("dist", { recursive: true });
+const home = fs.readFileSync("index.html", "utf8").replace(/<footer>[\s\S]*?<\/footer>/, renderFooter());
+fs.writeFileSync("index.html", home);
 for (const file of [
   "index.html",
   "academy.css",

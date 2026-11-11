@@ -320,3 +320,21 @@ footer button[data-cookie-settings] { text-decoration: underline; color: #38669b
 .question-all-link { font-size: 16px; text-decoration: underline; text-underline-offset: 3px; }
 @media(max-width: 600px) { .question-practice-button { width: 100%; box-sizing: border-box; } .question-stem { font-size: 18px; } .question-next { padding: 22px; } }
 .lecture-text-section .note-label { color: #9b365f; font-weight: 500; }
+
+footer .public-links a,
+footer .public-links a[data-cookie-settings] {
+  color: #38669b;
+  background: none;
+  border: 0;
+  border-radius: 0;
+  padding: 0;
+  font: inherit;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+footer .public-links a:focus-visible { outline: 2px solid #075b8d; outline-offset: 4px; }
+
+/* Lists stay ordinary black text; introductions sit outside the list. */
+.lecture-text-section li, .lecture-text-section li::marker,
+.lecture-text-section .note-list-intro { color: #202124; font-weight: 400; }
+.lecture-text-section .note-list-intro { font-size: inherit; margin: 1.2em 0 .45em; }

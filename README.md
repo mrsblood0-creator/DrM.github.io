@@ -1,52 +1,43 @@
-# Dr M medical learning library
+# Dr M Medical Academy
 
-A buildless HTML, CSS, and JavaScript website. No framework, API key, or installed npm dependencies are required. Use Node 22 or later for maintenance commands.
+Static HTML, CSS and JavaScript. The four sections are Lecture library, Medical courses, Question bank and Flashcards.
 
-## Preview
+## Run and publish
 
-Run `npm start` from `D:\Website`, then open http://127.0.0.1:4173. Serve over HTTP(S); opening the file directly can prevent YouTube embeds from receiving the required referrer.
+Run `npm run build`, then `npm start`, and open `http://127.0.0.1:4173`. Deploy the **entire contents of dist/**, including article directories and media, to a static host. YouTube playback and thumbnails need internet access.
 
-## Included content
+Set the production domain in `content/site.json`. The SEO pages and sitemap do not publish the site or guarantee search ranking.
 
-- All 299 unique public entries discovered on 23 October 2026: 256 videos and 43 Shorts.
-- The Videos tab was followed through nine pages. The Shorts tab exposed 43 entries on one page. The channel has no separate public Streams tab.
-- 80 entries use existing local lecture articles, with explicit source labels.
-- 219 entries have newly authored, concise topic revision guides. These are labelled drafts, not transcripts or instructor-reviewed material.
-- 894 multiple-choice recall questions with answer explanations and scoring.
-- Search, five subject filters, sorting, saved lectures, completion tracking, and personal notes stored on the learner’s browser.
+## Editing
 
-`channel-catalog.json` records the sync date and pagination report. `content-audit.json` records coverage and article matches. Private, deleted, unlisted, members-only, or otherwise inaccessible videos cannot be enumerated from a public channel listing. The snapshot is not a continuously synchronized feed.
+See EDITING.md for schemas. Edit content JSON and the app source; do not edit generated `library-data.js` or `dist/`.
 
-## Study material
+| Material | Source |
+| --- | --- |
+| Courses and lecture sequence | content/courses.json |
+| Lecture titles and categories | content/lecture-overrides.json |
+| Additional lectures | content/additional-lectures.json |
+| Explanations and concept maps | content/enriched-*.json |
+| Questions | content/questions-*.json |
+| Flashcards | content/flashcards-*.json |
+| Source corrections | content/source-clarifications.json |
+| Unusable figures to omit | content/excluded-slide-images.json |
+| Layout and behavior | index.html, academy.css, academy.js, flashcards.js |
 
-`study-guides.json` contains editable guides keyed by YouTube video ID. Existing HTML articles remain available and unchanged; their text is imported at build time. Original articles have not received a comprehensive medical review. New guides cover core concepts rather than every detail of the recording. Guideline-sensitive pages link to relevant references. All medical content and MCQs should receive instructor review before use as an assessed course or clinical reference.
+## Checks
 
-`scripts/author-guides.mjs` is an editorial seed tied to the original snapshot order, not the regular update pipeline. Do not rerun it against a reordered or updated catalogue. Edit `study-guides.json` by video ID instead.
+`npm test` checks routes, quiz logic, scheduling, playlist order, media and generated pages. `npm run audit:content` writes actual coverage to `content-quality-audit.json`. `npm run check:ready` requires the per-lecture targets in content/study-targets.json (five each for unfinished lectures; ten retained for previously completed sets), without unresolved automated findings. Structural checks do not certify clinical correctness.
 
-## Updating
+The 2026-11-07 build contains 1,488 questions and 1,488 flashcards across 257 lectures. All lectures meet their configured minimums: five for newly completed sets, with existing larger sets retained. Read REQUEST-AUDIT.md for the separate status of earlier requests.
 
-1. Run `npm run sync` to fetch the current public channel tabs and follow pagination. The scraper uses YouTube’s public web responses; markup changes can require maintenance.
-2. Add reviewed notes and questions for new video IDs in `study-guides.json`.
-3. Run `npm run build`. It refuses to finalize new entries without a guide, validates the entire library, and copies the five public files into `dist/`.
+## Sources
 
-Keep the previous `dist/` until a new build passes. No scheduled task has been installed.
+83 original written notes remain archived; the current source-only publication policy uses matched presentation text and reviewed slide transcriptions. The 126 obsolete root HTML pages were removed after preserving them in `content/legacy-html-sources.json`; rebuilding the imports was verified identical. Keep that source archive. The separate DrM.github.io repository is untouched.
 
-## Hosting
+Original decks in D:\Youtube are never modified. Source text and figures are extracted to slide-notes.json; empty and isolated annotation layers are excluded. The 11 missing-deck lectures have partial selectable slide transcriptions; captured frames and supplementary summaries are excluded from published notes. Two demonstration lectures intentionally omit notes. expanded-notes-audit.json records each lecture's source status.
 
-Upload the contents of `dist/` to any static HTTPS host, including GitHub Pages. It contains `index.html`, `academy.css`, `academy.js`, `originals.js`, and `library-data.js`. Hash-based lesson links work without server rewrites. No site has been published by this task. The nested `DrM.github.io` checkout was not modified.
+Flashcards provide local scheduling, learning steps, four ratings, undo, bury/suspend, editing, personal cards and JSON/CSV import/export. This SM-2-style scheduler is not Anki's FSRS implementation. There is no AnkiWeb synchronization or .apkg import. JSON backups move progress between browsers; CSV exports import into Anki.
 
-YouTube serves the video streams and thumbnails. Playback depends on the channel’s embedding permissions, viewer restrictions, and network access; each lesson has a direct YouTube fallback. Google Fonts has system-font fallbacks. Personal notes and progress remain in localStorage and do not sync across devices.
+## Refresh
 
-## Verification
-
-`npm test` validates unique IDs, full catalogue coverage, note and quiz coverage, four distinct choices and a valid answer per question. It exercises all lesson routes, search, pagination, scoring, bookmarks, progress, and note persistence in a DOM test harness. This is not a full browser-layout test. Browser preview confirmed desktop and mobile layouts, search, lecture notes, a loaded YouTube embed, and quiz scoring with explanations; full video playback and every external embed were not exhaustively tested.
-
-The previous homepage was retained as `legacy-home.html`. Existing article styling remains in `style.css`; the new site uses `academy.css`.
-
-
-## Complete original articles
-
-All 252 previous HTML files from the root and nested checkout are represented in 105 deduplicated entries, including empty originals. Use Original articles to search titles, filenames, and full text. Complete original content appears beneath all 80 matched videos, including tables, introductions, short text, and course menus. Source wording is preserved; this is a content migration, not a medical fact-check.
-
-The import is embedded in library-data.js. Existing local images are embedded, so the deployed site does not need the previous HTML or image folders. Five pre-existing missing image references are recorded in original-content-audit.json. Keep source files for future rebuilds. Scripts from original pages are removed and their content is displayed in sandboxed frames. Internal article links point to the new reader. Run node scripts/verify-originals.mjs to audit complete file coverage.
-
+`npm run sync` updates the channel catalogue. `npm run sync:playlists` replaces content/courses.json with public playlist order; preserve deliberate editorial changes first. New lectures require notes, questions and flashcards before readiness checks pass. Shorts are excluded from the deployed application.
