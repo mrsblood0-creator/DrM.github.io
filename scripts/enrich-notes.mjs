@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import vm from 'node:vm';
+import { cleanNoteExtras } from './clean-note-extras.mjs';
 const context={window:{}};
 vm.runInNewContext(fs.readFileSync('library-data.js','utf8'),context);
 const data=context.window.LIBRARY;
@@ -12,10 +13,11 @@ const withoutNotes=new Set(JSON.parse(fs.readFileSync('content/lecture-note-poli
 const audit=[];
 const figureAliases=JSON.parse(fs.readFileSync('content/figure-aliases.json','utf8'));
 const duplicateAudit=[];
-const annotationLayers=new Set(JSON.parse(fs.readFileSync('content/annotation-layer-exclusions.json','utf8')));
+const annotationLayers=new Set([...JSON.parse(fs.readFileSync('content/annotation-layer-exclusions.json','utf8')), ...JSON.parse(fs.readFileSync('content/annotation-layer-manual-exclusions.json','utf8'))]);
 const plainText=html=>html.replace(/<[^>]+>/g,' ').replace(/\s+/g,' ').trim();
 const isCredit=html=>/\b(?:courtesy|wikimedia commons|CC\s*BY(?:-SA)?|CC0|public domain|image credit|photo credit)\b/i.test(plainText(html));
 function cleanSlide(inner){
+  inner=cleanNoteExtras(inner);
   inner=inner.replace(/<figure\b[^>]*>[\s\S]*?<\/figure>/g,figure=>annotationLayers.has(figure.match(/src="([^"]+)"/)?.[1])?'':figure);
   const originalCaptions=[...inner.matchAll(/<figcaption\b[^>]*>([\s\S]*?)<\/figcaption>/g)].map(m=>plainText(m[1]));
   const creditText=text=>isCredit(text)||(/\brobbins\b/i.test(plainText(text)))||originalCaptions.some(c=>plainText(text).length>15&&c.includes(plainText(text)));

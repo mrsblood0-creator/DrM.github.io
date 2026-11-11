@@ -21,8 +21,15 @@ for (const file of [
   "consent.js",
 ])
   fs.copyFileSync(file, "dist/" + file);
+function copyAsset(source, target) {
+  if (fs.existsSync(target)) {
+    const a=fs.statSync(source),b=fs.statSync(target);
+    if(a.dev===b.dev&&a.ino===b.ino) return;
+  }
+  fs.copyFileSync(source,target);
+}
 fs.mkdirSync("dist/images", { recursive: true });
-for (const asset of ["logo.png", "banner.jpg"]) fs.copyFileSync("images/" + asset, "dist/images/" + asset);
+for (const asset of ["logo.png", "banner.jpg"]) copyAsset("images/" + asset, "dist/images/" + asset);
 fs.rmSync("dist/originals.js", { force: true });
 const refs = new Set(
   d.videos.flatMap((v) =>
@@ -36,7 +43,7 @@ const refs = new Set(
 for (const file of refs) {
   const target = path.join("dist", file);
   fs.mkdirSync(path.dirname(target), { recursive: true });
-  fs.copyFileSync(file, target);
+  copyAsset(file, target);
 }
 // Prune only generated media files inside these exact deployment directories.
 // This keeps removed annotation layers out of the downloadable website too.

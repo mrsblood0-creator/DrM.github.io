@@ -9,6 +9,11 @@ const data = context.window.LIBRARY;
 const ids = new Set(data.videos.map(v => v.id));
 assert.equal(ids.size, data.videos.length);
 assert(data.videos.every(v => v.kind !== 'shorts'));
+for (const v of data.videos) {
+  for (const [, asset] of (v.notesHtml || '').matchAll(/(?:src|href)="((?:slide-assets|video-frames|illustrations)\/[^"]+)"/g)) {
+    assert(fs.existsSync(path.resolve('dist', asset)), v.id + ': missing app image ' + asset);
+  }
+}
 assert.equal(new Set(data.flashcards.map(c => c.id)).size, data.flashcards.length);
 assert.equal(new Set(data.flashcards.map(c => c.lectureId)).size, ids.size);
 for (const card of data.flashcards) {
