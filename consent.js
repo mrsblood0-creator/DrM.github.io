@@ -8,6 +8,7 @@
   try { saved=JSON.parse(localStorage.getItem(key)); } catch {}
   if(!saved || saved.version!==1 || !Number.isFinite(saved.at) || Date.now()-saved.at>expiry) saved=null;
   let choice={analytics:false,ads:false,videos:false,...(saved?.choices||{})};
+  let hasSavedChoice=!!saved;
   let adsLoaded=false;
   window.drmConsent={allows:name=>choice[name]===true,open:()=>open()};
   function activate(){
@@ -27,25 +28,24 @@
   }
   const dialog=document.createElement('dialog');dialog.className='cookie-dialog';
   dialog.setAttribute('aria-labelledby','cookie-title');
-  dialog.innerHTML='<h2 id="cookie-title">Your privacy choices</h2><p>Choose optional services. Essential storage keeps your study progress and privacy preferences on this browser.</p><label><input type="checkbox" name="analytics"> Analytics — help us understand site usage</label><label><input type="checkbox" name="ads"> Advertising — allow Google AdSense cookies and requests</label><label><input type="checkbox" name="videos"> YouTube — allow embedded video players</label><div class="cookie-actions"><button data-choice="reject">Reject optional</button><button data-choice="save">Save choices</button><button data-choice="accept">Accept all</button></div><p class="muted">You can change your choices using Cookie settings in the footer.</p>';
+  dialog.innerHTML='<h2 id="cookie-title">Your privacy choices</h2><p>Choose optional services. Essential storage keeps your study progress and privacy preferences on this browser.</p><label><input type="checkbox" name="analytics"> Analytics — help us understand site usage</label><label><input type="checkbox" name="ads"> Advertising — allow Google AdSense cookies and requests</label><label><input type="checkbox" name="videos"> YouTube — allow embedded video players</label><div class="cookie-actions"><button type="button" data-choice="save">Save changes</button></div><p class="muted">You can change your choices using Cookie settings in the footer.</p>';
   document.body.append(dialog);
   if(googleAdvertisingConsent){
     dialog.querySelector('input[name="ads"]').closest('label').remove();
     const advertising=document.createElement('div');
     advertising.innerHTML='<p>Google manages advertising privacy choices separately. Depending on your choices and location, eligible ads may be personalized, non-personalized, limited, or unavailable.</p>';
     dialog.append(advertising);
-    dialog.querySelector('[data-choice="reject"]').textContent='Reject analytics and videos';
-    dialog.querySelector('[data-choice="accept"]').textContent='Allow analytics and videos';
   }
   const policy=document.createElement('p');
   const policyLink=document.createElement('a');
-  policyLink.href=privacyUrl;policyLink.textContent='Website privacy policy';
+  policyLink.href=privacyUrl;policyLink.textContent='Channel privacy policy';
   policy.append(policyLink);dialog.append(policy);
-  function open(){for(const input of dialog.querySelectorAll('input'))input.checked=choice[input.name]===true;if(!dialog.open)dialog.showModal();}
+  function open(){for(const input of dialog.querySelectorAll('input'))input.checked=hasSavedChoice?choice[input.name]===true:true;if(!dialog.open)dialog.showModal();}
   dialog.addEventListener('click',event=>{
-    const action=event.target.dataset.choice;if(!action)return;
-    const old={...choice};for(const input of dialog.querySelectorAll('input'))choice[input.name]=action==='accept'||(action==='save'&&input.checked);
+    const action=event.target.dataset.choice;if(action!=='save')return;
+    const old={...choice};for(const input of dialog.querySelectorAll('input'))choice[input.name]=input.checked;
     try{localStorage.setItem(key,JSON.stringify({version:1,at:Date.now(),choices:choice}));}catch{}
+    hasSavedChoice=true;
     dialog.close();
     if((old.analytics&&!choice.analytics)||(!googleAdvertisingConsent&&old.ads&&!choice.ads)){
       window['ga-disable-G-933HR3MDFY']=true;
